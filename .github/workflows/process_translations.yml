@@ -1,0 +1,69 @@
+name: Process translations
+
+on:
+  pull_request_target:
+  push:
+    branches: [master]
+
+jobs:
+  process_translations:
+    permissions:
+      actions: read
+      contents: write
+      pull-requests: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout base
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: '100'
+      - name: Checkout pr
+        if: ${{ github.event_name == 'pull_request_target' }}
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.pull_request.head.repository.full_name }}
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: ./pr
+      - name: Setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          sudo apt update
+          sudo apt install gettext
+          tar xzf mdpo-files/wheels.tar.gz
+          python3 -m pip install wheels/*.whl
+          rm -rf wheels
+      - name: Process master changes
+        if: ${{ github.event_name == 'push' }}
+        env:
+          PROJECTS_DIR: '.'
+          BEFORE_PUSH_COMMIT_SHA: ${{ github.event.before }}
+        run: python3 scripts/process_master_changes.py
+      - name: Process translations
+        env:
+          PROJECTS_DIR: ${{ (github.event_name == 'push' && '.') || './pr' }}
+        run: python3 scripts/process_translations.py
+      - name: 'Comment on PR'
+        if: ${{ github.event_name == 'pull_request_target' }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            let fs = require('fs');
+            let comment_body = fs.readFileSync('result.txt', {'encoding': 'utf-8'});
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: comment_body
+            });
+      - name: Commit changes
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          rm -rf ./pr result.txt
+          git config user.email 'contact@sooslandia.ru'
+          git config user.name 'Sooslandia github action'
+          git add .
+          git commit -m "Update translations" || :
+          git push || :
