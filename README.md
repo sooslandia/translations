@@ -1,9 +1,3 @@
-Attention!
-
-This is a test repository! Please ignore it.
-
-All information provided below is subject to change at any time. Do not spend your time studying it; wait for the official launch.
-
 # Introduction
 This is the official repository of Sooslandia games, where translations of games and auxiliary components are stored.
 
