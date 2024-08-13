@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Agsharp package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Agsharp\n"
+"Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
+"POT-Creation-Date: 2024-08-13 11:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. AudioForms_ButtonControlName
+msgid "button"
+msgstr ""
+
+#. AudioForms_ButtonControlUnavailable
+msgid " unavailable"
+msgstr ""
+
+#. AudioForms_CheckboxControlName
+msgid "checkbox"
+msgstr ""
+
+#. AudioForms_CheckboxStateChecked
+msgid "checked"
+msgstr ""
+
+#. AudioForms_CheckboxStateUnchecked
+msgid "unchecked"
+msgstr ""
+
+#. AudioForms_EditBoxControlCapLetter
+msgid "Cap"
+msgstr ""
+
+#. AudioForms_EditBoxControlCopied
+msgid "copied"
+msgstr ""
+
+#. AudioForms_EditBoxControlCut
+msgid "cut"
+msgstr ""
+
+#. AudioForms_EditBoxControlEmpty
+msgid "empty"
+msgstr ""
+
+#. AudioForms_EditBoxControlName
+msgid "edit"
+msgstr ""
+
+#. AudioForms_EditBoxControlNoSelection
+msgid "no selection"
+msgstr ""
+
+#. AudioForms_EditBoxControlPasted
+msgid "pasted"
+msgstr ""
+
+#. AudioForms_EditBoxControlSelect
+msgid "selected"
+msgstr ""
+
+#. AudioForms_EditBoxControlSelectionRemoved
+msgid "selection removed"
+msgstr ""
+
+#. AudioForms_EditBoxControlSpeakSelected
+#, python-brace-format
+msgid "{0} characters selected"
+msgstr ""
+
+#. AudioForms_EditBoxControlSpeakUnselected
+#, python-brace-format
+msgid "{0} characters unselected"
+msgstr ""
+
+#. AudioForms_EditBoxControlUnselect
+msgid "unselected"
+msgstr ""
+
+#. AudioForms_ItemsCount
+#, python-brace-format
+msgid "{0} of {1}"
+msgstr ""
+
+#. AudioForms_ListControlName
+msgid "list"
+msgstr ""
+
+#. AudioForms_SliderControlName
+msgid "slider"
+msgstr ""
+
+#. AudioForms_TabControlName
+msgid "tab panel"
+msgstr ""
+
+#. AudioForms_TabPageName
+msgid "tab"
+msgstr ""
+
+#. Language
+msgid "english"
+msgstr ""
