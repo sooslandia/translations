@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-08-13 11:15+0000\n"
-"PO-Revision-Date: 2024-09-03 21:39+0700\n"
+"POT-Creation-Date: 2024-09-03 17:30+0000\n"
+"PO-Revision-Date: 2024-09-04 05:40+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: id\n"
@@ -65,9 +65,9 @@ msgid ""
 "Select the ball sound. Use the up and down arrows to move. To listen to the "
 "sound, press Spacebar. To confirm your selection, press enter."
 msgstr ""
-"Pilih suara bola. Gunakan panah atas dan bawah untuk bergerak. Untuk "
-"mendengarkan suaranya, tekan Spacebar. Untuk mengonfirmasi pilihan Anda, "
-"tekan enter."
+"Pilih suara bola. Gunakan panah atas dan bawah untuk memilih menu. Apabila "
+"anda ingin mendengarkan suaranya, tekan tombol spasi. Untuk mengonfirmasi "
+"pilihan Anda, tekan enter."
 
 #. CheckUpdatesScreenChecking
 msgid "Checking..."
@@ -100,7 +100,7 @@ msgstr "{0} mb"
 #. GamePoints
 #, python-brace-format
 msgid "{0} points scored in this game."
-msgstr "{0} poin dicetak dalam game ini."
+msgstr "{0} poin yang dihasilkan dalam pertandingan ini."
 
 #. GameResultScreenCoins
 #, python-brace-format
@@ -110,40 +110,48 @@ msgstr "Mendapat {0} koin."
 #. GameResultScreenPoints
 #, python-brace-format
 msgid "{0} points scored."
-msgstr "{0} poin dicetak."
+msgstr "{0} poin dihasilkan."
 
 #. GameResultScreenTitle
 msgid "Results of the last game."
-msgstr "Hasil permainan terakhir."
+msgstr "Hasil dari pertandingan terakhir."
 
 #. GameResultScreenTitleWithHint
 msgid ""
 "Results of the last game. Use the down and up arrows to navigate through the "
 "menu. To close the menu, press enter at any item."
 msgstr ""
-"Hasil dari permainan terakhir. Gunakan panah bawah dan atas untuk menavigasi "
-"melalui menu. Untuk menutup menu, tekan enter pada item apa saja."
+"Hasil dari pertandingan terakhir. Gunakan panah bawah dan atas untuk "
+"menavigasi menu. Untuk menutup menu, tekan enter pada item mana saja."
 
 #. GameRewardAvailableDialog
 msgid "A reward is available! Get it in your profile on the statistics tab!"
-msgstr "Hadiah telah tersedia! Dapatkan di profil Anda pada tab statistik!"
+msgstr "Hadiah telah tersedia! Dapatkan di profil Anda di tab statistik!"
 
 #. GameTimeToEnd
 #, python-brace-format
 msgid "{0} seconds left until the end of the game."
 msgstr "{0} detik tersisa hingga akhir permainan."
 
+#. IncompatableSaveMessage
+msgid ""
+"The loaded save belongs to a newer version of the game\n"
+"and contains data that will be lost.\n"
+"Therefore, the save is considered incompatible.\n"
+"The game will be closed."
+msgstr ""
+"Data simpanan yang dimuat adalah untuk versi game yang lebih baru\n"
+"dan berisi data yang akan hilang.\n"
+"Oleh karena itu, data simpanan dianggap tidak kompatibel.\n"
+"game akan ditutup."
+
 #. IncompatableSaveTitle
 msgid "Incompatible save"
 msgstr "Data simpanan tidak kompatibel"
 
-#. Language
-msgid "english"
-msgstr "indonesian"
-
 #. LearnSoundsBatHitSuccess
 msgid "Successfully hit the ball with the bat."
-msgstr "Berhasil memukul bola dengan tongkat."
+msgstr "Berhasil memukul bola dengan pemukulnya."
 
 #. LearnSoundsCeilBounce
 msgid "The ball bounced off the ceiling."
@@ -175,7 +183,7 @@ msgstr "Pukulan sempurna."
 
 #. LearnSoundsScoresUnderNeg500
 msgid "The points dropped below minus five hundred."
-msgstr "Poin turun di bawah minus lima ratus."
+msgstr "Poin turun di bawah minus 500."
 
 #. LearnSoundsTitle
 msgid "Learn sounds menu."
@@ -187,9 +195,10 @@ msgid ""
 "sound, press enter. To exit the menu, press the corresponding menu item or "
 "the escape key."
 msgstr ""
-"Menu Pelajari suara. Gunakan panah atas dan bawah untuk bergerak. Untuk "
-"mendengarkan suaranya, tekan enter. Untuk keluar dari menu, tekan item menu "
-"yang bersangkutan atau tombol escape."
+"Menu Pelajari suara. Gunakan panah atas dan bawah untuk bernafigasi atau "
+"memilih antar menu. Jika anda ingin mendengarkan suara item yang dipilih, "
+"tekan enter. Untuk keluar dari menu, tekan item menu yang bersangkutan atau "
+"tombol escape."
 
 #. MainMenuExitGame
 msgid "Exit the game."
@@ -220,8 +229,8 @@ msgid ""
 "Main menu. Use the up and down arrows to move. To select a menu item, press "
 "enter."
 msgstr ""
-"Menu utama. Gunakan panah atas dan bawah untuk bergerak. Untuk memilih menu, "
-"tekan enter."
+"Menu utama. Gunakan panah atas dan bawah untuk bernavigasi antar menu. Untuk "
+"memilih, tekan enter."
 
 #. ModeSelectionMenuBack
 msgid "Return to main menu."
@@ -244,8 +253,8 @@ msgid ""
 "Select a game mode. Use the up and down arrows to move. To confirm your "
 "selection, press enter."
 msgstr ""
-"Pilih mode permainan. Gunakan panah atas dan bawah untuk bergerak. Untuk "
-"mengonfirmasi pilihan Anda, tekan enter."
+"Pilih mode permainan. Gunakan panah atas dan bawah untuk bernavigasi antar "
+"menu. Untuk mengonfirmasi pilihan Anda, tekan enter."
 
 #. NumberNotationsEmpty
 msgid "No notation."
@@ -269,7 +278,7 @@ msgstr "Standar."
 
 #. OptionsScreenAllowOverMaxVolume
 msgid "Allow audio volume boost up to two hundred percent"
-msgstr "Izinkan peningkatan volume audio hingga dua ratus persen"
+msgstr "Izinkan peningkatan volume audio hingga 200 persen"
 
 #. OptionsScreenAllowPlayObjectNotifySounds
 msgid ""
@@ -281,7 +290,7 @@ msgstr ""
 
 #. OptionsScreenBatHitSuccessSound
 msgid "Play a sound when the ball is successfully hit with the bat"
-msgstr "Putar suara saat bola berhasil dipukul dengan tongkat"
+msgstr "Putar suara ketika bola berhasil dipukul"
 
 #. OptionsScreenCatigoriesBehaviour
 msgid "Behavior"
@@ -317,7 +326,7 @@ msgstr "Tutup"
 
 #. OptionsScreenDisplayTitleHints
 msgid "Show navigation hints in menu titles"
-msgstr "Tampilkan petunjuk navigasi di judul menu"
+msgstr "Tampilkan petunjuk navigasi pada judul menu"
 
 #. OptionsScreenGameVolumeSlider
 msgid "Game volume"
@@ -353,7 +362,8 @@ msgstr "Tampilkan pemberitahuan jika hadiah tersedia di akhir permainan"
 
 #. OptionsScreenShowUpdateCheckErrorOnStartup
 msgid "Show an error if it was not possible to check for updates at startup"
-msgstr "Tampilkan kesalahan jika tidak dapat memeriksa pembaruan saat startup"
+msgstr ""
+"Tampilkan kesalahan jika tidak dapat memeriksa pembaruan saat game dijalankan"
 
 #. OptionsScreenSoundPanRepresentationMode
 msgid "Sound Panning Mode"
@@ -396,9 +406,9 @@ msgid ""
 "destroyed {2} objects, and bounced off the floor {3} times. You hit the ball "
 "{4} times."
 msgstr ""
-"{0} poin dicetak dalam game ini. Bola bertabrakan dengan objek sebanyak {1} "
-"kali, menghancurkan {2} objek, dan memantul ke lantai sebanyak {3} kali. "
-"Anda memukul bola {4} kali."
+"{0} poin yang dihasilkan dalam game ini. Bola bertabrakan dengan objek "
+"sebanyak {1} kali, menghancurkan {2} objek, dan memantul ke lantai sebanyak "
+"{3} kali. Anda berhasil memukul bola sebanyak {4} kali."
 
 #. PauseMenuPracticeModeActive
 msgid "Training mode is active."
@@ -418,8 +428,8 @@ msgid ""
 "Pause menu. Use the up and down arrows to move. To activate the selected "
 "item, press enter."
 msgstr ""
-"Menu jeda permainan. Gunakan panah atas dan bawah untuk bergerak. Untuk "
-"memilih item, tekan enter."
+"Menu jeda permainan. Gunakan panah atas dan bawah untuk bernavigasi antar "
+"menu. Untuk memilih item, tekan enter."
 
 #. ProfileAurasPageTitle
 msgid "Auras"
@@ -501,7 +511,7 @@ msgid ""
 "Immateriality: level {0}/3. The ball goes immaterial for {1} seconds, "
 "cooldown interval is {2} seconds."
 msgstr ""
-"Ketidakberwujudan: level {0}/3. Bola menjadi tidak berwujud selama {1} "
+"Ketidakberwujudan: level {0}/3. Bola menjadi tidak berwujud kurang lebih {1} "
 "detik, interval waktu tunggu selama {2} detik."
 
 #. SkillsLevelInfo
@@ -532,14 +542,14 @@ msgstr "Kembali."
 
 #. SkillSlotSetterMenuTitle
 msgid "Select a skill to install in the slot."
-msgstr "Pilih keterampilan untuk dipasang di slot."
+msgstr "Pilih keterampilan yang akan dipasang di slot."
 
 #. SkillSlotSetterMenuTitleWithHint
 msgid ""
 "Select a skill to install in the slot. Use the up and down arrows to select "
 "and press enter to confirm your selection."
 msgstr ""
-"Pilih keterampilan untuk dipasang di slot. Gunakan panah atas dan bawah "
+"Pilih keterampilan yang akan dipasang di slot. Gunakan panah atas dan bawah "
 "untuk memilih dan tekan enter untuk mengonfirmasi pilihan Anda."
 
 #. SkillSlotsTitle
@@ -557,8 +567,8 @@ msgid ""
 "Level {0}. The ball receives an effect that attracts it to nearby objects "
 "for {1} seconds, cooldown interval is {2} seconds."
 msgstr ""
-"Level {0}. Bola menerima efek yang menariknya ke objek terdekat selama "
-"kurang lebih {1} detik, interval waktu tunggu selama {2} detik."
+"Level {0}. Bola menerima efek yang menariknya ke objek terdekat dalam kurun "
+"waktu {1} detik, interval waktu tunggu selama {2} detik."
 
 #. SkillsMagnetismName
 msgid "magnetism"
@@ -575,8 +585,7 @@ msgid ""
 "nearby objects for {1} seconds, cooldown interval is {2} seconds."
 msgstr ""
 "Daya tarik: level {0}/4. Bola menerima efek yang menariknya ke objek "
-"terdekat selama kurang lebih {1} detik, interval waktu tunggu selama {2} "
-"detik."
+"terdekat dalam kurun waktu {1} detik, interval waktu tunggu selama {2} detik."
 
 #. SkillsNoneNameFull
 msgid "Not set."
@@ -588,8 +597,8 @@ msgid ""
 "Level {0}. The  swing of the bat creates {1} objects on the field, cooldown "
 "interval is {2} seconds."
 msgstr ""
-"Level {0}. Ayunan tongkat menciptakan {1} objek di lapangan, interval waktu "
-"tunggu selama {2} detik."
+"Level {0}. Ayunan tongkat pemukul menciptakan {1} objek di lapangan, "
+"interval waktu tunggu selama {2} detik."
 
 #. SkillsObjectSpawnerName
 msgid "creator's stroke"
@@ -605,8 +614,8 @@ msgid ""
 "Creator's stroke: level {0}/4. Swinging the bat creates {1} objects on the "
 "field, cooldown interval is {2} seconds."
 msgstr ""
-"Pukulan pencipta: level {0}/4. Ayunan tongkat akan menghasilkan {1} objek di "
-"lapangan, interval waktu tunggu selama {2} detik."
+"Pukulan pencipta: level {0}/4. Ayunan tongkat pemukul akan menghasilkan {1} "
+"objek di lapangan, interval waktu tunggu selama {2} detik."
 
 #. SkillsShadowStrikeLevelInfoText
 #, python-brace-format
@@ -640,7 +649,7 @@ msgid ""
 "Level {0}. For {1} seconds the ball bounces off objects an order of "
 "magnitude stronger, cooldown interval is {2} seconds."
 msgstr ""
-"Level {0}. Selama kurang lebih {1} detik bola memantul ke objek dengan "
+"Level {0}. dalam kurun waktu {1} detik bola memantul ke objek dengan "
 "kekuatan yang jauh lebih besar, interval waktu tunggu selama {2} detik."
 
 #. SkillsSuperElasticityName
@@ -657,7 +666,7 @@ msgid ""
 "Superelasticity: level {0}/4. For {1} seconds the ball bounces off objects "
 "an order of magnitude stronger, cooldown interval is {2} seconds."
 msgstr ""
-"Superelastisitas: level {0}/4. Selama kurang lebih {1} detik, bola memantul "
+"Super elastisitas: level {0}/4. dalam kurun waktu {1} detik, bola memantul "
 "ke objek dengan kekuatan sepuluh kali lipat, interval waktu tunggu selama "
 "{2} detik."
 
@@ -679,12 +688,12 @@ msgstr "Total bola yang ditangkap: {0}. {1}"
 #. StatItemBatHits
 #, python-brace-format
 msgid "Number of balls hit: {0}. {1}"
-msgstr "Jumlah bola yang dipukul: {0}. {1}"
+msgstr "Jumlah bola yang berhasil dipukul: {0}. {1}"
 
 #. StatItemDestroyedObjects
 #, python-brace-format
 msgid "Number of objects destroyed: {0}. {1}"
-msgstr "Jumlah objek yang berhasil dihancurkan: {0}. {1}"
+msgstr "Jumlah objek yang dihancurkan: {0}. {1}"
 
 #. StatItemMaximumPoints
 #, python-brace-format
@@ -699,7 +708,7 @@ msgstr "Jumlah bertabrakan dengan objek: {0}. {1}"
 #. StatItemPerfectHitsStreak
 #, python-brace-format
 msgid "Perfect strikes made in a row: {0}. {1}"
-msgstr "Pukulan sempurna yang dilakukan berturut-turut: {0}. {1}"
+msgstr "Pukulan sempurna beruntun: {0}. {1}"
 
 #. StatItemStepsMade
 #, python-brace-format
@@ -744,7 +753,7 @@ msgstr ""
 #. StatRewardsTotal
 #, python-brace-format
 msgid "{0} awards received in total."
-msgstr "{0} hadiah diterima secara total."
+msgstr "Total {0} hadiah yang diterima."
 
 #. StoreButtonReset
 #, python-brace-format
@@ -783,7 +792,7 @@ msgstr "Kesalahan: Koin tidak cukup."
 
 #. StoreBuyError2
 msgid "Error: This upgrade is already at maximum level."
-msgstr "Kesalahan: Peningkatan ini sudah mencapai level maksimum."
+msgstr "Kesalahan: peningkatan ini sudah mencapai level maksimum."
 
 #. StoreBuyError3
 msgid "Error: This feature is already unlocked."
@@ -835,71 +844,294 @@ msgid ""
 "Reference Information. Use the up and down arrows to move. To exit the menu, "
 "press escape or enter at any item."
 msgstr ""
-"Informasi Referensi. Gunakan panah atas dan bawah untuk bergerak. Untuk "
-"keluar dari menu, tekan escape atau enter pada item mana pun."
+"Informasi Referensi. Gunakan panah atas dan bawah untuk bernavigasi antar "
+"menu. Untuk keluar dari menu, tekan escape atau enter pada item mana pun."
+
+#. StoreItemBallCatchFeatureInfo
+msgid ""
+"Ball catch feature.\n"
+"To try to catch the ball, press left or right control during the game.\n"
+"The ball can only be caught if it is close to you.\n"
+"If the attempt is successful, the sound of the ball will disappear from the "
+"playing field, and you will be able to throw it again.\n"
+"This mechanic can be used in your scoring strategies or just for fun, but it "
+"is initially useful when used in conjunction with certain skills."
+msgstr ""
+"Fitur menangkap bola.\n"
+"Untuk mencoba menangkap bola, tekan kontrol kiri atau kanan selama permainan "
+"berlangsung.\n"
+"Bola hanya bisa ditangkap jika berada dekat dengan Anda.\n"
+"Jika anda berhasil menangkap bola, suara bola akan hilang dari lapangan "
+"permainan, dan Anda dapat melemparkannya kembali.\n"
+"Fitur ini dapat digunakan dalam strategi penilaian Anda atau hanya untuk "
+"bersenang-senang, tetapi pada awalnya berguna jika digunakan bersama dengan "
+"keterampilan tertentu."
 
 #. StoreItemBallCatchFeatureText
 msgid "Unlock the ball catch feature"
 msgstr "Unlock fitur menangkap bola"
 
+#. StoreItemJumpFeatureInfo
+msgid ""
+"Jump feature.\n"
+"To jump, press the up arrow or the w key during the game.\n"
+"Jumping is useful in scenarios where you want to hit a ball that hasn't yet "
+"bounced off the floor.\n"
+"Or when you missed a good moment to strike, but still want to hit the ball.\n"
+"In this case, all you need to do is jump and swing the bat at the right "
+"moment.\n"
+"It is also easier to catch the ball while jumping if you have this feature "
+"unlocked."
+msgstr ""
+"Fitur melompat.\n"
+"Untuk melompat, tekan panah atas atau tombol w selama permainan "
+"berlangsung.\n"
+"Melompat berguna dalam skenario di mana Anda ingin memukul bola yang belum "
+"memantul dari lantai.\n"
+"Atau ketika Anda melewatkan momen bagus untuk menyerang, namun masih ingin "
+"memukul bola.\n"
+"Dalam hal ini, yang perlu Anda lakukan hanyalah melompat dan mengayunkan "
+"tongkat pemukul pada saat yang tepat.\n"
+"Menangkap bola sambil melompat juga lebih mudah jika fitur ini sudah terbuka."
+
 #. StoreItemJumpFeatureText
 msgid "Unlock the  jump feature"
-msgstr "Unlock fitur lompat"
+msgstr "Unlock fitur melompat"
+
+#. StoreItemMineObjectInfo
+msgid ""
+"Mine object.\n"
+"The ball's collision with this object causes an explosion that violently "
+"pushes the ball away and destroys nearby objects.\n"
+"If a mine's explosion hits another mine, it will explode, thereby creating a "
+"chain of explosions."
+msgstr ""
+"Ranjau.\n"
+"Memantulkan bola ke ranjau menyebabkan ledakan yang mendorong bola menjauh "
+"dengan keras dan menghancurkan objek-objek yang ada di sekitar ranjau.\n"
+"Jika ledakan sebuah ranjau mengenai ranjau lain, ranjau tersebut akan "
+"meledak, sehingga menciptakan rangkaian ledakan."
 
 #. StoreItemMineObjectText
 msgid "Unlock the mine object."
-msgstr "Unlock objek ranjau."
+msgstr "Unlock ranjau"
+
+#. StoreItemMinObjectIncreaseInfo
+msgid ""
+"Increasing the minimum number of objects on the field.\n"
+"Initially, the minimum number of objects is twenty-five.\n"
+"When there are fewer objects on the field than this value, as many new "
+"objects are added as are not enough to equal this number.\n"
+"Each upgrade level increases this value by one."
+msgstr ""
+"Meningkatkan jumlah minimum objek di lapangan.\n"
+"Pada awalnya, jumlah minimum objek adalah dua puluh lima.\n"
+"Ketika jumlah objek di lapangan kurang dari nilai dua puluh lima, objek baru "
+"akan ditambahkan sebanyak yang diperlukan untuk mencapai jumlah ini.\n"
+"Setiap level peningkatan akan menambahkan nilai objek sebanyak satu."
 
 #. StoreItemMinObjectIncreaseText
 #, python-brace-format
 msgid "minimum number of objects on the field increase: level {0}/10."
 msgstr "jumlah minimum objek di lapangan bertambah: level {0}/10."
 
+#. StoreItemPowerRecoveringInfo
+msgid ""
+"Increased blow force recovery rate.\n"
+"The upgrade significantly increases the speed at which the force of a blow "
+"is restored after each swing of the bat."
+msgstr ""
+"Peningkatan laju pemulihan kekuatan pukulan.\n"
+"Peningkatan ini secara signifikan mempercepat pemulihan kekuatan pukulan "
+"setelah setiap ayunan tongkat pemukul."
+
 #. StoreItemPowerRecoveringText
 #, python-brace-format
 msgid "Increased blow force recovery rate: level {0}/10"
-msgstr "Peningkatan pemulihan kekuatan pukulan: level {0}/10"
+msgstr "Peningkatan laju pemulihan kekuatan pukulan: level {0}/10"
+
+#. StoreItemResetAchievementPointsInfo
+msgid ""
+"Resetting spent achievement points.\n"
+"When reset, the levels of auras and skills are reset to zero, and all "
+"achievement points spent on upgrading them are returned to you."
+msgstr ""
+"Mengatur ulang poin prestasi yang telah digunakan.\n"
+"Saat diatur ulang, level aura dan keterampilan dikembalikan ke nol, dan "
+"semua poin prestasi yang telah digunakan untuk meningkatkannya akan "
+"dikembalikan kepada Anda."
 
 #. StoreItemResetAchievementPointsQuestion
 msgid ""
 "Do you really want to reset the distribution of achievement points for a "
 "hundred coins?"
 msgstr ""
-"Apakah Anda benar-benar ingin mengatur ulang pembagian poin pencapaian "
-"dengan membayar seratus koin?"
+"Apakah Anda benar-benar ingin mengatur ulang distribusi poin prestasi dengan "
+"membayar 100 koin?"
 
 #. StoreItemResetAchievementPointsText
 msgid "Reset spent achievement points."
-msgstr "Atur ulang poin pencapaian yang dihabiskan."
+msgstr "Atur ulang poin prestasi yang telah digunakan."
+
+#. StoreItemSkillBallLeapInfo
+msgid ""
+"Furious leap skill.\n"
+"The character makes a rapid dash towards the ball, which is close to the "
+"ground.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Wait for the right moment to use.\n"
+"Then swing the bat, the character will do the rest on his own.\n"
+"If the ball is out of range, the skill will fail and will go on cooldown."
+msgstr ""
+"Keterampilan lompatan ganas.\n"
+"Karakter akan berlari cepat ke arah bola yang dekat dengan tanah.\n"
+"Penggunaan:\n"
+"Pilih slot di mana keterampilan ini dipasang.\n"
+"Tunggu saat yang tepat untuk digunakan.\n"
+"Kemudian ayunkan tongkat pemukul, karakter akan melakukan sisanya sendiri.\n"
+"Jika bola berada di luar jangkauan, skill akan gagal dan akan memasuki waktu "
+"tunggu."
 
 #. StoreItemSkillBallLeapText
-#. StoreItemSkillBallLeapInfo
 msgid "Furious leap skill."
 msgstr "Keterampilan lompatan ganas."
 
-#. StoreItemSkillImmaterialityText
 #. StoreItemSkillImmaterialityInfo
+msgid ""
+"Immateriality skill.\n"
+"When a ball is succesfully hit with a bat, it imposes an immateriality "
+"effect on the ball, which allows it not to bounce off objects, but to "
+"destroy them with one hit and continue flying along the same trajectory.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and "
+"it will go on cooldown."
+msgstr ""
+"Keterampilan tidak berwujud.\n"
+"Ketika sebuah bola berhasil dipukul, hal ini memberikan efek tidak berwujud "
+"pada bola, yang memungkinkannya untuk tidak memantul pada objek, tetapi "
+"menghancurkan dengan satu pantulan dan terus terbang di sepanjang lintasan "
+"yang sama.\n"
+"Penggunaan:\n"
+"Pilih slot di mana keterampilan ini dipasang.\n"
+"Lalu pukul bola dengan tongkat pemukul.\n"
+"Jika keterampilan berhasil digunakan, Anda akan mendengar suara efek yang "
+"berbeda.\n"
+"Mengayunkan pemukul tanpa mengenai bola akan menyebabkan skill gagal dan "
+"akan memasuki waktu tunggu."
+
+#. StoreItemSkillImmaterialityText
 msgid "Immateriality skill."
 msgstr "Keterampilan tidak berwujud."
+
+#. StoreItemSkillMagnetismInfo
+msgid ""
+"Magnitism skill.\n"
+"When affected by this skill, the ball is attracted to nearby objects on the "
+"playing field.\n"
+"Usage:\n"
+"Catch the ball.\n"
+"then select the slot in which this skill is installed.\n"
+"Throw the ball back onto the playing field.\n"
+"The effect will be applied immediately after the throw."
+msgstr ""
+"Keterampilan daya tarik.\n"
+"Saat terkena keterampilan ini, bola tertarik ke objek terdekat di lapangan "
+"permainan , dan akan menghancurkan objek yang mengenai bola.\n"
+"Penggunaan:\n"
+"Tangkap bola.\n"
+"lalu pilih slot dimana keterampilan ini dipasang.\n"
+"Lemparkan bola kembali ke lapangan permainan.\n"
+"Efeknya akan diterapkan segera setelah lemparan."
 
 #. StoreItemSkillMagnetismText
 msgid "Magnetism skill."
 msgstr "Keterampilan daya tarik."
 
-#. StoreItemSkillObjectSpawnerText
 #. StoreItemSkillObjectSpawnerInfo
+msgid ""
+"Creator's stroke skill.\n"
+"When you swing the bat, objects are spawned on the playing field.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then swing the bat.\n"
+"The skill will only work if the force of the blow is restored to maximum.\n"
+"Otherwise, it will go on cooldown and objects will not be generated."
+msgstr ""
+"Keterampilan pukulan pencipta.\n"
+"Saat Anda mengayunkan tongkat pemukul, objek-objek akan bermunculan di "
+"lapangan permainan.\n"
+"Penggunaan:\n"
+"Pilih slot di mana keterampilan ini dipasang.\n"
+"Lalu ayunkan tongkat pemukul.\n"
+"Keterampilan ini hanya akan bekerja jika kekuatan pukulan saat ini masih "
+"dalam keadaan maksimal.\n"
+"Jika tidak, keterampilan ini akan memasuki waktu tunggu, dan objek tidak "
+"akan dihasilkan."
+
+#. StoreItemSkillObjectSpawnerText
 msgid "Creator's stroke skill."
 msgstr "Keterampilan pukulan pencipta."
 
-#. StoreItemSkillShadowStrikeText
 #. StoreItemSkillShadowStrikeInfo
+msgid ""
+"Phantom Strike skill.\n"
+"Swinging the bat sends out a phantom strike that only travels upward and a "
+"certain distance, knocking down a certain number of objects in the process.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then move the character to the desired place on the field and swing the "
+"bat.\n"
+"The skill will succeed if the blow force has been restored to its maximum.\n"
+"Otherwise, it will fail and go on cooldown."
+msgstr ""
+"Keterampilan Pukulan siluman.\n"
+"Mengayunkan tongkat pemukul akan menyebapkan pukulan siluman yang bergerak "
+"ke atas, serta dalam jarak tertentu, menjatuhkan sejumlah objek dalam "
+"seranggannya.\n"
+"Penggunaan:\n"
+"Pilih slot di mana keterampilan ini dipasang.\n"
+"Kemudian pindahkan karakter ke tempat yang diinginkan di lapangan permainan, "
+"dan ayunkan tongkat pemukul.\n"
+"Keterampilan ini akan berhasil jika kekuatan pukulan masih dalam keadaan "
+"maksimal.\n"
+"Jika tidak, keterampilan ini akan gagal dan memasuki waktu tunggu."
+
+#. StoreItemSkillShadowStrikeText
 msgid "Phantom Strike skill."
 msgstr "Keterampilan pukulan siluman."
 
-#. StoreItemSkillSuperElasticityText
 #. StoreItemSkillSuperElasticityInfo
+msgid ""
+"Superelasticity skill.\n"
+"The ball becomes extremely elastic, which allows it to bounce off surfaces "
+"an order of magnitude stronger.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and "
+"it will go on cooldown."
+msgstr ""
+"Keterampilan super elastisitas.\n"
+"Bola menjadi sangat elastis, yang memungkinkan bola memantul lebih kuat ke "
+"permukaan.\n"
+"Penggunaan:\n"
+"Pilih slot di mana keterampilan ini dipasang.\n"
+"Lalu pukul bola dengan tongkat pemukul.\n"
+"Jika keterampilan berhasil digunakan, Anda akan mendengar suara efek yang "
+"berbeda.\n"
+"Mengayunkan tongkat pemukul tanpa mengenai bola akan menyebabkan skill gagal "
+"dan akan memasuki waktu tunggu."
+
+#. StoreItemSkillSuperElasticityText
 msgid "Superelasticity skill."
-msgstr "Keterampilan superelastisitas."
+msgstr "Keterampilan super elastisitas."
 
 #. StoreTitle
 msgid "Welcome to the shop."
@@ -911,7 +1143,7 @@ msgid ""
 "the screen. Use the up and down arrows to move through the list. To activate "
 "the selected item, press enter or spacebar."
 msgstr ""
-"Selamat datang di toko. Gunakan tab dan shift+tab untuk bergerak maju dan "
+"Selamat datang di toko. Gunakan tab dan shift+tab untuk bernavigasi maju dan "
 "mundur pada layar. Gunakan panah atas dan bawah untuk menelusuri daftar. "
 "Untuk mengaktifkan item yang dipilih, tekan enter atau spasi."
 
@@ -1030,35 +1262,3 @@ msgstr "TIDAK"
 #. YesOrNoScreenYes
 msgid "Yes"
 msgstr "Ya"
-
-#. StoreItemSkillMagnetismInfo
-msgid "Magnitism skill."
-msgstr "Keterampilan daya tarik."
-
-#. StoreItemResetAchievementPointsInfo
-msgid "Resetting spent achievement points."
-msgstr "Menyetel ulang poin pencapaian yang dihabiskan."
-
-#. StoreItemPowerRecoveringInfo
-msgid "Increased blow force recovery rate."
-msgstr "Tingkatkan pemulihan kekuatan pukulan."
-
-#. StoreItemMinObjectIncreaseInfo
-msgid "Increasing the minimum number of objects on the field."
-msgstr "Tingkatkan jumlah minimum objek di lapangan."
-
-#. StoreItemMineObjectInfo
-msgid "Mine object."
-msgstr "Objek ranjau."
-
-#. StoreItemJumpFeatureInfo
-msgid "Jump feature."
-msgstr "Fitur melompat."
-
-#. StoreItemBallCatchFeatureInfo
-msgid "Ball catch feature."
-msgstr "Fitur menangkap bola."
-
-#. IncompatableSaveMessage
-msgid "The loaded save belongs to a newer version of the game"
-msgstr "Data simpanan yang dimuat  untuk versi game yang lebih baru"
