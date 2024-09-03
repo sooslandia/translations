@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Agsharp\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-08-13 11:15+0000\n"
+"POT-Creation-Date: 2024-09-03 17:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -106,8 +106,4 @@ msgstr ""
 
 #. AudioForms_TabPageName
 msgid "tab"
-msgstr ""
-
-#. Language
-msgid "english"
 msgstr ""

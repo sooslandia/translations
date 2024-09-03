@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-08-13 11:15+0000\n"
+"POT-Creation-Date: 2024-09-03 17:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -123,12 +123,16 @@ msgstr ""
 msgid "{0} seconds left until the end of the game."
 msgstr ""
 
-#. IncompatableSaveTitle
-msgid "Incompatible save"
+#. IncompatableSaveMessage
+msgid ""
+"The loaded save belongs to a newer version of the game\n"
+"and contains data that will be lost.\n"
+"Therefore, the save is considered incompatible.\n"
+"The game will be closed."
 msgstr ""
 
-#. Language
-msgid "english"
+#. IncompatableSaveTitle
+msgid "Incompatible save"
 msgstr ""
 
 #. LearnSoundsBatHitSuccess
@@ -775,16 +779,58 @@ msgid ""
 "press escape or enter at any item."
 msgstr ""
 
+#. StoreItemBallCatchFeatureInfo
+msgid ""
+"Ball catch feature.\n"
+"To try to catch the ball, press left or right control during the game.\n"
+"The ball can only be caught if it is close to you.\n"
+"If the attempt is successful, the sound of the ball will disappear from the "
+"playing field, and you will be able to throw it again.\n"
+"This mechanic can be used in your scoring strategies or just for fun, but it "
+"is initially useful when used in conjunction with certain skills."
+msgstr ""
+
 #. StoreItemBallCatchFeatureText
 msgid "Unlock the ball catch feature"
+msgstr ""
+
+#. StoreItemJumpFeatureInfo
+msgid ""
+"Jump feature.\n"
+"To jump, press the up arrow or the w key during the game.\n"
+"Jumping is useful in scenarios where you want to hit a ball that hasn't yet "
+"bounced off the floor.\n"
+"Or when you missed a good moment to strike, but still want to hit the ball.\n"
+"In this case, all you need to do is jump and swing the bat at the right "
+"moment.\n"
+"It is also easier to catch the ball while jumping if you have this feature "
+"unlocked."
 msgstr ""
 
 #. StoreItemJumpFeatureText
 msgid "Unlock the  jump feature"
 msgstr ""
 
+#. StoreItemMineObjectInfo
+msgid ""
+"Mine object.\n"
+"The ball's collision with this object causes an explosion that violently "
+"pushes the ball away and destroys nearby objects.\n"
+"If a mine's explosion hits another mine, it will explode, thereby creating a "
+"chain of explosions."
+msgstr ""
+
 #. StoreItemMineObjectText
 msgid "Unlock the mine object."
+msgstr ""
+
+#. StoreItemMinObjectIncreaseInfo
+msgid ""
+"Increasing the minimum number of objects on the field.\n"
+"Initially, the minimum number of objects is twenty-five.\n"
+"When there are fewer objects on the field than this value, as many new "
+"objects are added as are not enough to equal this number.\n"
+"Each upgrade level increases this value by one."
 msgstr ""
 
 #. StoreItemMinObjectIncreaseText
@@ -792,9 +838,23 @@ msgstr ""
 msgid "minimum number of objects on the field increase: level {0}/10."
 msgstr ""
 
+#. StoreItemPowerRecoveringInfo
+msgid ""
+"Increased blow force recovery rate.\n"
+"The upgrade significantly increases the speed at which the force of a blow "
+"is restored after each swing of the bat."
+msgstr ""
+
 #. StoreItemPowerRecoveringText
 #, python-brace-format
 msgid "Increased blow force recovery rate: level {0}/10"
+msgstr ""
+
+#. StoreItemResetAchievementPointsInfo
+msgid ""
+"Resetting spent achievement points.\n"
+"When reset, the levels of auras and skills are reset to zero, and all "
+"achievement points spent on upgrading them are returned to you."
 msgstr ""
 
 #. StoreItemResetAchievementPointsQuestion
@@ -807,32 +867,104 @@ msgstr ""
 msgid "Reset spent achievement points."
 msgstr ""
 
-#. StoreItemSkillBallLeapText
 #. StoreItemSkillBallLeapInfo
+msgid ""
+"Furious leap skill.\n"
+"The character makes a rapid dash towards the ball, which is close to the "
+"ground.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Wait for the right moment to use.\n"
+"Then swing the bat, the character will do the rest on his own.\n"
+"If the ball is out of range, the skill will fail and will go on cooldown."
+msgstr ""
+
+#. StoreItemSkillBallLeapText
 msgid "Furious leap skill."
 msgstr ""
 
-#. StoreItemSkillImmaterialityText
 #. StoreItemSkillImmaterialityInfo
+msgid ""
+"Immateriality skill.\n"
+"When a ball is succesfully hit with a bat, it imposes an immateriality "
+"effect on the ball, which allows it not to bounce off objects, but to "
+"destroy them with one hit and continue flying along the same trajectory.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and "
+"it will go on cooldown."
+msgstr ""
+
+#. StoreItemSkillImmaterialityText
 msgid "Immateriality skill."
+msgstr ""
+
+#. StoreItemSkillMagnetismInfo
+msgid ""
+"Magnitism skill.\n"
+"When affected by this skill, the ball is attracted to nearby objects on the "
+"playing field.\n"
+"Usage:\n"
+"Catch the ball.\n"
+"then select the slot in which this skill is installed.\n"
+"Throw the ball back onto the playing field.\n"
+"The effect will be applied immediately after the throw."
 msgstr ""
 
 #. StoreItemSkillMagnetismText
 msgid "Magnetism skill."
 msgstr ""
 
-#. StoreItemSkillObjectSpawnerText
 #. StoreItemSkillObjectSpawnerInfo
+msgid ""
+"Creator's stroke skill.\n"
+"When you swing the bat, objects are spawned on the playing field.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then swing the bat.\n"
+"The skill will only work if the force of the blow is restored to maximum.\n"
+"Otherwise, it will go on cooldown and objects will not be generated."
+msgstr ""
+
+#. StoreItemSkillObjectSpawnerText
 msgid "Creator's stroke skill."
 msgstr ""
 
-#. StoreItemSkillShadowStrikeText
 #. StoreItemSkillShadowStrikeInfo
+msgid ""
+"Phantom Strike skill.\n"
+"Swinging the bat sends out a phantom strike that only travels upward and a "
+"certain distance, knocking down a certain number of objects in the process.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then move the character to the desired place on the field and swing the "
+"bat.\n"
+"The skill will succeed if the blow force has been restored to its maximum.\n"
+"Otherwise, it will fail and go on cooldown."
+msgstr ""
+
+#. StoreItemSkillShadowStrikeText
 msgid "Phantom Strike skill."
 msgstr ""
 
-#. StoreItemSkillSuperElasticityText
 #. StoreItemSkillSuperElasticityInfo
+msgid ""
+"Superelasticity skill.\n"
+"The ball becomes extremely elastic, which allows it to bounce off surfaces "
+"an order of magnitude stronger.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and "
+"it will go on cooldown."
+msgstr ""
+
+#. StoreItemSkillSuperElasticityText
 msgid "Superelasticity skill."
 msgstr ""
 
@@ -949,36 +1081,4 @@ msgstr ""
 
 #. YesOrNoScreenYes
 msgid "Yes"
-msgstr ""
-
-#. StoreItemSkillMagnetismInfo
-msgid "Magnitism skill."
-msgstr ""
-
-#. StoreItemResetAchievementPointsInfo
-msgid "Resetting spent achievement points."
-msgstr ""
-
-#. StoreItemPowerRecoveringInfo
-msgid "Increased blow force recovery rate."
-msgstr ""
-
-#. StoreItemMinObjectIncreaseInfo
-msgid "Increasing the minimum number of objects on the field."
-msgstr ""
-
-#. StoreItemMineObjectInfo
-msgid "Mine object."
-msgstr ""
-
-#. StoreItemJumpFeatureInfo
-msgid "Jump feature."
-msgstr ""
-
-#. StoreItemBallCatchFeatureInfo
-msgid "Ball catch feature."
-msgstr ""
-
-#. IncompatableSaveMessage
-msgid "The loaded save belongs to a newer version of the game"
 msgstr ""

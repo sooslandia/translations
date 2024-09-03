@@ -80,6 +80,7 @@ def generate_pot_file(project_path):
     with english_file.open("r") as f:
         lng = json.load(f)
     lng.pop("Culture")
+    lng.pop("Language")
     source = []
     for identifier, string in lng.items():
         source.append(f"# {identifier}")
@@ -100,6 +101,7 @@ def get_source_line_for_pot(string):
             break
     if quote is None:
         raise RuntimeError(f"Failed to find quotes for string {string[:200]}")
+    string = string.replace("\r\n", "\n").replace("\n", "\\n")
     return f"_({quote}{string}{quote})"
 
 
