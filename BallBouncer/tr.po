@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-08-13 11:15+0000\n"
-"PO-Revision-Date: 2024-09-03 18:23+0300\n"
+"POT-Creation-Date: 2024-09-03 17:30+0000\n"
+"PO-Revision-Date: 2024-09-03 23:54+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -132,13 +132,21 @@ msgstr ""
 msgid "{0} seconds left until the end of the game."
 msgstr "Oyunun bitişine {0} saniye kaldı."
 
+#. IncompatableSaveMessage
+msgid ""
+"The loaded save belongs to a newer version of the game\n"
+"and contains data that will be lost.\n"
+"Therefore, the save is considered incompatible.\n"
+"The game will be closed."
+msgstr ""
+"Açılan kayıt oyunun daha yeni bir sürümüne ait\n"
+"ve kaybolacak veriler içeriyor.\n"
+"Bundan dolayı, kayıt uyumsuz kabul edilir.\n"
+"Oyun kapatılacak."
+
 #. IncompatableSaveTitle
 msgid "Incompatible save"
 msgstr "Uyumsuz kayıt"
-
-#. Language
-msgid "english"
-msgstr "ingilizce"
 
 #. LearnSoundsBatHitSuccess
 msgid "Successfully hit the ball with the bat."
@@ -831,27 +839,114 @@ msgstr ""
 "çıkmak için escape tuşuna veya herhangi bir öğenin üzerinde enter tuşuna "
 "basın."
 
+#. StoreItemBallCatchFeatureInfo
+msgid ""
+"Ball catch feature.\n"
+"To try to catch the ball, press left or right control during the game.\n"
+"The ball can only be caught if it is close to you.\n"
+"If the attempt is successful, the sound of the ball will disappear from the "
+"playing field, and you will be able to throw it again.\n"
+"This mechanic can be used in your scoring strategies or just for fun, but it "
+"is initially useful when used in conjunction with certain skills."
+msgstr ""
+"Top yakalama özelliği\n"
+"Oyunu yakalamaya çalışmak için, oyun süresince sol veya sağ kontrole basın.\n"
+"Top sadece size yakınken yakalanabilir.\n"
+"Girişim başarılı olursa, topun sesi oyun sahasından kaybolur ve topu tekrar "
+"atabilirsiniz.\n"
+"Bu mekanik skor stratejilerinizde veya sadece eğlence amaçlı kullanılabilir, "
+"ama esas olarak belli becerilerle birlikte kullanıldığında yararlıdır."
+
 #. StoreItemBallCatchFeatureText
 msgid "Unlock the ball catch feature"
 msgstr "Top yakalama özelliğini aç"
+
+#. StoreItemJumpFeatureInfo
+msgid ""
+"Jump feature.\n"
+"To jump, press the up arrow or the w key during the game.\n"
+"Jumping is useful in scenarios where you want to hit a ball that hasn't yet "
+"bounced off the floor.\n"
+"Or when you missed a good moment to strike, but still want to hit the ball.\n"
+"In this case, all you need to do is jump and swing the bat at the right "
+"moment.\n"
+"It is also easier to catch the ball while jumping if you have this feature "
+"unlocked."
+msgstr ""
+"Atlama özelliği.\n"
+"Atlamak için, oyun süresince yukarı oka veya w tuşuna basın.\n"
+"atlamak, henüz yerden sekmemiş bir topa vurarken\n"
+"Veya iyi bir vuruş anını kaçırdığınızda, ancak hala topa vurmak "
+"istediğinizde yararlıdır.\n"
+"Bu durumda, tüm yapmanız gereken atlamak ve sopayı doğru zamanda "
+"savurmaktır.\n"
+"Bu özellik açıksa atlarken topu yakalamak daha kolaydır."
 
 #. StoreItemJumpFeatureText
 msgid "Unlock the  jump feature"
 msgstr "Atlama özelliğini aç"
 
+#. StoreItemMineObjectInfo
+msgid ""
+"Mine object.\n"
+"The ball's collision with this object causes an explosion that violently "
+"pushes the ball away and destroys nearby objects.\n"
+"If a mine's explosion hits another mine, it will explode, thereby creating a "
+"chain of explosions."
+msgstr ""
+"Mayın nesnesi.\n"
+"Topun bu nesneye çarpması topu şiddetle ittiren ve yakındaki nesneleri yok "
+"eden bir patlamaya yol açar.\n"
+"Bir mayının patlaması başka bir mayına denk gelirse o da patlar, böylelikle "
+"patlama zinciri oluşturur."
+
 #. StoreItemMineObjectText
 msgid "Unlock the mine object."
 msgstr "Mayın nesnesini aç."
+
+#. StoreItemMinObjectIncreaseInfo
+msgid ""
+"Increasing the minimum number of objects on the field.\n"
+"Initially, the minimum number of objects is twenty-five.\n"
+"When there are fewer objects on the field than this value, as many new "
+"objects are added as are not enough to equal this number.\n"
+"Each upgrade level increases this value by one."
+msgstr ""
+"Sahadaki minimum nesnelerin sayısını arttırma.\n"
+"Başlangıçta, sahadaki en az nesne sayısı yirmi-beştir.\n"
+"Sahada bu değerden daha az nesne bulunduğunda, bu sayıya eşitlenmesi için "
+"sahadaki olmayan nesne sayısı kadar nesne oluşturulur.\n"
+"Her yükseltme seviyesi bu değeri bir arttırır."
 
 #. StoreItemMinObjectIncreaseText
 #, python-brace-format
 msgid "minimum number of objects on the field increase: level {0}/10."
 msgstr "alanda en az nesne sayısı artışı: seviye {0}/10."
 
+#. StoreItemPowerRecoveringInfo
+msgid ""
+"Increased blow force recovery rate.\n"
+"The upgrade significantly increases the speed at which the force of a blow "
+"is restored after each swing of the bat."
+msgstr ""
+"Artmış darbe gücü iyileşme hızı.\n"
+"Yüıkselme, her darbeden sonra sopanın gücünün geri gelme hızını belirgin "
+"derecede arttırır."
+
 #. StoreItemPowerRecoveringText
 #, python-brace-format
 msgid "Increased blow force recovery rate: level {0}/10"
 msgstr "Artmış vuruş gücünün iyileşme hızı: Seviye {0}/10"
+
+#. StoreItemResetAchievementPointsInfo
+msgid ""
+"Resetting spent achievement points.\n"
+"When reset, the levels of auras and skills are reset to zero, and all "
+"achievement points spent on upgrading them are returned to you."
+msgstr ""
+"Harcanan başarı puanlarını sıfırlama.\n"
+"Sıfırlandığında, auraların ve becerilerin seviyeleri sıfıra sıfırlanır ve "
+"onları yükseltmek için harcadığınız tüm başarı puanları size iade edilir."
 
 #. StoreItemResetAchievementPointsQuestion
 msgid ""
@@ -863,32 +958,156 @@ msgstr "Gerçekten başarı puanlarını yüz paraya sıfırlamak istiyor musunu
 msgid "Reset spent achievement points."
 msgstr "Harcanan başarı puanlarını sıfırla."
 
-#. StoreItemSkillBallLeapText
 #. StoreItemSkillBallLeapInfo
+msgid ""
+"Furious leap skill.\n"
+"The character makes a rapid dash towards the ball, which is close to the "
+"ground.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Wait for the right moment to use.\n"
+"Then swing the bat, the character will do the rest on his own.\n"
+"If the ball is out of range, the skill will fail and will go on cooldown."
+msgstr ""
+"Öfkeli sıçrayış becerisi.\n"
+"Oyuncu, yere yakın olan topa doğru hızlı bir şekilde koşar.\n"
+"Kullanım:\n"
+"Bu becerinin yerleştirildiği yuvayı seçin.\n"
+"Kullanmak için doğru zamanı bekleyin.\n"
+"Sonra sopayı savurun, oyuncu geri kalanı kendisi yapacaktır.\n"
+"Top menzil dışındaysa, beceri başarısız olur ve beklemeye geçer."
+
+#. StoreItemSkillBallLeapText
 msgid "Furious leap skill."
 msgstr "Öfkeli sıçrayış becerisi."
 
-#. StoreItemSkillImmaterialityText
 #. StoreItemSkillImmaterialityInfo
+msgid ""
+"Immateriality skill.\n"
+"When a ball is succesfully hit with a bat, it imposes an immateriality "
+"effect on the ball, which allows it not to bounce off objects, but to "
+"destroy them with one hit and continue flying along the same trajectory.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and "
+"it will go on cooldown."
+msgstr ""
+"Etkisizlik becerisi.\n"
+"Top sopayla başarılı bir şekilde vurulduğunda topa maddiyatsızlık etkisi "
+"verir, bu da topun nesnelerden sekmemesini, nesneleri tek vuruşta yok "
+"etmesini ve aynı yönde uçmaya devam etmesini sağlar.\n"
+"Kullanım:\n"
+"Bu becerinin yerleştirildiği yuvayı seçin.\n"
+"Sonra topa sopayla vurun.\n"
+"Etki başarılı bir şekilde uygulanırsa, etkinin uygulanma sesini duyarsınız.\n"
+"Topa vurmadan sopayı savurmak becerinin başarısız olmasına neden olur ve "
+"beceri beklemeye geçer."
+
+#. StoreItemSkillImmaterialityText
 msgid "Immateriality skill."
 msgstr "Etkisizlik becerisi."
+
+#. StoreItemSkillMagnetismInfo
+msgid ""
+"Magnitism skill.\n"
+"When affected by this skill, the ball is attracted to nearby objects on the "
+"playing field.\n"
+"Usage:\n"
+"Catch the ball.\n"
+"then select the slot in which this skill is installed.\n"
+"Throw the ball back onto the playing field.\n"
+"The effect will be applied immediately after the throw."
+msgstr ""
+"Manyetizma becerisi.\n"
+"Bu beceri tarafından etkilendiğinde, top oyun sahasında bulunan yakındaki "
+"nesnelere çekilir.\n"
+"Kullanım:\n"
+"Topu yakalayın.\n"
+"Sonra bu becerinin yerleştirildiği yuvayı seçin.\n"
+"Topu oyun sahasına yeniden atın\n"
+".\n"
+"Etki, atıştan hemen sonra uygulanır."
 
 #. StoreItemSkillMagnetismText
 msgid "Magnetism skill."
 msgstr "Manyetizma becerisi."
 
-#. StoreItemSkillObjectSpawnerText
 #. StoreItemSkillObjectSpawnerInfo
+msgid ""
+"Creator's stroke skill.\n"
+"When you swing the bat, objects are spawned on the playing field.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then swing the bat.\n"
+"The skill will only work if the force of the blow is restored to maximum.\n"
+"Otherwise, it will go on cooldown and objects will not be generated."
+msgstr ""
+"Mucidin vuruşu becerisi.\n"
+"Sopayı savurduğunuzda oyun sahasında nesneler oluşturulur.\n"
+"Kullanım:\n"
+"Bu becerinin yerleştirildiği yuvayı seçin.\n"
+"sonra sopayı savurun\n"
+".\n"
+"Beceri sadece darbe gücü maksimum olduğunda işe yarar.\n"
+"Aksi takdirde beklemeye geçer ve nesneler oluşturulmaz."
+
+#. StoreItemSkillObjectSpawnerText
 msgid "Creator's stroke skill."
 msgstr "Mucidin vuruşu becerisi."
 
-#. StoreItemSkillShadowStrikeText
 #. StoreItemSkillShadowStrikeInfo
+msgid ""
+"Phantom Strike skill.\n"
+"Swinging the bat sends out a phantom strike that only travels upward and a "
+"certain distance, knocking down a certain number of objects in the process.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then move the character to the desired place on the field and swing the "
+"bat.\n"
+"The skill will succeed if the blow force has been restored to its maximum.\n"
+"Otherwise, it will fail and go on cooldown."
+msgstr ""
+"Hayalet vuruş becerisi.\n"
+"Sopayı savurmak, sadece yukarı ve belli bir mesafeye kadar giden, aynı "
+"zamanda nesneleri yok eden bir hayalet vuruş gönderir.\n"
+"Kullanım:\n"
+"Bu becerinin yerleştirildiği yuvayı seçin.\n"
+"Sonra oyuncuyu sahada istenen alana taşıyın ve sopayı savurun.\n"
+"Darbe gücü maksimumdaysa beceri başarılı olur.\n"
+"Aksi takdirde, başarısız olur ve beklemeye geçer."
+
+#. StoreItemSkillShadowStrikeText
 msgid "Phantom Strike skill."
 msgstr "Hayalet vuruş becerisi."
 
-#. StoreItemSkillSuperElasticityText
 #. StoreItemSkillSuperElasticityInfo
+msgid ""
+"Superelasticity skill.\n"
+"The ball becomes extremely elastic, which allows it to bounce off surfaces "
+"an order of magnitude stronger.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and "
+"it will go on cooldown."
+msgstr ""
+"Süper esneklik becerisi.\n"
+"Top çok esnek olur, bu da onun nesnelerden ve yüzeylerden daha fazla "
+"sekmesini sağlar.\n"
+"Kullanım:\n"
+"bu becerinin yerleştirildiği yuvayı seçin.\n"
+"Sonra topa sopayla vurun.\n"
+"Etki başarılı bir şekilde uygulanırsa, etkinin uygulanma sesini "
+"duyacaksınız.\n"
+"Topa vurmadan sopayı savurmak  becerinin başarısız olmasına neden olur ve "
+"beklemeye geçer."
+
+#. StoreItemSkillSuperElasticityText
 msgid "Superelasticity skill."
 msgstr "Süper esneklik becerisi."
 
@@ -1017,34 +1236,29 @@ msgstr "Hayır"
 msgid "Yes"
 msgstr "Evet"
 
-#. StoreItemSkillMagnetismInfo
-msgid "Magnitism skill."
-msgstr "Manyetizma becerisi."
+#~ msgid "english"
+#~ msgstr "ingilizce"
 
-#. StoreItemResetAchievementPointsInfo
-msgid "Resetting spent achievement points."
-msgstr "Harcanan başarı puanları sıfırlanıyor."
+#~ msgid "Magnitism skill."
+#~ msgstr "Manyetizma becerisi."
 
-#. StoreItemPowerRecoveringInfo
-msgid "Increased blow force recovery rate."
-msgstr "Artmış darbe gücü iyileşme hızı."
+#~ msgid "Resetting spent achievement points."
+#~ msgstr "Harcanan başarı puanları sıfırlanıyor."
 
-#. StoreItemMinObjectIncreaseInfo
-msgid "Increasing the minimum number of objects on the field."
-msgstr "Sahadaki en az nesnelerin sayısını arttırma."
+#~ msgid "Increased blow force recovery rate."
+#~ msgstr "Artmış darbe gücü iyileşme hızı."
 
-#. StoreItemMineObjectInfo
-msgid "Mine object."
-msgstr "Mayın nesnesi."
+#~ msgid "Increasing the minimum number of objects on the field."
+#~ msgstr "Sahadaki en az nesnelerin sayısını arttırma."
 
-#. StoreItemJumpFeatureInfo
-msgid "Jump feature."
-msgstr "Atlama özelliği."
+#~ msgid "Mine object."
+#~ msgstr "Mayın nesnesi."
 
-#. StoreItemBallCatchFeatureInfo
-msgid "Ball catch feature."
-msgstr "Top yakalama özelliği."
+#~ msgid "Jump feature."
+#~ msgstr "Atlama özelliği."
 
-#. IncompatableSaveMessage
-msgid "The loaded save belongs to a newer version of the game"
-msgstr "Açılmış kayıt oyunun daha yeni bir sürümüne ait"
+#~ msgid "Ball catch feature."
+#~ msgstr "Top yakalama özelliği."
+
+#~ msgid "The loaded save belongs to a newer version of the game"
+#~ msgstr "Açılmış kayıt oyunun daha yeni bir sürümüne ait"
