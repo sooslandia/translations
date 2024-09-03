@@ -80,6 +80,7 @@ def generate_pot_file(project_path):
     with english_file.open("r") as f:
         lng = json.load(f)
     lng.pop("Culture")
+    lng.pop("Language")
     source = []
     for identifier, string in lng.items():
         source.append(f"# {identifier}")
