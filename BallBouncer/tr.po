@@ -1,0 +1,1264 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the BallBouncer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BallBouncer\n"
+"Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
+"POT-Creation-Date: 2024-09-03 17:30+0000\n"
+"PO-Revision-Date: 2024-09-03 23:54+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Bookmarks: 139,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+
+#. AchievementPoints
+#, python-brace-format
+msgid "Achievement points: {0}."
+msgstr "Başarı puanları: {0}."
+
+#. AchievementPointsTotal
+#, python-brace-format
+msgid "{0} achievement points received in total."
+msgstr "Toplam {0} başarı puanı alındı."
+
+#. AuraLeaderText
+#, python-brace-format
+msgid ""
+"Leader's aura: level {0}. For each level, adds one percent to the points "
+"received."
+msgstr ""
+"Liderin aurası: seviye {0}. Her seviye için alınan puana yüzde bir ekler."
+
+#. AuraTimeText
+#, python-brace-format
+msgid ""
+"Time Aura: level {0}. For each level, adds 5 seconds to the maximum playing "
+"time."
+msgstr ""
+"Zaman Aurası: seviye {0}. Her seviye için oyun süresine 5 saniye ekler."
+
+#. AuraUpgradeButton
+#, python-brace-format
+msgid "Upgrade for {0} achievement points"
+msgstr "{0} Başarı puanı ile yükselt"
+
+#. BallLoopSelectionMenuSound
+#, python-brace-format
+msgid "Sound {0}."
+msgstr "Ses {0}."
+
+#. BallLoopSelectionMenuTitle
+msgid "Select the ball sound."
+msgstr "Top sesini seç."
+
+#. BallLoopSelectionMenuTitleWithHint
+msgid ""
+"Select the ball sound. Use the up and down arrows to move. To listen to the "
+"sound, press Spacebar. To confirm your selection, press enter."
+msgstr ""
+"Top sesini seç. Gezinmek için yukarı ve aşağı okları kullanın. Sesi dinlemek "
+"için boşluk tuşuna basın. Seçiminizi onaylamak için enter'a basın."
+
+#. CheckUpdatesScreenChecking
+msgid "Checking..."
+msgstr "Kontrol ediliyor..."
+
+#. CheckUpdatesScreenNoUpdates
+msgid "You have the latest version."
+msgstr "Sizde son sürüm var."
+
+#. FileSizeBytes
+#, python-brace-format
+msgid "{0} b"
+msgstr "{0} b"
+
+#. FileSizeGigabytes
+#, python-brace-format
+msgid "{0} GB"
+msgstr "{0} GB"
+
+#. FileSizeKilobytes
+#, python-brace-format
+msgid "{0} kb"
+msgstr "{0} kb"
+
+#. FileSizeMegabytes
+#, python-brace-format
+msgid "{0} mb"
+msgstr "{0} mb"
+
+#. GamePoints
+#, python-brace-format
+msgid "{0} points scored in this game."
+msgstr "Bu oyunda {0} puan alındı."
+
+#. GameResultScreenCoins
+#, python-brace-format
+msgid "Got {0} coins."
+msgstr "{0} Para alındı."
+
+#. GameResultScreenPoints
+#, python-brace-format
+msgid "{0} points scored."
+msgstr "{0} Puan alındı."
+
+#. GameResultScreenTitle
+msgid "Results of the last game."
+msgstr "Son oyunun sonuçları."
+
+#. GameResultScreenTitleWithHint
+msgid ""
+"Results of the last game. Use the down and up arrows to navigate through the "
+"menu. To close the menu, press enter at any item."
+msgstr ""
+"Son oyunun sonuçları. Menüde gezinmek için aşağı ve yukarı okları kullanın. "
+"Menüyü kapatmak için herhangi bir öğenin üzerinde enter'a basın."
+
+#. GameRewardAvailableDialog
+msgid "A reward is available! Get it in your profile on the statistics tab!"
+msgstr ""
+"Bir ödül var! Ödülü profil menüsünde istatistikler sekmesinden alabilirsiniz!"
+
+#. GameTimeToEnd
+#, python-brace-format
+msgid "{0} seconds left until the end of the game."
+msgstr "Oyunun bitişine {0} saniye kaldı."
+
+#. IncompatableSaveMessage
+msgid ""
+"The loaded save belongs to a newer version of the game\n"
+"and contains data that will be lost.\n"
+"Therefore, the save is considered incompatible.\n"
+"The game will be closed."
+msgstr ""
+"Açılan kayıt oyunun daha yeni bir sürümüne ait\n"
+"ve kaybolacak veriler içeriyor.\n"
+"Bundan dolayı, kayıt uyumsuz kabul edilir.\n"
+"Oyun kapatılacak."
+
+#. IncompatableSaveTitle
+msgid "Incompatible save"
+msgstr "Uyumsuz kayıt"
+
+#. LearnSoundsBatHitSuccess
+msgid "Successfully hit the ball with the bat."
+msgstr "Topa sopayla başarılı vuruş yapıldı."
+
+#. LearnSoundsCeilBounce
+msgid "The ball bounced off the ceiling."
+msgstr "Top tavandan sekti."
+
+#. LearnSoundsFineStanding
+msgid "You are starting to be fined for standing in one place for too long."
+msgstr ""
+"Aynı yerde çok uzun süre durduğunuz için cezalandırılmaya başlıyorsunuz."
+
+#. LearnSoundsFineSwinging
+msgid "Penalty for frequent misses with the bat on the ball."
+msgstr "Topa vuruşta sık ıskalama için ceza."
+
+#. LearnSoundsForceFull
+msgid "character's blow force has been fully restored."
+msgstr "oyuncunun vuruş gücü tamamıyla geri geldi."
+
+#. LearnSoundsObjectDestroy
+msgid "Object destruction alert."
+msgstr "Yok edilen nesne uyarısı."
+
+#. LearnSoundsObjectHit
+msgid "Ball hit an object alert."
+msgstr "Top nesneye vurdu uyarısı."
+
+#. LearnSoundsPerfectHit
+msgid "A perfect strike."
+msgstr "Mükemmel vuruş."
+
+#. LearnSoundsScoresUnderNeg500
+msgid "The points dropped below minus five hundred."
+msgstr "Puan eksi beş yüzün altına düştü."
+
+#. LearnSoundsTitle
+msgid "Learn sounds menu."
+msgstr "Sesleri öğren menüsü."
+
+#. LearnSoundsTitleWithHint
+msgid ""
+"Learn sounds menu. Use the up and down arrows to move. To listen to the "
+"sound, press enter. To exit the menu, press the corresponding menu item or "
+"the escape key."
+msgstr ""
+"Sesleri öğren menüsü. Gezinmek için yukarı ve aşağı okları kullanın. sesi "
+"dinlemek için enter'a basın. menüden çıkmak için ilgili menü öğesine veya "
+"escape tuşuna basın."
+
+#. MainMenuExitGame
+msgid "Exit the game."
+msgstr "Oyundan çık."
+
+#. MainMenuOptions
+msgid "Settings."
+msgstr "Ayarlar."
+
+#. MainMenuProfile
+msgid "Profile."
+msgstr "Profil."
+
+#. MainMenuStartGame
+msgid "Start game."
+msgstr "Oyunu başlat."
+
+#. MainMenuStore
+msgid "Shop."
+msgstr "Mağaza."
+
+#. MainMenuTitle
+msgid "Main menu."
+msgstr "Ana menü."
+
+#. MainMenuTitleWithHint
+msgid ""
+"Main menu. Use the up and down arrows to move. To select a menu item, press "
+"enter."
+msgstr ""
+"Ana menü. Gezinmek için yukarı veya aşağı okları kullanın. Bir menü öğesini "
+"seçmek için enter'a basın."
+
+#. ModeSelectionMenuBack
+msgid "Return to main menu."
+msgstr "Ana menüye geri dön."
+
+#. ModeSelectionMenuNormalMode
+msgid "Normal game."
+msgstr "Normal oyun."
+
+#. ModeSelectionMenuPracticeMode
+msgid "Training mode."
+msgstr "Antrenman modu."
+
+#. ModeSelectionMenuTitle
+msgid "Select a game mode."
+msgstr "Bir oyun modu seçin."
+
+#. ModeSelectionMenuTitleWithHint
+msgid ""
+"Select a game mode. Use the up and down arrows to move. To confirm your "
+"selection, press enter."
+msgstr ""
+"Bir oyun modu seçin. Gezinmek için yukarı ve aşağı okları kullanın. "
+"Seçiminizi onaylamak için enter'a basın."
+
+#. NumberNotationsEmpty
+msgid "No notation."
+msgstr "Notasyon yok."
+
+#. NumberNotationsEngineering
+msgid "Engineering."
+msgstr "Mühendislik."
+
+#. NumberNotationsLetter
+msgid "Letter."
+msgstr "Harf."
+
+#. NumberNotationsScientific
+msgid "Scientific."
+msgstr "Bilimsel."
+
+#. NumberNotationsStandard
+msgid "Standard."
+msgstr "Standart."
+
+#. OptionsScreenAllowOverMaxVolume
+msgid "Allow audio volume boost up to two hundred percent"
+msgstr "Ses düzeyinin yüzde iki yüze kadar arttırılmasına izin ver"
+
+#. OptionsScreenAllowPlayObjectNotifySounds
+msgid ""
+"Play alert sounds when the ball collides with or destroys objects on the "
+"field"
+msgstr "Top sahadaki nesnelere çarptığında veya yok ettiğinde uyarı sesi çal"
+
+#. OptionsScreenBatHitSuccessSound
+msgid "Play a sound when the ball is successfully hit with the bat"
+msgstr "Top sopayla başarılı bir şekilde vurulduğunda ses çal"
+
+#. OptionsScreenCatigoriesBehaviour
+msgid "Behavior"
+msgstr "Davranış"
+
+#. OptionsScreenCatigoriesGeneral
+msgid "General"
+msgstr "Genel"
+
+#. OptionsScreenCatigoriesSound
+msgid "Sound"
+msgstr "Ses"
+
+#. OptionsScreenChangeBallLoopSoundButton
+msgid "Change ball sound"
+msgstr "Top sesini değiştir"
+
+#. OptionsScreenChangeLanguageButton
+msgid "Change language"
+msgstr "Dil değiştir"
+
+#. OptionsScreenCheckForUpdates
+msgid "Check for updates"
+msgstr "Güncelleştirmeleri kontrol et"
+
+#. OptionsScreenCheckForUpdatesOnStartup
+msgid "Check for updates on startup"
+msgstr "Başlangıçta güncelleştirmeleri kontrol et"
+
+#. OptionsScreenCloseButton
+msgid "Close"
+msgstr "Kapat"
+
+#. OptionsScreenDisplayTitleHints
+msgid "Show navigation hints in menu titles"
+msgstr "Menü başlıklarında dolaşım ipuçlarını göster"
+
+#. OptionsScreenGameVolumeSlider
+msgid "Game volume"
+msgstr "Oyun ses düzeyi"
+
+#. OptionsScreenLearnSounds
+msgid "Learn game sounds"
+msgstr "Oyun seslerini öğren"
+
+#. OptionsScreenMusicVolumeSlider
+msgid "Music volume"
+msgstr "Müzik ses düzeyi"
+
+#. OptionsScreenNumberNotationSelector
+msgid "Notation for displaying numbers"
+msgstr "Sayıları görüntülemek için notasyon"
+
+#. OptionsScreenPauseGameWhenWindowLostsFocus
+msgid "Pause the game when switching to another window"
+msgstr "Başka bir pencereye geçildiğinde oyunu duraklat"
+
+#. OptionsScreenPrefereSapi
+msgid "Prefer sapi to screen reader"
+msgstr "Ekran okuyucusu yerine sapi'yi tercih et"
+
+#. OptionsScreenShowResultMenu
+msgid "Show results menu at the end of the game"
+msgstr "Oyun sonunda sonuçları göster"
+
+#. OptionsScreenShowRewardAvailableDialog
+msgid "Show notification if reward is available at end of game"
+msgstr "Oyun sonunda ödül varsa bildirim göster"
+
+#. OptionsScreenShowUpdateCheckErrorOnStartup
+msgid "Show an error if it was not possible to check for updates at startup"
+msgstr "Başlangıçta güncelleştirmeler kontrol edilemediğinde hata göster"
+
+#. OptionsScreenSoundPanRepresentationMode
+msgid "Sound Panning Mode"
+msgstr "Ses yaslanma modu"
+
+#. OptionsScreenSoundPanRepresentationModeNarrowedCenter
+msgid "Narrowed center"
+msgstr "Daraltılmış orta"
+
+#. OptionsScreenSoundPanRepresentationModeNormal
+msgid "Normal"
+msgstr "Normal"
+
+#. OptionsScreenTitle
+msgid "Settings screen."
+msgstr "Ayarlar ekranı."
+
+#. OptionsScreenTitleWithHint
+msgid ""
+"Settings screen. Use tab and shift+tab to move forward and backward. Use the "
+"arrow keys to change the position of the sliders. To activate the selected "
+"item, press enter or spacebar."
+msgstr ""
+"Ayarlar ekranı. İleri veya geri gitmek için tab ve shift+tab tuşlarını "
+"kullanın. Sürgülerin pozisyonunu değiştirmek için ok tuşlarını kullanın. "
+"Seçili öğeyi etkinleştirmek için enter veya boşluk tuşunu kullanın."
+
+#. PauseMenuAbortGame
+msgid "Abort the game and return to the main menu."
+msgstr "Oyunu terk et ve ana menüye geri dön."
+
+#. PauseMenuContinueGame
+msgid "Continue game."
+msgstr "Oyuna devam et."
+
+#. PauseMenuGameInfo
+#, python-brace-format
+msgid ""
+"{0} points scored in this game. The ball collided with objects {1} times, "
+"destroyed {2} objects, and bounced off the floor {3} times. You hit the ball "
+"{4} times."
+msgstr ""
+"Bu oyunda {0} puan alındı. Top nesnelere {1} defa çarptı, {2} nesneyi yok "
+"etti ve yerden {3} defa sekti. Topa {4} defa vurdunuz."
+
+#. PauseMenuPracticeModeActive
+msgid "Training mode is active."
+msgstr "Antrenman modu etkin."
+
+#. PauseMenuTimeToEnd
+#, python-brace-format
+msgid "The game will end in {0} seconds."
+msgstr "Oyun {0} saniye içinde bitecek."
+
+#. PauseMenuTitle
+msgid "Pause menu."
+msgstr "Duraklama menüsü."
+
+#. PauseMenuTitleWithHint
+msgid ""
+"Pause menu. Use the up and down arrows to move. To activate the selected "
+"item, press enter."
+msgstr ""
+"Duraklama menüsü. Gezinmek için yukarı ve aşağı okları kullanın. Seçili "
+"öğeyi etkinleştirmek için enter'a basın."
+
+#. ProfileAurasPageTitle
+msgid "Auras"
+msgstr "Auralar"
+
+#. ProfileSkillsPageTitle
+#. StoreCatigoriesSkills
+msgid "Skills"
+msgstr "Beceriler"
+
+#. ProfileStatsPageTitle
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#. ProfileTitle
+msgid "Your profile."
+msgstr "Profiliniz."
+
+#. ProfileTitleWithHint
+msgid ""
+"Your profile. Use tab and shift+tab to move forwards and backwards. To "
+"receive a reward in statistics, press enter on the item with an available "
+"reward."
+msgstr ""
+"Profiliniz. İleri geri gitmek için tab ve shift+tab tuşlarını kullanın. "
+"İstatistiklerde bir ödül almak için ödül olan öğenin üzerinde enter tuşuna "
+"basın."
+
+#. SkillsBallLeapLevelInfoText
+#, python-brace-format
+msgid ""
+"Level {0}. The character makes a rapid dash towards the ball, located no "
+"higher than {1} cells above the ground, The cooldown interval is {2} seconds."
+msgstr ""
+"Seviye {0}. Oyuncu, Yerden {1} hücreden fazla olmayan yükseklikte bulunan "
+"topa hızlı bir şekilde koşar, bekleme süresi {2} saniyedir."
+
+#. SkillsBallLeapName
+msgid "furious leap"
+msgstr "öfkeli sıçrayış"
+
+#. SkillsBallLeapNameFull
+msgid "Furious leap."
+msgstr "Öfkeli sıçrayış."
+
+#. SkillsBallLeapText
+#, python-brace-format
+msgid ""
+"Furious leap: level {0}/4. The character makes a rapid dash towards the "
+"ball, located no higher than {1} cells above the ground, cooldown interval "
+"is {2} seconds."
+msgstr ""
+"Öfkeli sıçrayış: Seviye {0}/4. Oyuncu, Yerden {1} hücreden fazla olmayan "
+"yükseklikte bulunan topa hızlıca koşar, bekleme süresi {2} saniyedir."
+
+#. SkillsEmpty
+msgid "You haven't unlocked any skills yet."
+msgstr "Henüz hiçbir beceri açmadınız."
+
+#. SkillsImmaterialityLevelInfoText
+#, python-brace-format
+msgid ""
+"Level {0}. The ball goes immaterial for {1} seconds, cooldown interval is "
+"{2} seconds."
+msgstr ""
+"Seviye {0}. Top {1} saniyeliğine etkisiz bir duruma geçer, bekleme süresi "
+"{2} saniyedir."
+
+#. SkillsImmaterialityName
+#. SkillsImmaterialityNameFull
+msgid "immateriality"
+msgstr "etkisizlik"
+
+#. SkillsImmaterialityText
+#, python-brace-format
+msgid ""
+"Immateriality: level {0}/3. The ball goes immaterial for {1} seconds, "
+"cooldown interval is {2} seconds."
+msgstr ""
+"Etkisizlik: Seviye {0}/3. Topu {1} saniye boyunca hiçbir nesne etkilemez, "
+"bekleme süresi {2} saniyedir."
+
+#. SkillsLevelInfo
+msgid "List of skill effects by level."
+msgstr "Seviyeye göre beceri etkileri listesi."
+
+#. SkillsListTitle
+msgid "Unlocked Skills"
+msgstr "Açılmış beceriler"
+
+#. SkillSlotRecharging
+#, python-brace-format
+msgid "{0} seconds before skill cooldown."
+msgstr "Beceri bekleme süresi öncesi {0} saniye."
+
+#. SkillSlotSelectCanceled
+msgid "Selection canceled"
+msgstr "Seçim iptal edildi"
+
+#. SkillSlotSelected
+#, python-brace-format
+msgid "Skill {0} is selected."
+msgstr "{0} Becerisi seçildi."
+
+#. SkillSlotSetterMenuBack
+msgid "Go back."
+msgstr "Geri dön."
+
+#. SkillSlotSetterMenuTitle
+msgid "Select a skill to install in the slot."
+msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+
+#. SkillSlotSetterMenuTitleWithHint
+msgid ""
+"Select a skill to install in the slot. Use the up and down arrows to select "
+"and press enter to confirm your selection."
+msgstr ""
+"Yuvaya yerleştirilecek bir beceri seçin. Seçmek için yukarı ve aşağı okları "
+"kullanın ve seçiminizi onaylamak için enter'a basın."
+
+#. SkillSlotsTitle
+msgid "Slots"
+msgstr "Yuvalar"
+
+#. SkillSlotText
+#, python-brace-format
+msgid "Slot {0}. {1}"
+msgstr "Yuva {0}. {1}"
+
+#. SkillsMagnetismLevelInfoText
+#, python-brace-format
+msgid ""
+"Level {0}. The ball receives an effect that attracts it to nearby objects "
+"for {1} seconds, cooldown interval is {2} seconds."
+msgstr ""
+"Seviye {0}. Top, kendisini yakındaki nesnelere çeken {1} saniye süren bir "
+"etkiye sahip olur, bekleme süresi {2} saniyedir."
+
+#. SkillsMagnetismName
+msgid "magnetism"
+msgstr "manyetizma"
+
+#. SkillsMagnetismNameFull
+msgid "Magnetism."
+msgstr "Manyetizma."
+
+#. SkillsMagnetismText
+#, python-brace-format
+msgid ""
+"Magnetism: level {0}/4. The ball receives an effect that attracts it to "
+"nearby objects for {1} seconds, cooldown interval is {2} seconds."
+msgstr ""
+"Manyetizma: Seviye {0}/4. Top, kendisini yakındaki nesnelere çeken, {1} "
+"saniye süren bir etkiye sahip olur, bekleme süresi {2} saniyedir."
+
+#. SkillsNoneNameFull
+msgid "Not set."
+msgstr "Ayarlanmamış."
+
+#. SkillsObjectSpawnerLevelInfoText
+#, python-brace-format
+msgid ""
+"Level {0}. The  swing of the bat creates {1} objects on the field, cooldown "
+"interval is {2} seconds."
+msgstr ""
+"Seviye {0}. Sopanın savrulması sahada {1} nesne oluşturur, bekleme süresi "
+"{2} saniyedir."
+
+#. SkillsObjectSpawnerName
+msgid "creator's stroke"
+msgstr "mucidin vuruşu"
+
+#. SkillsObjectSpawnerNameFull
+msgid "Creator's stroke."
+msgstr "Mucidin vuruşu."
+
+#. SkillsObjectSpawnerText
+#, python-brace-format
+msgid ""
+"Creator's stroke: level {0}/4. Swinging the bat creates {1} objects on the "
+"field, cooldown interval is {2} seconds."
+msgstr ""
+"Mucidin vuruşu: Seviye {0}/4. Sopanın savrulması sahada {1} nesne oluşturur, "
+"bekleme süresi {2} saniyedir."
+
+#. SkillsShadowStrikeLevelInfoText
+#, python-brace-format
+msgid ""
+"Level {0}. The range of the strike is {1} cells up, can destroy {2} objects, "
+"cooldown interval is {3} seconds."
+msgstr ""
+"Seviye {0}. Vuruş menzili {1} hücre yukarıdır, {2} nesne yok edebilir, "
+"bekleme süresi {3} saniyedir."
+
+#. SkillsShadowStrikeName
+msgid "phantom strike"
+msgstr "hayalet vuruş"
+
+#. SkillsShadowStrikeNameFull
+msgid "Phantom strike."
+msgstr "Hayalet vuruş."
+
+#. SkillsShadowStrikeText
+#, python-brace-format
+msgid ""
+"Phantom strike: level {0}/5. The range of the strike is {1} cells up, can "
+"destroy {2} objects, cooldown interval is {3} seconds."
+msgstr ""
+"Hayalet vuruş: Seviye {0}/5. Vuruş menzili {1} hücre yukarıdır, {2} nesne "
+"yok edebilir, bekleme süresi {3} saniyedir."
+
+#. SkillsSuperElasticityLevelInfoText
+#, python-brace-format
+msgid ""
+"Level {0}. For {1} seconds the ball bounces off objects an order of "
+"magnitude stronger, cooldown interval is {2} seconds."
+msgstr ""
+"Seviye {0}. {1} saniye boyunca top nesnelerden daha güçlü seker, bekleme "
+"süresi {2} saniyedir."
+
+#. SkillsSuperElasticityName
+msgid "superelasticity"
+msgstr "süper esneklik"
+
+#. SkillsSuperElasticityNameFull
+msgid "Superelasticity."
+msgstr "Süper esneklik."
+
+#. SkillsSuperElasticityText
+#, python-brace-format
+msgid ""
+"Superelasticity: level {0}/4. For {1} seconds the ball bounces off objects "
+"an order of magnitude stronger, cooldown interval is {2} seconds."
+msgstr ""
+"Süper esneklik: Seviye {0}/4. {1} saniye boyunca top nesnelerden daha güçlü "
+"seker, bekleme süresi {2} saniyedir."
+
+#. StatItemBallCeilHits
+#, python-brace-format
+msgid "Number of ball bounces from the ceiling: {0}. {1}"
+msgstr "Topun tavandan sekme sayısı: {0}. {1}"
+
+#. StatItemBallFloorHits
+#, python-brace-format
+msgid "Number of ball bounces off the floor: {0}. {1}"
+msgstr "Topun yerden sekme sayısı: {0}. {1}"
+
+#. StatItemBallsCaught
+#, python-brace-format
+msgid "Total balls caught: {0}. {1}"
+msgstr "Toplam yakalanan top sayısı: {0}. {1}"
+
+#. StatItemBatHits
+#, python-brace-format
+msgid "Number of balls hit: {0}. {1}"
+msgstr "Toplam vurulan top sayısı: {0}. {1}"
+
+#. StatItemDestroyedObjects
+#, python-brace-format
+msgid "Number of objects destroyed: {0}. {1}"
+msgstr "Yok edilen nesne sayısı: {0}. {1}"
+
+#. StatItemMaximumPoints
+#, python-brace-format
+msgid "Maximum points per game: {0}. {1}"
+msgstr "Oyun başına maksimum puan: {0}. {1}"
+
+#. StatItemObjectHits
+#, python-brace-format
+msgid "Number of collisions with objects: {0}. {1}"
+msgstr "Nesnelere çarpma sayısı: {0}. {1}"
+
+#. StatItemPerfectHitsStreak
+#, python-brace-format
+msgid "Perfect strikes made in a row: {0}. {1}"
+msgstr "Art arda yapılan mükemmel vuruşlar: {0}. {1}"
+
+#. StatItemStepsMade
+#, python-brace-format
+msgid "Number of steps made: {0}. {1}"
+msgstr "Atılan adım sayısı: {0}. {1}"
+
+#. StatItemTotalGamingTime
+#, python-brace-format
+msgid "Total time spent on the playing field: {0}. {1}"
+msgstr "Oyun sahasında geçirilen toplam zaman: {0}. {1}"
+
+#. StatItemTotalPoints
+#, python-brace-format
+msgid "Total points scored: {0}. {1}"
+msgstr "Toplam kazanılan puan: {0}. {1}"
+
+#. StatItemTotalSkillsUsed
+#, python-brace-format
+msgid "Total skills used: {0}. {1}"
+msgstr "Toplam beceri kullanımı: {0}. {1}"
+
+#. StatItemTotalTime
+#, python-brace-format
+msgid "Total time spent in the application: {0}. {1}"
+msgstr "Uygulamada toplam geçirilen zaman: {0}. {1}"
+
+#. StatRewardAvailable
+#, python-brace-format
+msgid "Reward is available. Rewards received: {0}."
+msgstr "Ödül var. Alınan ödüller: {0}"
+
+#. StatRewardError
+msgid "The reward is not yet available."
+msgstr "Ödül henüz yok."
+
+#. StatRewardRequirements
+#, python-brace-format
+msgid "Until reward: {0}. Rewards received: {1}."
+msgstr "Ödüle kadar: {0}. Alınan ödüller: {1}."
+
+#. StatRewardsTotal
+#, python-brace-format
+msgid "{0} awards received in total."
+msgstr "Toplam {0} ödül alındı."
+
+#. StoreButtonReset
+#, python-brace-format
+msgid "Reset for {0} coins"
+msgstr "Sıfırlama: {0} para"
+
+#. StoreButtonUnlock
+#, python-brace-format
+msgid "Unlock for {0} coins"
+msgstr "Aç: {0} para"
+
+#. StoreButtonUnlockObjectUnlocked
+msgid "Object unlocked."
+msgstr "Nesne açıldı."
+
+#. StoreButtonUnlockSkillUnlocked
+msgid "Skill unlocked."
+msgstr "Beceri açıldı."
+
+#. StoreButtonUnlockUnlocked
+msgid "Feature unlocked"
+msgstr "Özellik açıldı"
+
+#. StoreButtonUpgrade
+#, python-brace-format
+msgid "Upgrade for {0} coins"
+msgstr "Yükselt: {0} para"
+
+#. StoreButtonUpgradeMaxed
+msgid "Maxed out"
+msgstr "Maksimum seviyede"
+
+#. StoreBuyError1
+msgid "Error: Not enough coins."
+msgstr "Hata: yeterli para yok."
+
+#. StoreBuyError2
+msgid "Error: This upgrade is already at maximum level."
+msgstr "Hata: Bu güncelleme zaten maksimum seviyede."
+
+#. StoreBuyError3
+msgid "Error: This feature is already unlocked."
+msgstr "Hata: Bu özellik zaten açılmış."
+
+#. StoreBuyError4
+msgid "Error: Not enough achievement points."
+msgstr "Hata: Yeterli başarı puanı yok."
+
+#. StoreBuyError5
+msgid "Error: no achievement points were spent."
+msgstr "Hata: Hiçbir başarı puanı harcanmadı."
+
+#. StoreBuyError6
+msgid "Error: This skill is already at maximum level."
+msgstr "Hata: Bu beceri zaten maksimum seviyede."
+
+#. StoreBuyError7
+msgid "Error: This skill is already unlocked"
+msgstr "Hata: Bu beceri zaten açılmış"
+
+#. StoreBuyError8
+msgid "Error: This object is already unlocked."
+msgstr "Hata: Bu nesne zaten açılmış."
+
+#. StoreCatigories
+msgid "Categories"
+msgstr "Kategoriler"
+
+#. StoreCatigoriesCharacter
+msgid "Character"
+msgstr "Oyuncu"
+
+#. StoreCatigoriesObjects
+msgid "Objects"
+msgstr "Nesneler"
+
+#. StoreCoins
+#, python-brace-format
+msgid "Coins: {0}."
+msgstr "Paralar: {0}"
+
+#. StoreInfoTitle
+msgid "Reference Information:"
+msgstr "Kullanım bilgisi:"
+
+#. StoreInfoTitleWithHint
+msgid ""
+"Reference Information. Use the up and down arrows to move. To exit the menu, "
+"press escape or enter at any item."
+msgstr ""
+"Kullanım bilgisi. Gezinmek için yukarı ve aşağı okları kullanın. Menüden "
+"çıkmak için escape tuşuna veya herhangi bir öğenin üzerinde enter tuşuna "
+"basın."
+
+#. StoreItemBallCatchFeatureInfo
+msgid ""
+"Ball catch feature.\n"
+"To try to catch the ball, press left or right control during the game.\n"
+"The ball can only be caught if it is close to you.\n"
+"If the attempt is successful, the sound of the ball will disappear from the "
+"playing field, and you will be able to throw it again.\n"
+"This mechanic can be used in your scoring strategies or just for fun, but it "
+"is initially useful when used in conjunction with certain skills."
+msgstr ""
+"Top yakalama özelliği\n"
+"Oyunu yakalamaya çalışmak için, oyun süresince sol veya sağ kontrole basın.\n"
+"Top sadece size yakınken yakalanabilir.\n"
+"Girişim başarılı olursa, topun sesi oyun sahasından kaybolur ve topu tekrar "
+"atabilirsiniz.\n"
+"Bu mekanik skor stratejilerinizde veya sadece eğlence amaçlı kullanılabilir, "
+"ama esas olarak belli becerilerle birlikte kullanıldığında yararlıdır."
+
+#. StoreItemBallCatchFeatureText
+msgid "Unlock the ball catch feature"
+msgstr "Top yakalama özelliğini aç"
+
+#. StoreItemJumpFeatureInfo
+msgid ""
+"Jump feature.\n"
+"To jump, press the up arrow or the w key during the game.\n"
+"Jumping is useful in scenarios where you want to hit a ball that hasn't yet "
+"bounced off the floor.\n"
+"Or when you missed a good moment to strike, but still want to hit the ball.\n"
+"In this case, all you need to do is jump and swing the bat at the right "
+"moment.\n"
+"It is also easier to catch the ball while jumping if you have this feature "
+"unlocked."
+msgstr ""
+"Atlama özelliği.\n"
+"Atlamak için, oyun süresince yukarı oka veya w tuşuna basın.\n"
+"atlamak, henüz yerden sekmemiş bir topa vurarken\n"
+"Veya iyi bir vuruş anını kaçırdığınızda, ancak hala topa vurmak "
+"istediğinizde yararlıdır.\n"
+"Bu durumda, tüm yapmanız gereken atlamak ve sopayı doğru zamanda "
+"savurmaktır.\n"
+"Bu özellik açıksa atlarken topu yakalamak daha kolaydır."
+
+#. StoreItemJumpFeatureText
+msgid "Unlock the  jump feature"
+msgstr "Atlama özelliğini aç"
+
+#. StoreItemMineObjectInfo
+msgid ""
+"Mine object.\n"
+"The ball's collision with this object causes an explosion that violently "
+"pushes the ball away and destroys nearby objects.\n"
+"If a mine's explosion hits another mine, it will explode, thereby creating a "
+"chain of explosions."
+msgstr ""
+"Mayın nesnesi.\n"
+"Topun bu nesneye çarpması topu şiddetle ittiren ve yakındaki nesneleri yok "
+"eden bir patlamaya yol açar.\n"
+"Bir mayının patlaması başka bir mayına denk gelirse o da patlar, böylelikle "
+"patlama zinciri oluşturur."
+
+#. StoreItemMineObjectText
+msgid "Unlock the mine object."
+msgstr "Mayın nesnesini aç."
+
+#. StoreItemMinObjectIncreaseInfo
+msgid ""
+"Increasing the minimum number of objects on the field.\n"
+"Initially, the minimum number of objects is twenty-five.\n"
+"When there are fewer objects on the field than this value, as many new "
+"objects are added as are not enough to equal this number.\n"
+"Each upgrade level increases this value by one."
+msgstr ""
+"Sahadaki minimum nesnelerin sayısını arttırma.\n"
+"Başlangıçta, sahadaki en az nesne sayısı yirmi-beştir.\n"
+"Sahada bu değerden daha az nesne bulunduğunda, bu sayıya eşitlenmesi için "
+"sahadaki olmayan nesne sayısı kadar nesne oluşturulur.\n"
+"Her yükseltme seviyesi bu değeri bir arttırır."
+
+#. StoreItemMinObjectIncreaseText
+#, python-brace-format
+msgid "minimum number of objects on the field increase: level {0}/10."
+msgstr "alanda en az nesne sayısı artışı: seviye {0}/10."
+
+#. StoreItemPowerRecoveringInfo
+msgid ""
+"Increased blow force recovery rate.\n"
+"The upgrade significantly increases the speed at which the force of a blow "
+"is restored after each swing of the bat."
+msgstr ""
+"Artmış darbe gücü iyileşme hızı.\n"
+"Yüıkselme, her darbeden sonra sopanın gücünün geri gelme hızını belirgin "
+"derecede arttırır."
+
+#. StoreItemPowerRecoveringText
+#, python-brace-format
+msgid "Increased blow force recovery rate: level {0}/10"
+msgstr "Artmış vuruş gücünün iyileşme hızı: Seviye {0}/10"
+
+#. StoreItemResetAchievementPointsInfo
+msgid ""
+"Resetting spent achievement points.\n"
+"When reset, the levels of auras and skills are reset to zero, and all "
+"achievement points spent on upgrading them are returned to you."
+msgstr ""
+"Harcanan başarı puanlarını sıfırlama.\n"
+"Sıfırlandığında, auraların ve becerilerin seviyeleri sıfıra sıfırlanır ve "
+"onları yükseltmek için harcadığınız tüm başarı puanları size iade edilir."
+
+#. StoreItemResetAchievementPointsQuestion
+msgid ""
+"Do you really want to reset the distribution of achievement points for a "
+"hundred coins?"
+msgstr "Gerçekten başarı puanlarını yüz paraya sıfırlamak istiyor musunuz?"
+
+#. StoreItemResetAchievementPointsText
+msgid "Reset spent achievement points."
+msgstr "Harcanan başarı puanlarını sıfırla."
+
+#. StoreItemSkillBallLeapInfo
+msgid ""
+"Furious leap skill.\n"
+"The character makes a rapid dash towards the ball, which is close to the "
+"ground.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Wait for the right moment to use.\n"
+"Then swing the bat, the character will do the rest on his own.\n"
+"If the ball is out of range, the skill will fail and will go on cooldown."
+msgstr ""
+"Öfkeli sıçrayış becerisi.\n"
+"Oyuncu, yere yakın olan topa doğru hızlı bir şekilde koşar.\n"
+"Kullanım:\n"
+"Bu becerinin yerleştirildiği yuvayı seçin.\n"
+"Kullanmak için doğru zamanı bekleyin.\n"
+"Sonra sopayı savurun, oyuncu geri kalanı kendisi yapacaktır.\n"
+"Top menzil dışındaysa, beceri başarısız olur ve beklemeye geçer."
+
+#. StoreItemSkillBallLeapText
+msgid "Furious leap skill."
+msgstr "Öfkeli sıçrayış becerisi."
+
+#. StoreItemSkillImmaterialityInfo
+msgid ""
+"Immateriality skill.\n"
+"When a ball is succesfully hit with a bat, it imposes an immateriality "
+"effect on the ball, which allows it not to bounce off objects, but to "
+"destroy them with one hit and continue flying along the same trajectory.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and "
+"it will go on cooldown."
+msgstr ""
+"Etkisizlik becerisi.\n"
+"Top sopayla başarılı bir şekilde vurulduğunda topa maddiyatsızlık etkisi "
+"verir, bu da topun nesnelerden sekmemesini, nesneleri tek vuruşta yok "
+"etmesini ve aynı yönde uçmaya devam etmesini sağlar.\n"
+"Kullanım:\n"
+"Bu becerinin yerleştirildiği yuvayı seçin.\n"
+"Sonra topa sopayla vurun.\n"
+"Etki başarılı bir şekilde uygulanırsa, etkinin uygulanma sesini duyarsınız.\n"
+"Topa vurmadan sopayı savurmak becerinin başarısız olmasına neden olur ve "
+"beceri beklemeye geçer."
+
+#. StoreItemSkillImmaterialityText
+msgid "Immateriality skill."
+msgstr "Etkisizlik becerisi."
+
+#. StoreItemSkillMagnetismInfo
+msgid ""
+"Magnitism skill.\n"
+"When affected by this skill, the ball is attracted to nearby objects on the "
+"playing field.\n"
+"Usage:\n"
+"Catch the ball.\n"
+"then select the slot in which this skill is installed.\n"
+"Throw the ball back onto the playing field.\n"
+"The effect will be applied immediately after the throw."
+msgstr ""
+"Manyetizma becerisi.\n"
+"Bu beceri tarafından etkilendiğinde, top oyun sahasında bulunan yakındaki "
+"nesnelere çekilir.\n"
+"Kullanım:\n"
+"Topu yakalayın.\n"
+"Sonra bu becerinin yerleştirildiği yuvayı seçin.\n"
+"Topu oyun sahasına yeniden atın\n"
+".\n"
+"Etki, atıştan hemen sonra uygulanır."
+
+#. StoreItemSkillMagnetismText
+msgid "Magnetism skill."
+msgstr "Manyetizma becerisi."
+
+#. StoreItemSkillObjectSpawnerInfo
+msgid ""
+"Creator's stroke skill.\n"
+"When you swing the bat, objects are spawned on the playing field.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then swing the bat.\n"
+"The skill will only work if the force of the blow is restored to maximum.\n"
+"Otherwise, it will go on cooldown and objects will not be generated."
+msgstr ""
+"Mucidin vuruşu becerisi.\n"
+"Sopayı savurduğunuzda oyun sahasında nesneler oluşturulur.\n"
+"Kullanım:\n"
+"Bu becerinin yerleştirildiği yuvayı seçin.\n"
+"sonra sopayı savurun\n"
+".\n"
+"Beceri sadece darbe gücü maksimum olduğunda işe yarar.\n"
+"Aksi takdirde beklemeye geçer ve nesneler oluşturulmaz."
+
+#. StoreItemSkillObjectSpawnerText
+msgid "Creator's stroke skill."
+msgstr "Mucidin vuruşu becerisi."
+
+#. StoreItemSkillShadowStrikeInfo
+msgid ""
+"Phantom Strike skill.\n"
+"Swinging the bat sends out a phantom strike that only travels upward and a "
+"certain distance, knocking down a certain number of objects in the process.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then move the character to the desired place on the field and swing the "
+"bat.\n"
+"The skill will succeed if the blow force has been restored to its maximum.\n"
+"Otherwise, it will fail and go on cooldown."
+msgstr ""
+"Hayalet vuruş becerisi.\n"
+"Sopayı savurmak, sadece yukarı ve belli bir mesafeye kadar giden, aynı "
+"zamanda nesneleri yok eden bir hayalet vuruş gönderir.\n"
+"Kullanım:\n"
+"Bu becerinin yerleştirildiği yuvayı seçin.\n"
+"Sonra oyuncuyu sahada istenen alana taşıyın ve sopayı savurun.\n"
+"Darbe gücü maksimumdaysa beceri başarılı olur.\n"
+"Aksi takdirde, başarısız olur ve beklemeye geçer."
+
+#. StoreItemSkillShadowStrikeText
+msgid "Phantom Strike skill."
+msgstr "Hayalet vuruş becerisi."
+
+#. StoreItemSkillSuperElasticityInfo
+msgid ""
+"Superelasticity skill.\n"
+"The ball becomes extremely elastic, which allows it to bounce off surfaces "
+"an order of magnitude stronger.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and "
+"it will go on cooldown."
+msgstr ""
+"Süper esneklik becerisi.\n"
+"Top çok esnek olur, bu da onun nesnelerden ve yüzeylerden daha fazla "
+"sekmesini sağlar.\n"
+"Kullanım:\n"
+"bu becerinin yerleştirildiği yuvayı seçin.\n"
+"Sonra topa sopayla vurun.\n"
+"Etki başarılı bir şekilde uygulanırsa, etkinin uygulanma sesini "
+"duyacaksınız.\n"
+"Topa vurmadan sopayı savurmak  becerinin başarısız olmasına neden olur ve "
+"beklemeye geçer."
+
+#. StoreItemSkillSuperElasticityText
+msgid "Superelasticity skill."
+msgstr "Süper esneklik becerisi."
+
+#. StoreTitle
+msgid "Welcome to the shop."
+msgstr "Mağazaya hoş geldiniz."
+
+#. StoreTitleWithHint
+msgid ""
+"Welcome to the shop. Use tab and shift+tab to move forwards and backwards on "
+"the screen. Use the up and down arrows to move through the list. To activate "
+"the selected item, press enter or spacebar."
+msgstr ""
+"Mağazaya hoş geldiniz. Ekranda gezinmek için tab ve shift+tab tuşlarını "
+"kullanın."
+
+#. TimeString1
+#, python-brace-format
+msgid "{0} d, {1} h, {2} min, {3} sec"
+msgstr "{0} g, {1} sa, {2} dk, {3} sn"
+
+#. TimeString2
+#, python-brace-format
+msgid "{0} h, {1} min, {2} sec"
+msgstr "{0} sa, {1} dk, {2} sn"
+
+#. TimeString3
+#, python-brace-format
+msgid "{0} min, {1} sec"
+msgstr "{0} dk, {1} sn"
+
+#. TimeString4
+#, python-brace-format
+msgid "{0} sec"
+msgstr "{0} sn"
+
+#. TimeStringIncorrect
+msgid "N/A"
+msgstr "Bilinmiyor"
+
+#. UpdateAvailableQuestionText
+#, python-brace-format
+msgid "A new version of the game is available: {0}. Do you want to update now?"
+msgstr "Oyunun yeni bir sürümü mevcut: {0} Şimdi güncellemek ister misiniz?"
+
+#. UpdateCheckingError
+msgid "An error occurred while checking for updates."
+msgstr "Güncellemeler kontrol edilirken bir hata oluştu."
+
+#. UpdateProcessScreenCanceled
+msgid "Cancelling..."
+msgstr "İptal ediliyor..."
+
+#. UpdateProcessScreenDownloading
+#, python-brace-format
+msgid "Downloading {0}%: {1} / {2}."
+msgstr "%{0} indiriliyor: {1} / {2}."
+
+#. UpdateProcessScreenFinished
+msgid "Installing..."
+msgstr "Kuruluyor..."
+
+#. UpdateProcessScreenFinishedWithError
+msgid ""
+"An error occurred during the update. Please try again later or download a "
+"new version from the site yourself. Press enter to continue."
+msgstr ""
+"Güncelleme sırasında bir hata oluştu. Lütfen daha sonra yeniden deneyin veya "
+"yeni sürümü siteden kendiniz indirin. devam etmek için enter tuşuna basın."
+
+#. UpdateProcessScreenStarting
+msgid "Preparing to download. Please wait."
+msgstr "İndirmeye hazırlanılıyor. Lütfen bekleyin."
+
+#. UpdateProcessScreenTitle
+msgid "The update is downloading. Please wait."
+msgstr "Güncelleme indiriliyor. Lütfen bekleyin."
+
+#. UpdateProcessScreenTitleWithHint
+msgid ""
+"The update is downloading. Please wait. To check the progress, press any "
+"arrow key."
+msgstr ""
+"Güncelleme indiriliyor. Lütfen bekleyin. İlerlemeyi kontrol etmek için "
+"herhangi bir ok tuşuna basın."
+
+#. WelcomeMenu1
+msgid ""
+"Welcome to ball bouncer. Press the up and down arrows to navigate through "
+"this menu."
+msgstr ""
+"Ball bouncer'a hoş geldiniz. Bu menüde gezinmek için yukarı ve aşağı okları "
+"kullanın."
+
+#. WelcomeMenu2
+msgid ""
+"We, the developers of this game, are glad that you downloaded this game!"
+msgstr "Biz, bu oyunun geliştiricileri, oyunu indirdiğiniz için mutluyuz!"
+
+#. WelcomeMenu3
+#, python-brace-format
+msgid ""
+"To get started, we strongly recommend that you read the help documentation "
+"for this game, which is located in {0}."
+msgstr ""
+"Başlamak için, {0} dizininde bulunan yardım dosyasını okumanızı şiddetle "
+"tavsiye ederiz."
+
+#. WelcomeMenu4
+msgid "Or press enter here to open the documentation."
+msgstr "Veya kılavuzu açmak için burada enter'a basın."
+
+#. WelcomeMenu5
+msgid "Have a great time, player."
+msgstr "Harika zaman geçirin, oyuncu."
+
+#. WelcomeMenu6
+msgid "Press enter to continue."
+msgstr "Devam etmek için Enter'a basın."
+
+#. YesOrNoScreenNo
+msgid "No"
+msgstr "Hayır"
+
+#. YesOrNoScreenYes
+msgid "Yes"
+msgstr "Evet"
+
+#~ msgid "english"
+#~ msgstr "ingilizce"
+
+#~ msgid "Magnitism skill."
+#~ msgstr "Manyetizma becerisi."
+
+#~ msgid "Resetting spent achievement points."
+#~ msgstr "Harcanan başarı puanları sıfırlanıyor."
+
+#~ msgid "Increased blow force recovery rate."
+#~ msgstr "Artmış darbe gücü iyileşme hızı."
+
+#~ msgid "Increasing the minimum number of objects on the field."
+#~ msgstr "Sahadaki en az nesnelerin sayısını arttırma."
+
+#~ msgid "Mine object."
+#~ msgstr "Mayın nesnesi."
+
+#~ msgid "Jump feature."
+#~ msgstr "Atlama özelliği."
+
+#~ msgid "Ball catch feature."
+#~ msgstr "Top yakalama özelliği."
+
+#~ msgid "The loaded save belongs to a newer version of the game"
+#~ msgstr "Açılmış kayıt oyunun daha yeni bir sürümüne ait"
