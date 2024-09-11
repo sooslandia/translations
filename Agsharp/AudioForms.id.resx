@@ -59,67 +59,67 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonControlName" xml:space="preserve">
-    <value>tombol</value>
+    <value>button</value>
   </data>
   <data name="ButtonControlUnavailable" xml:space="preserve">
-    <value>tidak tersedia</value>
+    <value> unavailable</value>
   </data>
   <data name="CheckboxControlName" xml:space="preserve">
-    <value>kotak centang</value>
+    <value>checkbox</value>
   </data>
   <data name="CheckboxStateChecked" xml:space="preserve">
-    <value>dicentang</value>
+    <value>checked</value>
   </data>
   <data name="CheckboxStateUnchecked" xml:space="preserve">
-    <value>tidak dicentang</value>
+    <value>unchecked</value>
   </data>
   <data name="EditBoxControlCapLetter" xml:space="preserve">
-    <value>Kapital</value>
+    <value>Cap</value>
   </data>
   <data name="EditBoxControlCopied" xml:space="preserve">
-    <value>disalin</value>
+    <value>copied</value>
   </data>
   <data name="EditBoxControlCut" xml:space="preserve">
-    <value>dipotong</value>
+    <value>cut</value>
   </data>
   <data name="EditBoxControlEmpty" xml:space="preserve">
-    <value>kosong</value>
+    <value>empty</value>
   </data>
   <data name="EditBoxControlName" xml:space="preserve">
     <value>edit</value>
   </data>
   <data name="EditBoxControlNoSelection" xml:space="preserve">
-    <value>tidak ada yang dipilih</value>
+    <value>no selection</value>
   </data>
   <data name="EditBoxControlPasted" xml:space="preserve">
-    <value>ditempel</value>
+    <value>pasted</value>
   </data>
   <data name="EditBoxControlSelect" xml:space="preserve">
-    <value>dipilih</value>
+    <value>selected</value>
   </data>
   <data name="EditBoxControlSelectionRemoved" xml:space="preserve">
-    <value>pilihan dihapus</value>
+    <value>selection removed</value>
   </data>
   <data name="EditBoxControlSpeakSelected" xml:space="preserve">
-    <value>{0} karakter yang dipilih</value>
+    <value>{0} characters selected</value>
   </data>
   <data name="EditBoxControlSpeakUnselected" xml:space="preserve">
-    <value>{0} karakter tidak dipilih</value>
+    <value>{0} characters unselected</value>
   </data>
   <data name="EditBoxControlUnselect" xml:space="preserve">
-    <value>tidak dipilih</value>
+    <value>unselected</value>
   </data>
   <data name="ItemsCount" xml:space="preserve">
-    <value>{0} dari {1}</value>
+    <value>{0} of {1}</value>
   </data>
   <data name="ListControlName" xml:space="preserve">
-    <value>daftar</value>
+    <value>list</value>
   </data>
   <data name="SliderControlName" xml:space="preserve">
-    <value>penggeser</value>
+    <value>slider</value>
   </data>
   <data name="TabControlName" xml:space="preserve">
-    <value>panel tab</value>
+    <value>tab panel</value>
   </data>
   <data name="TabPageName" xml:space="preserve">
     <value>tab</value>

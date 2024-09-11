@@ -1,0 +1,1090 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the BallBouncer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BallBouncer\n"
+"Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
+"POT-Creation-Date: 2024-09-11 16:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, python-brace-format
+msgctxt "AchievementPoints"
+msgid "Achievement points: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "AchievementPointsTotal"
+msgid "{0} achievement points received in total."
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraLeaderText"
+msgid ""
+"Leader's aura: level {0}. For each level, adds one percent to the points "
+"received."
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraTimeText"
+msgid ""
+"Time Aura: level {0}. For each level, adds 5 seconds to the maximum playing "
+"time."
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraUpgradeButton"
+msgid "Upgrade for {0} achievement points"
+msgstr ""
+
+#, python-brace-format
+msgctxt "BallLoopSelectionMenuSound"
+msgid "Sound {0}."
+msgstr ""
+
+msgctxt "BallLoopSelectionMenuTitle"
+msgid "Select the ball sound."
+msgstr ""
+
+msgctxt "BallLoopSelectionMenuTitleWithHint"
+msgid ""
+"Select the ball sound. Use the up and down arrows to move. To listen to the "
+"sound, press Spacebar. To confirm your selection, press enter."
+msgstr ""
+
+msgctxt "CheckUpdatesScreenChecking"
+msgid "Checking..."
+msgstr ""
+
+msgctxt "CheckUpdatesScreenNoUpdates"
+msgid "You have the latest version."
+msgstr ""
+
+#, python-brace-format
+msgctxt "FileSizeBytes"
+msgid "{0} b"
+msgstr ""
+
+#, python-brace-format
+msgctxt "FileSizeGigabytes"
+msgid "{0} GB"
+msgstr ""
+
+#, python-brace-format
+msgctxt "FileSizeKilobytes"
+msgid "{0} kb"
+msgstr ""
+
+#, python-brace-format
+msgctxt "FileSizeMegabytes"
+msgid "{0} mb"
+msgstr ""
+
+#, python-brace-format
+msgctxt "GamePoints"
+msgid "{0} points scored in this game."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameResultScreenCoins"
+msgid "Got {0} coins."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameResultScreenPoints"
+msgid "{0} points scored."
+msgstr ""
+
+msgctxt "GameResultScreenTitle"
+msgid "Results of the last game."
+msgstr ""
+
+msgctxt "GameResultScreenTitleWithHint"
+msgid ""
+"Results of the last game. Use the down and up arrows to navigate through the "
+"menu. To close the menu, press enter at any item."
+msgstr ""
+
+msgctxt "GameRewardAvailableDialog"
+msgid "A reward is available! Get it in your profile on the statistics tab!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameTimeToEnd"
+msgid "{0} seconds left until the end of the game."
+msgstr ""
+
+msgctxt "IncompatableSaveMessage"
+msgid ""
+"The loaded save belongs to a newer version of the game\n"
+"and contains data that will be lost.\n"
+"Therefore, the save is considered incompatible.\n"
+"The game will be closed."
+msgstr ""
+
+msgctxt "IncompatableSaveTitle"
+msgid "Incompatible save"
+msgstr ""
+
+msgctxt "LearnSoundsBatHitSuccess"
+msgid "Successfully hit the ball with the bat."
+msgstr ""
+
+msgctxt "LearnSoundsCeilBounce"
+msgid "The ball bounced off the ceiling."
+msgstr ""
+
+msgctxt "LearnSoundsFineStanding"
+msgid "You are starting to be fined for standing in one place for too long."
+msgstr ""
+
+msgctxt "LearnSoundsFineSwinging"
+msgid "Penalty for frequent misses with the bat on the ball."
+msgstr ""
+
+msgctxt "LearnSoundsForceFull"
+msgid "character's blow force has been fully restored."
+msgstr ""
+
+msgctxt "LearnSoundsObjectDestroy"
+msgid "Object destruction alert."
+msgstr ""
+
+msgctxt "LearnSoundsObjectHit"
+msgid "Ball hit an object alert."
+msgstr ""
+
+msgctxt "LearnSoundsPerfectHit"
+msgid "A perfect strike."
+msgstr ""
+
+msgctxt "LearnSoundsScoresUnderNeg500"
+msgid "The points dropped below minus five hundred."
+msgstr ""
+
+msgctxt "LearnSoundsTitle"
+msgid "Learn sounds menu."
+msgstr ""
+
+msgctxt "LearnSoundsTitleWithHint"
+msgid ""
+"Learn sounds menu. Use the up and down arrows to move. To listen to the "
+"sound, press enter. To exit the menu, press the corresponding menu item or "
+"the escape key."
+msgstr ""
+
+msgctxt "MainMenuExitGame"
+msgid "Exit the game."
+msgstr ""
+
+msgctxt "MainMenuOptions"
+msgid "Settings."
+msgstr ""
+
+msgctxt "MainMenuProfile"
+msgid "Profile."
+msgstr ""
+
+msgctxt "MainMenuStartGame"
+msgid "Start game."
+msgstr ""
+
+msgctxt "MainMenuStore"
+msgid "Shop."
+msgstr ""
+
+msgctxt "MainMenuTitle"
+msgid "Main menu."
+msgstr ""
+
+msgctxt "MainMenuTitleWithHint"
+msgid ""
+"Main menu. Use the up and down arrows to move. To select a menu item, press "
+"enter."
+msgstr ""
+
+msgctxt "ModeSelectionMenuBack"
+msgid "Return to main menu."
+msgstr ""
+
+msgctxt "ModeSelectionMenuNormalMode"
+msgid "Normal game."
+msgstr ""
+
+msgctxt "ModeSelectionMenuPracticeMode"
+msgid "Training mode."
+msgstr ""
+
+msgctxt "ModeSelectionMenuTitle"
+msgid "Select a game mode."
+msgstr ""
+
+msgctxt "ModeSelectionMenuTitleWithHint"
+msgid ""
+"Select a game mode. Use the up and down arrows to move. To confirm your "
+"selection, press enter."
+msgstr ""
+
+msgctxt "NumberNotationsEmpty"
+msgid "No notation."
+msgstr ""
+
+msgctxt "NumberNotationsEngineering"
+msgid "Engineering."
+msgstr ""
+
+msgctxt "NumberNotationsLetter"
+msgid "Letter."
+msgstr ""
+
+msgctxt "NumberNotationsScientific"
+msgid "Scientific."
+msgstr ""
+
+msgctxt "NumberNotationsStandard"
+msgid "Standard."
+msgstr ""
+
+msgctxt "OptionsScreenAllowOverMaxVolume"
+msgid "Allow audio volume boost up to two hundred percent"
+msgstr ""
+
+msgctxt "OptionsScreenAllowPlayObjectNotifySounds"
+msgid ""
+"Play alert sounds when the ball collides with or destroys objects on the "
+"field"
+msgstr ""
+
+msgctxt "OptionsScreenBatHitSuccessSound"
+msgid "Play a sound when the ball is successfully hit with the bat"
+msgstr ""
+
+msgctxt "OptionsScreenCatigoriesBehaviour"
+msgid "Behavior"
+msgstr ""
+
+msgctxt "OptionsScreenCatigoriesGeneral"
+msgid "General"
+msgstr ""
+
+msgctxt "OptionsScreenCatigoriesSound"
+msgid "Sound"
+msgstr ""
+
+msgctxt "OptionsScreenChangeBallLoopSoundButton"
+msgid "Change ball sound"
+msgstr ""
+
+msgctxt "OptionsScreenChangeLanguageButton"
+msgid "Change language"
+msgstr ""
+
+msgctxt "OptionsScreenCheckForUpdates"
+msgid "Check for updates"
+msgstr ""
+
+msgctxt "OptionsScreenCheckForUpdatesOnStartup"
+msgid "Check for updates on startup"
+msgstr ""
+
+msgctxt "OptionsScreenCloseButton"
+msgid "Close"
+msgstr ""
+
+msgctxt "OptionsScreenDisplayTitleHints"
+msgid "Show navigation hints in menu titles"
+msgstr ""
+
+msgctxt "OptionsScreenGameVolumeSlider"
+msgid "Game volume"
+msgstr ""
+
+msgctxt "OptionsScreenLearnSounds"
+msgid "Learn game sounds"
+msgstr ""
+
+msgctxt "OptionsScreenMusicVolumeSlider"
+msgid "Music volume"
+msgstr ""
+
+msgctxt "OptionsScreenNumberNotationSelector"
+msgid "Notation for displaying numbers"
+msgstr ""
+
+msgctxt "OptionsScreenPauseGameWhenWindowLostsFocus"
+msgid "Pause the game when switching to another window"
+msgstr ""
+
+msgctxt "OptionsScreenPrefereSapi"
+msgid "Prefer sapi to screen reader"
+msgstr ""
+
+msgctxt "OptionsScreenShowResultMenu"
+msgid "Show results menu at the end of the game"
+msgstr ""
+
+msgctxt "OptionsScreenShowRewardAvailableDialog"
+msgid "Show notification if reward is available at end of game"
+msgstr ""
+
+msgctxt "OptionsScreenShowUpdateCheckErrorOnStartup"
+msgid "Show an error if it was not possible to check for updates at startup"
+msgstr ""
+
+msgctxt "OptionsScreenSoundPanRepresentationMode"
+msgid "Sound Panning Mode"
+msgstr ""
+
+msgctxt "OptionsScreenSoundPanRepresentationModeNarrowedCenter"
+msgid "Narrowed center"
+msgstr ""
+
+msgctxt "OptionsScreenSoundPanRepresentationModeNormal"
+msgid "Normal"
+msgstr ""
+
+msgctxt "OptionsScreenTitle"
+msgid "Settings screen."
+msgstr ""
+
+msgctxt "OptionsScreenTitleWithHint"
+msgid ""
+"Settings screen. Use tab and shift+tab to move forward and backward. Use the "
+"arrow keys to change the position of the sliders. To activate the selected "
+"item, press enter or spacebar."
+msgstr ""
+
+msgctxt "PauseMenuAbortGame"
+msgid "Abort the game and return to the main menu."
+msgstr ""
+
+msgctxt "PauseMenuContinueGame"
+msgid "Continue game."
+msgstr ""
+
+#, python-brace-format
+msgctxt "PauseMenuGameInfo"
+msgid ""
+"{0} points scored in this game. The ball collided with objects {1} times, "
+"destroyed {2} objects, and bounced off the floor {3} times. You hit the ball "
+"{4} times."
+msgstr ""
+
+msgctxt "PauseMenuPracticeModeActive"
+msgid "Training mode is active."
+msgstr ""
+
+#, python-brace-format
+msgctxt "PauseMenuTimeToEnd"
+msgid "The game will end in {0} seconds."
+msgstr ""
+
+msgctxt "PauseMenuTitle"
+msgid "Pause menu."
+msgstr ""
+
+msgctxt "PauseMenuTitleWithHint"
+msgid ""
+"Pause menu. Use the up and down arrows to move. To activate the selected "
+"item, press enter."
+msgstr ""
+
+msgctxt "ProfileAurasPageTitle"
+msgid "Auras"
+msgstr ""
+
+msgctxt "ProfileSkillsPageTitle"
+msgid "Skills"
+msgstr ""
+
+msgctxt "ProfileStatsPageTitle"
+msgid "Statistics"
+msgstr ""
+
+msgctxt "ProfileTitle"
+msgid "Your profile."
+msgstr ""
+
+msgctxt "ProfileTitleWithHint"
+msgid ""
+"Your profile. Use tab and shift+tab to move forwards and backwards. To "
+"receive a reward in statistics, press enter on the item with an available "
+"reward."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsBallLeapLevelInfoText"
+msgid ""
+"Level {0}. The character makes a rapid dash towards the ball, located no "
+"higher than {1} cells above the ground, The cooldown interval is {2} seconds."
+msgstr ""
+
+msgctxt "SkillsBallLeapName"
+msgid "furious leap"
+msgstr ""
+
+msgctxt "SkillsBallLeapNameFull"
+msgid "Furious leap."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsBallLeapText"
+msgid ""
+"Furious leap: level {0}/4. The character makes a rapid dash towards the "
+"ball, located no higher than {1} cells above the ground, cooldown interval "
+"is {2} seconds."
+msgstr ""
+
+msgctxt "SkillsEmpty"
+msgid "You haven't unlocked any skills yet."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsImmaterialityLevelInfoText"
+msgid ""
+"Level {0}. The ball goes immaterial for {1} seconds, cooldown interval is "
+"{2} seconds."
+msgstr ""
+
+msgctxt "SkillsImmaterialityName"
+msgid "immateriality"
+msgstr ""
+
+msgctxt "SkillsImmaterialityNameFull"
+msgid "immateriality"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsImmaterialityText"
+msgid ""
+"Immateriality: level {0}/3. The ball goes immaterial for {1} seconds, "
+"cooldown interval is {2} seconds."
+msgstr ""
+
+msgctxt "SkillsLevelInfo"
+msgid "List of skill effects by level."
+msgstr ""
+
+msgctxt "SkillsListTitle"
+msgid "Unlocked Skills"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillSlotRecharging"
+msgid "{0} seconds before skill cooldown."
+msgstr ""
+
+msgctxt "SkillSlotSelectCanceled"
+msgid "Selection canceled"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillSlotSelected"
+msgid "Skill {0} is selected."
+msgstr ""
+
+msgctxt "SkillSlotSetterMenuBack"
+msgid "Go back."
+msgstr ""
+
+msgctxt "SkillSlotSetterMenuTitle"
+msgid "Select a skill to install in the slot."
+msgstr ""
+
+msgctxt "SkillSlotSetterMenuTitleWithHint"
+msgid ""
+"Select a skill to install in the slot. Use the up and down arrows to select "
+"and press enter to confirm your selection."
+msgstr ""
+
+msgctxt "SkillSlotsTitle"
+msgid "Slots"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillSlotText"
+msgid "Slot {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsMagnetismLevelInfoText"
+msgid ""
+"Level {0}. The ball receives an effect that attracts it to nearby objects "
+"for {1} seconds, cooldown interval is {2} seconds."
+msgstr ""
+
+msgctxt "SkillsMagnetismName"
+msgid "magnetism"
+msgstr ""
+
+msgctxt "SkillsMagnetismNameFull"
+msgid "Magnetism."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsMagnetismText"
+msgid ""
+"Magnetism: level {0}/4. The ball receives an effect that attracts it to "
+"nearby objects for {1} seconds, cooldown interval is {2} seconds."
+msgstr ""
+
+msgctxt "SkillsNoneNameFull"
+msgid "Not set."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsObjectSpawnerLevelInfoText"
+msgid ""
+"Level {0}. The  swing of the bat creates {1} objects on the field, cooldown "
+"interval is {2} seconds."
+msgstr ""
+
+msgctxt "SkillsObjectSpawnerName"
+msgid "creator's stroke"
+msgstr ""
+
+msgctxt "SkillsObjectSpawnerNameFull"
+msgid "Creator's stroke."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsObjectSpawnerText"
+msgid ""
+"Creator's stroke: level {0}/4. Swinging the bat creates {1} objects on the "
+"field, cooldown interval is {2} seconds."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsShadowStrikeLevelInfoText"
+msgid ""
+"Level {0}. The range of the strike is {1} cells up, can destroy {2} objects, "
+"cooldown interval is {3} seconds."
+msgstr ""
+
+msgctxt "SkillsShadowStrikeName"
+msgid "phantom strike"
+msgstr ""
+
+msgctxt "SkillsShadowStrikeNameFull"
+msgid "Phantom strike."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsShadowStrikeText"
+msgid ""
+"Phantom strike: level {0}/5. The range of the strike is {1} cells up, can "
+"destroy {2} objects, cooldown interval is {3} seconds."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsSuperElasticityLevelInfoText"
+msgid ""
+"Level {0}. For {1} seconds the ball bounces off objects an order of "
+"magnitude stronger, cooldown interval is {2} seconds."
+msgstr ""
+
+msgctxt "SkillsSuperElasticityName"
+msgid "superelasticity"
+msgstr ""
+
+msgctxt "SkillsSuperElasticityNameFull"
+msgid "Superelasticity."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsSuperElasticityText"
+msgid ""
+"Superelasticity: level {0}/4. For {1} seconds the ball bounces off objects "
+"an order of magnitude stronger, cooldown interval is {2} seconds."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemBallCeilHits"
+msgid "Number of ball bounces from the ceiling: {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemBallFloorHits"
+msgid "Number of ball bounces off the floor: {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemBallsCaught"
+msgid "Total balls caught: {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemBatHits"
+msgid "Number of balls hit: {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemDestroyedObjects"
+msgid "Number of objects destroyed: {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemMaximumPoints"
+msgid "Maximum points per game: {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemObjectHits"
+msgid "Number of collisions with objects: {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemPerfectHitsStreak"
+msgid "Perfect strikes made in a row: {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemStepsMade"
+msgid "Number of steps made: {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemTotalGamingTime"
+msgid "Total time spent on the playing field: {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemTotalPoints"
+msgid "Total points scored: {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemTotalSkillsUsed"
+msgid "Total skills used: {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemTotalTime"
+msgid "Total time spent in the application: {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatRewardAvailable"
+msgid "Reward is available. Rewards received: {0}."
+msgstr ""
+
+msgctxt "StatRewardError"
+msgid "The reward is not yet available."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatRewardRequirements"
+msgid "Until reward: {0}. Rewards received: {1}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatRewardsTotal"
+msgid "{0} awards received in total."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonReset"
+msgid "Reset for {0} coins"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUnlock"
+msgid "Unlock for {0} coins"
+msgstr ""
+
+msgctxt "StoreButtonUnlockObjectUnlocked"
+msgid "Object unlocked."
+msgstr ""
+
+msgctxt "StoreButtonUnlockSkillUnlocked"
+msgid "Skill unlocked."
+msgstr ""
+
+msgctxt "StoreButtonUnlockUnlocked"
+msgid "Feature unlocked"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUpgrade"
+msgid "Upgrade for {0} coins"
+msgstr ""
+
+msgctxt "StoreButtonUpgradeMaxed"
+msgid "Maxed out"
+msgstr ""
+
+msgctxt "StoreBuyError1"
+msgid "Error: Not enough coins."
+msgstr ""
+
+msgctxt "StoreBuyError2"
+msgid "Error: This upgrade is already at maximum level."
+msgstr ""
+
+msgctxt "StoreBuyError3"
+msgid "Error: This feature is already unlocked."
+msgstr ""
+
+msgctxt "StoreBuyError4"
+msgid "Error: Not enough achievement points."
+msgstr ""
+
+msgctxt "StoreBuyError5"
+msgid "Error: no achievement points were spent."
+msgstr ""
+
+msgctxt "StoreBuyError6"
+msgid "Error: This skill is already at maximum level."
+msgstr ""
+
+msgctxt "StoreBuyError7"
+msgid "Error: This skill is already unlocked"
+msgstr ""
+
+msgctxt "StoreBuyError8"
+msgid "Error: This object is already unlocked."
+msgstr ""
+
+msgctxt "StoreCatigories"
+msgid "Categories"
+msgstr ""
+
+msgctxt "StoreCatigoriesCharacter"
+msgid "Character"
+msgstr ""
+
+msgctxt "StoreCatigoriesObjects"
+msgid "Objects"
+msgstr ""
+
+msgctxt "StoreCatigoriesSkills"
+msgid "Skills"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreCoins"
+msgid "Coins: {0}."
+msgstr ""
+
+msgctxt "StoreInfoTitle"
+msgid "Reference Information:"
+msgstr ""
+
+msgctxt "StoreInfoTitleWithHint"
+msgid ""
+"Reference Information. Use the up and down arrows to move. To exit the menu, "
+"press escape or enter at any item."
+msgstr ""
+
+msgctxt "StoreItemBallCatchFeatureInfo"
+msgid ""
+"Ball catch feature.\n"
+"To try to catch the ball, press left or right control during the game.\n"
+"The ball can only be caught if it is close to you.\n"
+"If the attempt is successful, the sound of the ball will disappear from the "
+"playing field, and you will be able to throw it again.\n"
+"This mechanic can be used in your scoring strategies or just for fun, but it "
+"is initially useful when used in conjunction with certain skills."
+msgstr ""
+
+msgctxt "StoreItemBallCatchFeatureText"
+msgid "Unlock the ball catch feature"
+msgstr ""
+
+msgctxt "StoreItemJumpFeatureInfo"
+msgid ""
+"Jump feature.\n"
+"To jump, press the up arrow or the w key during the game.\n"
+"Jumping is useful in scenarios where you want to hit a ball that hasn't yet "
+"bounced off the floor.\n"
+"Or when you missed a good moment to strike, but still want to hit the ball.\n"
+"In this case, all you need to do is jump and swing the bat at the right "
+"moment.\n"
+"It is also easier to catch the ball while jumping if you have this feature "
+"unlocked."
+msgstr ""
+
+msgctxt "StoreItemJumpFeatureText"
+msgid "Unlock the  jump feature"
+msgstr ""
+
+msgctxt "StoreItemMineObjectInfo"
+msgid ""
+"Mine object.\n"
+"The ball's collision with this object causes an explosion that violently "
+"pushes the ball away and destroys nearby objects.\n"
+"If a mine's explosion hits another mine, it will explode, thereby creating a "
+"chain of explosions."
+msgstr ""
+
+msgctxt "StoreItemMineObjectText"
+msgid "Unlock the mine object."
+msgstr ""
+
+msgctxt "StoreItemMinObjectIncreaseInfo"
+msgid ""
+"Increasing the minimum number of objects on the field.\n"
+"Initially, the minimum number of objects is twenty-five.\n"
+"When there are fewer objects on the field than this value, as many new "
+"objects are added as are not enough to equal this number.\n"
+"Each upgrade level increases this value by one."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemMinObjectIncreaseText"
+msgid "minimum number of objects on the field increase: level {0}/10."
+msgstr ""
+
+msgctxt "StoreItemPowerRecoveringInfo"
+msgid ""
+"Increased blow force recovery rate.\n"
+"The upgrade significantly increases the speed at which the force of a blow "
+"is restored after each swing of the bat."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemPowerRecoveringText"
+msgid "Increased blow force recovery rate: level {0}/10"
+msgstr ""
+
+msgctxt "StoreItemResetAchievementPointsInfo"
+msgid ""
+"Resetting spent achievement points.\n"
+"When reset, the levels of auras and skills are reset to zero, and all "
+"achievement points spent on upgrading them are returned to you."
+msgstr ""
+
+msgctxt "StoreItemResetAchievementPointsQuestion"
+msgid ""
+"Do you really want to reset the distribution of achievement points for a "
+"hundred coins?"
+msgstr ""
+
+msgctxt "StoreItemResetAchievementPointsText"
+msgid "Reset spent achievement points."
+msgstr ""
+
+msgctxt "StoreItemSkillBallLeapInfo"
+msgid ""
+"Furious leap skill.\n"
+"The character makes a rapid dash towards the ball, which is close to the "
+"ground.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Wait for the right moment to use.\n"
+"Then swing the bat, the character will do the rest on his own.\n"
+"If the ball is out of range, the skill will fail and will go on cooldown."
+msgstr ""
+
+msgctxt "StoreItemSkillBallLeapText"
+msgid "Furious leap skill."
+msgstr ""
+
+msgctxt "StoreItemSkillImmaterialityInfo"
+msgid ""
+"Immateriality skill.\n"
+"When a ball is succesfully hit with a bat, it imposes an immateriality "
+"effect on the ball, which allows it not to bounce off objects, but to "
+"destroy them with one hit and continue flying along the same trajectory.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and "
+"it will go on cooldown."
+msgstr ""
+
+msgctxt "StoreItemSkillImmaterialityText"
+msgid "Immateriality skill."
+msgstr ""
+
+msgctxt "StoreItemSkillMagnetismInfo"
+msgid ""
+"Magnitism skill.\n"
+"When affected by this skill, the ball is attracted to nearby objects on the "
+"playing field.\n"
+"Usage:\n"
+"Catch the ball.\n"
+"then select the slot in which this skill is installed.\n"
+"Throw the ball back onto the playing field.\n"
+"The effect will be applied immediately after the throw."
+msgstr ""
+
+msgctxt "StoreItemSkillMagnetismText"
+msgid "Magnetism skill."
+msgstr ""
+
+msgctxt "StoreItemSkillObjectSpawnerInfo"
+msgid ""
+"Creator's stroke skill.\n"
+"When you swing the bat, objects are spawned on the playing field.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then swing the bat.\n"
+"The skill will only work if the force of the blow is restored to maximum.\n"
+"Otherwise, it will go on cooldown and objects will not be generated."
+msgstr ""
+
+msgctxt "StoreItemSkillObjectSpawnerText"
+msgid "Creator's stroke skill."
+msgstr ""
+
+msgctxt "StoreItemSkillShadowStrikeInfo"
+msgid ""
+"Phantom Strike skill.\n"
+"Swinging the bat sends out a phantom strike that only travels upward and a "
+"certain distance, knocking down a certain number of objects in the process.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then move the character to the desired place on the field and swing the "
+"bat.\n"
+"The skill will succeed if the blow force has been restored to its maximum.\n"
+"Otherwise, it will fail and go on cooldown."
+msgstr ""
+
+msgctxt "StoreItemSkillShadowStrikeText"
+msgid "Phantom Strike skill."
+msgstr ""
+
+msgctxt "StoreItemSkillSuperElasticityInfo"
+msgid ""
+"Superelasticity skill.\n"
+"The ball becomes extremely elastic, which allows it to bounce off surfaces "
+"an order of magnitude stronger.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and "
+"it will go on cooldown."
+msgstr ""
+
+msgctxt "StoreItemSkillSuperElasticityText"
+msgid "Superelasticity skill."
+msgstr ""
+
+msgctxt "StoreTitle"
+msgid "Welcome to the shop."
+msgstr ""
+
+msgctxt "StoreTitleWithHint"
+msgid ""
+"Welcome to the shop. Use tab and shift+tab to move forwards and backwards on "
+"the screen. Use the up and down arrows to move through the list. To activate "
+"the selected item, press enter or spacebar."
+msgstr ""
+
+#, python-brace-format
+msgctxt "TimeString1"
+msgid "{0} d, {1} h, {2} min, {3} sec"
+msgstr ""
+
+#, python-brace-format
+msgctxt "TimeString2"
+msgid "{0} h, {1} min, {2} sec"
+msgstr ""
+
+#, python-brace-format
+msgctxt "TimeString3"
+msgid "{0} min, {1} sec"
+msgstr ""
+
+#, python-brace-format
+msgctxt "TimeString4"
+msgid "{0} sec"
+msgstr ""
+
+msgctxt "TimeStringIncorrect"
+msgid "N/A"
+msgstr ""
+
+#, python-brace-format
+msgctxt "UpdateAvailableQuestionText"
+msgid "A new version of the game is available: {0}. Do you want to update now?"
+msgstr ""
+
+msgctxt "UpdateCheckingError"
+msgid "An error occurred while checking for updates."
+msgstr ""
+
+msgctxt "UpdateProcessScreenCanceled"
+msgid "Cancelling..."
+msgstr ""
+
+#, python-brace-format
+msgctxt "UpdateProcessScreenDownloading"
+msgid "Downloading {0}%: {1} / {2}."
+msgstr ""
+
+msgctxt "UpdateProcessScreenFinished"
+msgid "Installing..."
+msgstr ""
+
+msgctxt "UpdateProcessScreenFinishedWithError"
+msgid ""
+"An error occurred during the update. Please try again later or download a "
+"new version from the site yourself. Press enter to continue."
+msgstr ""
+
+msgctxt "UpdateProcessScreenStarting"
+msgid "Preparing to download. Please wait."
+msgstr ""
+
+msgctxt "UpdateProcessScreenTitle"
+msgid "The update is downloading. Please wait."
+msgstr ""
+
+msgctxt "UpdateProcessScreenTitleWithHint"
+msgid ""
+"The update is downloading. Please wait. To check the progress, press any "
+"arrow key."
+msgstr ""
+
+msgctxt "WelcomeMenu1"
+msgid ""
+"Welcome to ball bouncer. Press the up and down arrows to navigate through "
+"this menu."
+msgstr ""
+
+msgctxt "WelcomeMenu2"
+msgid ""
+"We, the developers of this game, are glad that you downloaded this game!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "WelcomeMenu3"
+msgid ""
+"To get started, we strongly recommend that you read the help documentation "
+"for this game, which is located in {0}."
+msgstr ""
+
+msgctxt "WelcomeMenu4"
+msgid "Or press enter here to open the documentation."
+msgstr ""
+
+msgctxt "WelcomeMenu5"
+msgid "Have a great time, player."
+msgstr ""
+
+msgctxt "WelcomeMenu6"
+msgid "Press enter to continue."
+msgstr ""
+
+msgctxt "YesOrNoScreenNo"
+msgid "No"
+msgstr ""
+
+msgctxt "YesOrNoScreenYes"
+msgid "Yes"
+msgstr ""
