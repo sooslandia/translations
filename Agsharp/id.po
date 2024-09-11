@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Agsharp\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-09-03 17:30+0000\n"
-"PO-Revision-Date: 2024-09-04 03:51+0700\n"
+"POT-Creation-Date: 2024-09-11 16:52+0000\n"
+"PO-Revision-Date: 2024-09-12 00:26+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: id\n"
@@ -18,93 +18,93 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
-#. AudioForms_ButtonControlName
+msgctxt "AudioForms_ButtonControlName"
 msgid "button"
 msgstr "tombol"
 
-#. AudioForms_ButtonControlUnavailable
+msgctxt "AudioForms_ButtonControlUnavailable"
 msgid " unavailable"
-msgstr "tidak tersedia"
+msgstr " tidak tersedia"
 
-#. AudioForms_CheckboxControlName
+msgctxt "AudioForms_CheckboxControlName"
 msgid "checkbox"
 msgstr "kotak centang"
 
-#. AudioForms_CheckboxStateChecked
+msgctxt "AudioForms_CheckboxStateChecked"
 msgid "checked"
 msgstr "dicentang"
 
-#. AudioForms_CheckboxStateUnchecked
+msgctxt "AudioForms_CheckboxStateUnchecked"
 msgid "unchecked"
 msgstr "tidak dicentang"
 
-#. AudioForms_EditBoxControlCapLetter
+msgctxt "AudioForms_EditBoxControlCapLetter"
 msgid "Cap"
 msgstr "Kapital"
 
-#. AudioForms_EditBoxControlCopied
+msgctxt "AudioForms_EditBoxControlCopied"
 msgid "copied"
 msgstr "disalin"
 
-#. AudioForms_EditBoxControlCut
+msgctxt "AudioForms_EditBoxControlCut"
 msgid "cut"
 msgstr "dipotong"
 
-#. AudioForms_EditBoxControlEmpty
+msgctxt "AudioForms_EditBoxControlEmpty"
 msgid "empty"
 msgstr "kosong"
 
-#. AudioForms_EditBoxControlName
+msgctxt "AudioForms_EditBoxControlName"
 msgid "edit"
 msgstr "edit"
 
-#. AudioForms_EditBoxControlNoSelection
+msgctxt "AudioForms_EditBoxControlNoSelection"
 msgid "no selection"
 msgstr "tidak ada yang dipilih"
 
-#. AudioForms_EditBoxControlPasted
+msgctxt "AudioForms_EditBoxControlPasted"
 msgid "pasted"
 msgstr "ditempel"
 
-#. AudioForms_EditBoxControlSelect
+msgctxt "AudioForms_EditBoxControlSelect"
 msgid "selected"
 msgstr "dipilih"
 
-#. AudioForms_EditBoxControlSelectionRemoved
+msgctxt "AudioForms_EditBoxControlSelectionRemoved"
 msgid "selection removed"
 msgstr "pilihan dihapus"
 
-#. AudioForms_EditBoxControlSpeakSelected
 #, python-brace-format
+msgctxt "AudioForms_EditBoxControlSpeakSelected"
 msgid "{0} characters selected"
 msgstr "{0} karakter yang dipilih"
 
-#. AudioForms_EditBoxControlSpeakUnselected
 #, python-brace-format
+msgctxt "AudioForms_EditBoxControlSpeakUnselected"
 msgid "{0} characters unselected"
 msgstr "{0} karakter tidak dipilih"
 
-#. AudioForms_EditBoxControlUnselect
+msgctxt "AudioForms_EditBoxControlUnselect"
 msgid "unselected"
 msgstr "tidak dipilih"
 
-#. AudioForms_ItemsCount
 #, python-brace-format
+msgctxt "AudioForms_ItemsCount"
 msgid "{0} of {1}"
 msgstr "{0} dari {1}"
 
-#. AudioForms_ListControlName
+msgctxt "AudioForms_ListControlName"
 msgid "list"
 msgstr "daftar"
 
-#. AudioForms_SliderControlName
+msgctxt "AudioForms_SliderControlName"
 msgid "slider"
 msgstr "penggeser"
 
-#. AudioForms_TabControlName
+msgctxt "AudioForms_TabControlName"
 msgid "tab panel"
 msgstr "panel tab"
 
-#. AudioForms_TabPageName
+msgctxt "AudioForms_TabPageName"
 msgid "tab"
 msgstr "tab"
