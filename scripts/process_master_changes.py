@@ -83,8 +83,9 @@ def generate_pot_file(project_path):
     lng.pop("Language")
     source = []
     for identifier, string in lng.items():
-        source.append(f"# {identifier}")
-        source.append(get_source_line_for_pot(convert_percents_to_braces(string)))
+        source.append(
+            get_source_line_for_pot(identifier, convert_percents_to_braces(string))
+        )
     source = "\n".join(source)
     source += "\n"
     pot = generate_pot_file_from_source(source, project_path.name)
@@ -93,7 +94,7 @@ def generate_pot_file(project_path):
     logger.info("Pot file generated")
 
 
-def get_source_line_for_pot(string):
+def get_source_line_for_pot(context, string):
     quote = None
     for q in ['"', "'", '"""', "'''"]:
         if q not in string:
@@ -102,7 +103,7 @@ def get_source_line_for_pot(string):
     if quote is None:
         raise RuntimeError(f"Failed to find quotes for string {string[:200]}")
     string = string.replace("\r\n", "\n").replace("\n", "\\n")
-    return f"_({quote}{string}{quote})"
+    return f"pgettext('{context}', {quote}{string}{quote})"
 
 
 def generate_pot_file_from_source(source, package_name):
@@ -115,6 +116,8 @@ def generate_pot_file_from_source(source, package_name):
             "--language=Python",
             "--no-location",
             "--add-comments",
+            "--keyword=pgettext:1c,2",
+            "--keyword=npgettext:1c,2,3",
             f"--msgid-bugs-address={EMAIL_ADDRESS}",
             f"--package-name={package_name}",
             "-",
