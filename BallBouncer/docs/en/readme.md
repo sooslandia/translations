@@ -5,7 +5,7 @@ and also describes the gameplay in detail with most of the nuances. If you want
 to figure it out yourself, we recommend that you immediately go and familiarize
 yourself with the table of control keys.
 
-## How to play
+## About the game
 
 ### Brief description
 
@@ -71,7 +71,8 @@ done by pressing left/right arrow keys.
 On the shop screen, by pressing enter on the item you have selected, you can open
 reference information that describes this item. In your profile, on the
 "Statistics" tab, by pressing enter on a list item you can receive a reward, if
-available. On the “Skills” tab, by clicking on an item, you can get detailed
+available. By pressing ctrl+c you can copy the contents of the item into your
+clipboard. On the “Skills” tab, by clicking on an item, you can get detailed
 information about the skill.
 
 All menus and screens, excluding the main menu and the last game results menu,
@@ -202,7 +203,7 @@ the object in the place where this object is located, and the type of object
 will also be announced. You can turn off the pronunciation of the object type
 using the f1 key. Using the f2 key you can switch between movement modes.
 
-There are two cursor movement modes:There are two types of throw:
+There are two cursor movement modes:
 
 - Free movement. The cursor can be moved on the map in any direction by one cell.
 When moving in free mode, empty cells will also be visible under the cursor,
@@ -280,8 +281,8 @@ configuration.
 | Switch camera mode between first person mode and field-centered view mode | v |
 | Jump (if the mechanic is unlocked) | Up arrow or w key |
 | Catch the ball (if the mechanic is unlocked) | left or right control |
-| Select a skill slot from 1 to 10 (if the skill is set) | keys 1 to 0 |
-| Cancel skill slot selection | Grave |
+| Select a skill slot from 1 to 10 (if the skill is set) | keys 1 to 0/numpad1 to numpad0 |
+| Cancel skill slot selection | Grave / numpad enter |
 | Open the object map | m |
 | Find out the time until the end of the gaming session | t |
 | Find out the current number of points scored | p |
