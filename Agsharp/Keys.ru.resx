@@ -117,82 +117,187 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ButtonControlName" xml:space="preserve">
-    <value>кнопка</value>
+  <data name="APOSTROPHE" xml:space="preserve">
+    <value>апостроф</value>
   </data>
-  <data name="ButtonControlUnavailable" xml:space="preserve">
-    <value>недоступно</value>
+  <data name="APPLICATION" xml:space="preserve">
+    <value>контекст</value>
   </data>
-  <data name="CheckboxControlName" xml:space="preserve">
-    <value>флажок</value>
+  <data name="BACKSLASH" xml:space="preserve">
+    <value>обратная косая черта</value>
   </data>
-  <data name="CheckboxStateChecked" xml:space="preserve">
-    <value>отмечено</value>
+  <data name="BACKSPACE" xml:space="preserve">
+    <value>backspace</value>
   </data>
-  <data name="CheckboxStateUnchecked" xml:space="preserve">
-    <value>не отмечено</value>
+  <data name="CAPSLOCK" xml:space="preserve">
+    <value>капслок</value>
   </data>
-  <data name="EditBoxControlCapLetter" xml:space="preserve">
-    <value>большая</value>
+  <data name="COMMA" xml:space="preserve">
+    <value>запятая</value>
   </data>
-  <data name="EditBoxControlCopied" xml:space="preserve">
-    <value>скопировано</value>
+  <data name="D0" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="EditBoxControlCut" xml:space="preserve">
-    <value>вырезано</value>
+  <data name="D1" xml:space="preserve">
+    <value>1</value>
   </data>
-  <data name="EditBoxControlEmpty" xml:space="preserve">
-    <value>пусто</value>
+  <data name="D2" xml:space="preserve">
+    <value>2</value>
   </data>
-  <data name="EditBoxControlName" xml:space="preserve">
-    <value>редактор</value>
+  <data name="D3" xml:space="preserve">
+    <value>3</value>
   </data>
-  <data name="EditBoxControlNoSelection" xml:space="preserve">
-    <value>нет выделения</value>
+  <data name="D4" xml:space="preserve">
+    <value>4</value>
   </data>
-  <data name="EditBoxControlPasted" xml:space="preserve">
-    <value>вставлено</value>
+  <data name="D5" xml:space="preserve">
+    <value>5</value>
   </data>
-  <data name="EditBoxControlSelect" xml:space="preserve">
-    <value>выделено</value>
+  <data name="D6" xml:space="preserve">
+    <value>6</value>
   </data>
-  <data name="EditBoxControlSelectionRemoved" xml:space="preserve">
-    <value>выделение удалено</value>
+  <data name="D7" xml:space="preserve">
+    <value>7</value>
   </data>
-  <data name="EditBoxControlSpeakSelected" xml:space="preserve">
-    <value>{0} символов выделено</value>
+  <data name="D8" xml:space="preserve">
+    <value>8</value>
   </data>
-  <data name="EditBoxControlSpeakUnselected" xml:space="preserve">
-    <value>{0} символов не выделено</value>
+  <data name="D9" xml:space="preserve">
+    <value>9</value>
   </data>
-  <data name="EditBoxControlUnselect" xml:space="preserve">
-    <value>не выделено</value>
+  <data name="DELETE" xml:space="preserve">
+    <value>delete</value>
   </data>
-  <data name="ItemsCount" xml:space="preserve">
-    <value>{0} из {1}</value>
+  <data name="DOWN" xml:space="preserve">
+    <value>стрелка вниз</value>
   </data>
-  <data name="ListControlName" xml:space="preserve">
-    <value>список</value>
+  <data name="END" xml:space="preserve">
+    <value>конец</value>
   </data>
-  <data name="SliderControlName" xml:space="preserve">
-    <value>ползунок</value>
+  <data name="EQUALS" xml:space="preserve">
+    <value>равно</value>
   </data>
-  <data name="TabControlName" xml:space="preserve">
-    <value>панель вкладок</value>
+  <data name="ESCAPE" xml:space="preserve">
+    <value>escape</value>
   </data>
-  <data name="TabPageName" xml:space="preserve">
-    <value>вкладка</value>
+  <data name="GRAVE" xml:space="preserve">
+    <value>обратный апостроф</value>
   </data>
-  <data name="TreeControlCollapsed" xml:space="preserve">
-    <value>свёрнуто</value>
+  <data name="HOME" xml:space="preserve">
+    <value>начало</value>
   </data>
-  <data name="TreeControlExpanded" xml:space="preserve">
-    <value>развёрнуто</value>
+  <data name="INSERT" xml:space="preserve">
+    <value>insert</value>
   </data>
-  <data name="TreeControlLevel" xml:space="preserve">
-    <value>уровень {0}</value>
+  <data name="KP_0" xml:space="preserve">
+    <value>numpad 0</value>
   </data>
-  <data name="TreeControlName" xml:space="preserve">
-    <value>дерево</value>
+  <data name="KP_1" xml:space="preserve">
+    <value>numpad 1</value>
+  </data>
+  <data name="KP_2" xml:space="preserve">
+    <value>numpad 2</value>
+  </data>
+  <data name="KP_3" xml:space="preserve">
+    <value>numpad 3</value>
+  </data>
+  <data name="KP_4" xml:space="preserve">
+    <value>numpad 4</value>
+  </data>
+  <data name="KP_5" xml:space="preserve">
+    <value>numpad 5</value>
+  </data>
+  <data name="KP_6" xml:space="preserve">
+    <value>numpad 6</value>
+  </data>
+  <data name="KP_7" xml:space="preserve">
+    <value>numpad 7</value>
+  </data>
+  <data name="KP_8" xml:space="preserve">
+    <value>numpad 8</value>
+  </data>
+  <data name="KP_9" xml:space="preserve">
+    <value>numpad 9</value>
+  </data>
+  <data name="KP_DELETE" xml:space="preserve">
+    <value>numpad delete</value>
+  </data>
+  <data name="KP_DIVIDE" xml:space="preserve">
+    <value>numpad разделить</value>
+  </data>
+  <data name="KP_ENTER" xml:space="preserve">
+    <value>numpad enter</value>
+  </data>
+  <data name="KP_MINUS" xml:space="preserve">
+    <value>numpad минус</value>
+  </data>
+  <data name="KP_MULTIPLY" xml:space="preserve">
+    <value>numpad умножить</value>
+  </data>
+  <data name="KP_PERIOD" xml:space="preserve">
+    <value>numpad десятичный разделитель</value>
+  </data>
+  <data name="KP_PLUS" xml:space="preserve">
+    <value>numpad плюс</value>
+  </data>
+  <data name="LEFT" xml:space="preserve">
+    <value>стрелка влево</value>
+  </data>
+  <data name="LEFTBRACKET" xml:space="preserve">
+    <value>левая квадратная</value>
+  </data>
+  <data name="MINUS" xml:space="preserve">
+    <value>дефис</value>
+  </data>
+  <data name="MUTE" xml:space="preserve">
+    <value>mute</value>
+  </data>
+  <data name="PAGEDOWN" xml:space="preserve">
+    <value>страница вниз</value>
+  </data>
+  <data name="PAGEUP" xml:space="preserve">
+    <value>страница вверх</value>
+  </data>
+  <data name="PAUSE" xml:space="preserve">
+    <value>пауза</value>
+  </data>
+  <data name="PERIOD" xml:space="preserve">
+    <value>точка</value>
+  </data>
+  <data name="PRINTSCREEN" xml:space="preserve">
+    <value>print screen</value>
+  </data>
+  <data name="RETURN" xml:space="preserve">
+    <value>enter</value>
+  </data>
+  <data name="RIGHT" xml:space="preserve">
+    <value>стрелка вправо</value>
+  </data>
+  <data name="RIGHTBRACKET" xml:space="preserve">
+    <value>правая квадратная</value>
+  </data>
+  <data name="SCROLLLOCK" xml:space="preserve">
+    <value>scroll lock</value>
+  </data>
+  <data name="SEMICOLON" xml:space="preserve">
+    <value>точка с запятой</value>
+  </data>
+  <data name="SLASH" xml:space="preserve">
+    <value>косая черта</value>
+  </data>
+  <data name="SPACE" xml:space="preserve">
+    <value>пробел</value>
+  </data>
+  <data name="TAB" xml:space="preserve">
+    <value>таб</value>
+  </data>
+  <data name="UP" xml:space="preserve">
+    <value>стрелка вверх</value>
+  </data>
+  <data name="VOLUMEDOWN" xml:space="preserve">
+    <value>volume down</value>
+  </data>
+  <data name="VOLUMEUP" xml:space="preserve">
+    <value>volume up</value>
   </data>
 </root>
