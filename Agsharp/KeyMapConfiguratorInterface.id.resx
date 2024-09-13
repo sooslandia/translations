@@ -58,82 +58,82 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ButtonControlName" xml:space="preserve">
-    <value>tombol</value>
+  <data name="ActionsTreeText" xml:space="preserve">
+    <value>Actions</value>
   </data>
-  <data name="ButtonControlUnavailable" xml:space="preserve">
-    <value> tidak tersedia</value>
+  <data name="AddButtonText" xml:space="preserve">
+    <value>Add</value>
   </data>
-  <data name="CheckboxControlName" xml:space="preserve">
-    <value>kotak centang</value>
+  <data name="AddKeyShortcutButtonText" xml:space="preserve">
+    <value>Add shortcut</value>
   </data>
-  <data name="CheckboxStateChecked" xml:space="preserve">
-    <value>dicentang</value>
+  <data name="AddKeyShortcutError" xml:space="preserve">
+    <value>Failed to add shortcut. You may be trying to add a duplicate to the configuration.</value>
   </data>
-  <data name="CheckboxStateUnchecked" xml:space="preserve">
-    <value>tidak dicentang</value>
+  <data name="AddKeyShortcutSuccess" xml:space="preserve">
+    <value>Shortcut added.</value>
   </data>
-  <data name="EditBoxControlCapLetter" xml:space="preserve">
-    <value>Kapital</value>
+  <data name="CancelButtonText" xml:space="preserve">
+    <value>Cancel</value>
   </data>
-  <data name="EditBoxControlCopied" xml:space="preserve">
-    <value>disalin</value>
+  <data name="CloseButtonText" xml:space="preserve">
+    <value>Close</value>
   </data>
-  <data name="EditBoxControlCut" xml:space="preserve">
-    <value>dipotong</value>
+  <data name="DeleteKeyShortcutButtonText" xml:space="preserve">
+    <value>Delete shortcut</value>
   </data>
-  <data name="EditBoxControlEmpty" xml:space="preserve">
-    <value>kosong</value>
+  <data name="KeyCatcherControlCatching" xml:space="preserve">
+    <value>Press the key you want to add to the shortcut.</value>
   </data>
-  <data name="EditBoxControlName" xml:space="preserve">
-    <value>edit</value>
+  <data name="KeyCatcherControlKeyReset" xml:space="preserve">
+    <value>Key reset</value>
   </data>
-  <data name="EditBoxControlNoSelection" xml:space="preserve">
-    <value>tidak ada yang dipilih</value>
+  <data name="KeyCatcherControlKeySet" xml:space="preserve">
+    <value>Key {0} set.</value>
   </data>
-  <data name="EditBoxControlPasted" xml:space="preserve">
-    <value>ditempel</value>
+  <data name="KeyCatcherControlName" xml:space="preserve">
+    <value>Press enter here to set the key.</value>
   </data>
-  <data name="EditBoxControlSelect" xml:space="preserve">
-    <value>dipilih</value>
+  <data name="KeyCatcherControlNameChange" xml:space="preserve">
+    <value>Key {0} set. Press Enter to change or del to reset.</value>
   </data>
-  <data name="EditBoxControlSelectionRemoved" xml:space="preserve">
-    <value>pilihan dihapus</value>
+  <data name="KeyConfigureTitle" xml:space="preserve">
+    <value>Key configurator.</value>
   </data>
-  <data name="EditBoxControlSpeakSelected" xml:space="preserve">
-    <value>{0} karakter yang dipilih</value>
+  <data name="KeyConfigureTitleWithHint" xml:space="preserve">
+    <value>Key configurator. Use tab and shift+tab to move forwards and backwards on the screen. Use the up and down arrows to move through lists and trees. To activate the selected item, press enter.</value>
   </data>
-  <data name="EditBoxControlSpeakUnselected" xml:space="preserve">
-    <value>{0} karakter tidak dipilih</value>
+  <data name="KeyShortcutAddTitle" xml:space="preserve">
+    <value>Add shortcut.</value>
   </data>
-  <data name="EditBoxControlUnselect" xml:space="preserve">
-    <value>tidak dipilih</value>
+  <data name="KeyShortcutAddTitleWithHint" xml:space="preserve">
+    <value>Add shortcut. Use tab and shift+tab to move forwards and backwards on the screen. Use the up and down arrows to move through the lists. To activate the selected item, press enter.</value>
   </data>
-  <data name="ItemsCount" xml:space="preserve">
-    <value>{0} dari {1}</value>
+  <data name="ModifierListAlt" xml:space="preserve">
+    <value>alt key</value>
   </data>
-  <data name="ListControlName" xml:space="preserve">
-    <value>daftar</value>
+  <data name="ModifierListAny" xml:space="preserve">
+    <value>Any</value>
   </data>
-  <data name="SliderControlName" xml:space="preserve">
-    <value>penggeser</value>
+  <data name="ModifierListCtrl" xml:space="preserve">
+    <value>Ctrl key</value>
   </data>
-  <data name="TabControlName" xml:space="preserve">
-    <value>panel tab</value>
+  <data name="ModifierListLeft" xml:space="preserve">
+    <value>Left</value>
   </data>
-  <data name="TabPageName" xml:space="preserve">
-    <value>tab</value>
+  <data name="ModifierListRight" xml:space="preserve">
+    <value>Right</value>
   </data>
-  <data name="TreeControlCollapsed" xml:space="preserve">
-    <value>collapsed</value>
+  <data name="ModifierListShift" xml:space="preserve">
+    <value>Shift key</value>
   </data>
-  <data name="TreeControlExpanded" xml:space="preserve">
-    <value>expanded</value>
+  <data name="ModifierListUnused" xml:space="preserve">
+    <value>Not used</value>
   </data>
-  <data name="TreeControlLevel" xml:space="preserve">
-    <value>level {0}</value>
+  <data name="ModifierListWin" xml:space="preserve">
+    <value>Windows key</value>
   </data>
-  <data name="TreeControlName" xml:space="preserve">
-    <value>tree</value>
+  <data name="ShortcutsListText" xml:space="preserve">
+    <value>Shortcuts</value>
   </data>
 </root>

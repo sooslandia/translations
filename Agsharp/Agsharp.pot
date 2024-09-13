@@ -8,13 +8,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Agsharp\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-09-11 16:52+0000\n"
+"POT-Creation-Date: 2024-09-13 08:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgctxt "AudioForms_ButtonControlName"
@@ -106,4 +106,429 @@ msgstr ""
 
 msgctxt "AudioForms_TabPageName"
 msgid "tab"
+msgstr ""
+
+msgctxt "AudioForms_TreeControlCollapsed"
+msgid "collapsed"
+msgstr ""
+
+msgctxt "AudioForms_TreeControlExpanded"
+msgid "expanded"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AudioForms_TreeControlLevel"
+msgid "level {0}"
+msgstr ""
+
+msgctxt "AudioForms_TreeControlName"
+msgid "tree"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ActionsTreeText"
+msgid "Actions"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_AddButtonText"
+msgid "Add"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutButtonText"
+msgid "Add shortcut"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutError"
+msgid ""
+"Failed to add shortcut. You may be trying to add a duplicate to the "
+"configuration."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutSuccess"
+msgid "Shortcut added."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_CancelButtonText"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_CloseButtonText"
+msgid "Close"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_DeleteKeyShortcutButtonText"
+msgid "Delete shortcut"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlCatching"
+msgid "Press the key you want to add to the shortcut."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeyReset"
+msgid "Key reset"
+msgstr ""
+
+#, python-brace-format
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeySet"
+msgid "Key {0} set."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlName"
+msgid "Press enter here to set the key."
+msgstr ""
+
+#, python-brace-format
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlNameChange"
+msgid "Key {0} set. Press Enter to change or del to reset."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitle"
+msgid "Key configurator."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitleWithHint"
+msgid ""
+"Key configurator. Use tab and shift+tab to move forwards and backwards on "
+"the screen. Use the up and down arrows to move through lists and trees. To "
+"activate the selected item, press enter."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitle"
+msgid "Add shortcut."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitleWithHint"
+msgid ""
+"Add shortcut. Use tab and shift+tab to move forwards and backwards on the "
+"screen. Use the up and down arrows to move through the lists. To activate "
+"the selected item, press enter."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListAlt"
+msgid "alt key"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListAny"
+msgid "Any"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListCtrl"
+msgid "Ctrl key"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListLeft"
+msgid "Left"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListRight"
+msgid "Right"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListShift"
+msgid "Shift key"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListUnused"
+msgid "Not used"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListWin"
+msgid "Windows key"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ShortcutsListText"
+msgid "Shortcuts"
+msgstr ""
+
+msgctxt "Keys_APOSTROPHE"
+msgid "aphostrophe"
+msgstr ""
+
+msgctxt "Keys_APPLICATION"
+msgid "application"
+msgstr ""
+
+msgctxt "Keys_BACKSLASH"
+msgid "backslash"
+msgstr ""
+
+msgctxt "Keys_BACKSPACE"
+msgid "backspace"
+msgstr ""
+
+msgctxt "Keys_CAPSLOCK"
+msgid "capslock"
+msgstr ""
+
+msgctxt "Keys_COMMA"
+msgid "comma"
+msgstr ""
+
+msgctxt "Keys_D0"
+msgid "0"
+msgstr ""
+
+msgctxt "Keys_D1"
+msgid "1"
+msgstr ""
+
+msgctxt "Keys_D2"
+msgid "2"
+msgstr ""
+
+msgctxt "Keys_D3"
+msgid "3"
+msgstr ""
+
+msgctxt "Keys_D4"
+msgid "4"
+msgstr ""
+
+msgctxt "Keys_D5"
+msgid "5"
+msgstr ""
+
+msgctxt "Keys_D6"
+msgid "6"
+msgstr ""
+
+msgctxt "Keys_D7"
+msgid "7"
+msgstr ""
+
+msgctxt "Keys_D8"
+msgid "8"
+msgstr ""
+
+msgctxt "Keys_D9"
+msgid "9"
+msgstr ""
+
+msgctxt "Keys_DELETE"
+msgid "delete"
+msgstr ""
+
+msgctxt "Keys_DOWN"
+msgid "down"
+msgstr ""
+
+msgctxt "Keys_END"
+msgid "end"
+msgstr ""
+
+msgctxt "Keys_EQUALS"
+msgid "equals"
+msgstr ""
+
+msgctxt "Keys_ESCAPE"
+msgid "escape"
+msgstr ""
+
+msgctxt "Keys_GRAVE"
+msgid "grave"
+msgstr ""
+
+msgctxt "Keys_HOME"
+msgid "home"
+msgstr ""
+
+msgctxt "Keys_INSERT"
+msgid "insert"
+msgstr ""
+
+msgctxt "Keys_KP_0"
+msgid "numpad 0"
+msgstr ""
+
+msgctxt "Keys_KP_1"
+msgid "numpad 1"
+msgstr ""
+
+msgctxt "Keys_KP_2"
+msgid "numpad 2"
+msgstr ""
+
+msgctxt "Keys_KP_3"
+msgid "numpad 3"
+msgstr ""
+
+msgctxt "Keys_KP_4"
+msgid "numpad 4"
+msgstr ""
+
+msgctxt "Keys_KP_5"
+msgid "numpad 5"
+msgstr ""
+
+msgctxt "Keys_KP_6"
+msgid "numpad 6"
+msgstr ""
+
+msgctxt "Keys_KP_7"
+msgid "numpad 7"
+msgstr ""
+
+msgctxt "Keys_KP_8"
+msgid "numpad 8"
+msgstr ""
+
+msgctxt "Keys_KP_9"
+msgid "numpad 9"
+msgstr ""
+
+msgctxt "Keys_KP_DELETE"
+msgid "numpad delete"
+msgstr ""
+
+msgctxt "Keys_KP_DIVIDE"
+msgid "numpad divide"
+msgstr ""
+
+msgctxt "Keys_KP_ENTER"
+msgid "numpad enter"
+msgstr ""
+
+msgctxt "Keys_KP_MINUS"
+msgid "numpad minus"
+msgstr ""
+
+msgctxt "Keys_KP_MULTIPLY"
+msgid "numpad multiply"
+msgstr ""
+
+msgctxt "Keys_KP_PERIOD"
+msgid "numpad period"
+msgstr ""
+
+msgctxt "Keys_KP_PLUS"
+msgid "numpad plus"
+msgstr ""
+
+msgctxt "Keys_LEFT"
+msgid "left"
+msgstr ""
+
+msgctxt "Keys_LEFTBRACKET"
+msgid "left bracket"
+msgstr ""
+
+msgctxt "Keys_MINUS"
+msgid "dash"
+msgstr ""
+
+msgctxt "Keys_MUTE"
+msgid "mute"
+msgstr ""
+
+msgctxt "Keys_PAGEDOWN"
+msgid "page down"
+msgstr ""
+
+msgctxt "Keys_PAGEUP"
+msgid "page up"
+msgstr ""
+
+msgctxt "Keys_PAUSE"
+msgid "pause"
+msgstr ""
+
+msgctxt "Keys_PERIOD"
+msgid "period"
+msgstr ""
+
+msgctxt "Keys_PRINTSCREEN"
+msgid "printscreen"
+msgstr ""
+
+msgctxt "Keys_RETURN"
+msgid "enter"
+msgstr ""
+
+msgctxt "Keys_RIGHT"
+msgid "right"
+msgstr ""
+
+msgctxt "Keys_RIGHTBRACKET"
+msgid "right bracket"
+msgstr ""
+
+msgctxt "Keys_SCROLLLOCK"
+msgid "scroll lock"
+msgstr ""
+
+msgctxt "Keys_SEMICOLON"
+msgid "semicolon"
+msgstr ""
+
+msgctxt "Keys_SLASH"
+msgid "slash"
+msgstr ""
+
+msgctxt "Keys_SPACE"
+msgid "space"
+msgstr ""
+
+msgctxt "Keys_TAB"
+msgid "tab"
+msgstr ""
+
+msgctxt "Keys_UP"
+msgid "up"
+msgstr ""
+
+msgctxt "Keys_VOLUMEDOWN"
+msgid "volume down"
+msgstr ""
+
+msgctxt "Keys_VOLUMEUP"
+msgid "volume up"
+msgstr ""
+
+msgctxt "RecordingPlayerScreenInterface_Loaded"
+msgid "Ready."
+msgstr ""
+
+msgctxt "RecordingPlayerScreenInterface_LoadedWithHint"
+msgid ""
+"Ready. To start playback, press Spacebar. Press spacebar to pause and "
+"unpause playback. To rewind by 5 seconds, use the left and right arrow keys. "
+"Rewind by 30 seconds using the arrow keys while holding down the ctrl key. "
+"To exit the player, press escape."
+msgstr ""
+
+msgctxt "RecordingPlayerScreenInterface_Loading"
+msgid "Загрузка..."
+msgstr ""
+
+msgctxt "RecordingPlayerScreenInterface_LoadingError"
+msgid ""
+"An error occurred while loading the recording. This recording may be "
+"corrupted."
+msgstr ""
+
+msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuBack"
+msgid "Go back"
+msgstr ""
+
+msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuNoRecordings"
+msgid "No recordings."
+msgstr ""
+
+msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuTitle"
+msgid "Your recordings."
+msgstr ""
+
+msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuTitleWithHint"
+msgid ""
+"Your recordings. Use up and down arrows to move through the menu. Press "
+"enter to activate an item"
+msgstr ""
+
+#, python-brace-format
+msgctxt "RecordingPlayerScreenInterface_Time"
+msgid "{0} / {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "RecordingPlayerScreenInterface_Volume"
+msgid "Volume {0}%"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-09-11 16:52+0000\n"
+"POT-Creation-Date: 2024-09-13 08:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,15 +30,15 @@ msgstr ""
 #, python-brace-format
 msgctxt "AuraLeaderText"
 msgid ""
-"Leader's aura: level {0}. For each level, adds one percent to the points "
-"received."
+"Leader's aura: level {0} (+{1}%). For each level, adds one percent to the "
+"points received."
 msgstr ""
 
 #, python-brace-format
 msgctxt "AuraTimeText"
 msgid ""
-"Time Aura: level {0}. For each level, adds 5 seconds to the maximum playing "
-"time."
+"Time Aura: level {0} (+{1} sec). For each level, adds 5 seconds to the "
+"maximum playing time."
 msgstr ""
 
 #, python-brace-format
@@ -89,9 +89,45 @@ msgctxt "FileSizeMegabytes"
 msgid "{0} mb"
 msgstr ""
 
+msgctxt "GameObjectCloset"
+msgid "Closet."
+msgstr ""
+
+msgctxt "GameObjectDish"
+msgid "Dish."
+msgstr ""
+
+msgctxt "GameObjectDishCloset"
+msgid "Kitchen cabinet."
+msgstr ""
+
+msgctxt "GameObjectGlass"
+msgid "Glass."
+msgstr ""
+
+msgctxt "GameObjectLightbulb"
+msgid "Lamp."
+msgstr ""
+
+msgctxt "GameObjectMine"
+msgid "Mine."
+msgstr ""
+
+msgctxt "GameObjectRadio"
+msgid "Radio."
+msgstr ""
+
+msgctxt "GameObjectTelevision"
+msgid "TV."
+msgstr ""
+
 #, python-brace-format
 msgctxt "GamePoints"
 msgid "{0} points scored in this game."
+msgstr ""
+
+msgctxt "GamePracticeInstantSkillRecharge"
+msgid "All skills are ready to use."
 msgstr ""
 
 #, python-brace-format
@@ -135,6 +171,192 @@ msgctxt "IncompatableSaveTitle"
 msgid "Incompatible save"
 msgstr ""
 
+msgctxt "KeyConfigurationActionCheckPoints"
+msgid "Find out the number of points scored"
+msgstr ""
+
+msgctxt "KeyConfigurationActionCheckRemainingTime"
+msgid "Check the time remaining until the end of the session"
+msgstr ""
+
+msgctxt "KeyConfigurationActionCloseMap"
+msgid "Close map"
+msgstr ""
+
+msgctxt "KeyConfigurationActionHorizontalBatSwing"
+msgid "Swing the bat horizontally"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapCursorMoveDown"
+msgid "Move cursor down"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapCursorMoveLeft"
+msgid "Move cursor left"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapCursorMoveRight"
+msgid "Move cursor right"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapCursorMoveUp"
+msgid "Move cursor up"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapMoveListenerDown"
+msgid "Move observation point lower"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapMoveListenerUp"
+msgid "Move observation point higher"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapSwitchAnnouncingObjectType"
+msgid "Toggle object type announcement"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapSwitchMovingMode"
+msgid "Toggle cursor movement mode"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapTotalObjects"
+msgid "Find out the number of objects on the map"
+msgstr ""
+
+msgctxt "KeyConfigurationActionOpenMap"
+msgid "Open map"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPauseGame"
+msgid "Pause the game"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPlayCheckPositionSound"
+msgid "Play sound at character's position"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPlayerCatchBall"
+msgid "Catch the ball"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPlayerJump"
+msgid "Jump"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPlayerMoveLeft"
+msgid "Move character left"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPlayerMoveRight"
+msgid "Move character right"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPracticeInstantSkillRecharge"
+msgid "Zero all skills cooldown"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPracticeSetSkillLevels"
+msgid "Set skill levels"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSetPlayerFacingLeft"
+msgid "Set character facing left"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSetPlayerFacingRight"
+msgid "Set character facing right"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot1"
+msgid "Select the skill set in slot 1"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot10"
+msgid "Select the skill set in slot 10"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot2"
+msgid "Select the skill set in slot 2"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot3"
+msgid "Select the skill set in slot 3"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot4"
+msgid "Select the skill set in slot 4"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot5"
+msgid "Select the skill set in slot 5"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot6"
+msgid "Select the skill set in slot 6"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot7"
+msgid "Select the skill set in slot 7"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot8"
+msgid "Select the skill set in slot 8"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot9"
+msgid "Select the skill set in slot 9"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlotCancel"
+msgid "Cancel the selected skill"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSwitchBallViewMode"
+msgid "Switch to ball watch mode"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSwitchCharacterCameraMode"
+msgid "Switch camera mode between first person and center field view"
+msgstr ""
+
+msgctxt "KeyConfigurationActionThrowBallHorizontal"
+msgid "Throw the ball horizontally"
+msgstr ""
+
+msgctxt "KeyConfigurationActionThrowBallVertical"
+msgid "Throw the ball vertically"
+msgstr ""
+
+msgctxt "KeyConfigurationActionVerticalBatSwing"
+msgid "Vertical bat swing"
+msgstr ""
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionKeys"
+msgid "Game session"
+msgstr ""
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionObjectMapKeys"
+msgid "Object map"
+msgstr ""
+
+msgctxt "KeyConfigurationBlockBallBouncerPracticeGameSessionKeys"
+msgid "Training mode"
+msgstr ""
+
+msgctxt "KeyConfigurationMergeDeletionDialogOk"
+msgid "I understand"
+msgstr ""
+
+msgctxt "KeyConfigurationMergeDeletionDialogText"
+msgid ""
+"New keyboard shortcuts have been introduced into the game, but upon loading "
+"your configuration, it was discovered that you already have the shortcuts "
+"that are reserved as default shortcuts installed. Due to this, new "
+"combinations have been removed in favor of yours. We strongly recommend that "
+"you go to Settings, go to the \"Keyboard Shortcut Configuration\" tab and "
+"configure new actions. You can find a list of new actions in the changelog."
+msgstr ""
+
 msgctxt "LearnSoundsBatHitSuccess"
 msgid "Successfully hit the ball with the bat."
 msgstr ""
@@ -152,7 +374,7 @@ msgid "Penalty for frequent misses with the bat on the ball."
 msgstr ""
 
 msgctxt "LearnSoundsForceFull"
-msgid "character's blow force has been fully restored."
+msgid "Character's blow force has been fully restored."
 msgstr ""
 
 msgctxt "LearnSoundsObjectDestroy"
@@ -194,6 +416,10 @@ msgctxt "MainMenuProfile"
 msgid "Profile."
 msgstr ""
 
+msgctxt "MainMenuRecordings"
+msgid "Recordings."
+msgstr ""
+
 msgctxt "MainMenuStartGame"
 msgid "Start game."
 msgstr ""
@@ -212,26 +438,39 @@ msgid ""
 "enter."
 msgstr ""
 
-msgctxt "ModeSelectionMenuBack"
+msgctxt "ModeSelectionFormBack"
 msgid "Return to main menu."
 msgstr ""
 
-msgctxt "ModeSelectionMenuNormalMode"
+msgctxt "ModeSelectionFormModes"
+msgid "Modes"
+msgstr ""
+
+msgctxt "ModeSelectionFormNormalMode"
 msgid "Normal game."
 msgstr ""
 
-msgctxt "ModeSelectionMenuPracticeMode"
+msgctxt "ModeSelectionFormPracticeMode"
 msgid "Training mode."
 msgstr ""
 
-msgctxt "ModeSelectionMenuTitle"
+msgctxt "ModeSelectionFormRecord"
+msgid "Record the game"
+msgstr ""
+
+msgctxt "ModeSelectionFormStart"
+msgid "Start"
+msgstr ""
+
+msgctxt "ModeSelectionFormTitle"
 msgid "Select a game mode."
 msgstr ""
 
-msgctxt "ModeSelectionMenuTitleWithHint"
+msgctxt "ModeSelectionFormTitleWithHint"
 msgid ""
-"Select a game mode. Use the up and down arrows to move. To confirm your "
-"selection, press enter."
+"Select a game mode. Use tab and shift+tab to move forwards and backwards on "
+"the screen. Use the up and down arrows to move through the list. To confirm "
+"your selection, press enter or click the \"Start\" button."
 msgstr ""
 
 msgctxt "NumberNotationsEmpty"
@@ -254,6 +493,31 @@ msgctxt "NumberNotationsStandard"
 msgid "Standard."
 msgstr ""
 
+msgctxt "ObjectsMapScreenAnnounceObjectTypeDisabled"
+msgid "Object type announcement under the cursor disabled."
+msgstr ""
+
+msgctxt "ObjectsMapScreenAnnounceObjectTypeEnabled"
+msgid "Object type announcement under the cursor enabled."
+msgstr ""
+
+msgctxt "ObjectsMapScreenFreeMovingMode"
+msgid "Switched to free movement mode."
+msgstr ""
+
+msgctxt "ObjectsMapScreenObjectMovingMode"
+msgid "Switched to object movement mode."
+msgstr ""
+
+msgctxt "ObjectsMapScreenTitle"
+msgid "Object map."
+msgstr ""
+
+#, python-brace-format
+msgctxt "ObjectsMapScreenTotalObjects"
+msgid "{0} objects on the map."
+msgstr ""
+
 msgctxt "OptionsScreenAllowOverMaxVolume"
 msgid "Allow audio volume boost up to two hundred percent"
 msgstr ""
@@ -262,6 +526,10 @@ msgctxt "OptionsScreenAllowPlayObjectNotifySounds"
 msgid ""
 "Play alert sounds when the ball collides with or destroys objects on the "
 "field"
+msgstr ""
+
+msgctxt "OptionsScreenAutosaveRecording"
+msgid "Save the recording every 30 seconds"
 msgstr ""
 
 msgctxt "OptionsScreenBatHitSuccessSound"
@@ -274,6 +542,14 @@ msgstr ""
 
 msgctxt "OptionsScreenCatigoriesGeneral"
 msgid "General"
+msgstr ""
+
+msgctxt "OptionsScreenCatigoriesKeyConfiguration"
+msgid "Keyboard shortcut configuration"
+msgstr ""
+
+msgctxt "OptionsScreenCatigoriesRecording"
+msgid "Recording"
 msgstr ""
 
 msgctxt "OptionsScreenCatigoriesSound"
@@ -298,6 +574,10 @@ msgstr ""
 
 msgctxt "OptionsScreenCloseButton"
 msgid "Close"
+msgstr ""
+
+msgctxt "OptionsScreenConfigureKeysButton"
+msgid "Configure keyboard shortcuts"
 msgstr ""
 
 msgctxt "OptionsScreenDisplayTitleHints"
@@ -326,6 +606,34 @@ msgstr ""
 
 msgctxt "OptionsScreenPrefereSapi"
 msgid "Prefer sapi to screen reader"
+msgstr ""
+
+msgctxt "OptionsScreenRecordingCancellation"
+msgid "Cancel recording when canceling the game from the pause menu"
+msgstr ""
+
+msgctxt "OptionsScreenResetKeyConfigurationToDefault"
+msgid "Reset shortcut key configuration to defaults"
+msgstr ""
+
+msgctxt "OptionsScreenResetKeyConfigurationToDefaultConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your current keyboard shortcut configuration? "
+"Attention: this action is irreversible!"
+msgstr ""
+
+msgctxt "OptionsScreenResetOptionsToDefault"
+msgid "Reset settings to defaults"
+msgstr ""
+
+msgctxt "OptionsScreenResetOptionsToDefaultConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your settings to default? Attention: this "
+"action is irreversible! Once confirmed, the application will be restarted."
+msgstr ""
+
+msgctxt "OptionsScreenSaveCharacterViewState"
+msgid "Save first person view state between games"
 msgstr ""
 
 msgctxt "OptionsScreenShowResultMenu"
@@ -361,6 +669,16 @@ msgid ""
 "Settings screen. Use tab and shift+tab to move forward and backward. Use the "
 "arrow keys to change the position of the sliders. To activate the selected "
 "item, press enter or spacebar."
+msgstr ""
+
+msgctxt "OptionsScreenWipeSave"
+msgid "Reset game progress"
+msgstr ""
+
+msgctxt "OptionsScreenWipeSaveConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your game progress? Attention: this action is "
+"irreversible!"
 msgstr ""
 
 msgctxt "PauseMenuAbortGame"
@@ -402,8 +720,8 @@ msgctxt "ProfileAurasPageTitle"
 msgid "Auras"
 msgstr ""
 
-msgctxt "ProfileSkillsPageTitle"
-msgid "Skills"
+msgctxt "ProfileStatsCopied"
+msgid "Copied."
 msgstr ""
 
 msgctxt "ProfileStatsPageTitle"
@@ -419,6 +737,67 @@ msgid ""
 "Your profile. Use tab and shift+tab to move forwards and backwards. To "
 "receive a reward in statistics, press enter on the item with an available "
 "reward."
+msgstr ""
+
+msgctxt "SkillLevelsSetFormBack"
+msgid "Return to game"
+msgstr ""
+
+msgctxt "SkillLevelsSetFormPowerRecoveringBonusChanger"
+msgid "Increased blow force recovery rate level"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillLevelsSetFormSkillLevel"
+msgid "Skill level {0}"
+msgstr ""
+
+msgctxt "SkillLevelsSetFormTitle"
+msgid "Set skill levels."
+msgstr ""
+
+msgctxt "SkillLevelsSetFormTitleWithHint"
+msgid ""
+"Set skill levels. Use tab and shift+tab to move forward and backward. Use "
+"the arrow keys to change the position of the sliders. To activate the "
+"selected item, press enter or spacebar."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillSlotRecharging"
+msgid "{0} seconds before skill cooldown."
+msgstr ""
+
+msgctxt "SkillSlotSelectCanceled"
+msgid "Selection canceled."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillSlotSelected"
+msgid "Skill {0} is selected."
+msgstr ""
+
+msgctxt "SkillSlotSetterMenuBack"
+msgid "Go back."
+msgstr ""
+
+msgctxt "SkillSlotSetterMenuTitle"
+msgid "Select a skill to install in the slot."
+msgstr ""
+
+msgctxt "SkillSlotSetterMenuTitleWithHint"
+msgid ""
+"Select a skill to install in the slot. Use the up and down arrows to select "
+"and press enter to confirm your selection."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillSlotText"
+msgid "Slot {0}. {1}"
+msgstr ""
+
+msgctxt "SkillSlotsTitle"
+msgid "Slots"
 msgstr ""
 
 #, python-brace-format
@@ -460,7 +839,7 @@ msgid "immateriality"
 msgstr ""
 
 msgctxt "SkillsImmaterialityNameFull"
-msgid "immateriality"
+msgid "Immateriality."
 msgstr ""
 
 #, python-brace-format
@@ -476,43 +855,6 @@ msgstr ""
 
 msgctxt "SkillsListTitle"
 msgid "Unlocked Skills"
-msgstr ""
-
-#, python-brace-format
-msgctxt "SkillSlotRecharging"
-msgid "{0} seconds before skill cooldown."
-msgstr ""
-
-msgctxt "SkillSlotSelectCanceled"
-msgid "Selection canceled"
-msgstr ""
-
-#, python-brace-format
-msgctxt "SkillSlotSelected"
-msgid "Skill {0} is selected."
-msgstr ""
-
-msgctxt "SkillSlotSetterMenuBack"
-msgid "Go back."
-msgstr ""
-
-msgctxt "SkillSlotSetterMenuTitle"
-msgid "Select a skill to install in the slot."
-msgstr ""
-
-msgctxt "SkillSlotSetterMenuTitleWithHint"
-msgid ""
-"Select a skill to install in the slot. Use the up and down arrows to select "
-"and press enter to confirm your selection."
-msgstr ""
-
-msgctxt "SkillSlotsTitle"
-msgid "Slots"
-msgstr ""
-
-#, python-brace-format
-msgctxt "SkillSlotText"
-msgid "Slot {0}. {1}"
 msgstr ""
 
 #, python-brace-format
@@ -561,6 +903,10 @@ msgctxt "SkillsObjectSpawnerText"
 msgid ""
 "Creator's stroke: level {0}/4. Swinging the bat creates {1} objects on the "
 "field, cooldown interval is {2} seconds."
+msgstr ""
+
+msgctxt "SkillsPageTitle"
+msgid "Skills"
 msgstr ""
 
 #, python-brace-format
@@ -766,17 +1112,13 @@ msgctxt "StoreCatigoriesObjects"
 msgid "Objects"
 msgstr ""
 
-msgctxt "StoreCatigoriesSkills"
-msgid "Skills"
-msgstr ""
-
 #, python-brace-format
 msgctxt "StoreCoins"
 msgid "Coins: {0}."
 msgstr ""
 
 msgctxt "StoreInfoTitle"
-msgid "Reference Information:"
+msgid "Reference Information: "
 msgstr ""
 
 msgctxt "StoreInfoTitleWithHint"
@@ -817,19 +1159,6 @@ msgctxt "StoreItemJumpFeatureText"
 msgid "Unlock the  jump feature"
 msgstr ""
 
-msgctxt "StoreItemMineObjectInfo"
-msgid ""
-"Mine object.\n"
-"The ball's collision with this object causes an explosion that violently "
-"pushes the ball away and destroys nearby objects.\n"
-"If a mine's explosion hits another mine, it will explode, thereby creating a "
-"chain of explosions."
-msgstr ""
-
-msgctxt "StoreItemMineObjectText"
-msgid "Unlock the mine object."
-msgstr ""
-
 msgctxt "StoreItemMinObjectIncreaseInfo"
 msgid ""
 "Increasing the minimum number of objects on the field.\n"
@@ -841,7 +1170,20 @@ msgstr ""
 
 #, python-brace-format
 msgctxt "StoreItemMinObjectIncreaseText"
-msgid "minimum number of objects on the field increase: level {0}/10."
+msgid "Minimum number of objects on the field increase: level {0}/10."
+msgstr ""
+
+msgctxt "StoreItemMineObjectInfo"
+msgid ""
+"Mine object.\n"
+"The ball's collision with this object causes an explosion that violently "
+"pushes the ball away and destroys nearby objects.\n"
+"If a mine's explosion hits another mine, it will explode, thereby creating a "
+"chain of explosions."
+msgstr ""
+
+msgctxt "StoreItemMineObjectText"
+msgid "Unlock the mine object."
 msgstr ""
 
 msgctxt "StoreItemPowerRecoveringInfo"
