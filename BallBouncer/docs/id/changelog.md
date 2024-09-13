@@ -2,11 +2,11 @@
 
 ## 1.2.0
 
-This version is designed to further improve the user experience and polish the
-existing content of the game. Now you can reassign keyboard shortcuts as you
-wish. It is now possible to record your gameplay and play back the resulting
-recordings using the built-in player for such recordings. An object map and
-several other improvements and fixes are also in place.
+This version is aimed at further improving the user experience and existing
+content polishing. Now you can reassign keyboard shortcuts as you wish. It is
+now possible to record your gameplay and play back the resulting recordings
+using the built-in player for such recordings. An object map and several other
+improvements and fixes are also in place.
 
 We have opened the official [github translation
 repository](https://github.com/sooslandia/translations). If you want to

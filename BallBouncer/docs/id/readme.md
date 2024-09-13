@@ -5,7 +5,7 @@ menjelaskan gameplay secara detail dengan sebagian besar nuansanya. Jika Anda
 ingin mengetahuinya sendiri, kami sarankan Anda segera membuka dan membiasakan
 diri dengan tabel tombol kontrol.
 
-## Cara bermain
+## About the game
 
 ### Brief description
 
@@ -66,11 +66,12 @@ aktifkan kontrol dengan menekan enter atau spasi. Telusuri daftar dengan panah
 atas dan bawah, ubah nilai penggeser dengan panah. Pemilihan tab dilakukan
 dengan menekan tombol panah kiri/kanan.
 
-Di layar toko, dengan menekan enter pada item yang Anda pilih, Anda dapat membuka
-informasi referensi yang menjelaskan item tersebut. Di profil Anda, pada tab
-"Statistik", dengan menekan enter pada item daftar, Anda dapat menerima hadiah,
-jika tersedia. Pada tab “Skill”, dengan mengklik item, Anda bisa mendapatkan
-informasi detail tentang skill tersebut.
+On the shop screen, by pressing enter on the item you have selected, you can open
+reference information that describes this item. In your profile, on the
+"Statistics" tab, by pressing enter on a list item you can receive a reward, if
+available. By pressing ctrl+c you can copy the contents of the item into your
+clipboard. On the “Skills” tab, by clicking on an item, you can get detailed
+information about the skill.
 
 Semua menu dan layar, kecuali menu utama dan menu hasil pertandingan terakhir,
 dapat ditutup dengan tombol escape.
@@ -205,7 +206,7 @@ the object in the place where this object is located, and the type of object
 will also be announced. You can turn off the pronunciation of the object type
 using the f1 key. Using the f2 key you can switch between movement modes.
 
-There are two cursor movement modes:There are two types of throw:
+There are two cursor movement modes:
 
 - Free movement. The cursor can be moved on the map in any direction by one cell.
 When moving in free mode, empty cells will also be visible under the cursor,
@@ -283,8 +284,8 @@ configuration.
 | Beralih mode kamera antara mode orang pertama dan mode tampilan terpusat di lapangan | v |
 | Melompat (jika fitur tidak terkunci) | Panah atas atau tombol w |
 | Menangkap bola (jika fitur tidak terkunci) | kontrol kiri atau kanan |
-| Pilih slot keterampilan dari 1 hingga 10 (jika keterampilan diatur) | Angka 1 sampai 0 |
-| Batalkan pemilihan slot keterampilan | Grave |
+| Pilih slot keterampilan dari 1 hingga 10 (jika keterampilan diatur) | keys 1 to 0/numpad1 to numpad0 |
+| Batalkan pemilihan slot keterampilan | Grave / numpad enter |
 | Open the object map | m |
 | Cari tahu waktu hingga akhir sesi permainan | t |
 | Cari tahu jumlah poin yang dihasilkan saat ini | p |

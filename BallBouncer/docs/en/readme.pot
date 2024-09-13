@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-09-13 08:46+0000\n"
+"POT-Creation-Date: 2024-09-13 14:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,7 +30,7 @@ msgid ""
 msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 3 (header)
-msgid "How to play"
+msgid "About the game"
 msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 4 (header)
@@ -140,8 +140,9 @@ msgid ""
 "On the shop screen, by pressing enter on the item you have selected, you can "
 "open reference information that describes this item. In your profile, on the "
 "\"Statistics\" tab, by pressing enter on a list item you can receive a "
-"reward, if available. On the “Skills” tab, by clicking on an item, you can "
-"get detailed information about the skill."
+"reward, if available. By pressing ctrl+c you can copy the contents of the "
+"item into your clipboard. On the “Skills” tab, by clicking on an item, you "
+"can get detailed information about the skill."
 msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 21 (paragraph)
@@ -174,6 +175,10 @@ msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 25 (paragraph)
 msgid "These keys can be changed using the Shortcut Key Configurator."
+msgstr ""
+
+#: BallBouncer/docs/en/readme.md:block 26 (header)
+msgid "How to play"
 msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 27 (paragraph)
@@ -336,7 +341,7 @@ msgid ""
 msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 42 (paragraph)
-msgid "There are two cursor movement modes:There are two types of throw:"
+msgid "There are two cursor movement modes:"
 msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 43 (unordered list)
@@ -575,7 +580,7 @@ msgid "Select a skill slot from 1 to 10 (if the skill is set)"
 msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
-msgid "keys 1 to 0"
+msgid "keys 1 to 0/numpad1 to numpad0"
 msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
@@ -583,7 +588,7 @@ msgid "Cancel skill slot selection"
 msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
-msgid "Grave"
+msgid "Grave / numpad enter"
 msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
