@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2024-09-13 08:46+0000\n"
-"PO-Revision-Date: 2024-09-15 03:21+0700\n"
+"PO-Revision-Date: 2024-09-15 04:53+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -35,7 +35,6 @@ msgid ""
 "Leader's aura: level {0} (+{1}%). For each level, adds one percent to the "
 "points received."
 msgstr ""
-"Liderin aurası: seviye {0}. Her seviye için alınan puana yüzde bir ekler."
 
 #, python-brace-format
 msgctxt "AuraTimeText"
@@ -43,7 +42,6 @@ msgid ""
 "Time Aura: level {0} (+{1} sec). For each level, adds 5 seconds to the "
 "maximum playing time."
 msgstr ""
-"Zaman Aurası: seviye {0}. Her seviye için oyun süresine 5 saniye ekler."
 
 #, python-brace-format
 msgctxt "AuraUpgradeButton"
@@ -266,7 +264,7 @@ msgstr "Oyuncuyu sağa taşı"
 
 msgctxt "KeyConfigurationActionPracticeInstantSkillRecharge"
 msgid "Zero all skills cooldown"
-msgstr "Beceri bekleme süresi öncesi {0} saniye."
+msgstr ""
 
 msgctxt "KeyConfigurationActionPracticeSetSkillLevels"
 msgid "Set skill levels"
@@ -788,7 +786,7 @@ msgstr "Ana menüye geri dön."
 
 msgctxt "SkillLevelsSetFormPowerRecoveringBonusChanger"
 msgid "Increased blow force recovery rate level"
-msgstr "Artmış vuruş gücünün iyileşme hızı: Seviye {0}/10"
+msgstr ""
 
 #, python-brace-format
 msgctxt "SkillLevelsSetFormSkillLevel"
