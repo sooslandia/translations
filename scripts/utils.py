@@ -31,7 +31,7 @@ def convert_percents_to_braces(string):
 def file_updated(file_path):
     file_path = Path(file_path).resolve()
     quoted_file_path = shlex.quote(file_path.name)
-    previous_commit = os.environ.get("BEFORE_PUSH_COMMIT_SHA", "HEAD~1")
+    previous_commit = os.environ["BASE_SHA"]
     return_code = subprocess.call(
         ["bash", "-c", f"[[ $(git diff {previous_commit} -- {quoted_file_path}) ]]"],
         cwd=str(file_path.parent),

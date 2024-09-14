@@ -22,7 +22,7 @@ GETTEXT_CTX_SEPARATOR = "\x04"
 REPOSITORY_DIR = Path(".")
 PROJECTS_DIR = Path(os.environ["PROJECTS_DIR"])
 
-logger = logging.getLogger("process_master_changes")
+logger = logging.getLogger("process_translations")
 logger.setLevel(logging.DEBUG)
 console_handler = logging.StreamHandler()
 console_handler.setLevel(logging.INFO)
@@ -320,6 +320,9 @@ def convert_docs_po_to_md_file(po_file):
         logger.info("Converting because the po file has changed")
     elif file_updated(source_md_file):
         logger.info("Converting because the source file has changed")
+    else:
+        logger.info("No changes in po or source detected")
+        return
     process = subprocess.Popen(
         [
             "po2md",
@@ -347,16 +350,14 @@ def main():
         project_dirs = [i for i in f.read().split("\n") if i]
     for project_dir in project_dirs:
         process_project(PROJECTS_DIR / project_dir)
-        messages = message_manager.get_messages()
-        if not messages:
-            messages = [
-                "Validation and conversion completed without errors, let's wait for the review team.\n"
-                "Thanks for your contribution!"
-            ]
-        with (REPOSITORY_DIR / "result.txt").open(
-            "w", encoding="utf-8", newline=""
-        ) as f:
-            f.write("\n".join(messages))
+    messages = message_manager.get_messages()
+    if not messages:
+        messages = [
+            "Validation and conversion completed without errors, let's wait for the review team.\n"
+            "Thanks for your contribution!"
+        ]
+    with (REPOSITORY_DIR / "result.txt").open("w", encoding="utf-8", newline="") as f:
+        f.write("\n".join(messages))
 
 
 if __name__ == "__main__":

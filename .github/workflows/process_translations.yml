@@ -39,11 +39,12 @@ jobs:
         if: ${{ github.event_name == 'push' }}
         env:
           PROJECTS_DIR: '.'
-          BEFORE_PUSH_COMMIT_SHA: ${{ github.event.before }}
+          BASE_SHA: ${{ github.event.before }}
         run: python3 scripts/process_master_changes.py
       - name: Process translations
         env:
           PROJECTS_DIR: ${{ (github.event_name == 'push' && '.') || './pr' }}
+          BASE_SHA: ${{ (github.event_name == 'push' && github.event.before) || github.event.pull_request.base.sha }}
         run: python3 scripts/process_translations.py
       - name: 'Comment on PR'
         if: ${{ github.event_name == 'pull_request_target' }}
