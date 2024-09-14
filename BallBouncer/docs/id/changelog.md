@@ -1,5 +1,9 @@
 % log perubahan
 
+## 1.2.1
+
+This update fixes several critical bugs for Linux users.
+
 ## 1.2.0
 
 This version is aimed at further improving the user experience and existing
