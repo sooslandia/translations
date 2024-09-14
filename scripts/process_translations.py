@@ -133,7 +133,7 @@ def process_lng_files(project_path):
     for file in project_path.glob("*.lng"):
         if not file_updated(file):
             logger.info(f"File {file.name} is not changed")
-            return
+            continue
         if not LNG_FILE_REGEX.match(file.name):
             errors.append(f"lng file {file} have incorrect name.")
             continue
