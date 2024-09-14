@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-09-11 16:52+0000\n"
-"PO-Revision-Date: 2024-09-12 00:24+0700\n"
+"POT-Creation-Date: 2024-09-13 08:46+0000\n"
+"PO-Revision-Date: 2024-09-15 03:21+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -32,16 +32,16 @@ msgstr "Toplam {0} başarı puanı alındı."
 #, python-brace-format
 msgctxt "AuraLeaderText"
 msgid ""
-"Leader's aura: level {0}. For each level, adds one percent to the points "
-"received."
+"Leader's aura: level {0} (+{1}%). For each level, adds one percent to the "
+"points received."
 msgstr ""
 "Liderin aurası: seviye {0}. Her seviye için alınan puana yüzde bir ekler."
 
 #, python-brace-format
 msgctxt "AuraTimeText"
 msgid ""
-"Time Aura: level {0}. For each level, adds 5 seconds to the maximum playing "
-"time."
+"Time Aura: level {0} (+{1} sec). For each level, adds 5 seconds to the "
+"maximum playing time."
 msgstr ""
 "Zaman Aurası: seviye {0}. Her seviye için oyun süresine 5 saniye ekler."
 
@@ -78,27 +78,63 @@ msgstr "Sizde son sürüm var."
 #, python-brace-format
 msgctxt "FileSizeBytes"
 msgid "{0} b"
-msgstr ""
+msgstr "{0} b"
 
 #, python-brace-format
 msgctxt "FileSizeGigabytes"
 msgid "{0} GB"
-msgstr ""
+msgstr "{0} GB"
 
 #, python-brace-format
 msgctxt "FileSizeKilobytes"
 msgid "{0} kb"
-msgstr ""
+msgstr "{0} kb"
 
 #, python-brace-format
 msgctxt "FileSizeMegabytes"
 msgid "{0} mb"
-msgstr ""
+msgstr "{0} mb"
+
+msgctxt "GameObjectCloset"
+msgid "Closet."
+msgstr "Kapat"
+
+msgctxt "GameObjectDish"
+msgid "Dish."
+msgstr "Tabak."
+
+msgctxt "GameObjectDishCloset"
+msgid "Kitchen cabinet."
+msgstr "Mutfak dolabı."
+
+msgctxt "GameObjectGlass"
+msgid "Glass."
+msgstr "Bardak."
+
+msgctxt "GameObjectLightbulb"
+msgid "Lamp."
+msgstr "Lamba."
+
+msgctxt "GameObjectMine"
+msgid "Mine."
+msgstr "Mayın."
+
+msgctxt "GameObjectRadio"
+msgid "Radio."
+msgstr "Radyo."
+
+msgctxt "GameObjectTelevision"
+msgid "TV."
+msgstr "Televizyon."
 
 #, python-brace-format
 msgctxt "GamePoints"
 msgid "{0} points scored in this game."
 msgstr "Bu oyunda {0} puan alındı."
+
+msgctxt "GamePracticeInstantSkillRecharge"
+msgid "All skills are ready to use."
+msgstr "Tüm beceriler kullanıma hazır."
 
 #, python-brace-format
 msgctxt "GameResultScreenCoins"
@@ -148,6 +184,198 @@ msgctxt "IncompatableSaveTitle"
 msgid "Incompatible save"
 msgstr "Uyumsuz kayıt"
 
+msgctxt "KeyConfigurationActionCheckPoints"
+msgid "Find out the number of points scored"
+msgstr "Alınan skoru öğren"
+
+msgctxt "KeyConfigurationActionCheckRemainingTime"
+msgid "Check the time remaining until the end of the session"
+msgstr "Oturumun sonuna kadar olan zamanı kontrol et"
+
+msgctxt "KeyConfigurationActionCloseMap"
+msgid "Close map"
+msgstr "Kapat"
+
+msgctxt "KeyConfigurationActionHorizontalBatSwing"
+msgid "Swing the bat horizontally"
+msgstr "Sopayı yatay olarak savur"
+
+msgctxt "KeyConfigurationActionMapCursorMoveDown"
+msgid "Move cursor down"
+msgstr "İmleci aşağı taşı"
+
+msgctxt "KeyConfigurationActionMapCursorMoveLeft"
+msgid "Move cursor left"
+msgstr "İmleci sola taşı"
+
+msgctxt "KeyConfigurationActionMapCursorMoveRight"
+msgid "Move cursor right"
+msgstr "İmleci sağa taşı"
+
+msgctxt "KeyConfigurationActionMapCursorMoveUp"
+msgid "Move cursor up"
+msgstr "İmleci yukarı taşı"
+
+msgctxt "KeyConfigurationActionMapMoveListenerDown"
+msgid "Move observation point lower"
+msgstr "Gözlem noktasını aşağı taşı"
+
+msgctxt "KeyConfigurationActionMapMoveListenerUp"
+msgid "Move observation point higher"
+msgstr "Gözlem noktasını yukarı taşı"
+
+msgctxt "KeyConfigurationActionMapSwitchAnnouncingObjectType"
+msgid "Toggle object type announcement"
+msgstr "Nesne türü duyurusunu aç veya kapat"
+
+msgctxt "KeyConfigurationActionMapSwitchMovingMode"
+msgid "Toggle cursor movement mode"
+msgstr "İmleç hareket kipini değiştir"
+
+msgctxt "KeyConfigurationActionMapTotalObjects"
+msgid "Find out the number of objects on the map"
+msgstr "Sahadaki en az nesnelerin sayısını arttırma."
+
+msgctxt "KeyConfigurationActionOpenMap"
+msgid "Open map"
+msgstr "Haritayı aç"
+
+msgctxt "KeyConfigurationActionPauseGame"
+msgid "Pause the game"
+msgstr "Oyundan çık."
+
+msgctxt "KeyConfigurationActionPlayCheckPositionSound"
+msgid "Play sound at character's position"
+msgstr "Sesi oyuncunun pozisyonundan oynat"
+
+msgctxt "KeyConfigurationActionPlayerCatchBall"
+msgid "Catch the ball"
+msgstr "Topu yakala"
+
+msgctxt "KeyConfigurationActionPlayerJump"
+msgid "Jump"
+msgstr "Atla"
+
+msgctxt "KeyConfigurationActionPlayerMoveLeft"
+msgid "Move character left"
+msgstr "Oyuncuyu sola taşı"
+
+msgctxt "KeyConfigurationActionPlayerMoveRight"
+msgid "Move character right"
+msgstr "Oyuncuyu sağa taşı"
+
+msgctxt "KeyConfigurationActionPracticeInstantSkillRecharge"
+msgid "Zero all skills cooldown"
+msgstr "Beceri bekleme süresi öncesi {0} saniye."
+
+msgctxt "KeyConfigurationActionPracticeSetSkillLevels"
+msgid "Set skill levels"
+msgstr "Beceri seviyelerini ayarla"
+
+msgctxt "KeyConfigurationActionSetPlayerFacingLeft"
+msgid "Set character facing left"
+msgstr "Oyuncu yüzünü sola döndür"
+
+msgctxt "KeyConfigurationActionSetPlayerFacingRight"
+msgid "Set character facing right"
+msgstr "Oyuncu yüzünü sağa döndür"
+
+msgctxt "KeyConfigurationActionSkillSlot1"
+msgid "Select the skill set in slot 1"
+msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+
+msgctxt "KeyConfigurationActionSkillSlot10"
+msgid "Select the skill set in slot 10"
+msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+
+msgctxt "KeyConfigurationActionSkillSlot2"
+msgid "Select the skill set in slot 2"
+msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+
+msgctxt "KeyConfigurationActionSkillSlot3"
+msgid "Select the skill set in slot 3"
+msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+
+msgctxt "KeyConfigurationActionSkillSlot4"
+msgid "Select the skill set in slot 4"
+msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+
+msgctxt "KeyConfigurationActionSkillSlot5"
+msgid "Select the skill set in slot 5"
+msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+
+msgctxt "KeyConfigurationActionSkillSlot6"
+msgid "Select the skill set in slot 6"
+msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+
+msgctxt "KeyConfigurationActionSkillSlot7"
+msgid "Select the skill set in slot 7"
+msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+
+msgctxt "KeyConfigurationActionSkillSlot8"
+msgid "Select the skill set in slot 8"
+msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+
+msgctxt "KeyConfigurationActionSkillSlot9"
+msgid "Select the skill set in slot 9"
+msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+
+msgctxt "KeyConfigurationActionSkillSlotCancel"
+msgid "Cancel the selected skill"
+msgstr "Seçilen beceriyi iptal et"
+
+msgctxt "KeyConfigurationActionSwitchBallViewMode"
+msgid "Switch to ball watch mode"
+msgstr "Top izleme moduna geç"
+
+msgctxt "KeyConfigurationActionSwitchCharacterCameraMode"
+msgid "Switch camera mode between first person and center field view"
+msgstr "Kamera modunu birinci şahıs ve sahanın ortası arasında değiştir"
+
+msgctxt "KeyConfigurationActionThrowBallHorizontal"
+msgid "Throw the ball horizontally"
+msgstr "Topu yatay olarak at"
+
+msgctxt "KeyConfigurationActionThrowBallVertical"
+msgid "Throw the ball vertically"
+msgstr "Topu dikey olarak at"
+
+msgctxt "KeyConfigurationActionVerticalBatSwing"
+msgid "Vertical bat swing"
+msgstr "Sopayı dikey savur"
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionKeys"
+msgid "Game session"
+msgstr "Oyun oturumu"
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionObjectMapKeys"
+msgid "Object map"
+msgstr "Nesneler"
+
+msgctxt "KeyConfigurationBlockBallBouncerPracticeGameSessionKeys"
+msgid "Training mode"
+msgstr "Antrenman modu."
+
+msgctxt "KeyConfigurationMergeDeletionDialogOk"
+msgid "I understand"
+msgstr "Anlıyorum"
+
+msgctxt "KeyConfigurationMergeDeletionDialogText"
+msgid ""
+"New keyboard shortcuts have been introduced into the game, but upon loading "
+"your configuration, it was discovered that you already have the shortcuts "
+"that are reserved as default shortcuts installed. Due to this, new "
+"combinations have been removed in favor of yours. We strongly recommend that "
+"you go to Settings, go to the \"Keyboard Shortcut Configuration\" tab and "
+"configure new actions. You can find a list of new actions in the changelog."
+msgstr ""
+"Oyuna yeni klavye kısayolları eklendi, ancak ayarlarınızı yükledikten sonra, "
+"varsayılan kısayollar olarak ayarlanmış kısayolların zaten yüklü olduğu "
+"keşfedildi. Bu nedenle, sizin için yeni tuş bileşimleri kaldırıldı. "
+"Ayarlar'a gitmenizi, \"Klavye Kısayolu ayarları\" sekmesine gitmenizi ve "
+"yeni eylemler ayarları şiddetle tavsiye ederiz. Değişiklik günlüğünde yeni "
+"eylemlerin bir listesini bulabilirsiniz."
+
 msgctxt "LearnSoundsBatHitSuccess"
 msgid "Successfully hit the ball with the bat."
 msgstr "Topa sopayla başarılı vuruş yapıldı."
@@ -166,7 +394,7 @@ msgid "Penalty for frequent misses with the bat on the ball."
 msgstr "Topa vuruşta sık ıskalama için ceza."
 
 msgctxt "LearnSoundsForceFull"
-msgid "character's blow force has been fully restored."
+msgid "Character's blow force has been fully restored."
 msgstr "oyuncunun vuruş gücü tamamıyla geri geldi."
 
 msgctxt "LearnSoundsObjectDestroy"
@@ -211,6 +439,10 @@ msgctxt "MainMenuProfile"
 msgid "Profile."
 msgstr "Profil."
 
+msgctxt "MainMenuRecordings"
+msgid "Recordings."
+msgstr "Ayarlar."
+
 msgctxt "MainMenuStartGame"
 msgid "Start game."
 msgstr "Oyunu başlat."
@@ -231,29 +463,42 @@ msgstr ""
 "Ana menü. Gezinmek için yukarı veya aşağı okları kullanın. Bir menü öğesini "
 "seçmek için enter'a basın."
 
-msgctxt "ModeSelectionMenuBack"
+msgctxt "ModeSelectionFormBack"
 msgid "Return to main menu."
 msgstr "Ana menüye geri dön."
 
-msgctxt "ModeSelectionMenuNormalMode"
+msgctxt "ModeSelectionFormModes"
+msgid "Modes"
+msgstr "Modlar"
+
+msgctxt "ModeSelectionFormNormalMode"
 msgid "Normal game."
 msgstr "Normal oyun."
 
-msgctxt "ModeSelectionMenuPracticeMode"
+msgctxt "ModeSelectionFormPracticeMode"
 msgid "Training mode."
 msgstr "Antrenman modu."
 
-msgctxt "ModeSelectionMenuTitle"
+msgctxt "ModeSelectionFormRecord"
+msgid "Record the game"
+msgstr "Oyundan çık."
+
+msgctxt "ModeSelectionFormStart"
+msgid "Start"
+msgstr "Oyunu başlat."
+
+msgctxt "ModeSelectionFormTitle"
 msgid "Select a game mode."
 msgstr "Bir oyun modu seçin."
 
-msgctxt "ModeSelectionMenuTitleWithHint"
+msgctxt "ModeSelectionFormTitleWithHint"
 msgid ""
-"Select a game mode. Use the up and down arrows to move. To confirm your "
-"selection, press enter."
+"Select a game mode. Use tab and shift+tab to move forwards and backwards on "
+"the screen. Use the up and down arrows to move through the list. To confirm "
+"your selection, press enter or click the \"Start\" button."
 msgstr ""
-"Bir oyun modu seçin. Gezinmek için yukarı ve aşağı okları kullanın. "
-"Seçiminizi onaylamak için enter'a basın."
+"Mağazaya hoş geldiniz. Ekranda gezinmek için tab ve shift+tab tuşlarını "
+"kullanın."
 
 msgctxt "NumberNotationsEmpty"
 msgid "No notation."
@@ -275,6 +520,31 @@ msgctxt "NumberNotationsStandard"
 msgid "Standard."
 msgstr "Standart."
 
+msgctxt "ObjectsMapScreenAnnounceObjectTypeDisabled"
+msgid "Object type announcement under the cursor disabled."
+msgstr "İmleç altındaki nesne türü duyurusu devre dışı bırakıldı."
+
+msgctxt "ObjectsMapScreenAnnounceObjectTypeEnabled"
+msgid "Object type announcement under the cursor enabled."
+msgstr "İmleç altındaki nesne türü duyurusu etkinleştirildi."
+
+msgctxt "ObjectsMapScreenFreeMovingMode"
+msgid "Switched to free movement mode."
+msgstr "Özgür hareket moduna geçildi."
+
+msgctxt "ObjectsMapScreenObjectMovingMode"
+msgid "Switched to object movement mode."
+msgstr "Nesne hareket moduna geçildi."
+
+msgctxt "ObjectsMapScreenTitle"
+msgid "Object map."
+msgstr "Nesneler"
+
+#, python-brace-format
+msgctxt "ObjectsMapScreenTotalObjects"
+msgid "{0} objects on the map."
+msgstr "Haritada {0} nesne var."
+
 msgctxt "OptionsScreenAllowOverMaxVolume"
 msgid "Allow audio volume boost up to two hundred percent"
 msgstr "Ses düzeyinin yüzde iki yüze kadar arttırılmasına izin ver"
@@ -284,6 +554,10 @@ msgid ""
 "Play alert sounds when the ball collides with or destroys objects on the "
 "field"
 msgstr "Top sahadaki nesnelere çarptığında veya yok ettiğinde uyarı sesi çal"
+
+msgctxt "OptionsScreenAutosaveRecording"
+msgid "Save the recording every 30 seconds"
+msgstr "Otuz saniyede bir oyun kaydını kaydet"
 
 msgctxt "OptionsScreenBatHitSuccessSound"
 msgid "Play a sound when the ball is successfully hit with the bat"
@@ -296,6 +570,14 @@ msgstr "Davranış"
 msgctxt "OptionsScreenCatigoriesGeneral"
 msgid "General"
 msgstr "Genel"
+
+msgctxt "OptionsScreenCatigoriesKeyConfiguration"
+msgid "Keyboard shortcut configuration"
+msgstr "Klavye kısayolu ayarları"
+
+msgctxt "OptionsScreenCatigoriesRecording"
+msgid "Recording"
+msgstr "Kayıt"
 
 msgctxt "OptionsScreenCatigoriesSound"
 msgid "Sound"
@@ -320,6 +602,10 @@ msgstr "Başlangıçta güncelleştirmeleri kontrol et"
 msgctxt "OptionsScreenCloseButton"
 msgid "Close"
 msgstr "Kapat"
+
+msgctxt "OptionsScreenConfigureKeysButton"
+msgid "Configure keyboard shortcuts"
+msgstr "Klavye kısayollarını ayarla"
 
 msgctxt "OptionsScreenDisplayTitleHints"
 msgid "Show navigation hints in menu titles"
@@ -349,6 +635,38 @@ msgctxt "OptionsScreenPrefereSapi"
 msgid "Prefer sapi to screen reader"
 msgstr "Ekran okuyucusu yerine sapi'yi tercih et"
 
+msgctxt "OptionsScreenRecordingCancellation"
+msgid "Cancel recording when canceling the game from the pause menu"
+msgstr "Oyunu duraklama menüsünden iptal ederken kaydı durdur"
+
+msgctxt "OptionsScreenResetKeyConfigurationToDefault"
+msgid "Reset shortcut key configuration to defaults"
+msgstr "Kısayol ayarlarını varsayılanlara sıfırla"
+
+msgctxt "OptionsScreenResetKeyConfigurationToDefaultConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your current keyboard shortcut configuration? "
+"Attention: this action is irreversible!"
+msgstr ""
+"Geçerli klavye kısayolu ayarlarını varsayılanlara sıfırlamak istediğinizden "
+"emin misiniz? Dikkat: Bu eylem geri alınamaz!"
+
+msgctxt "OptionsScreenResetOptionsToDefault"
+msgid "Reset settings to defaults"
+msgstr "Ayarları varsayılanlara sıfırla"
+
+msgctxt "OptionsScreenResetOptionsToDefaultConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your settings to default? Attention: this "
+"action is irreversible! Once confirmed, the application will be restarted."
+msgstr ""
+"Ayarlarınızı varsayılanlara sıfırlamak istediğinizden emin misiniz? Dikkat: "
+"Bu eylem geri alınamaz!"
+
+msgctxt "OptionsScreenSaveCharacterViewState"
+msgid "Save first person view state between games"
+msgstr "Oyunlar arası birinci şahıs görünümünün durumunu kaydet"
+
 msgctxt "OptionsScreenShowResultMenu"
 msgid "Show results menu at the end of the game"
 msgstr "Oyun sonunda sonuçları göster"
@@ -371,7 +689,7 @@ msgstr "Daraltılmış orta"
 
 msgctxt "OptionsScreenSoundPanRepresentationModeNormal"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgctxt "OptionsScreenTitle"
 msgid "Settings screen."
@@ -386,6 +704,18 @@ msgstr ""
 "Ayarlar ekranı. İleri veya geri gitmek için tab ve shift+tab tuşlarını "
 "kullanın. Sürgülerin pozisyonunu değiştirmek için ok tuşlarını kullanın. "
 "Seçili öğeyi etkinleştirmek için enter veya boşluk tuşunu kullanın."
+
+msgctxt "OptionsScreenWipeSave"
+msgid "Reset game progress"
+msgstr "Oyun ilerlemesini sıfırla"
+
+msgctxt "OptionsScreenWipeSaveConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your game progress? Attention: this action is "
+"irreversible!"
+msgstr ""
+"Oyun ilerlemenizi sıfırlamak istediğinizden emin misiniz? dikkat: Bu eylem "
+"geri alınamaz!"
 
 msgctxt "PauseMenuAbortGame"
 msgid "Abort the game and return to the main menu."
@@ -430,9 +760,9 @@ msgctxt "ProfileAurasPageTitle"
 msgid "Auras"
 msgstr "Auralar"
 
-msgctxt "ProfileSkillsPageTitle"
-msgid "Skills"
-msgstr "Beceriler"
+msgctxt "ProfileStatsCopied"
+msgid "Copied."
+msgstr "Kopyalandı."
 
 msgctxt "ProfileStatsPageTitle"
 msgid "Statistics"
@@ -451,6 +781,72 @@ msgstr ""
 "Profiliniz. İleri geri gitmek için tab ve shift+tab tuşlarını kullanın. "
 "İstatistiklerde bir ödül almak için ödül olan öğenin üzerinde enter tuşuna "
 "basın."
+
+msgctxt "SkillLevelsSetFormBack"
+msgid "Return to game"
+msgstr "Ana menüye geri dön."
+
+msgctxt "SkillLevelsSetFormPowerRecoveringBonusChanger"
+msgid "Increased blow force recovery rate level"
+msgstr "Artmış vuruş gücünün iyileşme hızı: Seviye {0}/10"
+
+#, python-brace-format
+msgctxt "SkillLevelsSetFormSkillLevel"
+msgid "Skill level {0}"
+msgstr "Beceri seviyesi {0}"
+
+msgctxt "SkillLevelsSetFormTitle"
+msgid "Set skill levels."
+msgstr "Beceri seviyelerini ayarla."
+
+msgctxt "SkillLevelsSetFormTitleWithHint"
+msgid ""
+"Set skill levels. Use tab and shift+tab to move forward and backward. Use "
+"the arrow keys to change the position of the sliders. To activate the "
+"selected item, press enter or spacebar."
+msgstr ""
+"Ayarlar ekranı. İleri veya geri gitmek için tab ve shift+tab tuşlarını "
+"kullanın. Sürgülerin pozisyonunu değiştirmek için ok tuşlarını kullanın. "
+"Seçili öğeyi etkinleştirmek için enter veya boşluk tuşunu kullanın."
+
+#, python-brace-format
+msgctxt "SkillSlotRecharging"
+msgid "{0} seconds before skill cooldown."
+msgstr "Beceri bekleme süresi öncesi {0} saniye."
+
+msgctxt "SkillSlotSelectCanceled"
+msgid "Selection canceled."
+msgstr "Seçim iptal edildi"
+
+#, python-brace-format
+msgctxt "SkillSlotSelected"
+msgid "Skill {0} is selected."
+msgstr "{0} Becerisi seçildi."
+
+msgctxt "SkillSlotSetterMenuBack"
+msgid "Go back."
+msgstr "Geri dön."
+
+msgctxt "SkillSlotSetterMenuTitle"
+msgid "Select a skill to install in the slot."
+msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+
+msgctxt "SkillSlotSetterMenuTitleWithHint"
+msgid ""
+"Select a skill to install in the slot. Use the up and down arrows to select "
+"and press enter to confirm your selection."
+msgstr ""
+"Yuvaya yerleştirilecek bir beceri seçin. Seçmek için yukarı ve aşağı okları "
+"kullanın ve seçiminizi onaylamak için enter'a basın."
+
+#, python-brace-format
+msgctxt "SkillSlotText"
+msgid "Slot {0}. {1}"
+msgstr "Yuva {0}. {1}"
+
+msgctxt "SkillSlotsTitle"
+msgid "Slots"
+msgstr "Yuvalar"
 
 #, python-brace-format
 msgctxt "SkillsBallLeapLevelInfoText"
@@ -497,7 +893,7 @@ msgid "immateriality"
 msgstr "etkisizlik"
 
 msgctxt "SkillsImmaterialityNameFull"
-msgid "immateriality"
+msgid "Immateriality."
 msgstr "etkisizlik"
 
 #, python-brace-format
@@ -516,45 +912,6 @@ msgstr "Seviyeye göre beceri etkileri listesi."
 msgctxt "SkillsListTitle"
 msgid "Unlocked Skills"
 msgstr "Açılmış beceriler"
-
-#, python-brace-format
-msgctxt "SkillSlotRecharging"
-msgid "{0} seconds before skill cooldown."
-msgstr "Beceri bekleme süresi öncesi {0} saniye."
-
-msgctxt "SkillSlotSelectCanceled"
-msgid "Selection canceled"
-msgstr "Seçim iptal edildi"
-
-#, python-brace-format
-msgctxt "SkillSlotSelected"
-msgid "Skill {0} is selected."
-msgstr "{0} Becerisi seçildi."
-
-msgctxt "SkillSlotSetterMenuBack"
-msgid "Go back."
-msgstr "Geri dön."
-
-msgctxt "SkillSlotSetterMenuTitle"
-msgid "Select a skill to install in the slot."
-msgstr "Yuvaya yerleştirilecek bir beceri seçin."
-
-msgctxt "SkillSlotSetterMenuTitleWithHint"
-msgid ""
-"Select a skill to install in the slot. Use the up and down arrows to select "
-"and press enter to confirm your selection."
-msgstr ""
-"Yuvaya yerleştirilecek bir beceri seçin. Seçmek için yukarı ve aşağı okları "
-"kullanın ve seçiminizi onaylamak için enter'a basın."
-
-msgctxt "SkillSlotsTitle"
-msgid "Slots"
-msgstr "Yuvalar"
-
-#, python-brace-format
-msgctxt "SkillSlotText"
-msgid "Slot {0}. {1}"
-msgstr "Yuva {0}. {1}"
 
 #, python-brace-format
 msgctxt "SkillsMagnetismLevelInfoText"
@@ -611,6 +968,10 @@ msgid ""
 msgstr ""
 "Mucidin vuruşu: Seviye {0}/4. Sopanın savrulması sahada {1} nesne oluşturur, "
 "bekleme süresi {2} saniyedir."
+
+msgctxt "SkillsPageTitle"
+msgid "Skills"
+msgstr "Beceriler"
 
 #, python-brace-format
 msgctxt "SkillsShadowStrikeLevelInfoText"
@@ -823,17 +1184,13 @@ msgctxt "StoreCatigoriesObjects"
 msgid "Objects"
 msgstr "Nesneler"
 
-msgctxt "StoreCatigoriesSkills"
-msgid "Skills"
-msgstr "Beceriler"
-
 #, python-brace-format
 msgctxt "StoreCoins"
 msgid "Coins: {0}."
 msgstr "Paralar: {0}"
 
 msgctxt "StoreInfoTitle"
-msgid "Reference Information:"
+msgid "Reference Information: "
 msgstr "Kullanım bilgisi:"
 
 msgctxt "StoreInfoTitleWithHint"
@@ -892,6 +1249,25 @@ msgctxt "StoreItemJumpFeatureText"
 msgid "Unlock the  jump feature"
 msgstr "Atlama özelliğini aç"
 
+msgctxt "StoreItemMinObjectIncreaseInfo"
+msgid ""
+"Increasing the minimum number of objects on the field.\n"
+"Initially, the minimum number of objects is twenty-five.\n"
+"When there are fewer objects on the field than this value, as many new "
+"objects are added as are not enough to equal this number.\n"
+"Each upgrade level increases this value by one."
+msgstr ""
+"Sahadaki minimum nesnelerin sayısını arttırma.\n"
+"Başlangıçta, sahadaki en az nesne sayısı yirmi-beştir.\n"
+"Sahada bu değerden daha az nesne bulunduğunda, bu sayıya eşitlenmesi için "
+"sahadaki olmayan nesne sayısı kadar nesne oluşturulur.\n"
+"Her yükseltme seviyesi bu değeri bir arttırır."
+
+#, python-brace-format
+msgctxt "StoreItemMinObjectIncreaseText"
+msgid "Minimum number of objects on the field increase: level {0}/10."
+msgstr "alanda en az nesne sayısı artışı: seviye {0}/10."
+
 msgctxt "StoreItemMineObjectInfo"
 msgid ""
 "Mine object.\n"
@@ -909,25 +1285,6 @@ msgstr ""
 msgctxt "StoreItemMineObjectText"
 msgid "Unlock the mine object."
 msgstr "Mayın nesnesini aç."
-
-msgctxt "StoreItemMinObjectIncreaseInfo"
-msgid ""
-"Increasing the minimum number of objects on the field.\n"
-"Initially, the minimum number of objects is twenty-five.\n"
-"When there are fewer objects on the field than this value, as many new "
-"objects are added as are not enough to equal this number.\n"
-"Each upgrade level increases this value by one."
-msgstr ""
-"Sahadaki minimum nesnelerin sayısını arttırma.\n"
-"Başlangıçta, sahadaki en az nesne sayısı yirmi-beştir.\n"
-"Sahada bu değerden daha az nesne bulunduğunda, bu sayıya eşitlenmesi için "
-"sahadaki olmayan nesne sayısı kadar nesne oluşturulur.\n"
-"Her yükseltme seviyesi bu değeri bir arttırır."
-
-#, python-brace-format
-msgctxt "StoreItemMinObjectIncreaseText"
-msgid "minimum number of objects on the field increase: level {0}/10."
-msgstr "alanda en az nesne sayısı artışı: seviye {0}/10."
 
 msgctxt "StoreItemPowerRecoveringInfo"
 msgid ""
@@ -1241,3 +1598,34 @@ msgstr "Hayır"
 msgctxt "YesOrNoScreenYes"
 msgid "Yes"
 msgstr "Evet"
+
+#~ msgid ""
+#~ "Select a game mode. Use the up and down arrows to move. To confirm your "
+#~ "selection, press enter."
+#~ msgstr ""
+#~ "Bir oyun modu seçin. Gezinmek için yukarı ve aşağı okları kullanın. "
+#~ "Seçiminizi onaylamak için enter'a basın."
+
+#~ msgid "english"
+#~ msgstr "ingilizce"
+
+#~ msgid "Magnitism skill."
+#~ msgstr "Manyetizma becerisi."
+
+#~ msgid "Resetting spent achievement points."
+#~ msgstr "Harcanan başarı puanları sıfırlanıyor."
+
+#~ msgid "Increased blow force recovery rate."
+#~ msgstr "Artmış darbe gücü iyileşme hızı."
+
+#~ msgid "Mine object."
+#~ msgstr "Mayın nesnesi."
+
+#~ msgid "Jump feature."
+#~ msgstr "Atlama özelliği."
+
+#~ msgid "Ball catch feature."
+#~ msgstr "Top yakalama özelliği."
+
+#~ msgid "The loaded save belongs to a newer version of the game"
+#~ msgstr "Açılmış kayıt oyunun daha yeni bir sürümüne ait"
