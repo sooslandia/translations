@@ -1,4 +1,4 @@
-% changelog
+% log perubahan
 
 ## 1.2.1
 
@@ -50,7 +50,7 @@ are on the map by pressing the o key.
 section of the documentation.
    - All object map hotkeys can be changed in the keyboard shortcut configuration.
 - Training mode is expanded as well.
-   - You can now instantly  zero the cooldown of all skills by pressing f1.
+   - You can now instantly zero the cooldown of all skills by pressing f1.
    - When you press the f2 key, a screen will open where you can change the levels
 of your skills and blow force recovery rate. This screen only displays the
 skills you have. You can change their level only in the range from level 1 to
@@ -64,7 +64,7 @@ values.
    - You will not be able to reset settings or delete your progress if you accessed
 settings through the pause menu.
 
-### Changes
+### Perubahan
 
 - The game mode selection screen has been changed.
    - the screen is now represented by a virtual form instead of a menu. Navigation
@@ -88,7 +88,7 @@ play in the center of the field.
 - The file name format with critical error data has been changed to (error
 yyyy_MM_dd hh-mm-ss.log)
 
-### Fixes
+### Perbaikan
 
 - Now, when critical errors are displayed, the sound will be completely muted
 instead of looping.
@@ -96,47 +96,51 @@ instead of looping.
 
 ## 1.1.1
 
-### Fixes
+### Perbaikan
 
-- Fixed a critical bug that occurred when the first person mode and the ball
-watch mode were active at the same time.
-- Fixed some other minor bugs.
+- Memperbaiki bug kritis yang terjadi ketika mode orang pertama dan mode menonton
+bola aktif secara bersamaan.
+- Memperbaiki beberapa bug kecil lainnya.
 
 ## 1.1.0
 
-This version is focused on improving the user experiance: Successful bat hit
-sound, first person camera view, alternative bat swing keys, etc.
+Versi ini difokuskan pada peningkatan pengalaman pengguna: Suara pukulan tongkat
+yang berhasil, tampilan kamera orang pertama, tombol ayunan tongkat alternatif,
+dll.
 
 ### New features
 
-- The game now supports translations that are missing one or more strings. If a
-string is not found, the game falls back to English localization strings.
-- In ball watching mode, a background sound has been attached to the ceiling,
-which will help make watching more spectacular.
-- Added a sound to indicate when the bat succesfully hits the ball. By default,
-the notification is disabled; it is enabled in the settings, on the "Behavior"
-tab.
-- Implemented first-person camera mode. To switch between modes, press v while
-playing.
-- Errors during the update are now written to a file that will be located in the
-userData/errorLogs folder.
-- Added temporary alternative keys for making horizontal and vertical bat swings.
-   - For a horizontal swing, use the e key, for a vertical swing, use the r key.
-   - This solution is temporary and remains until the key config is implemented.
-- Now items with an available reward in the statistics list are at the beginning
-of the list.
+- Game ini sekarang mendukung terjemahan yang kehilangan satu atau lebih string.
+Jika string tidak ditemukan, permainan akan kembali ke string lokalisasi
+bahasa Inggris.
+- Dalam mode menonton bola, suara latar telah dipasang di langit-langit, yang
+akan membantu membuat menonton menjadi lebih spektakuler.
+- Menambahkan suara yang menunjukkan kapan tongkat pemukul berhasil mengenai
+bola. Secara default, notifikasi dinonaktifkan; Dapat diaktifkan di
+pengaturan, pada tab "Perilaku".
+- Menerapkan mode kamera orang pertama. Untuk beralih antar mode, tekan v saat
+bermain.
+- Kesalahan selama pembaruan sekarang ditulis ke file yang akan ditempatkan di
+folder userData/errorLogs.
+- Menambahkan kunci alternatif untuk membuat ayunan tongkat horizontal dan
+vertikal.
+   - Untuk ayunan horizontal gunakan tombol e, untuk ayunan vertikal gunakan tombol
+r.
+   - Solusi ini bersifat sementara dan tetap ada hingga konfigurasi kunci diterapkan.
+- Sekarang item dengan hadiah yang tersedia di daftar statistik ada di awal
+daftar.
 
-### Changes
+### Perubahan
 
-- Increased points received for perfect strike streeks, ball bounces off the
-ceiling and ball with object collisions streeks.
-- Documentation has been updated to take new features into account.
+- Peningkatan poin yang diterima untuk pukulan beruntun yang sempurna, bola
+memantul ke langit-langit dan bola dengan pantulan objek beruntun.
+- Dokumentasi telah diperbarui untuk mempertimbangkan fitur-fitur baru.
 
-### Fixes
+### Perbaikan
 
-- Increased the volume of the landing sound after a jump.
-- Now the leader's aura does not increase the points lost due to penalties.
+- Meningkatkan volume suara pendaratan setelah melompat.
+- Kini aura pemimpin tidak menambah poin yang hilang akibat penalti.
 
 ## 1.0.0
 
-Initial release.
+Rilis pertama.

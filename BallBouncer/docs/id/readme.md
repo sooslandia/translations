@@ -1,9 +1,9 @@
-% "Ball bouncer" documentation
+% dokumentasi "Ball bouncer".
 
-This help file explains how to navigate the menus and screens of the application,
-and also describes the gameplay in detail with most of the nuances. If you want
-to figure it out yourself, we recommend that you immediately go and familiarize
-yourself with the table of control keys.
+File bantuan ini menjelaskan cara menavigasi menu dan layar aplikasi, dan juga
+menjelaskan gameplay secara detail dengan sebagian besar nuansanya. Jika Anda
+ingin mengetahuinya sendiri, kami sarankan Anda segera membuka dan membiasakan
+diri dengan tabel tombol kontrol.
 
 ## About the game
 
@@ -23,20 +23,19 @@ you challenged and your playstyle evolving.
 
 Ball bouncer offers the possibility of creating your own scoring strategy. With a
 variety of skills, features and upgrades to unlock and max out in the store, can
-you beat your previous score?
-At the end of the gaming session, points are
+you beat your previous score? At the end of the gaming session, points are
 converted to coins. Spend them wisely!
 
 So, are you ready to embark on a path of methodical, but chaotic destruction?
 Then go ahead!
 
-### System requirements
+### Persyaratan sistem
 
 windows 10 64 bit or later.
 
 ubuntu 22 64 bit or later.
 
-### First steps
+### Langkah pertama
 
 When the game runs for the first time you will have to select a language. After
 making your selection, a welcome screen will appear. As soon as you make your
@@ -46,8 +45,7 @@ menu of the game. We encourage you to familiarize yourself with its contents. If
 you want to learn the game sounds, you need to select “Settings” in the main
 menu, then on the “General” tab click on the corresponding button. On the
 “Sound” tab you can adjust the volume of music and sounds, change the sound
-panning mode And disable some alerts. on the "Behavior" tab.
-You can delete your
+panning mode And disable some alerts. on the "Behavior" tab. You can delete your
 progress and reset your settings to default by clicking the corresponding
 buttons on the General tab. Resetting the keyboard shortcut configuration to the
 default one is done on the corresponding tab as well.
@@ -57,16 +55,16 @@ the "Sound" tab, choosing from five proposed options. This can be done directly
 during the game by going to the settings from the pause menu. The ball sound
 will change as soon as you unpause the game.
 
-### Navigation
+### Navigasi
 
-Moving through menus is done by using the up and down arrows. Enter selects an
-item, while home and end keys do their respective job by setting you on the
-first or last menu item.
+Bergerak melalui menu dilakukan dengan menggunakan panah atas dan bawah. Enter
+memilih item, sedangkan tombol home dan end melakukan tugasnya masing-masing
+dengan menempatkan Anda pada item menu pertama atau terakhir.
 
-Screen navigation(settings, shop, profile, etc.),: tab/shift+tab forward/back,
-activate controls by pressing enter or spacebar. Move through the lists with up
-and down arrows, change the value of the sliders with arrows. Tab selection is
-done by pressing left/right arrow keys.
+Navigasi layar (pengaturan, toko, profil, dll.),: tab/shift+tab maju/mundur,
+aktifkan kontrol dengan menekan enter atau spasi. Telusuri daftar dengan panah
+atas dan bawah, ubah nilai penggeser dengan panah. Pemilihan tab dilakukan
+dengan menekan tombol panah kiri/kanan.
 
 On the shop screen, by pressing enter on the item you have selected, you can open
 reference information that describes this item. In your profile, on the
@@ -75,10 +73,10 @@ available. By pressing ctrl+c you can copy the contents of the item into your
 clipboard. On the “Skills” tab, by clicking on an item, you can get detailed
 information about the skill.
 
-All menus and screens, excluding the main menu and the last game results menu,
-can be closed with the escape key.
+Semua menu dan layar, kecuali menu utama dan menu hasil pertandingan terakhir,
+dapat ditutup dengan tombol escape.
 
-## Game process
+## Proses permainan
 
 ### Training mode
 
@@ -87,8 +85,7 @@ penalties are disabled. In this mode, a sound will be played when you can hit
 the ball, which you can listen to in the learn sounds menu. The sound will play
 when the ball has bounced at least once off the floor to teach you to sense the
 moment for the perfect strike. In training mode, game statistics are not
-collected, and points are not scored.
-During training, you can press f2 in order
+collected, and points are not scored. During training, you can press f2 in order
 to open the training mode screen. There you can set your blow force recovery
 rate and skill (if any) levels to your liking. Levels range is from 1 to your
 current unlocked level. By pressing f1 you can instantly zero the cooldown of
@@ -96,7 +93,7 @@ your skills.
 
 These keys can be changed using the Shortcut Key Configurator.
 
-### How to play
+### Cara bermain
 
 After selecting “Start game” in the main menu, the starting countdown will begin.
 You will then be able to control the character. At the beginning of the game the
@@ -109,90 +106,96 @@ field. This will help you better understand your character whereabouts when
 trying to hit the ball. With the left or right shift you can set the direction
 the character is facing. When moving, the facing direction is set automatically.
 
-First of all, you need to throw the ball so that it appears on the playing field.
-You can do this by pressing the f key. After the ball is on the field, you will
-hear a tone which will move left and right, indicating movement of the ball in
-the horizontal plane. The tone's pitch and volume will also change, indicating
-vertical ball movement. Decreasing volume and rising pitch mean that the ball is
-moving upwards, while increasing volume and lowering pitch mean the opposite.
+Pertama-tama, Anda perlu melempar bola agar muncul di lapangan permainan. Anda
+dapat melakukan ini dengan menekan tombol f. Setelah bola berada di lapangan,
+akan terdengar nada yang bergerak ke kiri dan ke kanan, menandakan pergerakan
+bola pada bidang horizontal. Volume dan nada juga akan berubah, menandakan
+pergerakan bola vertikal. Jika volume terdengar kecil dan  nada terdengar
+meninggi, berarti bola bergerak ke atas, sedangkan jika terdengar volume lebih
+keras dan nada turun, berarti sebaliknya.
 
-There are two types of throw:
+Ada dua jenis lemparan:
 
-+ Normal. Performed by pressing the f key. The ball begins to fly in an arc in
-the direction the character is facing.
-+ Vertical. Performed by holding down the alt key and pressing f. The ball starts
-flying along the vertical axis, but also moves slightly along the horizontal
-axis in the direction the character is facing.
++ Normal. Dilakukan dengan menekan tombol f. Bola mulai terbang membentuk busur
+ke arah yang dihadapi karakter.
++ Vertikal. Dilakukan dengan menahan tombol alt dan menekan f. Bola mulai terbang
+sepanjang sumbu vertikal, tetapi juga bergerak sedikit sepanjang sumbu
+horizontal ke arah yang dihadapi karakter.
 
-The goal of the game is to destroy as many objects as possible, gaining points
-along the way. The ball always tends to fall down, and you need to hit it back
-with a bat.
+Tujuan permainan ini adalah untuk menghancurkan objek sebanyak mungkin dan
+mendapatkan poin di sepanjang permainan. Bola selalu cenderung jatuh, dan Anda
+harus memukulnya kembali dengan tongkat pemukul.
 
-The ball can be hit in two ways:
+Bola dapat dipukul dengan dua cara:
 
-+ Spacebar key. In this case, the ball will receive a strong horizontal impulse
-in the direction the character is facing.
-+ Hold down the alt key and press spacebar. The ball will receive a strong
-vertical impulse, maintaining a horizontal flight direction regardless of the
-character's facing.
++ Tombol spasi. Dalam hal ini, bola akan menerima dorongan horizontal yang kuat
+ke arah yang dihadapi karakter.
++ Tahan tombol alt dan tekan spasi. Bola akan menerima dorongan vertikal yang
+kuat, mempertahankan arah terbang horizontal terlepas dari arah lawannya.
 
-You can only hit the ball while being near it. After each swing of the bat, the
-character restores the force of the blow. Once it is fully restored, you will
-hear an alert, the sound of which can be heard in the learn sounds menu. You can
-also toggle the sound of successful bat hits in the options on the behavior tab.
+Anda hanya bisa memukul bola saat berada di dekat bola. Setelah setiap ayunan
+pemukul, karakter memulihkan kekuatan pukulannya. Setelah pulih sepenuhnya, Anda
+akan mendengar peringatan, yang suaranya dapat didengar di menu pelajari suara.
+Anda juga dapat mengaktifkan suara pukulan tongkat yang berhasil mengenai bola,
+pada tab perilaku.
 
-You need to strive to always make perfect strikes, as you will be awarded bonus
-points for them. A perfect strike occurs if the ball bounces off the ground only
-once. For the second and subsequent bounces, you will lose points. The more the
-ball bounces off the ground, the more points you lose. Therefore, try to hit the
-ball up as quickly as possible. Standing in one place for a long time is also
-not worth it, since if you don’t move for ten or more seconds, you will also
-lose points. At the beginning of the game, do not hold the ball in your hands
-for long, as each second of holding the ball will result in an increasing
-penalty. The same applies to the caught ball. For the fifth and subsequent
-misses with the bat a penalty is assessed. For colliding the ball with an
-object, as well as for destroying the object, you get points. If the ball
-bounces off the ceiling, you will also get bonus points. After colliding with an
-object or destroying it, a streak begins. There are separate streaks for
-collisions and destructions. Each subsequent collision or destruction brings
-more points. But if the streak did not last more than six seconds, it is reset.
-The same applies to ball bounces from the ceiling. After making a perfect
-strike, a streak also begins. For each new perfect strike you make, you get
-significantly more points than the previous one. If the ball bounces off the
-floor more than once, the streak ends and you have to start over. Once
-destroyed, objects will fall to the ground, causing inconvenience with loud
-sounds and adding to the chaos.
+Anda harus berusaha untuk selalu membuat pukulan sempurna, karena Anda akan
+diberikan poin bonus untuk itu. Pukulan sempurna terjadi jika bola hanya
+memantul satu kali saja. Untuk pantulan kedua dan selanjutnya, Anda akan
+kehilangan poin. Semakin banyak bola memantul ke tanah, semakin banyak poin yang
+hilang. Oleh karena itu, usahakan untuk memukul bola ke atas secepat mungkin.
+Berdiri di satu tempat dalam waktu lama juga tidak sepadan, karena jika Anda
+tidak bergerak selama sepuluh detik atau lebih, Anda juga akan kehilangan poin.
+Di awal permainan, jangan terlalu lama memegang bola di tangan, karena setiap
+detik memegang bola akan mengakibatkan penalti yang semakin besar. Hal yang sama
+berlaku untuk bola yang ditangkap. Untuk kesalahan kelima dan selanjutnya dengan
+pemukul, penalti akan diberikan. Untuk membenturkan bola dengan suatu benda,
+serta untuk menghancurkan benda tersebut, Anda mendapat poin. Jika bola memantul
+ke langit-langit, Anda juga akan mendapatkan poin bonus. Setelah bertabrakan
+dengan suatu benda atau menghancurkannya, sebuah pukulan dimulai. Ada
+garis-garis terpisah untuk tabrakan dan kehancuran. Setiap tabrakan atau
+kehancuran berikutnya menghasilkan lebih banyak poin. Namun jika pukulan
+beruntun tidak berlangsung lebih dari enam detik, maka pukulan tersebut akan
+diatur ulang. Hal yang sama berlaku untuk bola yang memantul dari langit-langit.
+Setelah melakukan pukulan sempurna, pukulan beruntun juga dimulai. Untuk setiap
+serangan sempurna baru yang Anda lakukan, Anda mendapatkan poin yang jauh lebih
+banyak dibandingkan serangan sebelumnya. Jika bola memantul dari lantai lebih
+dari satu kali, pukulannya berakhir dan Anda harus memulai dari awal. Setelah
+hancur, objek akan jatuh ke tanah sehingga menimbulkan ketidaknyamanan dengan
+suara yang keras dan menambah kekacauan.
 
-During the game, you can watch not only the entire picture of the playing field,
-but also switch to the ball watch mode. To activate this mode, hold down the G
-key. Ball Watch mode will be active as long as you hold G and will turn off as
-soon as you release it. The game can be paused by pressing the escape key. When
-activated, you will be taken to the pause menu, where you can see the time until
-the end of the gaming session, the number of points scored and other
-information. You can also access the settings from the pause menu, or interrupt
-the game. Alternatively, press t to see the time and p to see the points during
-the game.
+Selama permainan, Anda tidak hanya dapat menonton keseluruhan gambar lapangan
+permainan, tetapi juga beralih ke mode menonton bola. Untuk mengaktifkan mode
+ini, tahan tombol G. Mode memonton bola akan aktif selama Anda menahan G dan
+akan mati segera setelah Anda melepaskannya. Permainan dapat dijeda dengan
+menekan tombol escape. Saat diaktifkan, Anda akan dibawa ke menu jeda permainan,
+di mana Anda dapat melihat waktu hingga sesi permainan berakhir, jumlah poin
+yang dicetak, dan informasi lainnya. Anda juga dapat mengakses pengaturan dari
+menu jeda, atau menghentikan permainan. Alternatifnya, tekan t untuk melihat
+waktu dan p untuk melihat poin selama permainan berlangsung.
 
-If you allow your points to drop to minus one thousand, the gaming session will
-end early. Coins will not be credited, but you do not lose anything else. A
-gaming session lasts five minutes. This time can be increased by improving the
-time aura in the profile. After the game session ends, a sound animation of
-coins being added will begin playing, which can be skipped by pressing the enter
-key. Then the last game results menu will open, where you can find out how many
-points were ultimately scored and coins received. After closing the menu by
-pressing enter, you may be shown a notification about an available reward for
-reaching a statistic milestone. The display of the results menu for the last
-game and notifications about available rewards can be disabled in the settings,
-on the “Behavior” tab.
+Jika Anda membiarkan poin Anda turun hingga minus seribu, sesi permainan akan
+berakhir lebih awal. Koin tidak akan dikreditkan, tetapi Anda tidak akan
+kehilangan apa pun. Sesi permainan berlangsung lima menit. Kali ini dapat
+ditingkatkan dengan meningkatkan aura waktu di profil. Setelah sesi permainan
+berakhir, animasi suara koin yang ditambahkan akan mulai diputar, yang dapat
+dilewati dengan menekan tombol enter. Kemudian menu hasil pertandingan terakhir
+akan terbuka, di mana Anda dapat mengetahui berapa banyak poin yang akhirnya
+dicetak dan koin yang diterima. Setelah menutup menu dengan menekan enter, Anda
+mungkin diperlihatkan pemberitahuan tentang hadiah yang tersedia untuk mencapai
+pencapaian statistik. Tampilan menu hasil pertandingan terakhir dan
+pemberitahuan tentang hadiah yang tersedia dapat dinonaktifkan di pengaturan,
+pada tab “Perilaku”.
 
-The game also has skills that are fully described in the game. To use a skill
-during the game, you need to assign it to one of ten slots. Assigning is done in
-your profile, on the “Skills” tab. Slots are accessed using keys from 1 (first
-slot) to 0 (tenth slot).
+Game ini juga memiliki keterampilan yang dijelaskan secara lengkap di dalam game.
+Untuk menggunakan keterampilan selama permainan, Anda perlu menetapkannya ke
+salah satu dari sepuluh slot. Penugasan dilakukan di profil Anda, pada tab
+“Keterampilan”. Slot diakses menggunakan kunci dari 1 (slot pertama) hingga 0
+(slot kesepuluh).
 
-In the store you can unlock the mechanics of jumping and catching the ball. These
-two mechanics are also fully described in the game, including the keys to use.
-They are also present in the table of controls.
+Di toko, Anda dapat membuka kunci mekanisme melompat dan menangkap bola. Kedua
+mekanisme ini juga dijelaskan secara lengkap di dalam game, termasuk kunci yang
+digunakan. Mereka juga ada di tabel kontrol.
 
 ### The object map
 
@@ -260,44 +263,44 @@ recording file if necessary and share it with other people. If you want to play
 someone else's recording, place it in your recordings folder. Then it will be
 visible in the recordings menu.
 
-## control keys
+## tombol kontrol
 
 All keys in this section can be redefined by customizing the keyboard shortcut
 configuration.
 
 ### Basic
 
-| Action | Key/keys |
+| Tindakan | Kunci/tombol |
 | :-- | :-- |
-| Move the character right/left | Right/Left arrows or d/a keys |
-| Play sound at character's position | c |
-| Set character facing right/left | right/left shift |
-| Swing the bat (hit the ball with a strong horizontal impulse) | Spacebar, s or e key |
-| Swing the bat (hit the ball with strong vertical impulse) | alt+space, alt+s or r |
-| Throw the ball in an arc | f |
-| Throw the ball vertically | alt+f |
-| Switch the camera to ball watch mode | Hold down the g key |
-| Switch the camera to normal mode | Release the g key |
-| Switch camera mode between first person mode and field-centered view mode | v |
-| Jump (if the mechanic is unlocked) | Up arrow or w key |
-| Catch the ball (if the mechanic is unlocked) | left or right control |
-| Select a skill slot from 1 to 10 (if the skill is set) | keys 1 to 0/numpad1 to numpad0 |
-| Cancel skill slot selection | Grave / numpad enter |
+| Move the character right/left | Panah Kanan/Kiri atau tombol d/a |
+| Mainkan suara pada posisi karakter | c |
+| Atur karakter menghadap kanan/kiri | shift kanan/shift kiri |
+| Mengayunkan pemukul (memukul bola dengan dorongan mendatar yang kuat) | Spacebar, s or e key |
+| Mengayunkan pemukul (memukul bola dengan dorongan vertikal yang kuat) | alt+space, alt+s or r |
+| Lemparkan bola secara melengkung | f |
+| Lemparkan bola secara vertikal | alt+f |
+| Alihkan kamera ke mode menonton bola | Tahan tombol g |
+| Alihkan kamera ke mode normal | Lepaskan tombol g |
+| Beralih mode kamera antara mode orang pertama dan mode tampilan terpusat di lapangan | v |
+| Melompat (jika fitur tidak terkunci) | Panah atas atau tombol w |
+| Menangkap bola (jika fitur tidak terkunci) | kontrol kiri atau kanan |
+| Pilih slot keterampilan dari 1 hingga 10 (jika keterampilan diatur) | keys 1 to 0/numpad1 to numpad0 |
+| Batalkan pemilihan slot keterampilan | Grave / numpad enter |
 | Open the object map | m |
-| Find out the time until the end of the gaming session | t |
-| Find out the current number of points scored | p |
-| Pause the game | escape |
+| Cari tahu waktu hingga akhir sesi permainan | t |
+| Cari tahu jumlah poin yang dihasilkan saat ini | p |
+| Jeda permainan | tombol escape |
 
 ### Training mode
 
-| Action | Key/keys |
+| Tindakan | Kunci/tombol |
 | :-- | :-- |
 | Zero the cooldown of all skills | f1 |
 | Set skill levels | f2 |
 
 ### The object map
 
-| Action | Key/keys |
+| Tindakan | Kunci/tombol |
 | :-- | :-- |
 | Move cursor | Arrow keys |
 | Move observation point lower | s |
@@ -309,8 +312,7 @@ configuration.
 ### Configuring keyboard shortcuts
 
 In the settings, on the "keyboard shortcuts configuration" tab, by clicking on
-the corresponding button, you can customise the controls to your liking.
-On the
+the corresponding button, you can customise the controls to your liking. On the
 configurator screen there is a tree in which, at the first level, individual
 blocks are presented, which in turn contain actions. Each action has a list with
 assigned keyboard shortcuts. You can either add or remove them from this list
@@ -345,10 +347,10 @@ maintain the structure of the stored data in order.
 If you have any difficulties, contact us for help in the telegram group, discord
 or email. Look for links to the above in the “Conclusion” section.
 
-## Conclusion
+## Kesimpulan
 
-We are glad that you got interested in this project and we hope that you will
-like it. Destroy and have fun!
+Kami senang Anda tertarik dengan proyek ini dan kami berharap Anda menyukainya.
+Selamat bermain dan bersenang-senanglah!
 
 Subscribe to our [channel](https://t.me/sooslandia) on telegram, or join our
 [discord server](https://discord.gg/8xcKB7dsDR), to receive the latest news

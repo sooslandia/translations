@@ -1,7 +1,7 @@
 import re
 
 BRACES_PLACEHOLDER_REGEX = re.compile(r"(?:(?<=[^{])|^)\{(\d+)\}")
-PERCENT_PLACEHOLDER_REGEX = re.compile(r"(?:(?<=[^%])|^)%(\d+)")
+PERCENT_PLACEHOLDER_REGEX = re.compile(r"(?:(?<!\\%)|^)%(\d+)")
 
 RESX_FILE_REGEX = re.compile(r"^(.*?)((?<=\.)[a-z]{2})?\.resx$")
 PO_FILE_REGEX = re.compile(r"^[a-z]{2}.po$")

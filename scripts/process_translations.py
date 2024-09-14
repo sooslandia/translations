@@ -17,6 +17,7 @@ from utils import (
     parse_resx_filename,
 )
 
+GETTEXT_CTX_SEPARATOR = "\x04"
 REPOSITORY_DIR = Path(".")
 PROJECTS_DIR = Path(os.environ["PROJECTS_DIR"])
 
@@ -99,7 +100,10 @@ def convert_po_to_lng(*, project_path, english_lng, file, language_code, languag
     lng = {"Culture": language_code, "Language": language_name.lower()}
     for identifier, string in english_lng.items():
         translated_string = po_translation._catalog.get(
-            convert_percents_to_braces(string), None
+            identifier
+            + GETTEXT_CTX_SEPARATOR
+            + convert_percents_to_braces(string).replace("\r\n", "\n"),
+            None,
         )
         if translated_string is None:
             missing_strings.append(f"{identifier} - {string[:200]}")

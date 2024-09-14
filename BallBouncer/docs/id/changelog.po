@@ -1,0 +1,166 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the BallBouncer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BallBouncer\n"
+"Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
+"POT-Creation-Date: 2024-08-13 11:15+0000\n"
+"PO-Revision-Date: 2024-09-03 21:47+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: BallBouncer/docs/en/changelog.md:block 1 (paragraph)
+msgid "% changelog"
+msgstr "% log perubahan"
+
+#: BallBouncer/docs/en/changelog.md:block 2 (header)
+msgid "1.1.1"
+msgstr "1.1.1"
+
+#: BallBouncer/docs/en/changelog.md:block 3 (header)
+msgid "Fixes"
+msgstr "Perbaikan"
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"Fixed a critical bug that occurred when the first person mode and the ball "
+"watch mode were active at the same time."
+msgstr ""
+"Memperbaiki bug kritis yang terjadi ketika mode orang pertama dan mode "
+"menonton bola aktif secara bersamaan."
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid "Fixed some other minor bugs."
+msgstr "Memperbaiki beberapa bug kecil lainnya."
+
+#: BallBouncer/docs/en/changelog.md:block 5 (header)
+msgid "1.1.0"
+msgstr "1.1.0"
+
+#: BallBouncer/docs/en/changelog.md:block 6 (paragraph)
+msgid ""
+"This version is focused on improving the user experiance: Successful bat hit "
+"sound, first person camera view, alternative bat swing keys, etc."
+msgstr ""
+"Versi ini difokuskan pada peningkatan pengalaman pengguna: Suara pukulan "
+"tongkat yang berhasil, tampilan kamera orang pertama, tombol ayunan tongkat "
+"alternatif, dll."
+
+#: BallBouncer/docs/en/changelog.md:block 7 (header)
+msgid "Added"
+msgstr "Ditambahkan"
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"The game now supports translations that are missing one or more strings. If "
+"a string is not found, the game falls back to English localization strings."
+msgstr ""
+"Game ini sekarang mendukung terjemahan yang kehilangan satu atau lebih "
+"string. Jika string tidak ditemukan, permainan akan kembali ke string "
+"lokalisasi bahasa Inggris."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"In ball watching mode, a background sound has been attached to the ceiling, "
+"which will help make watching more spectacular."
+msgstr ""
+"Dalam mode menonton bola, suara latar telah dipasang di langit-langit, yang "
+"akan membantu membuat menonton menjadi lebih spektakuler."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"Added a sound to indicate when the bat succesfully hits the ball. By "
+"default, the notification is disabled; it is enabled in the settings, on the "
+"\"Behavior\" tab."
+msgstr ""
+"Menambahkan suara yang menunjukkan kapan tongkat pemukul berhasil mengenai "
+"bola. Secara default, notifikasi dinonaktifkan; Dapat diaktifkan di "
+"pengaturan, pada tab \"Perilaku\"."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"Implemented first-person camera mode. To switch between modes, press v while "
+"playing."
+msgstr ""
+"Menerapkan mode kamera orang pertama. Untuk beralih antar mode, tekan v saat "
+"bermain."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"Errors during the update are now written to a file that will be located in "
+"the userData/errorLogs folder."
+msgstr ""
+"Kesalahan selama pembaruan sekarang ditulis ke file yang akan ditempatkan di "
+"folder userData/errorLogs."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"Added temporary alternative keys for making horizontal and vertical bat "
+"swings."
+msgstr ""
+"Menambahkan kunci alternatif untuk membuat ayunan tongkat horizontal dan "
+"vertikal."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"For a horizontal swing, use the e key, for a vertical swing, use the r key."
+msgstr ""
+"Untuk ayunan horizontal gunakan tombol e, untuk ayunan vertikal gunakan "
+"tombol r."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"This solution is temporary and remains until the key config is implemented."
+msgstr ""
+"Solusi ini bersifat sementara dan tetap ada hingga konfigurasi kunci "
+"diterapkan."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"Now items with an available reward in the statistics list are at the "
+"beginning of the list."
+msgstr ""
+"Sekarang item dengan hadiah yang tersedia di daftar statistik ada di awal "
+"daftar."
+
+#: BallBouncer/docs/en/changelog.md:block 9 (header)
+msgid "Changes"
+msgstr "Perubahan"
+
+#: BallBouncer/docs/en/changelog.md:block 10 (unordered list)
+msgid ""
+"Increased points received for perfect strike streeks, ball bounces off the "
+"ceiling and ball with object collisions streeks."
+msgstr ""
+"Peningkatan poin yang diterima untuk pukulan beruntun yang sempurna, bola "
+"memantul ke langit-langit dan bola dengan pantulan objek beruntun."
+
+#: BallBouncer/docs/en/changelog.md:block 10 (unordered list)
+msgid "Documentation has been updated to take new features into account."
+msgstr "Dokumentasi telah diperbarui untuk mempertimbangkan fitur-fitur baru."
+
+#: BallBouncer/docs/en/changelog.md:block 12 (unordered list)
+msgid "Increased the volume of the landing sound after a jump."
+msgstr "Meningkatkan volume suara pendaratan setelah melompat."
+
+#: BallBouncer/docs/en/changelog.md:block 12 (unordered list)
+msgid ""
+"Now the leader's aura does not increase the points lost due to penalties."
+msgstr "Kini aura pemimpin tidak menambah poin yang hilang akibat penalti."
+
+#: BallBouncer/docs/en/changelog.md:block 13 (header)
+msgid "1.0.0"
+msgstr "1.0.0"
+
+#: BallBouncer/docs/en/changelog.md:block 14 (paragraph)
+msgid "Initial release."
+msgstr "Rilis pertama."

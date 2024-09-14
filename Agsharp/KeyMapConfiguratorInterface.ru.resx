@@ -117,82 +117,82 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ButtonControlName" xml:space="preserve">
-    <value>кнопка</value>
+  <data name="ActionsTreeText" xml:space="preserve">
+    <value>Действия</value>
   </data>
-  <data name="ButtonControlUnavailable" xml:space="preserve">
-    <value>недоступно</value>
+  <data name="AddButtonText" xml:space="preserve">
+    <value>Добавить</value>
   </data>
-  <data name="CheckboxControlName" xml:space="preserve">
-    <value>флажок</value>
+  <data name="AddKeyShortcutButtonText" xml:space="preserve">
+    <value>Добавить сочетание</value>
   </data>
-  <data name="CheckboxStateChecked" xml:space="preserve">
-    <value>отмечено</value>
+  <data name="AddKeyShortcutError" xml:space="preserve">
+    <value>Не удалось добавить сочетание. Возможно вы пытаетесь добавить в конфигурацию дубликат.</value>
   </data>
-  <data name="CheckboxStateUnchecked" xml:space="preserve">
-    <value>не отмечено</value>
+  <data name="AddKeyShortcutSuccess" xml:space="preserve">
+    <value>Сочетание добавлено.</value>
   </data>
-  <data name="EditBoxControlCapLetter" xml:space="preserve">
-    <value>большая</value>
+  <data name="CancelButtonText" xml:space="preserve">
+    <value>Отмена</value>
   </data>
-  <data name="EditBoxControlCopied" xml:space="preserve">
-    <value>скопировано</value>
+  <data name="CloseButtonText" xml:space="preserve">
+    <value>Закрыть</value>
   </data>
-  <data name="EditBoxControlCut" xml:space="preserve">
-    <value>вырезано</value>
+  <data name="DeleteKeyShortcutButtonText" xml:space="preserve">
+    <value>Удалить сочетание</value>
   </data>
-  <data name="EditBoxControlEmpty" xml:space="preserve">
-    <value>пусто</value>
+  <data name="KeyCatcherControlCatching" xml:space="preserve">
+    <value>Нажмите клавишу, которую хотите установить в сочетание.</value>
   </data>
-  <data name="EditBoxControlName" xml:space="preserve">
-    <value>редактор</value>
+  <data name="KeyCatcherControlKeyReset" xml:space="preserve">
+    <value>Клавиша сброшена.</value>
   </data>
-  <data name="EditBoxControlNoSelection" xml:space="preserve">
-    <value>нет выделения</value>
+  <data name="KeyCatcherControlKeySet" xml:space="preserve">
+    <value>Клавиша {0} установлена.</value>
   </data>
-  <data name="EditBoxControlPasted" xml:space="preserve">
-    <value>вставлено</value>
+  <data name="KeyCatcherControlName" xml:space="preserve">
+    <value>Нажмите enter здесь для установки клавиши.</value>
   </data>
-  <data name="EditBoxControlSelect" xml:space="preserve">
-    <value>выделено</value>
+  <data name="KeyCatcherControlNameChange" xml:space="preserve">
+    <value>Клавиша {0} установлена. Нажмите Enter, чтобы изменить или del чтобы сбросить.</value>
   </data>
-  <data name="EditBoxControlSelectionRemoved" xml:space="preserve">
-    <value>выделение удалено</value>
+  <data name="KeyConfigureTitle" xml:space="preserve">
+    <value>Конфигуратор клавиш.</value>
   </data>
-  <data name="EditBoxControlSpeakSelected" xml:space="preserve">
-    <value>{0} символов выделено</value>
+  <data name="KeyConfigureTitleWithHint" xml:space="preserve">
+    <value>Конфигуратор клавиш. Для перемещения используйте клавиши tab - вперёд, shift+tab - назад. Для перемещения по дереву и списку используйте стрелки вверх и вниз. Для активации элементов используйте клавишу enter.</value>
   </data>
-  <data name="EditBoxControlSpeakUnselected" xml:space="preserve">
-    <value>{0} символов не выделено</value>
+  <data name="KeyShortcutAddTitle" xml:space="preserve">
+    <value>Добавить сочетание клавиш.</value>
   </data>
-  <data name="EditBoxControlUnselect" xml:space="preserve">
-    <value>не выделено</value>
+  <data name="KeyShortcutAddTitleWithHint" xml:space="preserve">
+    <value>Добавить сочетание клавиш. Для перемещения по элементам используйте клавиши tab - вперёд, shift+tab - назад. Для перемещения по спискам используйте клавиши стреллки вверх и вниз. Для активации элементов управления нажмите клавишу enter.</value>
   </data>
-  <data name="ItemsCount" xml:space="preserve">
-    <value>{0} из {1}</value>
+  <data name="ModifierListAlt" xml:space="preserve">
+    <value>Клавиша alt</value>
   </data>
-  <data name="ListControlName" xml:space="preserve">
-    <value>список</value>
+  <data name="ModifierListAny" xml:space="preserve">
+    <value>Любая</value>
   </data>
-  <data name="SliderControlName" xml:space="preserve">
-    <value>ползунок</value>
+  <data name="ModifierListCtrl" xml:space="preserve">
+    <value>Клавиша ctrl</value>
   </data>
-  <data name="TabControlName" xml:space="preserve">
-    <value>панель вкладок</value>
+  <data name="ModifierListLeft" xml:space="preserve">
+    <value>Левая</value>
   </data>
-  <data name="TabPageName" xml:space="preserve">
-    <value>вкладка</value>
+  <data name="ModifierListRight" xml:space="preserve">
+    <value>Правая</value>
   </data>
-  <data name="TreeControlCollapsed" xml:space="preserve">
-    <value>свёрнуто</value>
+  <data name="ModifierListShift" xml:space="preserve">
+    <value>Клавиша shift</value>
   </data>
-  <data name="TreeControlExpanded" xml:space="preserve">
-    <value>развёрнуто</value>
+  <data name="ModifierListUnused" xml:space="preserve">
+    <value>Не использовать</value>
   </data>
-  <data name="TreeControlLevel" xml:space="preserve">
-    <value>уровень {0}</value>
+  <data name="ModifierListWin" xml:space="preserve">
+    <value>Клавиша Windows</value>
   </data>
-  <data name="TreeControlName" xml:space="preserve">
-    <value>дерево</value>
+  <data name="ShortcutsListText" xml:space="preserve">
+    <value>Сочетания клавиш</value>
   </data>
 </root>
