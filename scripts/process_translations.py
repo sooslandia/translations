@@ -15,6 +15,7 @@ from utils import (
     convert_percents_to_braces,
     file_updated,
     get_percent_placeholders,
+    git_add,
     parse_resx_filename,
 )
 
@@ -120,6 +121,7 @@ def convert_po_to_lng(*, project_path, english_lng, file, language_code, languag
         )
     with lng_file.open("w", encoding="utf-8", newline="") as f:
         json.dump(lng, f, ensure_ascii=False, indent=2, sort_keys=True)
+    git_add(lng_file)
     logger.info(f"Po file converted to lng file {lng_file}')")
 
 
@@ -270,6 +272,7 @@ def generate_resx_from_lng(lng, source_resx_file):
         value.text = convert_percents_to_braces(lng[identifier])
     with target_resx_file.open("wb") as f:
         f.write(ElementTree.tostring(root, encoding="utf-8"))
+    git_add(target_resx_file)
     logger.info("Resx file generated")
     return errors
 
@@ -312,6 +315,7 @@ def process_language_docs(docs_dir):
 def convert_docs_po_to_md_file(po_file):
     logger.info(f"Converting docs po file {po_file} to md file")
     source_md_file = po_file.parent.parent / "en" / po_file.with_suffix(".md").name
+    target_md_file = po_file.with_suffix(".md")
     if not source_md_file.is_file():
         return [
             f"Failed to find source file for {po_file}. File {source_md_file} not found."
@@ -330,7 +334,7 @@ def convert_docs_po_to_md_file(po_file):
             "-p",
             po_file,
             "-s",
-            po_file.with_suffix(".md"),
+            target_md_file,
             source_md_file,
         ],
         stdin=subprocess.DEVNULL,
@@ -340,6 +344,7 @@ def convert_docs_po_to_md_file(po_file):
     process.communicate(None, timeout=10)
     if process.returncode != 0:
         raise RuntimeError(f"po2md failed with code {process.returncode}")
+    git_add(target_md_file)
     logger.info("Po file converted to md")
     return []
 

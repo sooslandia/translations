@@ -42,6 +42,17 @@ def file_updated(file_path):
     return return_code == 0
 
 
+def git_add(file_path):
+    file_path = Path(file_path).resolve()
+    quoted_file_path = shlex.quote(file_path.name)
+    subprocess.call(
+        ["git", "add", quoted_file_path],
+        cwd=str(file_path.parent),
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.DEVNULL,
+    )
+
+
 def parse_resx_filename(resx_filename):
     match = RESX_FILE_REGEX.match(resx_filename)
     return match[1], match[2]
