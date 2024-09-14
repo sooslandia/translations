@@ -322,7 +322,7 @@ def convert_docs_po_to_md_file(po_file):
         logger.info("Converting because the source file has changed")
     else:
         logger.info("No changes in po or source detected")
-        return
+        return []
     process = subprocess.Popen(
         [
             "po2md",
