@@ -13,6 +13,7 @@ from message_manager import message_manager
 from utils import (
     convert_braces_to_percents,
     convert_percents_to_braces,
+    file_updated,
     get_percent_placeholders,
     parse_resx_filename,
 )
@@ -53,6 +54,9 @@ def process_po_files(project_path):
     valid_po_files = []
     errors = []
     for file in project_path.glob("*.po"):
+        if not file_updated(file):
+            logger.info(f"File {file.name} is not changed")
+            continue
         if not PO_FILE_REGEX.match(file.name):
             errors.append(f"PO file {file} have incorrect name.")
             continue
@@ -125,6 +129,9 @@ def process_lng_files(project_path):
     valid_lng_files = []
     errors = []
     for file in project_path.glob("*.lng"):
+        if not file_updated(file):
+            logger.info(f"File {file.name} is not changed")
+            return
         if not LNG_FILE_REGEX.match(file.name):
             errors.append(f"lng file {file} have incorrect name.")
             continue
@@ -218,10 +225,10 @@ def validate_placeholders(original_string, translated_string):
 
 def generate_resx_files(project_path):
     logger.info("Generating resx files")
-    resx_files = []
+    english_resx_files = []
     for file in project_path.glob("*.resx"):
         if parse_resx_filename(file.name)[1] is None:
-            resx_files.append(file)
+            english_resx_files.append(file)
     for lng_file in project_path.glob("*.lng"):
         if lng_file.name == "english.lng":
             continue
@@ -233,7 +240,10 @@ def generate_resx_files(project_path):
                 # Let's not add this error again.
                 continue
         errors = []
-        for resx_file in resx_files:
+        lng_updated = file_updated(lng_file)
+        for resx_file in english_resx_files:
+            if not (lng_updated or file_updated(resx_file)):
+                continue
             errors.extend(generate_resx_from_lng(lng, resx_file))
         if errors:
             message_manager.add_list_message(
@@ -306,6 +316,10 @@ def convert_docs_po_to_md_file(po_file):
         return [
             f"Failed to find source file for {po_file}. File {source_md_file} not found."
         ]
+    if file_updated(po_file):
+        logger.info("Converting because the po file has changed")
+    elif file_updated(source_md_file):
+        logger.info("Converting because the source file has changed")
     process = subprocess.Popen(
         [
             "po2md",
