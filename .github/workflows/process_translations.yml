@@ -66,6 +66,8 @@ jobs:
               issue_number: context.issue.number,
               body: comment_body
             });
+      - name: Output result
+        run: cat result.txt
       - name: Commit changes
         if: ${{ github.event_name == 'push' }}
         run: |
