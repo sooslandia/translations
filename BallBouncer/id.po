@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-09-11 16:52+0000\n"
-"PO-Revision-Date: 2024-09-12 00:21+0700\n"
+"POT-Creation-Date: 2024-09-13 08:46+0000\n"
+"PO-Revision-Date: 2024-09-15 16:05+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: id\n"
@@ -31,20 +31,20 @@ msgstr "Total {0} poin pencapaian yang diterima."
 #, python-brace-format
 msgctxt "AuraLeaderText"
 msgid ""
-"Leader's aura: level {0}. For each level, adds one percent to the points "
-"received."
+"Leader's aura: level {0} (+{1}%). For each level, adds one percent to the "
+"points received."
 msgstr ""
-"Aura pemimpin: level {0}. Untuk setiap level, tambahkan satu persen ke poin "
-"yang diterima."
+"Aura pemimpin: level {0} (+{1}%). Untuk setiap level, tambahkan satu persen "
+"ke poin yang diterima."
 
 #, python-brace-format
 msgctxt "AuraTimeText"
 msgid ""
-"Time Aura: level {0}. For each level, adds 5 seconds to the maximum playing "
-"time."
+"Time Aura: level {0} (+{1} sec). For each level, adds 5 seconds to the "
+"maximum playing time."
 msgstr ""
-"Aura Waktu: level {0}. Untuk setiap level, tambahkan 5 detik ke waktu "
-"bermain maksimum."
+"Aura Waktu: level {0} (+{1} sec). Untuk setiap level, tambahkan 5 detik ke "
+"waktu bermain maksimum."
 
 #, python-brace-format
 msgctxt "AuraUpgradeButton"
@@ -78,33 +78,65 @@ msgid "You have the latest version."
 msgstr "Game ini sudah versi terbaru."
 
 #, python-brace-format
-#| msgid "{0} b"
 msgctxt "FileSizeBytes"
 msgid "{0} b"
-msgstr ""
+msgstr "{0} b"
 
 #, python-brace-format
-#| msgid "{0} GB"
 msgctxt "FileSizeGigabytes"
 msgid "{0} GB"
-msgstr ""
+msgstr "{0} GB"
 
 #, python-brace-format
-#| msgid "{0} kb"
 msgctxt "FileSizeKilobytes"
 msgid "{0} kb"
-msgstr ""
+msgstr "{0} kb"
 
 #, python-brace-format
-#| msgid "{0} mb"
 msgctxt "FileSizeMegabytes"
 msgid "{0} mb"
-msgstr ""
+msgstr "{0} mb"
+
+msgctxt "GameObjectCloset"
+msgid "Closet."
+msgstr "Lemari."
+
+msgctxt "GameObjectDish"
+msgid "Dish."
+msgstr "Piring."
+
+msgctxt "GameObjectDishCloset"
+msgid "Kitchen cabinet."
+msgstr "Lemari dapur."
+
+msgctxt "GameObjectGlass"
+msgid "Glass."
+msgstr "Kaca."
+
+msgctxt "GameObjectLightbulb"
+msgid "Lamp."
+msgstr "Lampu."
+
+msgctxt "GameObjectMine"
+msgid "Mine."
+msgstr "Ranjau."
+
+msgctxt "GameObjectRadio"
+msgid "Radio."
+msgstr "Radio."
+
+msgctxt "GameObjectTelevision"
+msgid "TV."
+msgstr "TV."
 
 #, python-brace-format
 msgctxt "GamePoints"
 msgid "{0} points scored in this game."
 msgstr "{0} poin yang dihasilkan dalam pertandingan ini."
+
+msgctxt "GamePracticeInstantSkillRecharge"
+msgid "All skills are ready to use."
+msgstr "Semua keterampilan siap digunakan."
 
 #, python-brace-format
 msgctxt "GameResultScreenCoins"
@@ -153,6 +185,201 @@ msgctxt "IncompatableSaveTitle"
 msgid "Incompatible save"
 msgstr "Data simpanan tidak kompatibel"
 
+msgctxt "KeyConfigurationActionCheckPoints"
+msgid "Find out the number of points scored"
+msgstr "Cari tahu jumlah poin yang dihasilkan"
+
+msgctxt "KeyConfigurationActionCheckRemainingTime"
+msgid "Check the time remaining until the end of the session"
+msgstr "Periksa waktu yang tersisa hingga akhir sesi"
+
+msgctxt "KeyConfigurationActionCloseMap"
+msgid "Close map"
+msgstr "Tutup peta"
+
+msgctxt "KeyConfigurationActionHorizontalBatSwing"
+msgid "Swing the bat horizontally"
+msgstr "Ayunkan tongkat pemukul secara horizontal"
+
+msgctxt "KeyConfigurationActionMapCursorMoveDown"
+msgid "Move cursor down"
+msgstr "Gerakkan kursor ke bawah"
+
+msgctxt "KeyConfigurationActionMapCursorMoveLeft"
+msgid "Move cursor left"
+msgstr "Gerakkan kursor ke kiri"
+
+msgctxt "KeyConfigurationActionMapCursorMoveRight"
+msgid "Move cursor right"
+msgstr "Gerakkan kursor ke kanan"
+
+msgctxt "KeyConfigurationActionMapCursorMoveUp"
+msgid "Move cursor up"
+msgstr "Gerakkan kursor ke atas"
+
+msgctxt "KeyConfigurationActionMapMoveListenerDown"
+msgid "Move observation point lower"
+msgstr "Pindahkan titik pengamatan lebih rendah"
+
+msgctxt "KeyConfigurationActionMapMoveListenerUp"
+msgid "Move observation point higher"
+msgstr "Pindahkan titik pengamatan lebih tinggi"
+
+msgctxt "KeyConfigurationActionMapSwitchAnnouncingObjectType"
+msgid "Toggle object type announcement"
+msgstr "Alihkan pengumuman jenis objek"
+
+msgctxt "KeyConfigurationActionMapSwitchMovingMode"
+msgid "Toggle cursor movement mode"
+msgstr "Alihkan mode pergerakan kursor"
+
+msgctxt "KeyConfigurationActionMapTotalObjects"
+msgid "Find out the number of objects on the map"
+msgstr "Cari tahu jumlah objek di peta"
+
+msgctxt "KeyConfigurationActionOpenMap"
+msgid "Open map"
+msgstr "Buka peta"
+
+msgctxt "KeyConfigurationActionPauseGame"
+msgid "Pause the game"
+msgstr "Jeda permainan"
+
+msgctxt "KeyConfigurationActionPlayCheckPositionSound"
+msgid "Play sound at character's position"
+msgstr "Mainkan suara pada posisi karakter"
+
+msgctxt "KeyConfigurationActionPlayerCatchBall"
+msgid "Catch the ball"
+msgstr "Menangkap bola"
+
+msgctxt "KeyConfigurationActionPlayerJump"
+msgid "Jump"
+msgstr "Melompat"
+
+msgctxt "KeyConfigurationActionPlayerMoveLeft"
+msgid "Move character left"
+msgstr "Gerakkan karakter ke kiri"
+
+msgctxt "KeyConfigurationActionPlayerMoveRight"
+msgid "Move character right"
+msgstr "Gerakkan karakter ke kanan"
+
+msgctxt "KeyConfigurationActionPracticeInstantSkillRecharge"
+msgid "Zero all skills cooldown"
+msgstr "Semua keterampilan sudah dapat digunakan"
+
+msgctxt "KeyConfigurationActionPracticeSetSkillLevels"
+msgid "Set skill levels"
+msgstr "Tetapkan tingkat keahlian"
+
+msgctxt "KeyConfigurationActionSetPlayerFacingLeft"
+msgid "Set character facing left"
+msgstr "Atur karakter menghadap ke kiri"
+
+msgctxt "KeyConfigurationActionSetPlayerFacingRight"
+msgid "Set character facing right"
+msgstr "Atur karakter menghadap ke kanan"
+
+msgctxt "KeyConfigurationActionSkillSlot1"
+msgid "Select the skill set in slot 1"
+msgstr "Pilih keterampilan yang akan dipasang di slot 1"
+
+msgctxt "KeyConfigurationActionSkillSlot10"
+msgid "Select the skill set in slot 10"
+msgstr "Pilih keterampilan yang akan dipasang di slot 10"
+
+msgctxt "KeyConfigurationActionSkillSlot2"
+msgid "Select the skill set in slot 2"
+msgstr "Pilih keterampilan yang akan dipasang di slot 2"
+
+msgctxt "KeyConfigurationActionSkillSlot3"
+msgid "Select the skill set in slot 3"
+msgstr "Pilih keterampilan yang akan dipasang di slot 3"
+
+msgctxt "KeyConfigurationActionSkillSlot4"
+msgid "Select the skill set in slot 4"
+msgstr "Pilih keterampilan yang akan dipasang di slot 4"
+
+msgctxt "KeyConfigurationActionSkillSlot5"
+msgid "Select the skill set in slot 5"
+msgstr "Pilih keterampilan yang akan dipasang di slot 5"
+
+msgctxt "KeyConfigurationActionSkillSlot6"
+msgid "Select the skill set in slot 6"
+msgstr "Pilih keterampilan yang akan dipasang di slot 6"
+
+msgctxt "KeyConfigurationActionSkillSlot7"
+msgid "Select the skill set in slot 7"
+msgstr "Pilih keterampilan yang akan dipasang di slot 7"
+
+msgctxt "KeyConfigurationActionSkillSlot8"
+msgid "Select the skill set in slot 8"
+msgstr "Pilih keterampilan yang akan dipasang di slot 8"
+
+msgctxt "KeyConfigurationActionSkillSlot9"
+msgid "Select the skill set in slot 9"
+msgstr "Pilih keterampilan yang akan dipasang di slot 9"
+
+msgctxt "KeyConfigurationActionSkillSlotCancel"
+msgid "Cancel the selected skill"
+msgstr "Batalkan keterampilan yang dipilih"
+
+msgctxt "KeyConfigurationActionSwitchBallViewMode"
+msgid "Switch to ball watch mode"
+msgstr "Beralih ke mode menonton bola"
+
+msgctxt "KeyConfigurationActionSwitchCharacterCameraMode"
+msgid "Switch camera mode between first person and center field view"
+msgstr ""
+"Alihkan mode kamera antara pandangan orang pertama dan pandangan lapangan "
+"tengah"
+
+msgctxt "KeyConfigurationActionThrowBallHorizontal"
+msgid "Throw the ball horizontally"
+msgstr "Lemparkan bola secara horizontal"
+
+msgctxt "KeyConfigurationActionThrowBallVertical"
+msgid "Throw the ball vertically"
+msgstr "Lemparkan bola secara vertikal"
+
+msgctxt "KeyConfigurationActionVerticalBatSwing"
+msgid "Vertical bat swing"
+msgstr "Ayunkan tongkat pemukul secara vertikal"
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionKeys"
+msgid "Game session"
+msgstr "Sesi pertandingan"
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionObjectMapKeys"
+msgid "Object map"
+msgstr "Peta objek"
+
+msgctxt "KeyConfigurationBlockBallBouncerPracticeGameSessionKeys"
+msgid "Training mode"
+msgstr "Mode latihan"
+
+msgctxt "KeyConfigurationMergeDeletionDialogOk"
+msgid "I understand"
+msgstr "saya mengerti"
+
+msgctxt "KeyConfigurationMergeDeletionDialogText"
+msgid ""
+"New keyboard shortcuts have been introduced into the game, but upon loading "
+"your configuration, it was discovered that you already have the shortcuts "
+"that are reserved as default shortcuts installed. Due to this, new "
+"combinations have been removed in favor of yours. We strongly recommend that "
+"you go to Settings, go to the \"Keyboard Shortcut Configuration\" tab and "
+"configure new actions. You can find a list of new actions in the changelog."
+msgstr ""
+"Pintasan keyboard baru telah diperkenalkan dalam permainan, tetapi saat "
+"memuat konfigurasi Anda, ditemukan bahwa Anda sudah memiliki pintasan yang "
+"dicadangkan sebagai pintasan default terpasang. Karena itu, kombinasi baru "
+"telah dihapus demi pintasan Anda. Kami sangat menyarankan Anda untuk pergi "
+"ke Pengaturan, buka tab 'Konfigurasi Pintasan Keyboard' dan mengonfigurasi "
+"tindakan baru. Anda dapat menemukan daftar tindakan baru di catatan "
+"perubahan."
+
 msgctxt "LearnSoundsBatHitSuccess"
 msgid "Successfully hit the ball with the bat."
 msgstr "Berhasil memukul bola dengan pemukulnya."
@@ -170,8 +397,8 @@ msgid "Penalty for frequent misses with the bat on the ball."
 msgstr "Penalti karena sering gagal memukul bola dengan tongkat pemukul."
 
 msgctxt "LearnSoundsForceFull"
-msgid "character's blow force has been fully restored."
-msgstr "kekuatan pukulan karakter telah sepenuhnya pulih."
+msgid "Character's blow force has been fully restored."
+msgstr "Kekuatan pukulan karakter telah sepenuhnya pulih."
 
 msgctxt "LearnSoundsObjectDestroy"
 msgid "Object destruction alert."
@@ -216,6 +443,10 @@ msgctxt "MainMenuProfile"
 msgid "Profile."
 msgstr "Profil."
 
+msgctxt "MainMenuRecordings"
+msgid "Recordings."
+msgstr "Rekaman."
+
 msgctxt "MainMenuStartGame"
 msgid "Start game."
 msgstr "Mulai permainan."
@@ -236,29 +467,44 @@ msgstr ""
 "Menu utama. Gunakan panah atas dan bawah untuk bernavigasi antar menu. Untuk "
 "memilih, tekan enter."
 
-msgctxt "ModeSelectionMenuBack"
+msgctxt "ModeSelectionFormBack"
 msgid "Return to main menu."
 msgstr "Kembali ke menu utama."
 
-msgctxt "ModeSelectionMenuNormalMode"
+msgctxt "ModeSelectionFormModes"
+msgid "Modes"
+msgstr "Mode"
+
+msgctxt "ModeSelectionFormNormalMode"
 msgid "Normal game."
 msgstr "Mode normal."
 
-msgctxt "ModeSelectionMenuPracticeMode"
+msgctxt "ModeSelectionFormPracticeMode"
 msgid "Training mode."
 msgstr "Mode latihan."
 
-msgctxt "ModeSelectionMenuTitle"
+msgctxt "ModeSelectionFormRecord"
+msgid "Record the game"
+msgstr "Rekamm permainan ini"
+
+msgctxt "ModeSelectionFormStart"
+msgid "Start"
+msgstr "Mulai permainan"
+
+msgctxt "ModeSelectionFormTitle"
 msgid "Select a game mode."
 msgstr "Pilih mode permainan."
 
-msgctxt "ModeSelectionMenuTitleWithHint"
+msgctxt "ModeSelectionFormTitleWithHint"
 msgid ""
-"Select a game mode. Use the up and down arrows to move. To confirm your "
-"selection, press enter."
+"Select a game mode. Use tab and shift+tab to move forwards and backwards on "
+"the screen. Use the up and down arrows to move through the list. To confirm "
+"your selection, press enter or click the \"Start\" button."
 msgstr ""
-"Pilih mode permainan. Gunakan panah atas dan bawah untuk bernavigasi antar "
-"menu. Untuk mengonfirmasi pilihan Anda, tekan enter."
+"Pilih mode permainan. Gunakan tombol tab dan shift+tab untuk bergerak maju "
+"dan mundur di layar. Gunakan panah atas dan bawah untuk bergerak melalui "
+"daftar. Untuk mengonfirmasi pilihan Anda, tekan enter atau klik tombol "
+"'Mulai'."
 
 msgctxt "NumberNotationsEmpty"
 msgid "No notation."
@@ -280,6 +526,31 @@ msgctxt "NumberNotationsStandard"
 msgid "Standard."
 msgstr "Standar."
 
+msgctxt "ObjectsMapScreenAnnounceObjectTypeDisabled"
+msgid "Object type announcement under the cursor disabled."
+msgstr "Pengumuman jenis objek di bawah kursor telah dinonaktifkan."
+
+msgctxt "ObjectsMapScreenAnnounceObjectTypeEnabled"
+msgid "Object type announcement under the cursor enabled."
+msgstr "Pengumuman jenis objek di bawah kursor telah diaktifkan."
+
+msgctxt "ObjectsMapScreenFreeMovingMode"
+msgid "Switched to free movement mode."
+msgstr "Beralih ke mode gerakan bebas."
+
+msgctxt "ObjectsMapScreenObjectMovingMode"
+msgid "Switched to object movement mode."
+msgstr "Beralih ke mode pergerakan objek."
+
+msgctxt "ObjectsMapScreenTitle"
+msgid "Object map."
+msgstr "Peta objek."
+
+#, python-brace-format
+msgctxt "ObjectsMapScreenTotalObjects"
+msgid "{0} objects on the map."
+msgstr "{0} objek di peta."
+
 msgctxt "OptionsScreenAllowOverMaxVolume"
 msgid "Allow audio volume boost up to two hundred percent"
 msgstr "Izinkan peningkatan volume audio hingga 200 persen"
@@ -292,6 +563,10 @@ msgstr ""
 "Putar suara peringatan ketika bola bertabrakan atau menghancurkan objek di "
 "lapangan"
 
+msgctxt "OptionsScreenAutosaveRecording"
+msgid "Save the recording every 30 seconds"
+msgstr "Simpan rekaman setiap 30 detik"
+
 msgctxt "OptionsScreenBatHitSuccessSound"
 msgid "Play a sound when the ball is successfully hit with the bat"
 msgstr "Putar suara ketika bola berhasil dipukul"
@@ -303,6 +578,14 @@ msgstr "Perilaku"
 msgctxt "OptionsScreenCatigoriesGeneral"
 msgid "General"
 msgstr "Umum"
+
+msgctxt "OptionsScreenCatigoriesKeyConfiguration"
+msgid "Keyboard shortcut configuration"
+msgstr "Konfigurasi pintasan keyboard"
+
+msgctxt "OptionsScreenCatigoriesRecording"
+msgid "Recording"
+msgstr "Rekaman"
 
 msgctxt "OptionsScreenCatigoriesSound"
 msgid "Sound"
@@ -327,6 +610,10 @@ msgstr "Periksa pembaruan saat game dijalankan"
 msgctxt "OptionsScreenCloseButton"
 msgid "Close"
 msgstr "Tutup"
+
+msgctxt "OptionsScreenConfigureKeysButton"
+msgid "Configure keyboard shortcuts"
+msgstr "Konfigurasikan pintasan keyboard"
 
 msgctxt "OptionsScreenDisplayTitleHints"
 msgid "Show navigation hints in menu titles"
@@ -356,6 +643,39 @@ msgctxt "OptionsScreenPrefereSapi"
 msgid "Prefer sapi to screen reader"
 msgstr "Utamakan microsoft speech API daripada pembaca layar"
 
+msgctxt "OptionsScreenRecordingCancellation"
+msgid "Cancel recording when canceling the game from the pause menu"
+msgstr "Batalkan perekaman saat membatalkan permainan dari menu jeda"
+
+msgctxt "OptionsScreenResetKeyConfigurationToDefault"
+msgid "Reset shortcut key configuration to defaults"
+msgstr "Atur ulang konfigurasi tombol pintas ke bawaan"
+
+msgctxt "OptionsScreenResetKeyConfigurationToDefaultConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your current keyboard shortcut configuration? "
+"Attention: this action is irreversible!"
+msgstr ""
+"Apakah Anda yakin ingin mengatur ulang konfigurasi pintasan keyboard Anda "
+"saat ini? Perhatian: tindakan ini tidak dapat dibatalkan!"
+
+msgctxt "OptionsScreenResetOptionsToDefault"
+msgid "Reset settings to defaults"
+msgstr "Atur ulang pengaturan menjadi bawaan"
+
+msgctxt "OptionsScreenResetOptionsToDefaultConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your settings to default? Attention: this "
+"action is irreversible! Once confirmed, the application will be restarted."
+msgstr ""
+"Apakah Anda yakin ingin mengatur ulang pengaturan Anda ke bawaan? Perhatian: "
+"tindakan ini tidak dapat dibatalkan! Setelah anda menekan tombol konfirmasi, "
+"aplikasi akan dimulai ulang."
+
+msgctxt "OptionsScreenSaveCharacterViewState"
+msgid "Save first person view state between games"
+msgstr "Simpan status pandangan orang pertama di antara permainan"
+
 msgctxt "OptionsScreenShowResultMenu"
 msgid "Show results menu at the end of the game"
 msgstr "Tampilkan menu hasil di akhir permainan"
@@ -377,10 +697,9 @@ msgctxt "OptionsScreenSoundPanRepresentationModeNarrowedCenter"
 msgid "Narrowed center"
 msgstr "Pusat yang dipersempit"
 
-#| msgid "Normal"
 msgctxt "OptionsScreenSoundPanRepresentationModeNormal"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgctxt "OptionsScreenTitle"
 msgid "Settings screen."
@@ -395,6 +714,18 @@ msgstr ""
 "Menu pengaturan. Gunakan tab dan shift+tab untuk bergerak maju dan mundur. "
 "Gunakan tombol panah untuk mengubah posisi slider. Untuk mengaktifkan item "
 "yang dipilih, tekan enter atau spasi."
+
+msgctxt "OptionsScreenWipeSave"
+msgid "Reset game progress"
+msgstr "Setel ulang kemajuan permainan"
+
+msgctxt "OptionsScreenWipeSaveConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your game progress? Attention: this action is "
+"irreversible!"
+msgstr ""
+"Apakah Anda yakin ingin mengatur ulang progres game Anda? Perhatian: "
+"tindakan ini tidak dapat diubah!"
 
 msgctxt "PauseMenuAbortGame"
 msgid "Abort the game and return to the main menu."
@@ -440,9 +771,9 @@ msgctxt "ProfileAurasPageTitle"
 msgid "Auras"
 msgstr "Aura"
 
-msgctxt "ProfileSkillsPageTitle"
-msgid "Skills"
-msgstr "Keterampilan"
+msgctxt "ProfileStatsCopied"
+msgid "Copied."
+msgstr "Disalin."
 
 msgctxt "ProfileStatsPageTitle"
 msgid "Statistics"
@@ -461,6 +792,72 @@ msgstr ""
 "Profil Anda. Gunakan tab dan shift+tab untuk bergerak maju dan mundur. Untuk "
 "menerima hadiah silahkan cari statistik, tekan enter pada item yang terdapat "
 "keterangan \"hadiah yang tersedia\"."
+
+msgctxt "SkillLevelsSetFormBack"
+msgid "Return to game"
+msgstr "Kembali ke menu utama"
+
+msgctxt "SkillLevelsSetFormPowerRecoveringBonusChanger"
+msgid "Increased blow force recovery rate level"
+msgstr "Tingkat pemulihan gaya pukulan yang lebih cepat"
+
+#, python-brace-format
+msgctxt "SkillLevelsSetFormSkillLevel"
+msgid "Skill level {0}"
+msgstr "Keterampilan level {0}"
+
+msgctxt "SkillLevelsSetFormTitle"
+msgid "Set skill levels."
+msgstr "Atur tingkat keterampilan."
+
+msgctxt "SkillLevelsSetFormTitleWithHint"
+msgid ""
+"Set skill levels. Use tab and shift+tab to move forward and backward. Use "
+"the arrow keys to change the position of the sliders. To activate the "
+"selected item, press enter or spacebar."
+msgstr ""
+"Atur tingkat keterampilan. Gunakan tombol tab dan shift+tab untuk bergerak "
+"maju dan mundur. Gunakan tombol panah untuk mengubah posisi slider. Untuk "
+"mengaktifkan item yang dipilih, tekan enter atau spasi."
+
+#, python-brace-format
+msgctxt "SkillSlotRecharging"
+msgid "{0} seconds before skill cooldown."
+msgstr "Tunggu {0} detik sebelum keterampilan dapat digunakan lagi."
+
+msgctxt "SkillSlotSelectCanceled"
+msgid "Selection canceled."
+msgstr "Pilihan keterampilan dibatalkan."
+
+#, python-brace-format
+msgctxt "SkillSlotSelected"
+msgid "Skill {0} is selected."
+msgstr "Keterampilan {0} dipilih."
+
+msgctxt "SkillSlotSetterMenuBack"
+msgid "Go back."
+msgstr "Kembali."
+
+msgctxt "SkillSlotSetterMenuTitle"
+msgid "Select a skill to install in the slot."
+msgstr "Pilih keterampilan yang akan dipasang di slot."
+
+msgctxt "SkillSlotSetterMenuTitleWithHint"
+msgid ""
+"Select a skill to install in the slot. Use the up and down arrows to select "
+"and press enter to confirm your selection."
+msgstr ""
+"Pilih keterampilan yang akan dipasang di slot. Gunakan panah atas dan bawah "
+"untuk memilih dan tekan enter untuk mengonfirmasi pilihan Anda."
+
+#, python-brace-format
+msgctxt "SkillSlotText"
+msgid "Slot {0}. {1}"
+msgstr "Slot {0}. {1}"
+
+msgctxt "SkillSlotsTitle"
+msgid "Slots"
+msgstr "Slots"
 
 #, python-brace-format
 msgctxt "SkillsBallLeapLevelInfoText"
@@ -509,8 +906,8 @@ msgid "immateriality"
 msgstr "tidak berwujud"
 
 msgctxt "SkillsImmaterialityNameFull"
-msgid "immateriality"
-msgstr "tidak berwujud"
+msgid "Immateriality."
+msgstr "Tidak berwujud."
 
 #, python-brace-format
 msgctxt "SkillsImmaterialityText"
@@ -528,47 +925,6 @@ msgstr "Daftar efek keterampilan berdasarkan level."
 msgctxt "SkillsListTitle"
 msgid "Unlocked Skills"
 msgstr "Keterampilan yang Dibuka"
-
-#, python-brace-format
-msgctxt "SkillSlotRecharging"
-msgid "{0} seconds before skill cooldown."
-msgstr "Tunggu {0} detik sebelum keterampilan dapat digunakan lagi."
-
-msgctxt "SkillSlotSelectCanceled"
-msgid "Selection canceled"
-msgstr "Pilihan keterampilan dibatalkan"
-
-#, python-brace-format
-msgctxt "SkillSlotSelected"
-msgid "Skill {0} is selected."
-msgstr "Keterampilan {0} dipilih."
-
-msgctxt "SkillSlotSetterMenuBack"
-msgid "Go back."
-msgstr "Kembali."
-
-msgctxt "SkillSlotSetterMenuTitle"
-msgid "Select a skill to install in the slot."
-msgstr "Pilih keterampilan yang akan dipasang di slot."
-
-msgctxt "SkillSlotSetterMenuTitleWithHint"
-msgid ""
-"Select a skill to install in the slot. Use the up and down arrows to select "
-"and press enter to confirm your selection."
-msgstr ""
-"Pilih keterampilan yang akan dipasang di slot. Gunakan panah atas dan bawah "
-"untuk memilih dan tekan enter untuk mengonfirmasi pilihan Anda."
-
-#| msgid "Slots"
-msgctxt "SkillSlotsTitle"
-msgid "Slots"
-msgstr ""
-
-#, python-brace-format
-#| msgid "Slot {0}. {1}"
-msgctxt "SkillSlotText"
-msgid "Slot {0}. {1}"
-msgstr ""
 
 #, python-brace-format
 msgctxt "SkillsMagnetismLevelInfoText"
@@ -625,6 +981,10 @@ msgid ""
 msgstr ""
 "Pukulan pencipta: level {0}/4. Ayunan tongkat pemukul akan menghasilkan {1} "
 "objek di lapangan, interval waktu tunggu selama {2} detik."
+
+msgctxt "SkillsPageTitle"
+msgid "Skills"
+msgstr "Keterampilan"
 
 #, python-brace-format
 msgctxt "SkillsShadowStrikeLevelInfoText"
@@ -817,7 +1177,7 @@ msgstr "Kesalahan: tidak ada poin pencapaian yang dihabiskan."
 
 msgctxt "StoreBuyError6"
 msgid "Error: This skill is already at maximum level."
-msgstr "Error: keterampilan ini sudah berada pada level maksimal."
+msgstr "Kessalahan: keterampilan ini sudah berada pada level maksimal."
 
 msgctxt "StoreBuyError7"
 msgid "Error: This skill is already unlocked"
@@ -839,18 +1199,14 @@ msgctxt "StoreCatigoriesObjects"
 msgid "Objects"
 msgstr "Objek"
 
-msgctxt "StoreCatigoriesSkills"
-msgid "Skills"
-msgstr "Keterampilan"
-
 #, python-brace-format
 msgctxt "StoreCoins"
 msgid "Coins: {0}."
 msgstr "Koin: {0}."
 
 msgctxt "StoreInfoTitle"
-msgid "Reference Information:"
-msgstr "Informasi Referensi:"
+msgid "Reference Information: "
+msgstr "Informasi Referensi: "
 
 msgctxt "StoreInfoTitleWithHint"
 msgid ""
@@ -911,6 +1267,25 @@ msgctxt "StoreItemJumpFeatureText"
 msgid "Unlock the  jump feature"
 msgstr "Unlock fitur melompat"
 
+msgctxt "StoreItemMinObjectIncreaseInfo"
+msgid ""
+"Increasing the minimum number of objects on the field.\n"
+"Initially, the minimum number of objects is twenty-five.\n"
+"When there are fewer objects on the field than this value, as many new "
+"objects are added as are not enough to equal this number.\n"
+"Each upgrade level increases this value by one."
+msgstr ""
+"Meningkatkan jumlah minimum objek di lapangan.\n"
+"Pada awalnya, jumlah minimum objek adalah dua puluh lima.\n"
+"Ketika jumlah objek di lapangan kurang dari nilai dua puluh lima, objek baru "
+"akan ditambahkan sebanyak yang diperlukan untuk mencapai jumlah ini.\n"
+"Setiap level peningkatan akan menambahkan nilai objek sebanyak satu."
+
+#, python-brace-format
+msgctxt "StoreItemMinObjectIncreaseText"
+msgid "Minimum number of objects on the field increase: level {0}/10."
+msgstr "Jumlah minimum objek di lapangan bertambah: level {0}/10."
+
 msgctxt "StoreItemMineObjectInfo"
 msgid ""
 "Mine object.\n"
@@ -928,25 +1303,6 @@ msgstr ""
 msgctxt "StoreItemMineObjectText"
 msgid "Unlock the mine object."
 msgstr "Unlock ranjau."
-
-msgctxt "StoreItemMinObjectIncreaseInfo"
-msgid ""
-"Increasing the minimum number of objects on the field.\n"
-"Initially, the minimum number of objects is twenty-five.\n"
-"When there are fewer objects on the field than this value, as many new "
-"objects are added as are not enough to equal this number.\n"
-"Each upgrade level increases this value by one."
-msgstr ""
-"Meningkatkan jumlah minimum objek di lapangan.\n"
-"Pada awalnya, jumlah minimum objek adalah dua puluh lima.\n"
-"Ketika jumlah objek di lapangan kurang dari nilai dua puluh lima, objek baru "
-"akan ditambahkan sebanyak yang diperlukan untuk mencapai jumlah ini.\n"
-"Setiap level peningkatan akan menambahkan nilai objek sebanyak satu."
-
-#, python-brace-format
-msgctxt "StoreItemMinObjectIncreaseText"
-msgid "minimum number of objects on the field increase: level {0}/10."
-msgstr "jumlah minimum objek di lapangan bertambah: level {0}/10."
 
 msgctxt "StoreItemPowerRecoveringInfo"
 msgid ""
@@ -1180,10 +1536,9 @@ msgctxt "TimeString4"
 msgid "{0} sec"
 msgstr "{0} detik"
 
-#| msgid "N/A"
 msgctxt "TimeStringIncorrect"
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #, python-brace-format
 msgctxt "UpdateAvailableQuestionText"
@@ -1271,8 +1626,20 @@ msgstr "Tekan enter untuk melanjutkan."
 
 msgctxt "YesOrNoScreenNo"
 msgid "No"
-msgstr "TIDAK"
+msgstr "Tidak"
 
 msgctxt "YesOrNoScreenYes"
 msgid "Yes"
 msgstr "Ya"
+
+#~ msgctxt "ModeSelectionMenuTitleWithHint"
+#~ msgid ""
+#~ "Select a game mode. Use the up and down arrows to move. To confirm your "
+#~ "selection, press enter."
+#~ msgstr ""
+#~ "Pilih mode permainan. Gunakan panah atas dan bawah untuk bernavigasi "
+#~ "antar menu. Untuk mengonfirmasi pilihan Anda, tekan enter."
+
+#~ msgctxt "StoreCatigoriesSkills"
+#~ msgid "Skills"
+#~ msgstr "Keterampilan"

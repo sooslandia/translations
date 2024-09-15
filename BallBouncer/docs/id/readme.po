@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-08-13 11:15+0000\n"
-"PO-Revision-Date: 2024-09-03 22:12+0700\n"
+"POT-Creation-Date: 2024-09-13 14:44+0000\n"
+"PO-Revision-Date: 2024-09-15 16:47+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: id\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 1 (paragraph)
 msgid "% \"Ball bouncer\" documentation"
-msgstr "% dokumentasi \"Ball bouncer\"."
+msgstr "% Dokumentasi \"Ball bouncer\""
 
 #: BallBouncer/docs/en/readme.md:block 2 (paragraph)
 msgid ""
@@ -35,22 +35,84 @@ msgstr ""
 "membiasakan diri dengan tabel tombol kontrol."
 
 #: BallBouncer/docs/en/readme.md:block 3 (header)
+msgid "About the game"
+msgstr "Jeda permainan"
+
+#: BallBouncer/docs/en/readme.md:block 4 (header)
+msgid "Brief description"
+msgstr "Deskripsi singkat"
+
+#: BallBouncer/docs/en/readme.md:block 5 (paragraph)
+msgid ""
+"BallBouncer is a simple, yet hard to master arcade game which will put your "
+"reflexes and patience to the test."
+msgstr ""
+"BallBouncer adalah gim arkade sederhana namun sulit dikuasai yang akan "
+"menguji refleks dan kesabaran Anda."
+
+#: BallBouncer/docs/en/readme.md:block 6 (paragraph)
+msgid ""
+"Armed with a hefty bat, hit the ball at the right moments to turn it's wild "
+"trajectory into a well thought out tactic of object destruction."
+msgstr ""
+"Dilengkapi dengan tongkat berat namun keren, pukul bola pada momen yang "
+"tepat untuk mengubah trajektorinya yang liar menjadi taktik penghancuran "
+"objek yang matang."
+
+#: BallBouncer/docs/en/readme.md:block 7 (paragraph)
+msgid ""
+"But can you really think ahead when cups, dishes, closets and tvs crash "
+"around you?"
+msgstr ""
+"Namun bisakah Anda berpikir jauh ke depan ketika cangkir, piring, lemari, "
+"dan televisi berserakan di sekitar Anda?"
+
+#: BallBouncer/docs/en/readme.md:block 8 (paragraph)
+msgid ""
+"The ball's unpredictable bounces can create thrilling chain reactions, "
+"keeping you challenged and your playstyle evolving."
+msgstr ""
+"Pantulan bola yang tidak dapat diprediksi dapat menciptakan reaksi berantai "
+"yang mendebarkan, membuat Anda tetap tertantang dan gaya bermain Anda terus "
+"berkembang."
+
+#: BallBouncer/docs/en/readme.md:block 9 (paragraph)
+msgid ""
+"Ball bouncer offers the possibility of creating your own scoring strategy. "
+"With a variety of skills, features and upgrades to unlock and max out in the "
+"store, can you beat your previous score? At the end of the gaming session, "
+"points are converted to coins. Spend them wisely!"
+msgstr ""
+"Ball bouncer menawarkan kemungkinan untuk menciptakan strategi penilaian "
+"Anda sendiri. Dengan beragam keterampilan, fitur, dan peningkatan yang dapat "
+"dibuka dan dimaksimalkan di toko, dapatkah Anda mengalahkan skor sebelumnya? "
+"Di akhir sesi permainan, poin diubah menjadi koin. Habiskan dengan bijak!"
+
+#: BallBouncer/docs/en/readme.md:block 10 (paragraph)
+msgid ""
+"So, are you ready to embark on a path of methodical, but chaotic "
+"destruction? Then go ahead!"
+msgstr ""
+"Jadi, apakah Anda siap untuk mulai menghancurkan dengan cara yang teratur "
+"tapi tetap kacau? Ayo mulai!"
+
+#: BallBouncer/docs/en/readme.md:block 11 (header)
 msgid "System requirements"
 msgstr "Persyaratan sistem"
 
-#: BallBouncer/docs/en/readme.md:block 4 (paragraph)
-msgid "64 bit windows 10 or later."
-msgstr "Windows 10 64 bit atau yang lebih baru."
+#: BallBouncer/docs/en/readme.md:block 12 (paragraph)
+msgid "windows 10 64 bit or later."
+msgstr "windows 10 64 bit atau yang lebih baru."
 
-#: BallBouncer/docs/en/readme.md:block 5 (paragraph)
-msgid "64 bit ubuntu 22 or later."
+#: BallBouncer/docs/en/readme.md:block 13 (paragraph)
+msgid "ubuntu 22 64 bit or later."
 msgstr "ubuntu 22 64 bit atau yang lebih baru."
 
-#: BallBouncer/docs/en/readme.md:block 6 (header)
+#: BallBouncer/docs/en/readme.md:block 14 (header)
 msgid "First steps"
 msgstr "Langkah pertama"
 
-#: BallBouncer/docs/en/readme.md:block 7 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 15 (paragraph)
 msgid ""
 "When the game runs for the first time you will have to select a language. "
 "After making your selection, a welcome screen will appear. As soon as you "
@@ -61,49 +123,41 @@ msgid ""
 "“Settings” in the main menu, then on the “General” tab click on the "
 "corresponding button. On the “Sound” tab you can adjust the volume of music "
 "and sounds, change the sound panning mode And disable some alerts. on the "
-"\"Behavior\" tab."
+"\"Behavior\" tab. You can delete your progress and reset your settings to "
+"default by clicking the corresponding buttons on the General tab. Resetting "
+"the keyboard shortcut configuration to the default one is done on the "
+"corresponding tab as well."
 msgstr ""
-"Saat permainan dijalankan untuk pertama kalinya, Anda harus memilih bahasa. "
-"Setelah menentukan pilihan, layar selamat datang akan muncul. Segera setelah "
-"Anda menentukan pilihan, logo kami akan mulai diputar. Anda dapat "
-"melewatinya dengan menekan tombol enter. Setelah logo dilewati atau selesai "
-"dimainkan Anda akan dibawa ke menu utama permainan. Kami menyarankan Anda "
-"untuk membiasakan diri dengan isinya. Jika Anda ingin mempelajari suara "
-"permainan, Anda perlu memilih “Pengaturan” di menu utama, lalu pada tab "
-"“Umum” klik tombol yang sesuai. Pada tab “Suara” Anda dapat mengatur volume "
-"musik dan suara, mengubah mode panning suara, dan menonaktifkan beberapa "
-"peringatan. pada tab \"Perilaku\"."
+"Ketika permainan dijalankan untuk pertama kalinya, Anda harus memilih "
+"bahasa. Setelah membuat pilihan, layar sambutan akan muncul. Segera setelah "
+"Anda membuat pilihan, logo kami akan mulai diputar. Anda bisa melewatinya "
+"dengan menekan tombol enter. Setelah logo dilewati atau selesai diputar, "
+"Anda akan dibawa ke menu utama permainan. Kami mendorong Anda untuk mengenal "
+"isinya. Jika Anda ingin mengetahui suara permainan, Anda perlu memilih "
+"'Pengaturan' di menu utama, lalu pada tab 'Umum' klik tombol yang sesuai. "
+"Pada tab 'Suara', Anda dapat menyesuaikan volume musik dan suara, mengubah "
+"mode panning suara, dan menonaktifkan beberapa pemberitahuan. Pada tab "
+"'Perilaku', Anda bisa menghapus kemajuan Anda dan mengatur ulang pengaturan "
+"ke default dengan mengklik tombol yang sesuai di tab Umum. Mengatur ulang "
+"konfigurasi pintasan keyboard ke default juga dilakukan di tab yang sesuai."
 
-#: BallBouncer/docs/en/readme.md:block 8 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 16 (paragraph)
 msgid ""
-"The game has a training mode where you can spend unlimited time and where "
-"all penalties are disabled. In this mode, a sound will be played when you "
-"can hit the ball, which you can listen to in the learn sounds menu. The "
-"sound will play when the ball has bounced at least once off the floor to "
-"teach you to sense the moment for the perfect strike. In training mode, game "
-"statistics are not collected, and points are not scored. If you don't like "
-"the sound of the ball, you can change it in the settings, on the \"Sound\" "
-"tab, choosing from five proposed options. This can be done directly during "
-"the game by going to the settings from the pause menu. The ball sound will "
-"change as soon as you unpause the game."
+"If you don't like the sound of the ball, you can change it in the settings, "
+"on the \"Sound\" tab, choosing from five proposed options. This can be done "
+"directly during the game by going to the settings from the pause menu. The "
+"ball sound will change as soon as you unpause the game."
 msgstr ""
-"Permainan ini memiliki mode latihan di mana Anda dapat menghabiskan waktu "
-"tanpa batas dan semua penalti dinonaktifkan. Dalam mode ini, akan terdengar "
-"suara saat Anda memukul bola, yang dapat Anda dengarkan di menu pelajari "
-"suara. Suara akan diputar ketika bola telah memantul setidaknya satu kali "
-"dari lantai untuk mengajari Anda merasakan momen untuk melakukan pukulan "
-"yang sempurna. Dalam mode pelatihan, statistik permainan tidak dikumpulkan, "
-"dan poin tidak dicetak. Jika Anda tidak menyukai suara bola, Anda dapat "
-"mengubahnya di pengaturan, pada tab \"Suara\", dengan memilih dari lima opsi "
-"yang diusulkan. Ini dapat dilakukan langsung selama permainan dengan masuk "
-"ke pengaturan dari menu jeda. Suara bola akan berubah segera setelah Anda "
-"membatalkan jeda permainan."
+"Jika Anda tidak suka suara bola, Anda bisa mengubahnya di pengaturan, pada "
+"tab 'Suara', dengan memilih dari lima opsi yang tersedia. Ini bisa dilakukan "
+"langsung selama permainan dengan membuka pengaturan dari menu jeda. Suara "
+"bola akan berubah segera setelah Anda melanjutkan permainan."
 
-#: BallBouncer/docs/en/readme.md:block 9 (header)
+#: BallBouncer/docs/en/readme.md:block 17 (header)
 msgid "Navigation"
 msgstr "Navigasi"
 
-#: BallBouncer/docs/en/readme.md:block 10 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 18 (paragraph)
 msgid ""
 "Moving through menus is done by using the up and down arrows. Enter selects "
 "an item, while home and end keys do their respective job by setting you on "
@@ -113,7 +167,7 @@ msgstr ""
 "Enter memilih item, sedangkan tombol home dan end melakukan tugasnya masing-"
 "masing dengan menempatkan Anda pada item menu pertama atau terakhir."
 
-#: BallBouncer/docs/en/readme.md:block 11 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 19 (paragraph)
 msgid ""
 "Screen navigation(settings, shop, profile, etc.),: tab/shift+tab forward/"
 "back, activate controls by pressing enter or spacebar. Move through the "
@@ -125,13 +179,14 @@ msgstr ""
 "panah atas dan bawah, ubah nilai penggeser dengan panah. Pemilihan tab "
 "dilakukan dengan menekan tombol panah kiri/kanan."
 
-#: BallBouncer/docs/en/readme.md:block 12 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 20 (paragraph)
 msgid ""
 "On the shop screen, by pressing enter on the item you have selected, you can "
 "open reference information that describes this item. In your profile, on the "
 "\"Statistics\" tab, by pressing enter on a list item you can receive a "
-"reward, if available. On the “Skills” tab, by clicking on an item, you can "
-"get detailed information about the skill."
+"reward, if available. By pressing ctrl+c you can copy the contents of the "
+"item into your clipboard. On the “Skills” tab, by clicking on an item, you "
+"can get detailed information about the skill."
 msgstr ""
 "Di layar toko, dengan menekan enter pada item yang Anda pilih, Anda dapat "
 "membuka informasi referensi yang menjelaskan item tersebut. Di profil Anda, "
@@ -139,7 +194,7 @@ msgstr ""
 "menerima hadiah, jika tersedia. Pada tab “Skill”, dengan mengklik item, Anda "
 "bisa mendapatkan informasi detail tentang skill tersebut."
 
-#: BallBouncer/docs/en/readme.md:block 13 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 21 (paragraph)
 msgid ""
 "All menus and screens, excluding the main menu and the last game results "
 "menu, can be closed with the escape key."
@@ -147,15 +202,50 @@ msgstr ""
 "Semua menu dan layar, kecuali menu utama dan menu hasil pertandingan "
 "terakhir, dapat ditutup dengan tombol escape."
 
-#: BallBouncer/docs/en/readme.md:block 14 (header)
+#: BallBouncer/docs/en/readme.md:block 22 (header)
 msgid "Game process"
 msgstr "Proses permainan"
 
-#: BallBouncer/docs/en/readme.md:block 15 (header)
+#: BallBouncer/docs/en/readme.md:block 23 (header)
+msgid "Training mode"
+msgstr "Mode latihan"
+
+#: BallBouncer/docs/en/readme.md:block 24 (paragraph)
+msgid ""
+"The game has a training mode where you can spend unlimited time and where "
+"all penalties are disabled. In this mode, a sound will be played when you "
+"can hit the ball, which you can listen to in the learn sounds menu. The "
+"sound will play when the ball has bounced at least once off the floor to "
+"teach you to sense the moment for the perfect strike. In training mode, game "
+"statistics are not collected, and points are not scored. During training, "
+"you can press f2 in order to open the training mode screen. There you can "
+"set your blow force recovery rate and skill (if any) levels to your liking. "
+"Levels range is from 1 to your current unlocked level. By pressing f1 you "
+"can instantly zero the cooldown of your skills."
+msgstr ""
+"Permainan ini memiliki mode latihan di mana Anda dapat menghabiskan waktu "
+"tanpa batas dan semua hukuman dinonaktifkan. Di mode ini, sebuah suara akan "
+"diputar ketika Anda dapat memukul bola, yang bisa Anda dengarkan di menu "
+"belajar suara. Suara akan diputar ketika bola telah memantul setidaknya "
+"sekali dari lantai untuk mengajari Anda merasakan momen yang tepat untuk "
+"pukulan yang sempurna. Di mode latihan, statistik permainan tidak "
+"dikumpulkan dan poin tidak dihitung. Selama latihan, Anda dapat menekan f2 "
+"untuk membuka layar mode latihan. Di sana, Anda dapat mengatur laju "
+"pemulihan kekuatan pukulan dan tingkat keterampilan (jika ada) sesuai "
+"keinginan Anda. Rentang tingkat dari 1 hingga tingkat yang telah Anda buka "
+"saat ini. Dengan menekan f1, Anda dapat segera mengatur ulang cooldown "
+"keterampilan Anda."
+
+#: BallBouncer/docs/en/readme.md:block 25 (paragraph)
+msgid "These keys can be changed using the Shortcut Key Configurator."
+msgstr ""
+"Tombol-tombol ini dapat diubah menggunakan Pengonfigurasi Pintasan Tombol."
+
+#: BallBouncer/docs/en/readme.md:block 26 (header)
 msgid "How to play"
 msgstr "Cara bermain"
 
-#: BallBouncer/docs/en/readme.md:block 16 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 27 (paragraph)
 msgid ""
 "After selecting “Start game” in the main menu, the starting countdown will "
 "begin. You will then be able to control the character. At the beginning of "
@@ -163,10 +253,11 @@ msgid ""
 "the left and right arrows. Initially the camera is in the field-centered "
 "view, but you can switch it to first person view and back by pressing v. By "
 "pressing the C key, you will hear a sound positioned at the character's "
-"location. This will help you better understand your character whereabouts "
-"when trying to hit the ball. With the left or right shift you can set the "
-"direction the character is facing. When moving, the facing direction is set "
-"automatically."
+"location if in the field centered view. In the first person view the sound "
+"is played in the center of the field. This will help you better understand "
+"your character whereabouts when trying to hit the ball. With the left or "
+"right shift you can set the direction the character is facing. When moving, "
+"the facing direction is set automatically."
 msgstr ""
 "Setelah memilih “Mulai permainan” di menu utama, hitungan mundur awal akan "
 "dimulai. Anda kemudian akan dapat mengontrol karakter tersebut. Pada awal "
@@ -179,7 +270,7 @@ msgstr ""
 "atau ke kanan, Anda dapat mengatur arah hadap karakter. Saat bergerak, arah "
 "menghadap diatur secara otomatis."
 
-#: BallBouncer/docs/en/readme.md:block 17 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 28 (paragraph)
 msgid ""
 "First of all, you need to throw the ball so that it appears on the playing "
 "field. You can do this by pressing the f key. After the ball is on the "
@@ -197,11 +288,11 @@ msgstr ""
 "terdengar meninggi, berarti bola bergerak ke atas, sedangkan jika terdengar "
 "volume lebih keras dan nada turun, berarti sebaliknya."
 
-#: BallBouncer/docs/en/readme.md:block 18 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 29 (paragraph)
 msgid "There are two types of throw:"
 msgstr "Ada dua jenis lemparan:"
 
-#: BallBouncer/docs/en/readme.md:block 19 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 30 (unordered list)
 msgid ""
 "Normal. Performed by pressing the f key. The ball begins to fly in an arc in "
 "the direction the character is facing."
@@ -209,7 +300,7 @@ msgstr ""
 "Normal. Dilakukan dengan menekan tombol f. Bola mulai terbang membentuk "
 "busur ke arah yang dihadapi karakter."
 
-#: BallBouncer/docs/en/readme.md:block 19 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 30 (unordered list)
 msgid ""
 "Vertical. Performed by holding down the alt key and pressing f. The ball "
 "starts flying along the vertical axis, but also moves slightly along the "
@@ -219,7 +310,7 @@ msgstr ""
 "terbang sepanjang sumbu vertikal, tetapi juga bergerak sedikit sepanjang "
 "sumbu horizontal ke arah yang dihadapi karakter."
 
-#: BallBouncer/docs/en/readme.md:block 20 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 31 (paragraph)
 msgid ""
 "The goal of the game is to destroy as many objects as possible, gaining "
 "points along the way. The ball always tends to fall down, and you need to "
@@ -229,11 +320,11 @@ msgstr ""
 "mendapatkan poin di sepanjang permainan. Bola selalu cenderung jatuh, dan "
 "Anda harus memukulnya kembali dengan tongkat pemukul."
 
-#: BallBouncer/docs/en/readme.md:block 21 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 32 (paragraph)
 msgid "The ball can be hit in two ways:"
 msgstr "Bola dapat dipukul dengan dua cara:"
 
-#: BallBouncer/docs/en/readme.md:block 22 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 33 (unordered list)
 msgid ""
 "Spacebar key. In this case, the ball will receive a strong horizontal "
 "impulse in the direction the character is facing."
@@ -241,7 +332,7 @@ msgstr ""
 "Tombol spasi. Dalam hal ini, bola akan menerima dorongan horizontal yang "
 "kuat ke arah yang dihadapi karakter."
 
-#: BallBouncer/docs/en/readme.md:block 22 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 33 (unordered list)
 msgid ""
 "Hold down the alt key and press spacebar. The ball will receive a strong "
 "vertical impulse, maintaining a horizontal flight direction regardless of "
@@ -250,7 +341,7 @@ msgstr ""
 "Tahan tombol alt dan tekan spasi. Bola akan menerima dorongan vertikal yang "
 "kuat, mempertahankan arah terbang horizontal terlepas dari arah lawannya."
 
-#: BallBouncer/docs/en/readme.md:block 23 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 34 (paragraph)
 msgid ""
 "You can only hit the ball while being near it. After each swing of the bat, "
 "the character restores the force of the blow. Once it is fully restored, you "
@@ -264,7 +355,7 @@ msgstr ""
 "menu pelajari suara. Anda juga dapat mengaktifkan suara pukulan tongkat yang "
 "berhasil mengenai bola, pada tab perilaku."
 
-#: BallBouncer/docs/en/readme.md:block 24 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 35 (paragraph)
 msgid ""
 "You need to strive to always make perfect strikes, as you will be awarded "
 "bonus points for them. A perfect strike occurs if the ball bounces off the "
@@ -314,7 +405,7 @@ msgstr ""
 "awal. Setelah hancur, objek akan jatuh ke tanah sehingga menimbulkan "
 "ketidaknyamanan dengan suara yang keras dan menambah kekacauan."
 
-#: BallBouncer/docs/en/readme.md:block 25 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 36 (paragraph)
 msgid ""
 "During the game, you can watch not only the entire picture of the playing "
 "field, but also switch to the ball watch mode. To activate this mode, hold "
@@ -337,7 +428,7 @@ msgstr ""
 "Alternatifnya, tekan t untuk melihat waktu dan p untuk melihat poin selama "
 "permainan berlangsung."
 
-#: BallBouncer/docs/en/readme.md:block 26 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 37 (paragraph)
 msgid ""
 "If you allow your points to drop to minus one thousand, the gaming session "
 "will end early. Coins will not be credited, but you do not lose anything "
@@ -364,7 +455,7 @@ msgstr ""
 "hasil pertandingan terakhir dan pemberitahuan tentang hadiah yang tersedia "
 "dapat dinonaktifkan di pengaturan, pada tab “Perilaku”."
 
-#: BallBouncer/docs/en/readme.md:block 27 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 38 (paragraph)
 msgid ""
 "The game also has skills that are fully described in the game. To use a "
 "skill during the game, you need to assign it to one of ten slots. Assigning "
@@ -377,7 +468,7 @@ msgstr ""
 "Anda, pada tab “Keterampilan”. Slot diakses menggunakan kunci dari 1 (slot "
 "pertama) hingga 0 (slot kesepuluh)."
 
-#: BallBouncer/docs/en/readme.md:block 28 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 39 (paragraph)
 msgid ""
 "In the store you can unlock the mechanics of jumping and catching the ball. "
 "These two mechanics are also fully described in the game, including the keys "
@@ -387,162 +478,503 @@ msgstr ""
 "Kedua mekanisme ini juga dijelaskan secara lengkap di dalam game, termasuk "
 "kunci yang digunakan. Mereka juga ada di tabel kontrol."
 
-#: BallBouncer/docs/en/readme.md:block 29 (header)
+#: BallBouncer/docs/en/readme.md:block 40 (header)
+msgid "The object map"
+msgstr "Peta objek"
+
+#: BallBouncer/docs/en/readme.md:block 41 (paragraph)
+msgid ""
+"The object map works in any mode. You can open it with the m key. The map "
+"displays all objects that were on the field when it was opened. Using the "
+"arrow keys, you can move the cursor around the map, which will play a short "
+"sound of the object in the place where this object is located, and the type "
+"of object will also be announced. You can turn off the pronunciation of the "
+"object type using the f1 key. Using the f2 key you can switch between "
+"movement modes."
+msgstr ""
+"Peta objek berfungsi dalam mode apa pun. Anda dapat membukanya dengan tombol "
+"m. Peta menampilkan semua objek yang ada di lapangan saat dibuka. Dengan "
+"menggunakan tombol panah, Anda dapat menggerakkan kursor di sekitar peta, "
+"yang akan memutar suara singkat dari objek di tempat objek tersebut berada, "
+"dan jenis objek juga akan diumumkan. Anda dapat mematikan pengucapan tipe "
+"objek menggunakan tombol f1. Dengan menggunakan tombol f2 Anda dapat beralih "
+"antar mode gerakan."
+
+#: BallBouncer/docs/en/readme.md:block 42 (paragraph)
+msgid "There are two cursor movement modes:"
+msgstr "Ada dua mode pergerakan kursor:"
+
+#: BallBouncer/docs/en/readme.md:block 43 (unordered list)
+msgid ""
+"Free movement. The cursor can be moved on the map in any direction by one "
+"cell. When moving in free mode, empty cells will also be visible under the "
+"cursor, which are indicated by their own sound."
+msgstr ""
+"Gerakan bebas. Kursor dapat dipindahkan pada peta ke segala arah dengan satu "
+"sel. Saat berpindah dalam mode bebas, sel kosong juga akan terlihat di bawah "
+"kursor, yang ditandai dengan suaranya sendiri."
+
+#: BallBouncer/docs/en/readme.md:block 43 (unordered list)
+msgid ""
+"Moving through objects. The cursor moves only over objects; moving to the "
+"right or left will move through objects in the same row horizontally. Moving "
+"up or down will move the cursor to the nearest object vertically and skip "
+"empty rows."
+msgstr ""
+"Bergerak melalui objek. Kursor hanya bergerak di atas objek; bergerak ke "
+"kanan atau ke kiri akan berpindah melalui objek pada baris yang sama secara "
+"horizontal. Bergerak ke atas atau ke bawah akan memindahkan kursor ke objek "
+"terdekat secara vertikal dan melewati baris kosong."
+
+#: BallBouncer/docs/en/readme.md:block 44 (paragraph)
+msgid ""
+"In addition to the cursor, the map indicates an observation point, which is "
+"located in the center of the horizontal axis and can be moved vertically. "
+"All object sounds are played relative to this point. You can move the "
+"observation point using the keys w - up, s - down. In this case, a sound "
+"will be played that changes its pitch depending on the position, so that it "
+"is easier for you to understand where the point is located along the axis."
+msgstr ""
+"Selain kursor, peta menunjukkan titik pengamatan yang terletak di tengah "
+"sumbu horizontal dan dapat dipindahkan secara vertikal. Semua suara objek "
+"dimainkan relatif terhadap titik ini. Anda dapat memindahkan titik "
+"pengamatan menggunakan tombol w - up, s - down. Dalam hal ini, akan "
+"dimainkan suara yang berubah nada tergantung posisinya, sehingga lebih mudah "
+"bagi Anda untuk memahami di mana letak titik di sepanjang sumbu."
+
+#: BallBouncer/docs/en/readme.md:block 45 (paragraph)
+msgid ""
+"You can also find out how many objects are on the field at the moment. To do "
+"this, press the o key."
+msgstr ""
+"Anda juga dapat mengetahui berapa banyak objek yang ada di lapangan saat "
+"ini. Untuk melakukannya, tekan tombol o."
+
+#: BallBouncer/docs/en/readme.md:block 46 (paragraph)
+msgid ""
+"All of the listed keys can be changed using the keyboard shortcut "
+"configurator."
+msgstr ""
+"Semua tombol yang terdaftar dapat diubah menggunakan konfigurator pintasan "
+"keyboard."
+
+#: BallBouncer/docs/en/readme.md:block 47 (header)
+msgid "Gameplay recording"
+msgstr "Rekaman permainan"
+
+#: BallBouncer/docs/en/readme.md:block 48 (paragraph)
+msgid ""
+"You can record your gameplay and then play the resulting recordings in the "
+"game's built-in player."
+msgstr ""
+"Anda dapat merekam permainan Anda dan kemudian memutar rekaman yang "
+"dihasilkan di pemutar bawaan permainan."
+
+#: BallBouncer/docs/en/readme.md:block 49 (paragraph)
+msgid "Important: recordings are not made during training mode."
+msgstr "Penting: rekaman tidak dapat dilakukan selama mode latihan."
+
+#: BallBouncer/docs/en/readme.md:block 50 (paragraph)
+msgid ""
+"To start recording, make sure the \"Record game\" checkbox on the game mode "
+"selection screen is checked. Recording begins after the game start countdown."
+msgstr ""
+"Untuk mulai merekam, pastikan kotak centang \"Rekam permainan\" pada layar "
+"pemilihan mode permainan dicentang. Perekaman dimulai setelah hitungan "
+"mundur permainan dimulai."
+
+#: BallBouncer/docs/en/readme.md:block 51 (paragraph)
+msgid ""
+"In the settings, on the \"Recording\" tab, you can determine whether a "
+"recording will be saved every 30 seconds, as well as whether to cancel or "
+"save the recording when pausing the game from the pause menu."
+msgstr ""
+"Dalam pengaturan, pada tab \"Rekaman\", Anda dapat menentukan apakah rekaman "
+"akan disimpan setiap 30 detik, serta apakah akan membatalkan atau menyimpan "
+"rekaman saat menjeda permainan dari menu jeda."
+
+#: BallBouncer/docs/en/readme.md:block 52 (paragraph)
+msgid ""
+"To listen to recordings, select the corresponding item in the main menu of "
+"the game. Then, in the recordings menu, select the one you want and press "
+"enter. After loading the recording, you will be taken to the player."
+msgstr ""
+"Untuk mendengarkan rekaman, pilih item yang sesuai di menu utama permainan. "
+"Kemudian, di menu rekaman, pilih yang Anda inginkan dan tekan enter. Setelah "
+"memuat rekaman, Anda akan dibawa ke pemutar."
+
+#: BallBouncer/docs/en/readme.md:block 53 (paragraph)
+msgid "Player control keys:"
+msgstr "Tombol kontrol pemutar rekaman:"
+
+#: BallBouncer/docs/en/readme.md:block 54 (unordered list)
+msgid "To start, pause and unpause playback, press spacebar."
+msgstr "Untuk memulai, menjeda, dan membatalkan jeda pemutaran, tekan spasi."
+
+#: BallBouncer/docs/en/readme.md:block 54 (unordered list)
+msgid ""
+"To adjust the volume, use the up arrow keys to make it louder, down arrow "
+"keys to make it quieter. The recording volume can be increased to a maximum "
+"of two hundred percent."
+msgstr ""
+"Untuk mengatur volume, gunakan tombol panah atas untuk memperbesar volume, "
+"dan tombol panah bawah untuk memperkecil volume. Volume perekaman dapat "
+"ditingkatkan hingga maksimum dua ratus persen."
+
+#: BallBouncer/docs/en/readme.md:block 54 (unordered list)
+msgid ""
+"to rewind the recording by 5 seconds, use the arrow keys right - forward, "
+"left - backward. Rewinding by 30 seconds is done with the ctrl key held down."
+msgstr ""
+"untuk rewind perekaman selama 5 detik, gunakan tombol panah kanan - untuk "
+"maju, dan panah kiri - mundur. Rewind selama 30 detik dilakukan dengan "
+"menahan tombol ctrl."
+
+#: BallBouncer/docs/en/readme.md:block 54 (unordered list)
+msgid ""
+"You can find out how much you listened to, as well as the duration of the "
+"recording, by pressing the t key."
+msgstr ""
+"Anda dapat mengetahui seberapa banyak Anda mendengarkan, serta durasi "
+"rekaman, dengan menekan tombol t."
+
+#: BallBouncer/docs/en/readme.md:block 54 (unordered list)
+msgid ""
+"You can stop playback and return to the recording menu using the escape key."
+msgstr ""
+"Anda dapat menghentikan pemutaran dan kembali ke menu perekaman menggunakan "
+"tombol escape."
+
+#: BallBouncer/docs/en/readme.md:block 55 (paragraph)
+msgid ""
+"Your recordings are located in the recordings folder, which in turn is "
+"located in the user data folder (userData), and have a .sgr extension. You "
+"can rename the recording file if necessary and share it with other people. "
+"If you want to play someone else's recording, place it in your recordings "
+"folder. Then it will be visible in the recordings menu."
+msgstr ""
+"Rekaman Anda terletak di folder rekaman, yang selanjutnya terletak di folder "
+"data pengguna (userData), dan memiliki ekstensi .sgr. Anda dapat mengganti "
+"nama file rekaman jika perlu dan membaginya dengan orang lain. Jika Anda "
+"ingin memutar rekaman orang lain, letakkan di folder rekaman Anda. Kemudian "
+"akan terlihat di menu rekaman."
+
+#: BallBouncer/docs/en/readme.md:block 56 (header)
 msgid "control keys"
 msgstr "tombol kontrol"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 57 (paragraph)
+msgid ""
+"All keys in this section can be redefined by customizing the keyboard "
+"shortcut configuration."
+msgstr ""
+"Semua tombol di bagian ini dapat didefinisikan ulang dengan menyesuaikan "
+"konfigurasi pintasan keyboard."
+
+#: BallBouncer/docs/en/readme.md:block 58 (header)
+msgid "Basic"
+msgstr "Dasar"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Action"
 msgstr "Tindakan"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Key/keys"
 msgstr "Kunci/tombol"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
-msgid "Character movement right/left"
-msgstr "Pergerakan karakter ke kanan/kiri"
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Move the character right/left"
+msgstr "Atur karakter menghadap kanan/kiri"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Right/Left arrows or d/a keys"
 msgstr "Panah Kanan/Kiri atau tombol d/a"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Play sound at character's position"
 msgstr "Mainkan suara pada posisi karakter"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "c"
 msgstr "c"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Set character facing right/left"
 msgstr "Atur karakter menghadap kanan/kiri"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "right/left shift"
 msgstr "shift kanan/shift kiri"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Swing the bat (hit the ball with a strong horizontal impulse)"
 msgstr "Mengayunkan pemukul (memukul bola dengan dorongan mendatar yang kuat)"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
-msgid "Spacebar or e key"
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Spacebar, s or e key"
 msgstr "Spasi atau tombol e"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Swing the bat (hit the ball with strong vertical impulse)"
 msgstr "Mengayunkan pemukul (memukul bola dengan dorongan vertikal yang kuat)"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
-msgid "alt+space or r"
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "alt+space, alt+s or r"
 msgstr "alt+spasi atau r"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Throw the ball in an arc"
 msgstr "Lemparkan bola secara melengkung"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "f"
 msgstr "f"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Throw the ball vertically"
 msgstr "Lemparkan bola secara vertikal"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "alt+f"
 msgstr "alt+f"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Switch the camera to ball watch mode"
 msgstr "Alihkan kamera ke mode menonton bola"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Hold down the g key"
 msgstr "Tahan tombol g"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Switch the camera to normal mode"
 msgstr "Alihkan kamera ke mode normal"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Release the g key"
 msgstr "Lepaskan tombol g"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid ""
 "Switch camera mode between first person mode and field-centered view mode"
 msgstr ""
 "Beralih mode kamera antara mode orang pertama dan mode tampilan terpusat di "
 "lapangan"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "v"
 msgstr "v"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Jump (if the mechanic is unlocked)"
 msgstr "Melompat (jika fitur tidak terkunci)"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Up arrow or w key"
 msgstr "Panah atas atau tombol w"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Catch the ball (if the mechanic is unlocked)"
 msgstr "Menangkap bola (jika fitur tidak terkunci)"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "left or right control"
 msgstr "kontrol kiri atau kanan"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Select a skill slot from 1 to 10 (if the skill is set)"
 msgstr "Pilih slot keterampilan dari 1 hingga 10 (jika keterampilan diatur)"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
-msgid "keys 1 to 0"
-msgstr "Angka 1 sampai 0"
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "keys 1 to 0/numpad1 to numpad0"
+msgstr "tombol 1 hingga 0/numpad1 hingga numpad0"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Cancel skill slot selection"
 msgstr "Batalkan pemilihan slot keterampilan"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
-msgid "grave"
-msgstr "grave, (terletak di atas tombol tab)"
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Grave / numpad enter"
+msgstr "Grave / numpad enter"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Open the object map"
+msgstr "Buka peta objek"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "m"
+msgstr "m"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Find out the time until the end of the gaming session"
 msgstr "Cari tahu waktu hingga akhir sesi permainan"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "t"
 msgstr "t"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Find out the current number of points scored"
 msgstr "Cari tahu jumlah poin yang dihasilkan saat ini"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "p"
 msgstr "p"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Pause the game"
 msgstr "Jeda permainan"
 
-#: BallBouncer/docs/en/readme.md:block 30 (table)
+#: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "escape"
 msgstr "tombol escape"
 
-#: BallBouncer/docs/en/readme.md:block 31 (header)
+#: BallBouncer/docs/en/readme.md:block 61 (table)
+msgid "Zero the cooldown of all skills"
+msgstr "Untuk menghilangkan semua waktu tunggu keterampilan"
+
+#: BallBouncer/docs/en/readme.md:block 61 (table)
+msgid "f1"
+msgstr "f1"
+
+#: BallBouncer/docs/en/readme.md:block 61 (table)
+msgid "Set skill levels"
+msgstr "Tetapkan tingkat keterampilan"
+
+#: BallBouncer/docs/en/readme.md:block 61 (table)
+msgid "f2"
+msgstr "f2"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Move cursor"
+msgstr "Pindahkan kursor"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Arrow keys"
+msgstr "Tombol panah"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Move observation point lower"
+msgstr "Pindahkan titik pengamatan lebih rendah"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "s"
+msgstr "s"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Move observation point higher"
+msgstr "Pindahkan titik pengamatan lebih tinggi"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "w"
+msgstr "w"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Toggle object type announcement status"
+msgstr "Alihkan status pengumuman jenis objek"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Toggle cursor movement mode"
+msgstr "Alihkan mode pergerakan kursor"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Find out the number of objects on the map"
+msgstr "Cari tahu jumlah objek di peta"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "o"
+msgstr "o"
+
+#: BallBouncer/docs/en/readme.md:block 64 (header)
+msgid "Configuring keyboard shortcuts"
+msgstr "Mengonfigurasi pintasan keyboard"
+
+#: BallBouncer/docs/en/readme.md:block 65 (paragraph)
+msgid ""
+"In the settings, on the \"keyboard shortcuts configuration\" tab, by "
+"clicking on the corresponding button, you can customise the controls to your "
+"liking. On the configurator screen there is a tree in which, at the first "
+"level, individual blocks are presented, which in turn contain actions. Each "
+"action has a list with assigned keyboard shortcuts. You can either add or "
+"remove them from this list using the appropriate buttons. After pressing the "
+"add button, a new screen will open, containing four lists, a field assigning "
+"the main key, the “Add” and “Cancel” buttons. Each list is responsible for "
+"its own modifier key (alt, windows, control, shift), and contains 4 options "
+"for using the modifier key (do not use, left, right, any). To set a key, "
+"follow the instructions in the key assigner field immediately following the "
+"list for the shift modifier key. If you want to use only modifier keys in "
+"your shortcut, leave the field unassigned. After all the necessary "
+"parameters have been set, click on the “Add” button, but keep in mind that "
+"duplicates within the same shortcuts block are prohibited."
+msgstr ""
+"Di pengaturan, pada tab 'Konfigurasi Pintasan Keyboard', Anda bisa mengubah "
+"kontrol sesuai keinginan Anda dengan mengklik tombol yang sesuai. Di layar "
+"konfigurasi, ada daftar yang menunjukkan berbagai blok, masing-masing berisi "
+"tindakan yang bisa Anda atur. Setiap tindakan memiliki daftar pintasan "
+"keyboard yang sudah ada. Anda bisa menambah atau menghapus pintasan dari "
+"daftar ini menggunakan tombol yang ada. Setelah menekan tombol tambah, layar "
+"baru akan muncul dengan empat daftar, tempat Anda bisa menetapkan tombol "
+"utama dan memilih opsi untuk tombol modifier (alt, windows, control, shift). "
+"Pilih opsi yang diinginkan untuk setiap tombol modifier. Jika Anda hanya "
+"ingin menggunakan tombol modifier dalam pintasan Anda, biarkan kolom tidak "
+"diisi. Setelah selesai mengatur semua parameter, klik tombol 'Tambah'. Harap "
+"diingat bahwa duplikat dalam blok pintasan yang sama tidak diperbolehkan."
+
+#: BallBouncer/docs/en/readme.md:block 66 (paragraph)
+msgid ""
+"If required, you can share your keyboard shortcut configuration with other "
+"people. The configuration is located in the user data folder (userData) and "
+"is named \"keyConfig.json\". The other person will have to replace their "
+"configuration, located in the same location, with the one you passed on. "
+"Despite the fact that the configuration is stored in open form, it is not "
+"intended for manual editing."
+msgstr ""
+"Jika perlu, Anda bisa membagikan konfigurasi pintasan keyboard Anda dengan "
+"orang lain. Konfigurasi ini terletak di folder data pengguna (userData) dan "
+"bernama 'keyConfig.json'. Orang lain harus mengganti konfigurasi mereka, "
+"yang ada di tempat yang sama, dengan yang Anda berikan. Meskipun konfigurasi "
+"disimpan dalam bentuk terbuka, sebaiknya tidak diedit secara manual."
+
+#: BallBouncer/docs/en/readme.md:block 67 (header)
+msgid "Translation of the game into other languages"
+msgstr "Terjemahan permainan ke bahasa lain"
+
+#: BallBouncer/docs/en/readme.md:block 68 (paragraph)
+msgid ""
+"If you would like to translate ball bouncer into your native language, "
+"please visit [sooslandia-games translation repository on github](https://"
+"github.com/sooslandia/translations)"
+msgstr ""
+"Jika Anda ingin menerjemahkan ball bouncer ke dalam bahasa negara Anda, "
+"silakan kunjungi [repositori terjemahan sooslandia-games di github](https://"
+"github.com/sooslandia/translations)"
+
+#: BallBouncer/docs/en/readme.md:block 69 (paragraph)
+msgid ""
+"Github was chosen because it allows us to centralize all translations in one "
+"place, automatically confirm that the game with a new translation will "
+"launch without errors, convert different translation formats using scripts, "
+"and maintain the structure of the stored data in order."
+msgstr ""
+"Github dipilih karena memungkinkan kami memusatkan semua terjemahan di satu "
+"tempat, secara otomatis mengonfirmasi bahwa game dengan terjemahan baru akan "
+"diluncurkan tanpa kesalahan, mengonversi format terjemahan berbeda "
+"menggunakan skrip, dan menjaga struktur data yang disimpan tetap rapi."
+
+#: BallBouncer/docs/en/readme.md:block 70 (paragraph)
+msgid ""
+"If you have any difficulties, contact us for help in the telegram group, "
+"discord or email. Look for links to the above in the “Conclusion” section."
+msgstr ""
+"Jika Anda mengalami kesulitan, hubungi kami untuk bantuan di grup telegram, "
+"discord atau email. Cari tautan ke atas di bagian “Kesimpulan”."
+
+#: BallBouncer/docs/en/readme.md:block 71 (header)
 msgid "Conclusion"
 msgstr "Kesimpulan"
 
-#: BallBouncer/docs/en/readme.md:block 32 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 72 (paragraph)
 msgid ""
 "We are glad that you got interested in this project and we hope that you "
 "will like it. Destroy and have fun!"
@@ -550,21 +982,31 @@ msgstr ""
 "Kami senang Anda tertarik dengan proyek ini dan kami berharap Anda "
 "menyukainya. Selamat bermain dan bersenang-senanglah!"
 
-#: BallBouncer/docs/en/readme.md:block 33 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 73 (paragraph)
 msgid ""
-"Subscribe to our [channel](https://t.me/sooslandia) on telegram to receive "
-"the latest news about updates to this game, as well as about other "
-"interesting projects."
+"Subscribe to our [channel](https://t.me/sooslandia) on telegram, or join our "
+"[discord server](https://discord.gg/8xcKB7dsDR), to receive the latest news "
+"about updates to this game, as well as about other interesting projects."
 msgstr ""
 "Berlangganan ke [saluran kami](https://t.me/sooslandia) di telegram untuk "
 "menerima berita terbaru tentang update game ini, serta tentang proyek "
 "menarik lainnya."
 
-#: BallBouncer/docs/en/readme.md:block 34 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 74 (paragraph)
 msgid ""
 "Join the [channel chat](https://t.me/sooslandiadiscussion), where you can "
-"share your opinion about the game, report any bugs, or suggest your idea. If "
-"you don't use telegram, you can write to [our email](mailto://"
+"share your opinion about the game, report any bugs, or suggest your idea, "
+"just like in discord."
+msgstr ""
+"Bergabunglah dengan [saluran obrolan](https://t.me/sooslandiadiscussion), "
+"tempat Anda dapat membagikan pendapat Anda tentang game, melaporkan bug apa "
+"pun, atau menyarankan ide Anda. Jika Anda tidak menggunakan telegram, Anda "
+"dapat menulis ke [email kami](mailto://contact@sooslandia.ru), namun tidak "
+"dijamin untuk fast respond."
+
+#: BallBouncer/docs/en/readme.md:block 75 (paragraph)
+msgid ""
+"If you don't use telegram and discord, you can write to [our email](mailto://"
 "contact@sooslandia.ru), but a quick response is not guaranteed."
 msgstr ""
 "Bergabunglah dengan [saluran obrolan](https://t.me/sooslandiadiscussion), "
@@ -573,6 +1015,15 @@ msgstr ""
 "dapat menulis ke [email kami](mailto://contact@sooslandia.ru), namun tidak "
 "dijamin untuk fast respond."
 
-#: BallBouncer/docs/en/readme.md:block 35 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 76 (paragraph)
 msgid "All the best, Sooslandia-games."
 msgstr "All the best, Sooslandia-games."
+
+#~ msgid "Character movement right/left"
+#~ msgstr "Pergerakan karakter ke kanan/kiri"
+
+#~ msgid "keys 1 to 0"
+#~ msgstr "Angka 1 sampai 0"
+
+#~ msgid "grave"
+#~ msgstr "grave, (terletak di atas tombol tab)"
