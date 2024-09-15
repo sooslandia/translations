@@ -125,15 +125,15 @@
     <value>tab</value>
   </data>
   <data name="TreeControlCollapsed" xml:space="preserve">
-    <value>collapsed</value>
+    <value>diciutkan</value>
   </data>
   <data name="TreeControlExpanded" xml:space="preserve">
-    <value>expanded</value>
+    <value>diperluas</value>
   </data>
   <data name="TreeControlLevel" xml:space="preserve">
-    <value>level {0}</value>
+    <value>tingkat {0}</value>
   </data>
   <data name="TreeControlName" xml:space="preserve">
-    <value>tree</value>
+    <value>pohon</value>
   </data>
 </root>

@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Agsharp\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-09-11 16:52+0000\n"
-"PO-Revision-Date: 2024-09-12 00:26+0700\n"
+"POT-Creation-Date: 2024-09-13 08:46+0000\n"
+"PO-Revision-Date: 2024-09-15 13:23+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: id\n"
@@ -108,3 +108,444 @@ msgstr "panel tab"
 msgctxt "AudioForms_TabPageName"
 msgid "tab"
 msgstr "tab"
+
+msgctxt "AudioForms_TreeControlCollapsed"
+msgid "collapsed"
+msgstr "diciutkan"
+
+msgctxt "AudioForms_TreeControlExpanded"
+msgid "expanded"
+msgstr "diperluas"
+
+#, python-brace-format
+msgctxt "AudioForms_TreeControlLevel"
+msgid "level {0}"
+msgstr "tingkat {0}"
+
+msgctxt "AudioForms_TreeControlName"
+msgid "tree"
+msgstr "pohon"
+
+msgctxt "KeyMapConfiguratorInterface_ActionsTreeText"
+msgid "Actions"
+msgstr "Tindakan"
+
+msgctxt "KeyMapConfiguratorInterface_AddButtonText"
+msgid "Add"
+msgstr "Tambah"
+
+msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutButtonText"
+msgid "Add shortcut"
+msgstr "Tambah pintasan"
+
+msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutError"
+msgid ""
+"Failed to add shortcut. You may be trying to add a duplicate to the "
+"configuration."
+msgstr ""
+"Gagal menambahkan pintasan. Sepertinya anda menambahkan tombol yang sama ke "
+"dalam konfigurasi."
+
+msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutSuccess"
+msgid "Shortcut added."
+msgstr "Pintasan ditambahkan."
+
+msgctxt "KeyMapConfiguratorInterface_CancelButtonText"
+msgid "Cancel"
+msgstr "Batalkan"
+
+msgctxt "KeyMapConfiguratorInterface_CloseButtonText"
+msgid "Close"
+msgstr "Tutup"
+
+msgctxt "KeyMapConfiguratorInterface_DeleteKeyShortcutButtonText"
+msgid "Delete shortcut"
+msgstr "Hapus pintasan"
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlCatching"
+msgid "Press the key you want to add to the shortcut."
+msgstr "Silahkan tekan tombol yang ingin Anda tambahkan ke pintasan."
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeyReset"
+msgid "Key reset"
+msgstr "Reset tombol"
+
+#, python-brace-format
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeySet"
+msgid "Key {0} set."
+msgstr "Tombol {0} telah diatur."
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlName"
+msgid "Press enter here to set the key."
+msgstr "Tekan enter di sini untuk mengatur pintasan."
+
+#, python-brace-format
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlNameChange"
+msgid "Key {0} set. Press Enter to change or del to reset."
+msgstr ""
+"Tombol {0} telah diatur. Tekan Enter untuk mengubah, atau tekan delete untuk "
+"mengatur ulang."
+
+msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitle"
+msgid "Key configurator."
+msgstr "Pengonfigurasi tombol."
+
+msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitleWithHint"
+msgid ""
+"Key configurator. Use tab and shift+tab to move forwards and backwards on "
+"the screen. Use the up and down arrows to move through lists and trees. To "
+"activate the selected item, press enter."
+msgstr ""
+"Pengonfigurasi tombol. Gunakan tombol tab dan shift+tab untuk bergerak maju "
+"dan mundur di layar. Gunakan panah atas dan bawah untuk bergerak melalui "
+"daftar dan tampilan pohon. Untuk mengaktifkan item yang dipilih, tekan enter."
+
+msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitle"
+msgid "Add shortcut."
+msgstr "Tambahkan pintasan."
+
+msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitleWithHint"
+msgid ""
+"Add shortcut. Use tab and shift+tab to move forwards and backwards on the "
+"screen. Use the up and down arrows to move through the lists. To activate "
+"the selected item, press enter."
+msgstr ""
+"Tambahkan pintasan. Gunakan tombol tab dan shift+tab untuk bergerak maju dan "
+"mundur di layar. Gunakan panah atas dan bawah untuk bergerak melalui daftar. "
+"Untuk mengaktifkan item yang dipilih, tekan enter."
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListAlt"
+msgid "alt key"
+msgstr "tombol alt"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListAny"
+msgid "Any"
+msgstr "Sebarang"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListCtrl"
+msgid "Ctrl key"
+msgstr "Tombol Ctrl"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListLeft"
+msgid "Left"
+msgstr "Kiri"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListRight"
+msgid "Right"
+msgstr "Kanan"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListShift"
+msgid "Shift key"
+msgstr "Tombol shift"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListUnused"
+msgid "Not used"
+msgstr "Tidak digunakan"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListWin"
+msgid "Windows key"
+msgstr "Tombol Windows"
+
+msgctxt "KeyMapConfiguratorInterface_ShortcutsListText"
+msgid "Shortcuts"
+msgstr "Pintasan"
+
+msgctxt "Keys_APOSTROPHE"
+msgid "aphostrophe"
+msgstr "apostrof"
+
+msgctxt "Keys_APPLICATION"
+msgid "application"
+msgstr "tombol aplikasi"
+
+msgctxt "Keys_BACKSLASH"
+msgid "backslash"
+msgstr "garis miring terbalik"
+
+msgctxt "Keys_BACKSPACE"
+msgid "backspace"
+msgstr "backspace"
+
+msgctxt "Keys_CAPSLOCK"
+msgid "capslock"
+msgstr "capslock"
+
+msgctxt "Keys_COMMA"
+msgid "comma"
+msgstr "koma"
+
+msgctxt "Keys_D0"
+msgid "0"
+msgstr "0"
+
+msgctxt "Keys_D1"
+msgid "1"
+msgstr "1"
+
+msgctxt "Keys_D2"
+msgid "2"
+msgstr "2"
+
+msgctxt "Keys_D3"
+msgid "3"
+msgstr "3"
+
+msgctxt "Keys_D4"
+msgid "4"
+msgstr "4"
+
+msgctxt "Keys_D5"
+msgid "5"
+msgstr "5"
+
+msgctxt "Keys_D6"
+msgid "6"
+msgstr "6"
+
+msgctxt "Keys_D7"
+msgid "7"
+msgstr "7"
+
+msgctxt "Keys_D8"
+msgid "8"
+msgstr "8"
+
+msgctxt "Keys_D9"
+msgid "9"
+msgstr "9"
+
+msgctxt "Keys_DELETE"
+msgid "delete"
+msgstr "delete"
+
+msgctxt "Keys_DOWN"
+msgid "down"
+msgstr "panah bawah"
+
+msgctxt "Keys_END"
+msgid "end"
+msgstr "end"
+
+msgctxt "Keys_EQUALS"
+msgid "equals"
+msgstr "sama dengan"
+
+msgctxt "Keys_ESCAPE"
+msgid "escape"
+msgstr "escape"
+
+msgctxt "Keys_GRAVE"
+msgid "grave"
+msgstr "grave"
+
+msgctxt "Keys_HOME"
+msgid "home"
+msgstr "home"
+
+msgctxt "Keys_INSERT"
+msgid "insert"
+msgstr "insert"
+
+msgctxt "Keys_KP_0"
+msgid "numpad 0"
+msgstr "numpad 0"
+
+msgctxt "Keys_KP_1"
+msgid "numpad 1"
+msgstr "numpad 1"
+
+msgctxt "Keys_KP_2"
+msgid "numpad 2"
+msgstr "numpad 2"
+
+msgctxt "Keys_KP_3"
+msgid "numpad 3"
+msgstr "numpad 3"
+
+msgctxt "Keys_KP_4"
+msgid "numpad 4"
+msgstr "numpad 4"
+
+msgctxt "Keys_KP_5"
+msgid "numpad 5"
+msgstr "numpad 5"
+
+msgctxt "Keys_KP_6"
+msgid "numpad 6"
+msgstr "numpad 6"
+
+msgctxt "Keys_KP_7"
+msgid "numpad 7"
+msgstr "numpad 7"
+
+msgctxt "Keys_KP_8"
+msgid "numpad 8"
+msgstr "numpad 8"
+
+msgctxt "Keys_KP_9"
+msgid "numpad 9"
+msgstr "numpad 9"
+
+msgctxt "Keys_KP_DELETE"
+msgid "numpad delete"
+msgstr "numpad delete"
+
+msgctxt "Keys_KP_DIVIDE"
+msgid "numpad divide"
+msgstr "numpad divide"
+
+msgctxt "Keys_KP_ENTER"
+msgid "numpad enter"
+msgstr "numpad enter"
+
+msgctxt "Keys_KP_MINUS"
+msgid "numpad minus"
+msgstr "numpad minus"
+
+msgctxt "Keys_KP_MULTIPLY"
+msgid "numpad multiply"
+msgstr "numpad multiply"
+
+msgctxt "Keys_KP_PERIOD"
+msgid "numpad period"
+msgstr "numpad period"
+
+msgctxt "Keys_KP_PLUS"
+msgid "numpad plus"
+msgstr "numpad plus"
+
+msgctxt "Keys_LEFT"
+msgid "left"
+msgstr "panah kiri"
+
+msgctxt "Keys_LEFTBRACKET"
+msgid "left bracket"
+msgstr "kurung siku buka"
+
+msgctxt "Keys_MINUS"
+msgid "dash"
+msgstr "tanda hubung"
+
+msgctxt "Keys_MUTE"
+msgid "mute"
+msgstr "mute"
+
+msgctxt "Keys_PAGEDOWN"
+msgid "page down"
+msgstr "page down"
+
+msgctxt "Keys_PAGEUP"
+msgid "page up"
+msgstr "page up"
+
+msgctxt "Keys_PAUSE"
+msgid "pause"
+msgstr "pause"
+
+msgctxt "Keys_PERIOD"
+msgid "period"
+msgstr "titik"
+
+msgctxt "Keys_PRINTSCREEN"
+msgid "printscreen"
+msgstr "printscreen"
+
+msgctxt "Keys_RETURN"
+msgid "enter"
+msgstr "enter"
+
+msgctxt "Keys_RIGHT"
+msgid "right"
+msgstr "panah kanan"
+
+msgctxt "Keys_RIGHTBRACKET"
+msgid "right bracket"
+msgstr "kurung siku tutup"
+
+msgctxt "Keys_SCROLLLOCK"
+msgid "scroll lock"
+msgstr "scroll lock"
+
+msgctxt "Keys_SEMICOLON"
+msgid "semicolon"
+msgstr "titik koma"
+
+msgctxt "Keys_SLASH"
+msgid "slash"
+msgstr "garis miring"
+
+msgctxt "Keys_SPACE"
+msgid "space"
+msgstr "spasi"
+
+msgctxt "Keys_TAB"
+msgid "tab"
+msgstr "tab"
+
+msgctxt "Keys_UP"
+msgid "up"
+msgstr "panah atas"
+
+msgctxt "Keys_VOLUMEDOWN"
+msgid "volume down"
+msgstr "volume down"
+
+msgctxt "Keys_VOLUMEUP"
+msgid "volume up"
+msgstr "volume up"
+
+msgctxt "RecordingPlayerScreenInterface_Loaded"
+msgid "Ready."
+msgstr "Penyiapan."
+
+msgctxt "RecordingPlayerScreenInterface_LoadedWithHint"
+msgid ""
+"Ready. To start playback, press Spacebar. Press spacebar to pause and "
+"unpause playback. To rewind by 5 seconds, use the left and right arrow keys. "
+"Rewind by 30 seconds using the arrow keys while holding down the ctrl key. "
+"To exit the player, press escape."
+msgstr ""
+"Penyiapan. Untuk memulai pemutaran, tekan Spasi. Tekan spasi untuk menjeda "
+"dan melanjutkan pemutaran. Untuk memundurkan 5 detik, gunakan tombol panah "
+"kiri dan kanan. Mundurkan 30 detik dengan menggunakan tombol panah sambil "
+"menahan tombol ctrl. Untuk keluar dari pemutar, tekan escape."
+
+msgctxt "RecordingPlayerScreenInterface_Loading"
+msgid "Загрузка..."
+msgstr "Memuat..."
+
+msgctxt "RecordingPlayerScreenInterface_LoadingError"
+msgid ""
+"An error occurred while loading the recording. This recording may be "
+"corrupted."
+msgstr "Terjadi kesalahan saat memuat rekaman. File rekaman ini mungkin rusak."
+
+msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuBack"
+msgid "Go back"
+msgstr "Kembali"
+
+msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuNoRecordings"
+msgid "No recordings."
+msgstr "Tidak ada rekaman."
+
+msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuTitle"
+msgid "Your recordings."
+msgstr "Rekaman Anda."
+
+msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuTitleWithHint"
+msgid ""
+"Your recordings. Use up and down arrows to move through the menu. Press "
+"enter to activate an item"
+msgstr ""
+"Rekaman Anda. Gunakan panah atas dan bawah untuk menelusuri menu. Tekan "
+"enter untuk mengaktifkan item"
+
+#, python-brace-format
+msgctxt "RecordingPlayerScreenInterface_Time"
+msgid "{0} / {1}"
+msgstr "{0} dari {1}"
+
+#, python-brace-format
+msgctxt "RecordingPlayerScreenInterface_Volume"
+msgid "Volume {0}%"
+msgstr "Volume {0}%"

@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="APOSTROPHE" xml:space="preserve">
-    <value>aphostrophe</value>
+    <value>apostrof</value>
   </data>
   <data name="APPLICATION" xml:space="preserve">
-    <value>application</value>
+    <value>tombol aplikasi</value>
   </data>
   <data name="BACKSLASH" xml:space="preserve">
-    <value>backslash</value>
+    <value>garis miring terbalik</value>
   </data>
   <data name="BACKSPACE" xml:space="preserve">
     <value>backspace</value>
@@ -74,7 +74,7 @@
     <value>capslock</value>
   </data>
   <data name="COMMA" xml:space="preserve">
-    <value>comma</value>
+    <value>koma</value>
   </data>
   <data name="D0" xml:space="preserve">
     <value>0</value>
@@ -110,13 +110,13 @@
     <value>delete</value>
   </data>
   <data name="DOWN" xml:space="preserve">
-    <value>down</value>
+    <value>panah bawah</value>
   </data>
   <data name="END" xml:space="preserve">
     <value>end</value>
   </data>
   <data name="EQUALS" xml:space="preserve">
-    <value>equals</value>
+    <value>sama dengan</value>
   </data>
   <data name="ESCAPE" xml:space="preserve">
     <value>escape</value>
@@ -182,13 +182,13 @@
     <value>numpad plus</value>
   </data>
   <data name="LEFT" xml:space="preserve">
-    <value>left</value>
+    <value>panah kiri</value>
   </data>
   <data name="LEFTBRACKET" xml:space="preserve">
-    <value>left bracket</value>
+    <value>kurung siku buka</value>
   </data>
   <data name="MINUS" xml:space="preserve">
-    <value>dash</value>
+    <value>tanda hubung</value>
   </data>
   <data name="MUTE" xml:space="preserve">
     <value>mute</value>
@@ -203,7 +203,7 @@
     <value>pause</value>
   </data>
   <data name="PERIOD" xml:space="preserve">
-    <value>period</value>
+    <value>titik</value>
   </data>
   <data name="PRINTSCREEN" xml:space="preserve">
     <value>printscreen</value>
@@ -212,28 +212,28 @@
     <value>enter</value>
   </data>
   <data name="RIGHT" xml:space="preserve">
-    <value>right</value>
+    <value>panah kanan</value>
   </data>
   <data name="RIGHTBRACKET" xml:space="preserve">
-    <value>right bracket</value>
+    <value>kurung siku tutup</value>
   </data>
   <data name="SCROLLLOCK" xml:space="preserve">
     <value>scroll lock</value>
   </data>
   <data name="SEMICOLON" xml:space="preserve">
-    <value>semicolon</value>
+    <value>titik koma</value>
   </data>
   <data name="SLASH" xml:space="preserve">
-    <value>slash</value>
+    <value>garis miring</value>
   </data>
   <data name="SPACE" xml:space="preserve">
-    <value>space</value>
+    <value>spasi</value>
   </data>
   <data name="TAB" xml:space="preserve">
     <value>tab</value>
   </data>
   <data name="UP" xml:space="preserve">
-    <value>up</value>
+    <value>panah atas</value>
   </data>
   <data name="VOLUMEDOWN" xml:space="preserve">
     <value>volume down</value>

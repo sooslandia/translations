@@ -2,97 +2,97 @@
 
 ## 1.2.1
 
-This update fixes several critical bugs for Linux users.
+Pembaruan ini memperbaiki beberapa bug penting bagi pengguna Linux.
 
 ## 1.2.0
 
-This version is aimed at further improving the user experience and existing
-content polishing. Now you can reassign keyboard shortcuts as you wish. It is
-now possible to record your gameplay and play back the resulting recordings
-using the built-in player for such recordings. An object map and several other
-improvements and fixes are also in place.
+Versi ini ditujukan untuk lebih meningkatkan pengalaman pengguna dan pemolesan
+konten yang ada. Sekarang Anda dapat menetapkan ulang pintasan keyboard sesuai
+keinginan. Sekarang Anda dapat merekam permainan Anda dan memutar ulang rekaman
+yang dihasilkan menggunakan pemutar bawaan untuk rekaman tersebut. Peta objek
+dan beberapa perbaikan dan perbaikan lainnya juga tersedia.
 
 We have opened the official [github translation
 repository](https://github.com/sooslandia/translations). If you want to
 translate the game and have the ability, we will be glad to accept your help.
 
-### New features
+### Fitur baru
 
-- New translations added.
-   - Turkish. Translator [fatihyuksek](https://github.com/fatihyuksek1).
-   - Indonesian. Translator [MuhammadGagah](https://github.com/MuhammadGagah).
-- You can now change the default keyboard shortcuts.
-   - To do that, click the "Customize Keyboard Shortcuts" button located on the
-"Keyboard Shortcut Configuration" tab on the Settings screen.
-   - Your configuration file is located in the user data folder (userData) and is
-called keyConfig.json. You can share your configuration with other people. In
-order for someone else's configuration to work for you, you need to replace your
-configuration file with the one you received from the other person.
-   - You can find out more about configuration setting in the corresponding section
-of the documentation.
-- You can now record your gameplay.
-   - You can check the box that determines whether your gaming session will be
-recorded on the updated game mode selection screen. The recording behavior can
-be configured in the Recording tab of the Settings screen.
-   - You can play recordings from the recordings menu, which can be accessed by
-activating the corresponding item in the main menu.
-   - Recordings are saved in the recordings folder, located in the user data folder
-(userData) and have a .sgr extension. The recording file can be renamed if
-necessary and shared with other people. For someone else's recording to be
-detected by the game, it must be placed in the game's recording folder.
-   - Information about how the recording player works and its control keys can be
-found in the corresponding section of the documentation.
-- Added object map.
-   - It can be opened with the m key during a gaming session.
-   - Navigate the map using the arrow keys. You can also find out how many objects
-are on the map by pressing the o key.
-   - There are two navigation modes, which you can read about in the corresponding
-section of the documentation.
-   - All object map hotkeys can be changed in the keyboard shortcut configuration.
-- Training mode is expanded as well.
-   - You can now instantly zero the cooldown of all skills by pressing f1.
-   - When you press the f2 key, a screen will open where you can change the levels
-of your skills and blow force recovery rate. This screen only displays the
-skills you have. You can change their level only in the range from level 1 to
-the maximum current level.
-- In the settings, on the "Behavior" tab, a checkbox has been added that
-determines whether the first-person view state will be saved between game
-sessions.
-- It is now possible to delete saved game progress and reset settings to default
-values.
-   - This can be done in the settings, on the "General" tab.
-   - You will not be able to reset settings or delete your progress if you accessed
-settings through the pause menu.
+- Terjemahan baru ditambahkan.
+   - Turki. Penerjemah [fatihyuksek](https://github.com/fatihyuksek1).
+   - Indonesia. Penerjemah [MuhammadGagah](https://github.com/MuhammadGagah).
+- Anda sekarang dapat mengubah pintasan keyboard bawaan.
+   - Untuk melakukannya, klik tombol "Sesuaikan Pintasan Keyboard" yang terletak di
+tab "Konfigurasi Pintasan Keyboard" pada layar Pengaturan.
+   - File konfigurasi Anda terletak di folder data pengguna (userData) dan disebut
+keyConfig.json. Anda dapat membagikan konfigurasi Anda dengan orang lain. Agar
+konfigurasi orang lain berfungsi untuk Anda, Anda perlu mengganti file
+konfigurasi Anda dengan file yang Anda terima dari orang lain.
+   - Anda dapat mengetahui lebih lanjut tentang pengaturan konfigurasi di bagian
+dokumentasi yang sesuai.
+- Anda sekarang dapat merekam gameplay Anda.
+   - Anda dapat mencentang kotak yang menentukan apakah sesi permainan Anda akan
+direkam pada layar pemilihan mode permainan yang diperbarui. Perilaku
+perekaman dapat dikonfigurasi di tab Perekaman pada layar Pengaturan.
+   - Anda dapat memutar rekaman dari menu rekaman, yang dapat diakses dengan
+mengaktifkan item terkait di menu utama.
+   - Rekaman disimpan dalam folder rekaman, terletak di folder data pengguna
+(userData) dan berekstensi .sgr. File rekaman dapat diganti namanya jika perlu
+dan dibagikan dengan orang lain. Agar rekaman orang lain dapat terdeteksi oleh
+game, maka harus ditempatkan di folder rekaman game tersebut.
+   - Informasi tentang cara kerja pemutar rekaman dan tombol kontrolnya dapat
+ditemukan di bagian dokumentasi terkait.
+- Menambahkan peta objek.
+   - Itu dapat dibuka dengan tombol m selama sesi permainan.
+   - Navigasi peta menggunakan tombol panah. Anda juga dapat mengetahui berapa
+banyak objek yang ada di peta dengan menekan tombol o.
+   - Ada dua mode navigasi, yang dapat Anda baca di bagian dokumentasi terkait.
+   - Semua tombol pintas peta objek dapat diubah dalam konfigurasi pintasan keyboard.
+- Mode pelatihan juga diperluas.
+   - Anda sekarang dapat langsung menghilangkan cooldown semua skill dengan menekan
+f1.
+   - Saat Anda menekan tombol f2, sebuah layar akan terbuka di mana Anda dapat
+mengubah level keterampilan Anda dan tingkat pemulihan kekuatan pukulan. Layar
+ini hanya menampilkan skill yang Anda miliki. Anda dapat mengubah levelnya hanya
+dalam rentang dari level 1 hingga level maksimum saat ini.
+- Dalam pengaturan, pada tab "Perilaku", sebuah kotak centang telah ditambahkan
+yang menentukan apakah status tampilan orang pertama akan dipertahankan di
+antara sesi permainan.
+- Sekarang dimungkinkan untuk menghapus kemajuan permainan yang disimpan dan
+mengatur ulang pengaturan ke nilai default.
+   - Ini dapat dilakukan di pengaturan, pada tab "Umum".
+   - Anda tidak akan dapat mengatur ulang pengaturan atau menghapus kemajuan Anda
+jika Anda mengakses pengaturan melalui menu jeda.
 
 ### Perubahan
 
-- The game mode selection screen has been changed.
-   - the screen is now represented by a virtual form instead of a menu. Navigation
-is similar to the settings or profile screen.
-   - From the new screen you can determine whether the game session will be recorded.
-- Improved profile screen interface.
-   - Now any item from the statistics list can be copied to the clipboard by
-pressing ctrl+c.
-   - The statistics tab now displays the current number of achievement points.
-   - Auras now display their bonus as well.
-- Slight changes to the game balance.
-   - Now for every hundred points up to a thousand, one coin will be awarded. For
-example, you scored 678 points, in which case you will receive 7 coins, and
-not one as before.
-   - After a thousand points, everything remains as before, but the 10 coins
-received remain with you. For example, you scored 1234 points, in which case
-you will receive 11 coins.
-- The maximum number of objects on the field has been increased.
-- Now the sound played by pressing the c key in first person camera mode will
-play in the center of the field.
-- The file name format with critical error data has been changed to (error
+- Layar pemilihan mode permainan telah diubah.
+   - layar sekarang diwakili oleh bentuk virtual, bukan menu. Navigasinya mirip
+dengan pengaturan atau layar profil.
+   - Dari layar baru Anda dapat menentukan apakah sesi permainan akan direkam.
+- Antarmuka layar profil yang ditingkatkan.
+   - Sekarang item apa pun dari daftar statistik dapat disalin ke clipboard dengan
+menekan ctrl+c.
+   - Tab statistik sekarang menampilkan jumlah poin pencapaian saat ini.
+   - Aura sekarang juga menampilkan bonusnya.
+- Sedikit perubahan pada keseimbangan permainan.
+   - Sekarang untuk setiap seratus poin hingga seribu, satu koin akan diberikan.
+Misalnya, Anda mencetak 678 poin, dalam hal ini Anda akan menerima 7 koin, dan
+bukan satu koin seperti sebelumnya.
+   - Setelah seribu poin, semuanya tetap seperti sebelumnya, tetapi 10 koin yang
+diterima tetap milik Anda. Misalnya, Anda mencetak 1234 poin, dalam hal ini
+Anda akan menerima 11 koin.
+- Jumlah maksimum objek di lapangan telah ditingkatkan.
+- Sekarang suara yang diputar dengan menekan tombol c dalam mode kamera orang
+pertama akan diputar di tengah lapangan.
+- Format nama file dengan data kesalahan kritis telah diubah menjadi (kesalahan
 yyyy_MM_dd hh-mm-ss.log)
 
 ### Perbaikan
 
-- Now, when critical errors are displayed, the sound will be completely muted
-instead of looping.
-- Improved game stability in some cases.
+- Sekarang, ketika kesalahan kritis ditampilkan, suara akan dibungkam sepenuhnya,
+bukan diulang-ulang.
+- Peningkatan stabilitas game dalam beberapa kasus.
 
 ## 1.1.1
 
@@ -108,7 +108,7 @@ Versi ini difokuskan pada peningkatan pengalaman pengguna: Suara pukulan tongkat
 yang berhasil, tampilan kamera orang pertama, tombol ayunan tongkat alternatif,
 dll.
 
-### New features
+### Fitur baru
 
 - Game ini sekarang mendukung terjemahan yang kehilangan satu atau lebih string.
 Jika string tidak ditemukan, permainan akan kembali ke string lokalisasi
