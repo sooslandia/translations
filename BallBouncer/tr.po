@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2024-09-13 08:46+0000\n"
-"PO-Revision-Date: 2024-09-15 04:53+0700\n"
+"PO-Revision-Date: 2024-09-15 14:46+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -35,6 +35,8 @@ msgid ""
 "Leader's aura: level {0} (+{1}%). For each level, adds one percent to the "
 "points received."
 msgstr ""
+"Liderin aurası: seviye {0} (+{1}%). Her seviye için alınan puanlara yüzde "
+"bir ekler."
 
 #, python-brace-format
 msgctxt "AuraTimeText"
@@ -42,6 +44,8 @@ msgid ""
 "Time Aura: level {0} (+{1} sec). For each level, adds 5 seconds to the "
 "maximum playing time."
 msgstr ""
+"Zaman Aurası: seviye {0} (+{1} sec). Her seviye için oyun zamanına 5 saniye "
+"ekler."
 
 #, python-brace-format
 msgctxt "AuraUpgradeButton"
@@ -95,7 +99,7 @@ msgstr "{0} mb"
 
 msgctxt "GameObjectCloset"
 msgid "Closet."
-msgstr "Kapat"
+msgstr "Dolap."
 
 msgctxt "GameObjectDish"
 msgid "Dish."
@@ -232,7 +236,7 @@ msgstr "İmleç hareket kipini değiştir"
 
 msgctxt "KeyConfigurationActionMapTotalObjects"
 msgid "Find out the number of objects on the map"
-msgstr "Sahadaki en az nesnelerin sayısını arttırma."
+msgstr "Sahadaki nesnelerin sayısını öğren."
 
 msgctxt "KeyConfigurationActionOpenMap"
 msgid "Open map"
@@ -240,7 +244,7 @@ msgstr "Haritayı aç"
 
 msgctxt "KeyConfigurationActionPauseGame"
 msgid "Pause the game"
-msgstr "Oyundan çık."
+msgstr "Oyunu duraklat"
 
 msgctxt "KeyConfigurationActionPlayCheckPositionSound"
 msgid "Play sound at character's position"
@@ -264,7 +268,7 @@ msgstr "Oyuncuyu sağa taşı"
 
 msgctxt "KeyConfigurationActionPracticeInstantSkillRecharge"
 msgid "Zero all skills cooldown"
-msgstr ""
+msgstr "Tüm becerilerin bekleme süresi sıfır"
 
 msgctxt "KeyConfigurationActionPracticeSetSkillLevels"
 msgid "Set skill levels"
@@ -280,43 +284,43 @@ msgstr "Oyuncu yüzünü sağa döndür"
 
 msgctxt "KeyConfigurationActionSkillSlot1"
 msgid "Select the skill set in slot 1"
-msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+msgstr "1. Yuvadaki beceri setini seç"
 
 msgctxt "KeyConfigurationActionSkillSlot10"
 msgid "Select the skill set in slot 10"
-msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+msgstr "10. Yuvadaki beceri setini seç"
 
 msgctxt "KeyConfigurationActionSkillSlot2"
 msgid "Select the skill set in slot 2"
-msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+msgstr "2. Yuvadaki beceri setini seç"
 
 msgctxt "KeyConfigurationActionSkillSlot3"
 msgid "Select the skill set in slot 3"
-msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+msgstr "3. Yuvadaki beceri setini seç"
 
 msgctxt "KeyConfigurationActionSkillSlot4"
 msgid "Select the skill set in slot 4"
-msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+msgstr "4. Yuvadaki beceri setini seç"
 
 msgctxt "KeyConfigurationActionSkillSlot5"
 msgid "Select the skill set in slot 5"
-msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+msgstr "5. Yuvadaki beceri setini seç"
 
 msgctxt "KeyConfigurationActionSkillSlot6"
 msgid "Select the skill set in slot 6"
-msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+msgstr "6. Yuvadaki beceri setini seç"
 
 msgctxt "KeyConfigurationActionSkillSlot7"
 msgid "Select the skill set in slot 7"
-msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+msgstr "7. Yuvadaki beceri setini seç"
 
 msgctxt "KeyConfigurationActionSkillSlot8"
 msgid "Select the skill set in slot 8"
-msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+msgstr "8. Yuvadaki beceri setini seç"
 
 msgctxt "KeyConfigurationActionSkillSlot9"
 msgid "Select the skill set in slot 9"
-msgstr "Yuvaya yerleştirilecek bir beceri seçin."
+msgstr "9. Yuvadaki beceri setini seç"
 
 msgctxt "KeyConfigurationActionSkillSlotCancel"
 msgid "Cancel the selected skill"
@@ -352,7 +356,7 @@ msgstr "Nesneler"
 
 msgctxt "KeyConfigurationBlockBallBouncerPracticeGameSessionKeys"
 msgid "Training mode"
-msgstr "Antrenman modu."
+msgstr "Antrenman modu"
 
 msgctxt "KeyConfigurationMergeDeletionDialogOk"
 msgid "I understand"
@@ -393,7 +397,7 @@ msgstr "Topa vuruşta sık ıskalama için ceza."
 
 msgctxt "LearnSoundsForceFull"
 msgid "Character's blow force has been fully restored."
-msgstr "oyuncunun vuruş gücü tamamıyla geri geldi."
+msgstr "Oyuncunun vuruş gücü tamamıyla geri geldi."
 
 msgctxt "LearnSoundsObjectDestroy"
 msgid "Object destruction alert."
@@ -479,11 +483,11 @@ msgstr "Antrenman modu."
 
 msgctxt "ModeSelectionFormRecord"
 msgid "Record the game"
-msgstr "Oyundan çık."
+msgstr "Oyunu kaydet"
 
 msgctxt "ModeSelectionFormStart"
 msgid "Start"
-msgstr "Oyunu başlat."
+msgstr "Başla"
 
 msgctxt "ModeSelectionFormTitle"
 msgid "Select a game mode."
@@ -536,7 +540,7 @@ msgstr "Nesne hareket moduna geçildi."
 
 msgctxt "ObjectsMapScreenTitle"
 msgid "Object map."
-msgstr "Nesneler"
+msgstr "Nesne haritası."
 
 #, python-brace-format
 msgctxt "ObjectsMapScreenTotalObjects"
@@ -659,7 +663,7 @@ msgid ""
 "action is irreversible! Once confirmed, the application will be restarted."
 msgstr ""
 "Ayarlarınızı varsayılanlara sıfırlamak istediğinizden emin misiniz? Dikkat: "
-"Bu eylem geri alınamaz!"
+"Bu eylem geri alınamaz! Onaylandığında uygulama yeniden başlatılacak."
 
 msgctxt "OptionsScreenSaveCharacterViewState"
 msgid "Save first person view state between games"
@@ -782,11 +786,11 @@ msgstr ""
 
 msgctxt "SkillLevelsSetFormBack"
 msgid "Return to game"
-msgstr "Ana menüye geri dön."
+msgstr "Oyuna geri dön"
 
 msgctxt "SkillLevelsSetFormPowerRecoveringBonusChanger"
 msgid "Increased blow force recovery rate level"
-msgstr ""
+msgstr "Artmış darbe gücü iyileşme hızı seviyesi"
 
 #, python-brace-format
 msgctxt "SkillLevelsSetFormSkillLevel"
@@ -814,7 +818,7 @@ msgstr "Beceri bekleme süresi öncesi {0} saniye."
 
 msgctxt "SkillSlotSelectCanceled"
 msgid "Selection canceled."
-msgstr "Seçim iptal edildi"
+msgstr "Seçim iptal edildi."
 
 #, python-brace-format
 msgctxt "SkillSlotSelected"
@@ -892,7 +896,7 @@ msgstr "etkisizlik"
 
 msgctxt "SkillsImmaterialityNameFull"
 msgid "Immateriality."
-msgstr "etkisizlik"
+msgstr "Etkisizlik."
 
 #, python-brace-format
 msgctxt "SkillsImmaterialityText"
@@ -1189,7 +1193,7 @@ msgstr "Paralar: {0}"
 
 msgctxt "StoreInfoTitle"
 msgid "Reference Information: "
-msgstr "Kullanım bilgisi:"
+msgstr "Kullanım Bilgisi:"
 
 msgctxt "StoreInfoTitleWithHint"
 msgid ""
@@ -1264,7 +1268,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "StoreItemMinObjectIncreaseText"
 msgid "Minimum number of objects on the field increase: level {0}/10."
-msgstr "alanda en az nesne sayısı artışı: seviye {0}/10."
+msgstr "Alanda en az nesne sayısı artışı: seviye {0}/10."
 
 msgctxt "StoreItemMineObjectInfo"
 msgid ""
