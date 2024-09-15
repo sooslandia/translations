@@ -59,81 +59,81 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ActionsTreeText" xml:space="preserve">
-    <value>Actions</value>
+    <value>Tindakan</value>
   </data>
   <data name="AddButtonText" xml:space="preserve">
-    <value>Add</value>
+    <value>Tambah</value>
   </data>
   <data name="AddKeyShortcutButtonText" xml:space="preserve">
-    <value>Add shortcut</value>
+    <value>Tambah pintasan</value>
   </data>
   <data name="AddKeyShortcutError" xml:space="preserve">
-    <value>Failed to add shortcut. You may be trying to add a duplicate to the configuration.</value>
+    <value>Gagal menambahkan pintasan. Sepertinya anda menambahkan tombol yang sama ke dalam konfigurasi.</value>
   </data>
   <data name="AddKeyShortcutSuccess" xml:space="preserve">
-    <value>Shortcut added.</value>
+    <value>Pintasan ditambahkan.</value>
   </data>
   <data name="CancelButtonText" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Batalkan</value>
   </data>
   <data name="CloseButtonText" xml:space="preserve">
-    <value>Close</value>
+    <value>Tutup</value>
   </data>
   <data name="DeleteKeyShortcutButtonText" xml:space="preserve">
-    <value>Delete shortcut</value>
+    <value>Hapus pintasan</value>
   </data>
   <data name="KeyCatcherControlCatching" xml:space="preserve">
-    <value>Press the key you want to add to the shortcut.</value>
+    <value>Silahkan tekan tombol yang ingin Anda tambahkan ke pintasan.</value>
   </data>
   <data name="KeyCatcherControlKeyReset" xml:space="preserve">
-    <value>Key reset</value>
+    <value>Reset tombol</value>
   </data>
   <data name="KeyCatcherControlKeySet" xml:space="preserve">
-    <value>Key {0} set.</value>
+    <value>Tombol {0} telah diatur.</value>
   </data>
   <data name="KeyCatcherControlName" xml:space="preserve">
-    <value>Press enter here to set the key.</value>
+    <value>Tekan enter di sini untuk mengatur pintasan.</value>
   </data>
   <data name="KeyCatcherControlNameChange" xml:space="preserve">
-    <value>Key {0} set. Press Enter to change or del to reset.</value>
+    <value>Tombol {0} telah diatur. Tekan Enter untuk mengubah, atau tekan delete untuk mengatur ulang.</value>
   </data>
   <data name="KeyConfigureTitle" xml:space="preserve">
-    <value>Key configurator.</value>
+    <value>Pengonfigurasi tombol.</value>
   </data>
   <data name="KeyConfigureTitleWithHint" xml:space="preserve">
-    <value>Key configurator. Use tab and shift+tab to move forwards and backwards on the screen. Use the up and down arrows to move through lists and trees. To activate the selected item, press enter.</value>
+    <value>Pengonfigurasi tombol. Gunakan tombol tab dan shift+tab untuk bergerak maju dan mundur di layar. Gunakan panah atas dan bawah untuk bergerak melalui daftar dan tampilan pohon. Untuk mengaktifkan item yang dipilih, tekan enter.</value>
   </data>
   <data name="KeyShortcutAddTitle" xml:space="preserve">
-    <value>Add shortcut.</value>
+    <value>Tambahkan pintasan.</value>
   </data>
   <data name="KeyShortcutAddTitleWithHint" xml:space="preserve">
-    <value>Add shortcut. Use tab and shift+tab to move forwards and backwards on the screen. Use the up and down arrows to move through the lists. To activate the selected item, press enter.</value>
+    <value>Tambahkan pintasan. Gunakan tombol tab dan shift+tab untuk bergerak maju dan mundur di layar. Gunakan panah atas dan bawah untuk bergerak melalui daftar. Untuk mengaktifkan item yang dipilih, tekan enter.</value>
   </data>
   <data name="ModifierListAlt" xml:space="preserve">
-    <value>alt key</value>
+    <value>tombol alt</value>
   </data>
   <data name="ModifierListAny" xml:space="preserve">
-    <value>Any</value>
+    <value>Sebarang</value>
   </data>
   <data name="ModifierListCtrl" xml:space="preserve">
-    <value>Ctrl key</value>
+    <value>Tombol Ctrl</value>
   </data>
   <data name="ModifierListLeft" xml:space="preserve">
-    <value>Left</value>
+    <value>Kiri</value>
   </data>
   <data name="ModifierListRight" xml:space="preserve">
-    <value>Right</value>
+    <value>Kanan</value>
   </data>
   <data name="ModifierListShift" xml:space="preserve">
-    <value>Shift key</value>
+    <value>Tombol shift</value>
   </data>
   <data name="ModifierListUnused" xml:space="preserve">
-    <value>Not used</value>
+    <value>Tidak digunakan</value>
   </data>
   <data name="ModifierListWin" xml:space="preserve">
-    <value>Windows key</value>
+    <value>Tombol Windows</value>
   </data>
   <data name="ShortcutsListText" xml:space="preserve">
-    <value>Shortcuts</value>
+    <value>Pintasan</value>
   </data>
 </root>
