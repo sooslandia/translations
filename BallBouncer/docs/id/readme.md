@@ -357,20 +357,17 @@ discord atau email. Cari tautan ke atas di bagian “Kesimpulan”.
 Kami senang Anda tertarik dengan proyek ini dan kami berharap Anda menyukainya.
 Selamat bermain dan bersenang-senanglah!
 
-Berlangganan ke [saluran kami](https://t.me/sooslandia) di telegram untuk
-menerima berita terbaru tentang update game ini, serta tentang proyek menarik
+Berlangganan ke [saluran kami](https://t.me/sooslandia) di telegram, atau
+bergabunglah dengan kami [server discord](https://discord.gg/8xcKB7dsDR), untuk
+menerima berita terkini tentang update game ini, serta tentang proyek menarik
 lainnya.
 
-Bergabunglah dengan [saluran obrolan](https://t.me/sooslandiadiscussion), tempat
-Anda dapat membagikan pendapat Anda tentang game, melaporkan bug apa pun, atau
-menyarankan ide Anda. Jika Anda tidak menggunakan telegram, Anda dapat menulis
-ke [email kami](mailto://contact@sooslandia.ru), namun tidak dijamin untuk fast
-respond.
+Bergabunglah dengan [grup chat](https://t.me/sooslandiadiscussion), tempat Anda
+dapat membagikan pendapat Anda tentang game, melaporkan bug apa pun, atau
+menyarankan ide Anda, seperti di discord.
 
-Bergabunglah dengan [saluran obrolan](https://t.me/sooslandiadiscussion), tempat
-Anda dapat membagikan pendapat Anda tentang game, melaporkan bug apa pun, atau
-menyarankan ide Anda. Jika Anda tidak menggunakan telegram, Anda dapat menulis
-ke [email kami](mailto://contact@sooslandia.ru), namun tidak dijamin untuk fast
-respond.
+Jika Anda tidak menggunakan telegram dan discord, Anda dapat menulis ke [email
+kami](mailto://contact@sooslandia.ru), namun tidak ada jaminan untuk respon
+cepat.
 
 All the best, Sooslandia-games.
