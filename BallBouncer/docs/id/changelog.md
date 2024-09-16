@@ -12,9 +12,9 @@ keinginan. Sekarang Anda dapat merekam permainan Anda dan memutar ulang rekaman
 yang dihasilkan menggunakan pemutar bawaan untuk rekaman tersebut. Peta objek
 dan beberapa perbaikan dan perbaikan lainnya juga tersedia.
 
-We have opened the official [github translation
-repository](https://github.com/sooslandia/translations). If you want to
-translate the game and have the ability, we will be glad to accept your help.
+Kami telah membuka [repositori terjemahan github] resmi
+(https://github.com/sooslandia/translations). Jika Anda ingin menerjemahkan game
+dan memiliki kemampuan, kami akan dengan senang hati menerima bantuan Anda.
 
 ### Fitur baru
 
