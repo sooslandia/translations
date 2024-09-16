@@ -340,8 +340,8 @@ bentuk terbuka, sebaiknya tidak diedit secara manual.
 
 ## Terjemahan permainan ke bahasa lain
 
-If you would like to translate ball bouncer into your native language, please
-visit [sooslandia-games translation repository on
+Jika Anda ingin menerjemahkan ball bouncer ke dalam bahasa negara Anda, silakan
+kunjungi [repositori terjemahan sooslandia-games di
 github](https://github.com/sooslandia/translations)
 
 Github dipilih karena memungkinkan kami memusatkan semua terjemahan di satu
@@ -367,7 +367,10 @@ menyarankan ide Anda. Jika Anda tidak menggunakan telegram, Anda dapat menulis
 ke [email kami](mailto://contact@sooslandia.ru), namun tidak dijamin untuk fast
 respond.
 
-If you don't use telegram and discord, you can write to [our
-email](mailto://contact@sooslandia.ru), but a quick response is not guaranteed.
+Bergabunglah dengan [saluran obrolan](https://t.me/sooslandiadiscussion), tempat
+Anda dapat membagikan pendapat Anda tentang game, melaporkan bug apa pun, atau
+menyarankan ide Anda. Jika Anda tidak menggunakan telegram, Anda dapat menulis
+ke [email kami](mailto://contact@sooslandia.ru), namun tidak dijamin untuk fast
+respond.
 
 All the best, Sooslandia-games.
