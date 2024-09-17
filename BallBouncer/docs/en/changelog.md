@@ -1,5 +1,9 @@
 % changelog
 
+## 1.2.2
+
+Updated Turkish and Indonesian translations.
+
 ## 1.2.1
 
 This update fixes several critical bugs for Linux users.
