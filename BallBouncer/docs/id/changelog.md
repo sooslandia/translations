@@ -1,5 +1,9 @@
 % log perubahan
 
+## 1.2.2
+
+Updated Turkish and Indonesian translations.
+
 ## 1.2.1
 
 Pembaruan ini memperbaiki beberapa bug penting bagi pengguna Linux.
