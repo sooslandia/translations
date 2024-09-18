@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2024-09-13 08:46+0000\n"
-"PO-Revision-Date: 2024-09-15 21:08+0700\n"
+"PO-Revision-Date: 2024-09-18 16:20+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -168,7 +168,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "GameTimeToEnd"
 msgid "{0} seconds left until the end of the game."
-msgstr "Oyunun bitişine {0} saniye kaldı."
+msgstr "Oyunun bitmesine {0} saniye kaldı."
 
 msgctxt "IncompatableSaveMessage"
 msgid ""
@@ -443,7 +443,7 @@ msgstr "Profil."
 
 msgctxt "MainMenuRecordings"
 msgid "Recordings."
-msgstr "Ayarlar."
+msgstr "Kayıtlar."
 
 msgctxt "MainMenuStartGame"
 msgid "Start game."
@@ -814,7 +814,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "SkillSlotRecharging"
 msgid "{0} seconds before skill cooldown."
-msgstr "Beceri bekleme süresi öncesi {0} saniye."
+msgstr "Beceri {0} saniye sonra kullanılabilecek."
 
 msgctxt "SkillSlotSelectCanceled"
 msgid "Selection canceled."
@@ -1189,7 +1189,7 @@ msgstr "Nesneler"
 #, python-brace-format
 msgctxt "StoreCoins"
 msgid "Coins: {0}."
-msgstr "Paralar: {0}"
+msgstr "Para: {0}"
 
 msgctxt "StoreInfoTitle"
 msgid "Reference Information: "
@@ -1301,7 +1301,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "StoreItemPowerRecoveringText"
 msgid "Increased blow force recovery rate: level {0}/10"
-msgstr "Artmış vuruş gücünün iyileşme hızı: Seviye {0}/10"
+msgstr "Vuruş gücünün iyileşem hız artışı: Seviye {0}/10"
 
 msgctxt "StoreItemResetAchievementPointsInfo"
 msgid ""
