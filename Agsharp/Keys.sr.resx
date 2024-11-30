@@ -1,0 +1,244 @@
+<root xmlns:ns1="urn:schemas-microsoft-com:xml-msdata" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <xs:schema id="root">
+    <xs:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xs:element name="root" ns1:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="metadata">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" />
+              </xs:sequence>
+              <xs:attribute name="name" use="required" type="xsd:string" />
+              <xs:attribute name="type" type="xsd:string" />
+              <xs:attribute name="mimetype" type="xsd:string" />
+              <xs:attribute ref="xml:space" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="assembly">
+            <xs:complexType>
+              <xs:attribute name="alias" type="xsd:string" />
+              <xs:attribute name="name" type="xsd:string" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="data">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" ns1:Ordinal="1" />
+                <xs:element name="comment" type="xsd:string" minOccurs="0" ns1:Ordinal="2" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xsd:string" use="required" ns1:Ordinal="1" />
+              <xs:attribute name="type" type="xsd:string" ns1:Ordinal="3" />
+              <xs:attribute name="mimetype" type="xsd:string" ns1:Ordinal="4" />
+              <xs:attribute ref="xml:space" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="resheader">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" ns1:Ordinal="1" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xsd:string" use="required" />
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="APOSTROPHE" xml:space="preserve">
+    <value>apostrof</value>
+  </data>
+  <data name="APPLICATION" xml:space="preserve">
+    <value>aplikacioni</value>
+  </data>
+  <data name="BACKSLASH" xml:space="preserve">
+    <value>obrnuta kosa crta</value>
+  </data>
+  <data name="BACKSPACE" xml:space="preserve">
+    <value>backspace</value>
+  </data>
+  <data name="CAPSLOCK" xml:space="preserve">
+    <value>CapsLock</value>
+  </data>
+  <data name="COMMA" xml:space="preserve">
+    <value>zarez</value>
+  </data>
+  <data name="D0" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="D1" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="D2" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="D3" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="D4" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="D5" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="D6" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="D7" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="D8" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="D9" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="DELETE" xml:space="preserve">
+    <value>delete</value>
+  </data>
+  <data name="DOWN" xml:space="preserve">
+    <value>dole</value>
+  </data>
+  <data name="END" xml:space="preserve">
+    <value>end</value>
+  </data>
+  <data name="EQUALS" xml:space="preserve">
+    <value>jednako</value>
+  </data>
+  <data name="ESCAPE" xml:space="preserve">
+    <value>escape</value>
+  </data>
+  <data name="GRAVE" xml:space="preserve">
+    <value>akcenat</value>
+  </data>
+  <data name="HOME" xml:space="preserve">
+    <value>home</value>
+  </data>
+  <data name="INSERT" xml:space="preserve">
+    <value>insert</value>
+  </data>
+  <data name="KP_0" xml:space="preserve">
+    <value>numeričko0</value>
+  </data>
+  <data name="KP_1" xml:space="preserve">
+    <value>Numeričko1</value>
+  </data>
+  <data name="KP_2" xml:space="preserve">
+    <value>numeričko2</value>
+  </data>
+  <data name="KP_3" xml:space="preserve">
+    <value>numeričko3</value>
+  </data>
+  <data name="KP_4" xml:space="preserve">
+    <value>numeričko4</value>
+  </data>
+  <data name="KP_5" xml:space="preserve">
+    <value>numeričko5</value>
+  </data>
+  <data name="KP_6" xml:space="preserve">
+    <value>numeričko6</value>
+  </data>
+  <data name="KP_7" xml:space="preserve">
+    <value>numeričko7</value>
+  </data>
+  <data name="KP_8" xml:space="preserve">
+    <value>numeričko8</value>
+  </data>
+  <data name="KP_9" xml:space="preserve">
+    <value>numeričko9</value>
+  </data>
+  <data name="KP_DELETE" xml:space="preserve">
+    <value>numerički delete</value>
+  </data>
+  <data name="KP_DIVIDE" xml:space="preserve">
+    <value>podeljeno</value>
+  </data>
+  <data name="KP_ENTER" xml:space="preserve">
+    <value>numerički enter</value>
+  </data>
+  <data name="KP_MINUS" xml:space="preserve">
+    <value>numerički minus</value>
+  </data>
+  <data name="KP_MULTIPLY" xml:space="preserve">
+    <value>množenje</value>
+  </data>
+  <data name="KP_PERIOD" xml:space="preserve">
+    <value>decimalni zarez</value>
+  </data>
+  <data name="KP_PLUS" xml:space="preserve">
+    <value>numerički plus</value>
+  </data>
+  <data name="LEFT" xml:space="preserve">
+    <value>levo</value>
+  </data>
+  <data name="LEFTBRACKET" xml:space="preserve">
+    <value>otvorena uglasta zagrada</value>
+  </data>
+  <data name="MINUS" xml:space="preserve">
+    <value>crtica</value>
+  </data>
+  <data name="MUTE" xml:space="preserve">
+    <value>bez tona</value>
+  </data>
+  <data name="PAGEDOWN" xml:space="preserve">
+    <value>page down</value>
+  </data>
+  <data name="PAGEUP" xml:space="preserve">
+    <value>page up</value>
+  </data>
+  <data name="PAUSE" xml:space="preserve">
+    <value>pauza</value>
+  </data>
+  <data name="PERIOD" xml:space="preserve">
+    <value>tačka</value>
+  </data>
+  <data name="PRINTSCREEN" xml:space="preserve">
+    <value>printscreen</value>
+  </data>
+  <data name="RETURN" xml:space="preserve">
+    <value>enter</value>
+  </data>
+  <data name="RIGHT" xml:space="preserve">
+    <value>desno</value>
+  </data>
+  <data name="RIGHTBRACKET" xml:space="preserve">
+    <value>desna uglasta zagrada</value>
+  </data>
+  <data name="SCROLLLOCK" xml:space="preserve">
+    <value>scroll lock</value>
+  </data>
+  <data name="SEMICOLON" xml:space="preserve">
+    <value>tačkazarez</value>
+  </data>
+  <data name="SLASH" xml:space="preserve">
+    <value>kosa crta</value>
+  </data>
+  <data name="SPACE" xml:space="preserve">
+    <value>razmak</value>
+  </data>
+  <data name="TAB" xml:space="preserve">
+    <value>tab</value>
+  </data>
+  <data name="UP" xml:space="preserve">
+    <value>gore</value>
+  </data>
+  <data name="VOLUMEDOWN" xml:space="preserve">
+    <value>utišaj</value>
+  </data>
+  <data name="VOLUMEUP" xml:space="preserve">
+    <value>pojačaj</value>
+  </data>
+</root>
