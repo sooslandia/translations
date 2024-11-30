@@ -1,0 +1,1608 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the BallBouncer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BallBouncer\n"
+"Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
+"POT-Creation-Date: 2024-09-13 08:46+0000\n"
+"PO-Revision-Date: 2024-11-30 18:05+0100\n"
+"Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
+"Language-Team: \n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#, python-brace-format
+msgctxt "AchievementPoints"
+msgid "Achievement points: {0}."
+msgstr "Poeni za dostignuća: {0}."
+
+#, python-brace-format
+msgctxt "AchievementPointsTotal"
+msgid "{0} achievement points received in total."
+msgstr "{0} poena za dostignuća zarađeno ukupno."
+
+#, python-brace-format
+msgctxt "AuraLeaderText"
+msgid ""
+"Leader's aura: level {0} (+{1}%). For each level, adds one percent to the "
+"points received."
+msgstr ""
+"Aura vođe: nivo {0} (+{1}%). Za svaki nivo, dodaje jedan procenat na "
+"osvojene poene."
+
+#, python-brace-format
+msgctxt "AuraTimeText"
+msgid ""
+"Time Aura: level {0} (+{1} sec). For each level, adds 5 seconds to the "
+"maximum playing time."
+msgstr ""
+"Vremenska aura: nivo {0} (+{1} sek). Za svaki nivo, dodaje 5 sekundi na "
+"maksimalno vreme za igranje."
+
+#, python-brace-format
+msgctxt "AuraUpgradeButton"
+msgid "Upgrade for {0} achievement points"
+msgstr "Povećaj za {0} poena dostignuća"
+
+#, python-brace-format
+msgctxt "BallLoopSelectionMenuSound"
+msgid "Sound {0}."
+msgstr "Zvuk {0}."
+
+msgctxt "BallLoopSelectionMenuTitle"
+msgid "Select the ball sound."
+msgstr "Izaberite zvuk loptice."
+
+msgctxt "BallLoopSelectionMenuTitleWithHint"
+msgid ""
+"Select the ball sound. Use the up and down arrows to move. To listen to the "
+"sound, press Spacebar. To confirm your selection, press enter."
+msgstr ""
+"Izaberite zvuk loptice. Koristite strelice gore i dole da se krećete. Da "
+"biste čuli zvuk, pritisnite razmak. Da potvrdite vaš izbor, pritisnite Enter."
+
+msgctxt "CheckUpdatesScreenChecking"
+msgid "Checking..."
+msgstr "Provera..."
+
+msgctxt "CheckUpdatesScreenNoUpdates"
+msgid "You have the latest version."
+msgstr "Imate najnoviju verziju."
+
+#, python-brace-format
+msgctxt "FileSizeBytes"
+msgid "{0} b"
+msgstr "{0} b"
+
+#, python-brace-format
+msgctxt "FileSizeGigabytes"
+msgid "{0} GB"
+msgstr "{0} GB"
+
+#, python-brace-format
+msgctxt "FileSizeKilobytes"
+msgid "{0} kb"
+msgstr "{0} kb"
+
+#, python-brace-format
+msgctxt "FileSizeMegabytes"
+msgid "{0} mb"
+msgstr "{0} mb"
+
+msgctxt "GameObjectCloset"
+msgid "Closet."
+msgstr "Ormar."
+
+msgctxt "GameObjectDish"
+msgid "Dish."
+msgstr "Tanjir."
+
+msgctxt "GameObjectDishCloset"
+msgid "Kitchen cabinet."
+msgstr "Kuhinjska vitrina."
+
+msgctxt "GameObjectGlass"
+msgid "Glass."
+msgstr "Staklo."
+
+msgctxt "GameObjectLightbulb"
+msgid "Lamp."
+msgstr "Lampa."
+
+msgctxt "GameObjectMine"
+msgid "Mine."
+msgstr "Mina."
+
+msgctxt "GameObjectRadio"
+msgid "Radio."
+msgstr "Radio."
+
+msgctxt "GameObjectTelevision"
+msgid "TV."
+msgstr "TV."
+
+#, python-brace-format
+msgctxt "GamePoints"
+msgid "{0} points scored in this game."
+msgstr "{0} poena zarađeno u ovoj igri."
+
+msgctxt "GamePracticeInstantSkillRecharge"
+msgid "All skills are ready to use."
+msgstr "Sve veštine su spremne za korišćenje."
+
+#, python-brace-format
+msgctxt "GameResultScreenCoins"
+msgid "Got {0} coins."
+msgstr "Zaradili ste {0} novčića."
+
+#, python-brace-format
+msgctxt "GameResultScreenPoints"
+msgid "{0} points scored."
+msgstr "{0} poena osvojeno."
+
+msgctxt "GameResultScreenTitle"
+msgid "Results of the last game."
+msgstr "Rezultati poslednje igre."
+
+msgctxt "GameResultScreenTitleWithHint"
+msgid ""
+"Results of the last game. Use the down and up arrows to navigate through the "
+"menu. To close the menu, press enter at any item."
+msgstr ""
+"Rezultati poslednje igre. Koristite strelice gore i dole da se krećete kroz "
+"meni. Da zatvorite meni, pritisnite Enter na bilo koju stavku."
+
+msgctxt "GameRewardAvailableDialog"
+msgid "A reward is available! Get it in your profile on the statistics tab!"
+msgstr ""
+"Dostupna je nagrada! Uzmite je u vašem profilu na kartici sa statistikama!"
+
+#, python-brace-format
+msgctxt "GameTimeToEnd"
+msgid "{0} seconds left until the end of the game."
+msgstr "{0} sekundi preostalo do kraja igre."
+
+msgctxt "IncompatableSaveMessage"
+msgid ""
+"The loaded save belongs to a newer version of the game\n"
+"and contains data that will be lost.\n"
+"Therefore, the save is considered incompatible.\n"
+"The game will be closed."
+msgstr ""
+"Učitana datoteka sa ličnim podacima je za noviju verziju igre\n"
+"Sadrži podatke koji će biti izgubljeni.\n"
+"Zbog toga, datoteka sa podacima se smatra nekompatibilnom.\n"
+"Igra će se zatvoriti."
+
+msgctxt "IncompatableSaveTitle"
+msgid "Incompatible save"
+msgstr "Nekompatibilna datoteka sa podacima"
+
+msgctxt "KeyConfigurationActionCheckPoints"
+msgid "Find out the number of points scored"
+msgstr "Saznaj broj osvojenih poena"
+
+msgctxt "KeyConfigurationActionCheckRemainingTime"
+msgid "Check the time remaining until the end of the session"
+msgstr "Proveri preostalo vreme do kraja igre"
+
+msgctxt "KeyConfigurationActionCloseMap"
+msgid "Close map"
+msgstr "Zatvori mapu"
+
+msgctxt "KeyConfigurationActionHorizontalBatSwing"
+msgid "Swing the bat horizontally"
+msgstr "Udari palicom horizontalno"
+
+msgctxt "KeyConfigurationActionMapCursorMoveDown"
+msgid "Move cursor down"
+msgstr "Pomeri kursor dole"
+
+msgctxt "KeyConfigurationActionMapCursorMoveLeft"
+msgid "Move cursor left"
+msgstr "Pomeri kursor levo"
+
+msgctxt "KeyConfigurationActionMapCursorMoveRight"
+msgid "Move cursor right"
+msgstr "Pomeri kursor desno"
+
+msgctxt "KeyConfigurationActionMapCursorMoveUp"
+msgid "Move cursor up"
+msgstr "Pomeri kursor gore"
+
+msgctxt "KeyConfigurationActionMapMoveListenerDown"
+msgid "Move observation point lower"
+msgstr "Pomeri tačku pregleda dole"
+
+msgctxt "KeyConfigurationActionMapMoveListenerUp"
+msgid "Move observation point higher"
+msgstr "Pomeri tačku pregleda gore"
+
+msgctxt "KeyConfigurationActionMapSwitchAnnouncingObjectType"
+msgid "Toggle object type announcement"
+msgstr "Uključi ili isključi izgovor naziva objekta"
+
+msgctxt "KeyConfigurationActionMapSwitchMovingMode"
+msgid "Toggle cursor movement mode"
+msgstr "Promeni način pomeranja kursora"
+
+msgctxt "KeyConfigurationActionMapTotalObjects"
+msgid "Find out the number of objects on the map"
+msgstr "Saznaj broj objekata na mapi"
+
+msgctxt "KeyConfigurationActionOpenMap"
+msgid "Open map"
+msgstr "Otvori mapu"
+
+msgctxt "KeyConfigurationActionPauseGame"
+msgid "Pause the game"
+msgstr "Pauziraj igru"
+
+msgctxt "KeyConfigurationActionPlayCheckPositionSound"
+msgid "Play sound at character's position"
+msgstr "Reprodukuj zvuk na poziciji karaktera"
+
+msgctxt "KeyConfigurationActionPlayerCatchBall"
+msgid "Catch the ball"
+msgstr "Uhvati lopticu"
+
+msgctxt "KeyConfigurationActionPlayerJump"
+msgid "Jump"
+msgstr "Skoči"
+
+msgctxt "KeyConfigurationActionPlayerMoveLeft"
+msgid "Move character left"
+msgstr "Pomeri karaktera levo"
+
+msgctxt "KeyConfigurationActionPlayerMoveRight"
+msgid "Move character right"
+msgstr "Pomeri karaktera desno"
+
+msgctxt "KeyConfigurationActionPracticeInstantSkillRecharge"
+msgid "Zero all skills cooldown"
+msgstr "Vrati nivo potrebnog odmaranja svih veština na nulu"
+
+msgctxt "KeyConfigurationActionPracticeSetSkillLevels"
+msgid "Set skill levels"
+msgstr "Podesi nivo veština"
+
+msgctxt "KeyConfigurationActionSetPlayerFacingLeft"
+msgid "Set character facing left"
+msgstr "Okreni karaktera levo"
+
+msgctxt "KeyConfigurationActionSetPlayerFacingRight"
+msgid "Set character facing right"
+msgstr "Okreni karaktera desno"
+
+msgctxt "KeyConfigurationActionSkillSlot1"
+msgid "Select the skill set in slot 1"
+msgstr "Izaberi veštinu za prvi slot"
+
+msgctxt "KeyConfigurationActionSkillSlot10"
+msgid "Select the skill set in slot 10"
+msgstr "Izaberi veštinu za deseti slot"
+
+msgctxt "KeyConfigurationActionSkillSlot2"
+msgid "Select the skill set in slot 2"
+msgstr "Izaberi veštinu za drugi slot"
+
+msgctxt "KeyConfigurationActionSkillSlot3"
+msgid "Select the skill set in slot 3"
+msgstr "Izaberi veštinu za treći slot"
+
+msgctxt "KeyConfigurationActionSkillSlot4"
+msgid "Select the skill set in slot 4"
+msgstr "Izaberi veštinu za četvrti slot"
+
+msgctxt "KeyConfigurationActionSkillSlot5"
+msgid "Select the skill set in slot 5"
+msgstr "Izaberi veštinu za peti slot"
+
+msgctxt "KeyConfigurationActionSkillSlot6"
+msgid "Select the skill set in slot 6"
+msgstr "Izaberi veštinu za šesti slot"
+
+msgctxt "KeyConfigurationActionSkillSlot7"
+msgid "Select the skill set in slot 7"
+msgstr "Izaberi veštinu za sedmi slot"
+
+msgctxt "KeyConfigurationActionSkillSlot8"
+msgid "Select the skill set in slot 8"
+msgstr "Izaberi veštinu za osmi slot"
+
+msgctxt "KeyConfigurationActionSkillSlot9"
+msgid "Select the skill set in slot 9"
+msgstr "Izaberi veštinu za deveti slot"
+
+msgctxt "KeyConfigurationActionSkillSlotCancel"
+msgid "Cancel the selected skill"
+msgstr "Otkaži izabranu veštinu"
+
+msgctxt "KeyConfigurationActionSwitchBallViewMode"
+msgid "Switch to ball watch mode"
+msgstr "Pređi u režim gledanja loptice"
+
+msgctxt "KeyConfigurationActionSwitchCharacterCameraMode"
+msgid "Switch camera mode between first person and center field view"
+msgstr ""
+"Promeni režim kamere između perspektive prve osobe i centralne perspektive"
+
+msgctxt "KeyConfigurationActionThrowBallHorizontal"
+msgid "Throw the ball horizontally"
+msgstr "Baci lopticu horizontalno"
+
+msgctxt "KeyConfigurationActionThrowBallVertical"
+msgid "Throw the ball vertically"
+msgstr "Baci lopticu vertikalno"
+
+msgctxt "KeyConfigurationActionVerticalBatSwing"
+msgid "Vertical bat swing"
+msgstr "Vertikalni udarac palicom"
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionKeys"
+msgid "Game session"
+msgstr "Sesija igre"
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionObjectMapKeys"
+msgid "Object map"
+msgstr "Mapa sa objektima"
+
+msgctxt "KeyConfigurationBlockBallBouncerPracticeGameSessionKeys"
+msgid "Training mode"
+msgstr "Režim treninga"
+
+msgctxt "KeyConfigurationMergeDeletionDialogOk"
+msgid "I understand"
+msgstr "Razumem"
+
+msgctxt "KeyConfigurationMergeDeletionDialogText"
+msgid ""
+"New keyboard shortcuts have been introduced into the game, but upon loading "
+"your configuration, it was discovered that you already have the shortcuts "
+"that are reserved as default shortcuts installed. Due to this, new "
+"combinations have been removed in favor of yours. We strongly recommend that "
+"you go to Settings, go to the \"Keyboard Shortcut Configuration\" tab and "
+"configure new actions. You can find a list of new actions in the changelog."
+msgstr ""
+"Nove tasterske prečice su dodate u igricu, ali nakon učitavanja vaših "
+"podešavanja, otkriveno je da već imate prečice koje su podešene kao "
+"podrazumevane. Zbog ovoga, nove prečice su uklonjene kako bi se sačuvale "
+"vaše. Preporučujemo da posetite podešavanja i da na kartici \"Podešavanje "
+"tasterskih prečica\" podesite nove radnje. Možete pronaći nove radnje u "
+"listi promena."
+
+msgctxt "LearnSoundsBatHitSuccess"
+msgid "Successfully hit the ball with the bat."
+msgstr "Uspešan udarac loptice palicom."
+
+msgctxt "LearnSoundsCeilBounce"
+msgid "The ball bounced off the ceiling."
+msgstr "Loptica je odskočila sa plafona."
+
+msgctxt "LearnSoundsFineStanding"
+msgid "You are starting to be fined for standing in one place for too long."
+msgstr "Počinje kažnjavanje zato što ste predugo stajali u mestu."
+
+msgctxt "LearnSoundsFineSwinging"
+msgid "Penalty for frequent misses with the bat on the ball."
+msgstr "Kazna za česte promašaje palicom."
+
+msgctxt "LearnSoundsForceFull"
+msgid "Character's blow force has been fully restored."
+msgstr "Snaga udarca karaktera u potpunosti vraćena."
+
+msgctxt "LearnSoundsObjectDestroy"
+msgid "Object destruction alert."
+msgstr "Upozorenje o uništenju objekta."
+
+msgctxt "LearnSoundsObjectHit"
+msgid "Ball hit an object alert."
+msgstr "Loptica je udarila objekat."
+
+msgctxt "LearnSoundsPerfectHit"
+msgid "A perfect strike."
+msgstr "Savršen udarac."
+
+msgctxt "LearnSoundsScoresUnderNeg500"
+msgid "The points dropped below minus five hundred."
+msgstr "Poeni su pali ispod minus 500."
+
+msgctxt "LearnSoundsTitle"
+msgid "Learn sounds menu."
+msgstr "Meni učenja zvukova."
+
+msgctxt "LearnSoundsTitleWithHint"
+msgid ""
+"Learn sounds menu. Use the up and down arrows to move. To listen to the "
+"sound, press enter. To exit the menu, press the corresponding menu item or "
+"the escape key."
+msgstr ""
+"Meni učenja zvukova. Koristite strelice gore i dole za kretanje. Da biste "
+"čuli zvuk, pritisnite Enter. Da biste izašli iz menija, aktivirajte "
+"odgovarajuću stavku menija ili pritisnite taster Escape."
+
+msgctxt "MainMenuExitGame"
+msgid "Exit the game."
+msgstr "Izlaz iz igre."
+
+msgctxt "MainMenuOptions"
+msgid "Settings."
+msgstr "Podešavanja."
+
+msgctxt "MainMenuProfile"
+msgid "Profile."
+msgstr "Profil."
+
+msgctxt "MainMenuRecordings"
+msgid "Recordings."
+msgstr "Snimci."
+
+msgctxt "MainMenuStartGame"
+msgid "Start game."
+msgstr "Započni igru."
+
+msgctxt "MainMenuStore"
+msgid "Shop."
+msgstr "Prodavnica."
+
+msgctxt "MainMenuTitle"
+msgid "Main menu."
+msgstr "Glavni meni."
+
+msgctxt "MainMenuTitleWithHint"
+msgid ""
+"Main menu. Use the up and down arrows to move. To select a menu item, press "
+"enter."
+msgstr ""
+"Glavni meni. Koristite strelice gore i dole za kretanje. Da biste izabrali "
+"stavku menija, pritisnite Enter."
+
+msgctxt "ModeSelectionFormBack"
+msgid "Return to main menu."
+msgstr "Vrati se u glavni meni."
+
+msgctxt "ModeSelectionFormModes"
+msgid "Modes"
+msgstr "Režimi"
+
+msgctxt "ModeSelectionFormNormalMode"
+msgid "Normal game."
+msgstr "Standarna igra."
+
+msgctxt "ModeSelectionFormPracticeMode"
+msgid "Training mode."
+msgstr "Režim vežbe."
+
+msgctxt "ModeSelectionFormRecord"
+msgid "Record the game"
+msgstr "Snimi igru"
+
+msgctxt "ModeSelectionFormStart"
+msgid "Start"
+msgstr "Počni"
+
+msgctxt "ModeSelectionFormTitle"
+msgid "Select a game mode."
+msgstr "Izaberi režim igre."
+
+msgctxt "ModeSelectionFormTitleWithHint"
+msgid ""
+"Select a game mode. Use tab and shift+tab to move forwards and backwards on "
+"the screen. Use the up and down arrows to move through the list. To confirm "
+"your selection, press enter or click the \"Start\" button."
+msgstr ""
+"Izaberite režim igre. Koristite Tab i Šift+Tab da se krećete napred i nazad "
+"po ekranu. Koristite strelice gore i dole da se krećete kroz liste. Da "
+"potvrdite vaš izbor, pritisnite Enter ili aktivirajte dugme \"počni\"."
+
+msgctxt "NumberNotationsEmpty"
+msgid "No notation."
+msgstr "Bez notacije."
+
+msgctxt "NumberNotationsEngineering"
+msgid "Engineering."
+msgstr "Inžinjerska."
+
+msgctxt "NumberNotationsLetter"
+msgid "Letter."
+msgstr "Slovna."
+
+msgctxt "NumberNotationsScientific"
+msgid "Scientific."
+msgstr "Naučna."
+
+msgctxt "NumberNotationsStandard"
+msgid "Standard."
+msgstr "Standardna."
+
+msgctxt "ObjectsMapScreenAnnounceObjectTypeDisabled"
+msgid "Object type announcement under the cursor disabled."
+msgstr "Onemogućen izgovor imena objekta na poziciji kursora."
+
+msgctxt "ObjectsMapScreenAnnounceObjectTypeEnabled"
+msgid "Object type announcement under the cursor enabled."
+msgstr "Omogućen izgovor imena objekta na poziciji kursora."
+
+msgctxt "ObjectsMapScreenFreeMovingMode"
+msgid "Switched to free movement mode."
+msgstr "Prešli ste u režim slobodnog kretanja."
+
+msgctxt "ObjectsMapScreenObjectMovingMode"
+msgid "Switched to object movement mode."
+msgstr "Prešli ste u režim kretanja kroz objekte."
+
+msgctxt "ObjectsMapScreenTitle"
+msgid "Object map."
+msgstr "Mapa objekata."
+
+#, python-brace-format
+msgctxt "ObjectsMapScreenTotalObjects"
+msgid "{0} objects on the map."
+msgstr "{0} objekata na mapi."
+
+msgctxt "OptionsScreenAllowOverMaxVolume"
+msgid "Allow audio volume boost up to two hundred percent"
+msgstr "Dozvoli pojačavanje zvuka do 200 procenata"
+
+msgctxt "OptionsScreenAllowPlayObjectNotifySounds"
+msgid ""
+"Play alert sounds when the ball collides with or destroys objects on the "
+"field"
+msgstr ""
+"Reprodukuj zvukove upozorenja kada se loptica sudara ili uništava objekte na "
+"mapi"
+
+msgctxt "OptionsScreenAutosaveRecording"
+msgid "Save the recording every 30 seconds"
+msgstr "Sačuvaj snimak na svakih 30 sekundi"
+
+msgctxt "OptionsScreenBatHitSuccessSound"
+msgid "Play a sound when the ball is successfully hit with the bat"
+msgstr "Reprodukuj zvuk kada se loptica uspešno udari palicom"
+
+msgctxt "OptionsScreenCatigoriesBehaviour"
+msgid "Behavior"
+msgstr "Ponašanje"
+
+msgctxt "OptionsScreenCatigoriesGeneral"
+msgid "General"
+msgstr "Opšta"
+
+msgctxt "OptionsScreenCatigoriesKeyConfiguration"
+msgid "Keyboard shortcut configuration"
+msgstr "Podešavanje tasterskih prečica"
+
+msgctxt "OptionsScreenCatigoriesRecording"
+msgid "Recording"
+msgstr "Snimanje"
+
+msgctxt "OptionsScreenCatigoriesSound"
+msgid "Sound"
+msgstr "Zvuk"
+
+msgctxt "OptionsScreenChangeBallLoopSoundButton"
+msgid "Change ball sound"
+msgstr "Promeni zvuk loptice"
+
+msgctxt "OptionsScreenChangeLanguageButton"
+msgid "Change language"
+msgstr "Promeni jezik"
+
+msgctxt "OptionsScreenCheckForUpdates"
+msgid "Check for updates"
+msgstr "Proveri ažuriranja"
+
+msgctxt "OptionsScreenCheckForUpdatesOnStartup"
+msgid "Check for updates on startup"
+msgstr "Proveri ažuriranja pri pokretanju"
+
+msgctxt "OptionsScreenCloseButton"
+msgid "Close"
+msgstr "Zatvori"
+
+msgctxt "OptionsScreenConfigureKeysButton"
+msgid "Configure keyboard shortcuts"
+msgstr "Podesi tasterske prečice"
+
+msgctxt "OptionsScreenDisplayTitleHints"
+msgid "Show navigation hints in menu titles"
+msgstr "Prikaži savete za navigaciju u naslovima menija"
+
+msgctxt "OptionsScreenGameVolumeSlider"
+msgid "Game volume"
+msgstr "Jačina igrice"
+
+msgctxt "OptionsScreenLearnSounds"
+msgid "Learn game sounds"
+msgstr "Nauči zvukove igrice"
+
+msgctxt "OptionsScreenMusicVolumeSlider"
+msgid "Music volume"
+msgstr "Jačina muzike"
+
+msgctxt "OptionsScreenNumberNotationSelector"
+msgid "Notation for displaying numbers"
+msgstr "Notacija za prikazivanje brojeva"
+
+msgctxt "OptionsScreenPauseGameWhenWindowLostsFocus"
+msgid "Pause the game when switching to another window"
+msgstr "Pauziraj igricu pri prelasku na drugi prozor"
+
+msgctxt "OptionsScreenPrefereSapi"
+msgid "Prefer sapi to screen reader"
+msgstr "Koristi SAPI umesto čitača ekrana"
+
+msgctxt "OptionsScreenRecordingCancellation"
+msgid "Cancel recording when canceling the game from the pause menu"
+msgstr "Otkaži snimak pri prekidanju igre iz menija pauze"
+
+msgctxt "OptionsScreenResetKeyConfigurationToDefault"
+msgid "Reset shortcut key configuration to defaults"
+msgstr "Vrati podešene tasterske prečice na podrazumevane"
+
+msgctxt "OptionsScreenResetKeyConfigurationToDefaultConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your current keyboard shortcut configuration? "
+"Attention: this action is irreversible!"
+msgstr ""
+"Da li ste sigurni da želite da vratite vaša podešavanja tasterskih prečica "
+"na podrazumevana? Pažnja: Ova radnja se ne može poništiti!"
+
+msgctxt "OptionsScreenResetOptionsToDefault"
+msgid "Reset settings to defaults"
+msgstr "Vrati podešavanja na podrazumevana"
+
+msgctxt "OptionsScreenResetOptionsToDefaultConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your settings to default? Attention: this "
+"action is irreversible! Once confirmed, the application will be restarted."
+msgstr ""
+"Da li ste sigurni da želite da vratite vaša podešavanja na podrazumevana? "
+"Pažnja: Ova radnja se ne može poništiti! Nakon što potvrdite, aplikacija će "
+"se ponovo pokrenuti."
+
+msgctxt "OptionsScreenSaveCharacterViewState"
+msgid "Save first person view state between games"
+msgstr "Sačuvaj perspektivu pogleda iz prve osobe između igara"
+
+msgctxt "OptionsScreenShowResultMenu"
+msgid "Show results menu at the end of the game"
+msgstr "Prikaži meni rezultata na kraju igre"
+
+msgctxt "OptionsScreenShowRewardAvailableDialog"
+msgid "Show notification if reward is available at end of game"
+msgstr "Prikaži obaveštenje ako je nagrada dostupna na kraju igre"
+
+msgctxt "OptionsScreenShowUpdateCheckErrorOnStartup"
+msgid "Show an error if it was not possible to check for updates at startup"
+msgstr "Prikaži grešku ako provera ažuriranja pri pokretanju nije bila moguća"
+
+msgctxt "OptionsScreenSoundPanRepresentationMode"
+msgid "Sound Panning Mode"
+msgstr "Režim balansa zvuka"
+
+msgctxt "OptionsScreenSoundPanRepresentationModeNarrowedCenter"
+msgid "Narrowed center"
+msgstr "Suženi centar"
+
+msgctxt "OptionsScreenSoundPanRepresentationModeNormal"
+msgid "Normal"
+msgstr "Standardni"
+
+msgctxt "OptionsScreenTitle"
+msgid "Settings screen."
+msgstr "Ekran podešavanja."
+
+msgctxt "OptionsScreenTitleWithHint"
+msgid ""
+"Settings screen. Use tab and shift+tab to move forward and backward. Use the "
+"arrow keys to change the position of the sliders. To activate the selected "
+"item, press enter or spacebar."
+msgstr ""
+"Ekran podešavanja. Koristite Tab i Šift+Tab da se pomerate napred i nazad. "
+"Koristite strelice za menjanje pozicije klizača. Da aktivirate izabranu "
+"stavku, pritisnite Enter ili Razmak."
+
+msgctxt "OptionsScreenWipeSave"
+msgid "Reset game progress"
+msgstr "Resetuj napredak igre"
+
+msgctxt "OptionsScreenWipeSaveConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your game progress? Attention: this action is "
+"irreversible!"
+msgstr ""
+"Da li ste sigurni da želite da resetujete napredak igre? Pažnja: Ova radnja "
+"se ne može poništiti!"
+
+msgctxt "PauseMenuAbortGame"
+msgid "Abort the game and return to the main menu."
+msgstr "Prekini igru i vrati se u glavni meni."
+
+msgctxt "PauseMenuContinueGame"
+msgid "Continue game."
+msgstr "Nastavi igru."
+
+#, python-brace-format
+msgctxt "PauseMenuGameInfo"
+msgid ""
+"{0} points scored in this game. The ball collided with objects {1} times, "
+"destroyed {2} objects, and bounced off the floor {3} times. You hit the ball "
+"{4} times."
+msgstr ""
+"{0} poena zarađeno u ovoj igri. Loptica se sudarila sa objektima {1} puta, "
+"uništila je {2} objekata i odskočila je sa poda {3} puta. Udarili ste "
+"lopticu {4} puta."
+
+msgctxt "PauseMenuPracticeModeActive"
+msgid "Training mode is active."
+msgstr "Režim vežbe je aktivan."
+
+#, python-brace-format
+msgctxt "PauseMenuTimeToEnd"
+msgid "The game will end in {0} seconds."
+msgstr "Igra će se završiti za {0} sekundi."
+
+msgctxt "PauseMenuTitle"
+msgid "Pause menu."
+msgstr "Meni pauze."
+
+msgctxt "PauseMenuTitleWithHint"
+msgid ""
+"Pause menu. Use the up and down arrows to move. To activate the selected "
+"item, press enter."
+msgstr ""
+"Meni pauze. Koristite strelice gore i dole da se krećete. Da aktivirate "
+"izabranu stavku, pritisnite Enter."
+
+msgctxt "ProfileAurasPageTitle"
+msgid "Auras"
+msgstr "Aure"
+
+msgctxt "ProfileStatsCopied"
+msgid "Copied."
+msgstr "Kopirano."
+
+msgctxt "ProfileStatsPageTitle"
+msgid "Statistics"
+msgstr "Statistike"
+
+msgctxt "ProfileTitle"
+msgid "Your profile."
+msgstr "Vaš profil."
+
+msgctxt "ProfileTitleWithHint"
+msgid ""
+"Your profile. Use tab and shift+tab to move forwards and backwards. To "
+"receive a reward in statistics, press enter on the item with an available "
+"reward."
+msgstr ""
+"Vaš profil. Koristite Tab i Šift+Tab da se krećete napred i nazad. Da biste "
+"dobili nagradu u statistikama, pritisnite Enter na stavku sa dostupnom "
+"nagradom."
+
+msgctxt "SkillLevelsSetFormBack"
+msgid "Return to game"
+msgstr "Vrati se u igru"
+
+msgctxt "SkillLevelsSetFormPowerRecoveringBonusChanger"
+msgid "Increased blow force recovery rate level"
+msgstr "Povećana brzina oporavka jačine udarca"
+
+#, python-brace-format
+msgctxt "SkillLevelsSetFormSkillLevel"
+msgid "Skill level {0}"
+msgstr "Nivo veštine {0}"
+
+msgctxt "SkillLevelsSetFormTitle"
+msgid "Set skill levels."
+msgstr "Podešavanje nivoa veština."
+
+msgctxt "SkillLevelsSetFormTitleWithHint"
+msgid ""
+"Set skill levels. Use tab and shift+tab to move forward and backward. Use "
+"the arrow keys to change the position of the sliders. To activate the "
+"selected item, press enter or spacebar."
+msgstr ""
+"Podešavanje nivoa veština. Koristite Tab i Šift+Tab da se krećete napred i "
+"nazad. Koristite strelice da promenite pozicije klizača. Da aktivirate "
+"izabranu stavku, pritisnite Enter ili Razmak."
+
+#, python-brace-format
+msgctxt "SkillSlotRecharging"
+msgid "{0} seconds before skill cooldown."
+msgstr "{0} sekundi pre oporavka veština."
+
+msgctxt "SkillSlotSelectCanceled"
+msgid "Selection canceled."
+msgstr "Izbor otkazan."
+
+#, python-brace-format
+msgctxt "SkillSlotSelected"
+msgid "Skill {0} is selected."
+msgstr "Veština {0} je izabrana."
+
+msgctxt "SkillSlotSetterMenuBack"
+msgid "Go back."
+msgstr "Nazad."
+
+msgctxt "SkillSlotSetterMenuTitle"
+msgid "Select a skill to install in the slot."
+msgstr "Izbor veštine za postavljanje na slot."
+
+msgctxt "SkillSlotSetterMenuTitleWithHint"
+msgid ""
+"Select a skill to install in the slot. Use the up and down arrows to select "
+"and press enter to confirm your selection."
+msgstr ""
+"Izbor veštine za postavljanje na slot. Koristite strelice gore i dole i "
+"pritisnite Enter da potvrdite vaš izbor."
+
+#, python-brace-format
+msgctxt "SkillSlotText"
+msgid "Slot {0}. {1}"
+msgstr "Slot {0}. {1}"
+
+msgctxt "SkillSlotsTitle"
+msgid "Slots"
+msgstr "Slotovi"
+
+#, python-brace-format
+msgctxt "SkillsBallLeapLevelInfoText"
+msgid ""
+"Level {0}. The character makes a rapid dash towards the ball, located no "
+"higher than {1} cells above the ground, The cooldown interval is {2} seconds."
+msgstr ""
+"Nivo{0}. Karakter se ubrzava ka loptici, koja se nalazi ne više od {1} "
+"koraka iznad poda, interval oporavka je {2} sekundi."
+
+msgctxt "SkillsBallLeapName"
+msgid "furious leap"
+msgstr "besni skok"
+
+msgctxt "SkillsBallLeapNameFull"
+msgid "Furious leap."
+msgstr "Besni skok."
+
+#, python-brace-format
+msgctxt "SkillsBallLeapText"
+msgid ""
+"Furious leap: level {0}/4. The character makes a rapid dash towards the "
+"ball, located no higher than {1} cells above the ground, cooldown interval "
+"is {2} seconds."
+msgstr ""
+"Besni skok: Nivo {0}/4. Lik se ubrzava ka loptici, koja se nalazi ne više od "
+"{1} koraka iznad zemlje, interval oporavka je {2} sekundi."
+
+msgctxt "SkillsEmpty"
+msgid "You haven't unlocked any skills yet."
+msgstr "Niste otključali nijednu veštinu."
+
+#, python-brace-format
+msgctxt "SkillsImmaterialityLevelInfoText"
+msgid ""
+"Level {0}. The ball goes immaterial for {1} seconds, cooldown interval is "
+"{2} seconds."
+msgstr ""
+"Nivo {0}. Lopta postaje nematerijalna na {1} sekundi, interval oporavka je "
+"{2} sekundi."
+
+msgctxt "SkillsImmaterialityName"
+msgid "immateriality"
+msgstr "nematerijalnost"
+
+msgctxt "SkillsImmaterialityNameFull"
+msgid "Immateriality."
+msgstr "Nematerijalnost."
+
+#, python-brace-format
+msgctxt "SkillsImmaterialityText"
+msgid ""
+"Immateriality: level {0}/3. The ball goes immaterial for {1} seconds, "
+"cooldown interval is {2} seconds."
+msgstr ""
+"Nematerijalnost: Nivo {0}/3. Loptica postaje nematerijalna na {1} sekundi, "
+"interval oporavka je {2} sekundi."
+
+msgctxt "SkillsLevelInfo"
+msgid "List of skill effects by level."
+msgstr "Lista efekata veština po nivou."
+
+msgctxt "SkillsListTitle"
+msgid "Unlocked Skills"
+msgstr "Otključane veštine"
+
+#, python-brace-format
+msgctxt "SkillsMagnetismLevelInfoText"
+msgid ""
+"Level {0}. The ball receives an effect that attracts it to nearby objects "
+"for {1} seconds, cooldown interval is {2} seconds."
+msgstr ""
+"Nivo {0}. Loptica dobija efekat tako da se privlači bliskim objektima na {1} "
+"sekundi, interval oporavka je {2} sekundi."
+
+msgctxt "SkillsMagnetismName"
+msgid "magnetism"
+msgstr "magnetizam"
+
+msgctxt "SkillsMagnetismNameFull"
+msgid "Magnetism."
+msgstr "Magnetizam."
+
+#, python-brace-format
+msgctxt "SkillsMagnetismText"
+msgid ""
+"Magnetism: level {0}/4. The ball receives an effect that attracts it to "
+"nearby objects for {1} seconds, cooldown interval is {2} seconds."
+msgstr ""
+"Magnetizam: Nivo {0}/4. Loptica dobija efekat tako da se privlai bliskim "
+"objektima na {1} sekundi, interval oporavka je {2} sekundi."
+
+msgctxt "SkillsNoneNameFull"
+msgid "Not set."
+msgstr "Nije podešeno."
+
+#, python-brace-format
+msgctxt "SkillsObjectSpawnerLevelInfoText"
+msgid ""
+"Level {0}. The  swing of the bat creates {1} objects on the field, cooldown "
+"interval is {2} seconds."
+msgstr ""
+"Nivo {0}. Udarac palice stvara {1} objekata na terenu, interval oporavka je "
+"{2} sekundi."
+
+msgctxt "SkillsObjectSpawnerName"
+msgid "creator's stroke"
+msgstr "kreatorski udarac"
+
+msgctxt "SkillsObjectSpawnerNameFull"
+msgid "Creator's stroke."
+msgstr "Kreatorski udarac."
+
+#, python-brace-format
+msgctxt "SkillsObjectSpawnerText"
+msgid ""
+"Creator's stroke: level {0}/4. Swinging the bat creates {1} objects on the "
+"field, cooldown interval is {2} seconds."
+msgstr ""
+"Kreatorski udarac: Nivo {0}/4. Udarac palicom stvara {1} objekata na terenu, "
+"interval oporavka je {2} sekundi."
+
+msgctxt "SkillsPageTitle"
+msgid "Skills"
+msgstr "Veštine"
+
+#, python-brace-format
+msgctxt "SkillsShadowStrikeLevelInfoText"
+msgid ""
+"Level {0}. The range of the strike is {1} cells up, can destroy {2} objects, "
+"cooldown interval is {3} seconds."
+msgstr ""
+"Nivo {0}. Opseg udarca je {1} koraka gore, može uništiti {2} objekata, "
+"interval oporavka je {3} sekundi."
+
+msgctxt "SkillsShadowStrikeName"
+msgid "phantom strike"
+msgstr "fantomski udarac"
+
+msgctxt "SkillsShadowStrikeNameFull"
+msgid "Phantom strike."
+msgstr "Fantomski udarac."
+
+#, python-brace-format
+msgctxt "SkillsShadowStrikeText"
+msgid ""
+"Phantom strike: level {0}/5. The range of the strike is {1} cells up, can "
+"destroy {2} objects, cooldown interval is {3} seconds."
+msgstr ""
+"Fantomski udarac: Nivo {0}/5. Opseg udarca je {1} koraka gore, može da "
+"uništi {2} objekata, interval oporavka je {3} sekundi."
+
+#, python-brace-format
+msgctxt "SkillsSuperElasticityLevelInfoText"
+msgid ""
+"Level {0}. For {1} seconds the ball bounces off objects an order of "
+"magnitude stronger, cooldown interval is {2} seconds."
+msgstr ""
+"Nivo {0}. Na {1} sekundi loptica odskače od objekata dosta jače, interval "
+"oporavka je {2} sekundi."
+
+msgctxt "SkillsSuperElasticityName"
+msgid "superelasticity"
+msgstr "superelastičnost"
+
+msgctxt "SkillsSuperElasticityNameFull"
+msgid "Superelasticity."
+msgstr "Superelastičnost."
+
+#, python-brace-format
+msgctxt "SkillsSuperElasticityText"
+msgid ""
+"Superelasticity: level {0}/4. For {1} seconds the ball bounces off objects "
+"an order of magnitude stronger, cooldown interval is {2} seconds."
+msgstr ""
+"Superelastičnost: Nivo {0}/4. Na {1} sekundi loptica odskače od objekata "
+"dosta jače, interval oporavka je {2} sekundi."
+
+#, python-brace-format
+msgctxt "StatItemBallCeilHits"
+msgid "Number of ball bounces from the ceiling: {0}. {1}"
+msgstr "Broj odskakanja loptice sa plafona: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemBallFloorHits"
+msgid "Number of ball bounces off the floor: {0}. {1}"
+msgstr "Broj odskakanja loptice sa poda: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemBallsCaught"
+msgid "Total balls caught: {0}. {1}"
+msgstr "Ukupno uhvaćenih loptica: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemBatHits"
+msgid "Number of balls hit: {0}. {1}"
+msgstr "Broj udarenih loptica: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemDestroyedObjects"
+msgid "Number of objects destroyed: {0}. {1}"
+msgstr "Broj uništenih objekata: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemMaximumPoints"
+msgid "Maximum points per game: {0}. {1}"
+msgstr "Maksimalan broj poena po igri: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemObjectHits"
+msgid "Number of collisions with objects: {0}. {1}"
+msgstr "Broj sudara sa objektima: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemPerfectHitsStreak"
+msgid "Perfect strikes made in a row: {0}. {1}"
+msgstr "Savršeni udarci zaredom: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemStepsMade"
+msgid "Number of steps made: {0}. {1}"
+msgstr "Broj koraka: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemTotalGamingTime"
+msgid "Total time spent on the playing field: {0}. {1}"
+msgstr "Ukupno vreme provedeno na terenu: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemTotalPoints"
+msgid "Total points scored: {0}. {1}"
+msgstr "Ukupni osvojeni poeni: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemTotalSkillsUsed"
+msgid "Total skills used: {0}. {1}"
+msgstr "Ukupno iskorišćeno veština: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemTotalTime"
+msgid "Total time spent in the application: {0}. {1}"
+msgstr "Ukupno vreme provedeno u aplikaciji: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatRewardAvailable"
+msgid "Reward is available. Rewards received: {0}."
+msgstr "Nagrada je dostupna. Osvojene nagrade: {0}."
+
+msgctxt "StatRewardError"
+msgid "The reward is not yet available."
+msgstr "Nagrada još nije dostupna."
+
+#, python-brace-format
+msgctxt "StatRewardRequirements"
+msgid "Until reward: {0}. Rewards received: {1}."
+msgstr "Do nagrade: {0}. Osvojene nagrade: {1}."
+
+#, python-brace-format
+msgctxt "StatRewardsTotal"
+msgid "{0} awards received in total."
+msgstr "{0} nagrada ukupno osvojeno."
+
+#, python-brace-format
+msgctxt "StoreButtonReset"
+msgid "Reset for {0} coins"
+msgstr "Resetuj za {0} novčića"
+
+#, python-brace-format
+msgctxt "StoreButtonUnlock"
+msgid "Unlock for {0} coins"
+msgstr "Otključaj za {0} novčića"
+
+msgctxt "StoreButtonUnlockObjectUnlocked"
+msgid "Object unlocked."
+msgstr "Objekat otključan."
+
+msgctxt "StoreButtonUnlockSkillUnlocked"
+msgid "Skill unlocked."
+msgstr "Veština otključana."
+
+msgctxt "StoreButtonUnlockUnlocked"
+msgid "Feature unlocked"
+msgstr "Opcija otključana"
+
+#, python-brace-format
+msgctxt "StoreButtonUpgrade"
+msgid "Upgrade for {0} coins"
+msgstr "Povećaj za {0} novčića"
+
+msgctxt "StoreButtonUpgradeMaxed"
+msgid "Maxed out"
+msgstr "Maksimalno"
+
+msgctxt "StoreBuyError1"
+msgid "Error: Not enough coins."
+msgstr "Greška: Nemate dovoljno novčića."
+
+msgctxt "StoreBuyError2"
+msgid "Error: This upgrade is already at maximum level."
+msgstr "Greška: Ovo povećanje je već na maksimumu."
+
+msgctxt "StoreBuyError3"
+msgid "Error: This feature is already unlocked."
+msgstr "Greška: Ova opcija je već otključana."
+
+msgctxt "StoreBuyError4"
+msgid "Error: Not enough achievement points."
+msgstr "Greška: Nemate dovoljno poena dostignuća."
+
+msgctxt "StoreBuyError5"
+msgid "Error: no achievement points were spent."
+msgstr "Greška: Nijedan poen dostignuća nije potrošen."
+
+msgctxt "StoreBuyError6"
+msgid "Error: This skill is already at maximum level."
+msgstr "Greška: Ova veština je već na maksimalnom nivou."
+
+msgctxt "StoreBuyError7"
+msgid "Error: This skill is already unlocked"
+msgstr "Greška: Ova veština je već otključana"
+
+msgctxt "StoreBuyError8"
+msgid "Error: This object is already unlocked."
+msgstr "Greška: Ovaj objekat je već otključan."
+
+msgctxt "StoreCatigories"
+msgid "Categories"
+msgstr "Kategorije"
+
+msgctxt "StoreCatigoriesCharacter"
+msgid "Character"
+msgstr "Karakter"
+
+msgctxt "StoreCatigoriesObjects"
+msgid "Objects"
+msgstr "Objekti"
+
+#, python-brace-format
+msgctxt "StoreCoins"
+msgid "Coins: {0}."
+msgstr "Novčići: {0}."
+
+msgctxt "StoreInfoTitle"
+msgid "Reference Information: "
+msgstr "Informacije o korišćenju: "
+
+msgctxt "StoreInfoTitleWithHint"
+msgid ""
+"Reference Information. Use the up and down arrows to move. To exit the menu, "
+"press escape or enter at any item."
+msgstr ""
+"Informacije o korišćenju. Koristite strelice gore i dole da se krećete. Da "
+"biste izašli iz menija, pritisnite Escape ili Enter na bilo koju stavku."
+
+msgctxt "StoreItemBallCatchFeatureInfo"
+msgid ""
+"Ball catch feature.\n"
+"To try to catch the ball, press left or right control during the game.\n"
+"The ball can only be caught if it is close to you.\n"
+"If the attempt is successful, the sound of the ball will disappear from the "
+"playing field, and you will be able to throw it again.\n"
+"This mechanic can be used in your scoring strategies or just for fun, but it "
+"is initially useful when used in conjunction with certain skills."
+msgstr ""
+"Opcija hvatanja loptice.\n"
+"Da pokušate da uhvatite lopticu, pritisnite levi ili desni Kontrol u toku "
+"igre.\n"
+"Loptica se može uhvatiti samo ako je blizu vas.\n"
+"Ako je pokušaj uspešan, zvuk loptice će nestati sa terena, i moćićete ponovo "
+"da je bacite.\n"
+"Ovo se može koristiti kako biste poboljšali vašu strategiju zarade poena ili "
+"prosto za zabavu, ali je najkorisnije kada se kombinuje sa nekim drugim "
+"veštinama."
+
+msgctxt "StoreItemBallCatchFeatureText"
+msgid "Unlock the ball catch feature"
+msgstr "Otključaj opciju hvatanja loptice"
+
+msgctxt "StoreItemJumpFeatureInfo"
+msgid ""
+"Jump feature.\n"
+"To jump, press the up arrow or the w key during the game.\n"
+"Jumping is useful in scenarios where you want to hit a ball that hasn't yet "
+"bounced off the floor.\n"
+"Or when you missed a good moment to strike, but still want to hit the ball.\n"
+"In this case, all you need to do is jump and swing the bat at the right "
+"moment.\n"
+"It is also easier to catch the ball while jumping if you have this feature "
+"unlocked."
+msgstr ""
+"Opcija skakanja.\n"
+"Da skočite, pritisnite strelicu gore ili taster W u toku igre.\n"
+"Skakanje je korisno u situacijama u kojima želite da udarite lopticu koja "
+"još nije odskočila sa poda.\n"
+"Korisno je takođe kada propustite dobar trenutak za udarac, ali ipak želite "
+"da udarite lopticu.\n"
+"U tom slučaju, sve što morate da uradite je da skočite i zamahnete palicom u "
+"pravom trenutku.\n"
+"Takođe je lakše da uhvatite lopticu dok skačete ako ste otključali ovu "
+"opciju."
+
+msgctxt "StoreItemJumpFeatureText"
+msgid "Unlock the  jump feature"
+msgstr "Otključaj opciju skakanja"
+
+msgctxt "StoreItemMinObjectIncreaseInfo"
+msgid ""
+"Increasing the minimum number of objects on the field.\n"
+"Initially, the minimum number of objects is twenty-five.\n"
+"When there are fewer objects on the field than this value, as many new "
+"objects are added as are not enough to equal this number.\n"
+"Each upgrade level increases this value by one."
+msgstr ""
+"Povećavanje najmanji broj objekata na terenu.\n"
+"Podrazumevano, najmanji broj objekata je 25.\n"
+"Kada ima manje objekata, dodaje se onoliko objekata koliko je potrebno da se "
+"dostigne ovaj broj.\n"
+"Svako povećavanje nivoa povećava ovaj broj za 1."
+
+#, python-brace-format
+msgctxt "StoreItemMinObjectIncreaseText"
+msgid "Minimum number of objects on the field increase: level {0}/10."
+msgstr "Povećavanje najmanjeg broja objekata na terenu: Nivo {0}/10."
+
+msgctxt "StoreItemMineObjectInfo"
+msgid ""
+"Mine object.\n"
+"The ball's collision with this object causes an explosion that violently "
+"pushes the ball away and destroys nearby objects.\n"
+"If a mine's explosion hits another mine, it will explode, thereby creating a "
+"chain of explosions."
+msgstr ""
+"Objekat mine.\n"
+"Sudar loptice sa ovim objektom izaziva eksploziju koja nasilno gura lopticu "
+"od sebe i uništava bliske objekte.\n"
+"Ako eksplozija mine udari drugu minu, eksplodiraće, praveći niz eksplozija."
+
+msgctxt "StoreItemMineObjectText"
+msgid "Unlock the mine object."
+msgstr "Otključaj objekat mine."
+
+msgctxt "StoreItemPowerRecoveringInfo"
+msgid ""
+"Increased blow force recovery rate.\n"
+"The upgrade significantly increases the speed at which the force of a blow "
+"is restored after each swing of the bat."
+msgstr ""
+"Povećana brzina oporavka snage udarca.\n"
+"Povećanje značajno povećava brzinu po kojoj se snaga udarca vraća nakon "
+"svakog udarca palicom."
+
+#, python-brace-format
+msgctxt "StoreItemPowerRecoveringText"
+msgid "Increased blow force recovery rate: level {0}/10"
+msgstr "Povećana brzina oporavka snage udarca: Nivo {0}/10"
+
+msgctxt "StoreItemResetAchievementPointsInfo"
+msgid ""
+"Resetting spent achievement points.\n"
+"When reset, the levels of auras and skills are reset to zero, and all "
+"achievement points spent on upgrading them are returned to you."
+msgstr ""
+"Resetovanje potrošenih poena dostignuća.\n"
+"Kada se resetuju, nivoi aura i veština se vraćaju na nulu, a svi poeni koje "
+"ste potrošili kako biste ih povećali vam se vraćaju."
+
+msgctxt "StoreItemResetAchievementPointsQuestion"
+msgid ""
+"Do you really want to reset the distribution of achievement points for a "
+"hundred coins?"
+msgstr ""
+"Da li zaista želite da resetujete raspodelu poena dostignuća za sto novčića?"
+
+msgctxt "StoreItemResetAchievementPointsText"
+msgid "Reset spent achievement points."
+msgstr "Resetuj potrošene poene dostignuća."
+
+msgctxt "StoreItemSkillBallLeapInfo"
+msgid ""
+"Furious leap skill.\n"
+"The character makes a rapid dash towards the ball, which is close to the "
+"ground.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Wait for the right moment to use.\n"
+"Then swing the bat, the character will do the rest on his own.\n"
+"If the ball is out of range, the skill will fail and will go on cooldown."
+msgstr ""
+"Veština besnog skoka.\n"
+"Karakter ubrzava ka loptici koja je blizu poda.\n"
+"Korišćenje:\n"
+"Izaberite slot na kojem je ova veština podešena.\n"
+"Sačekajte pravi trenutan za korišćenje.\n"
+"Kada zamahnete palicom, karakter će sam uraditi ostalo.\n"
+"Ako je loptica van domašaja, veština neće uspeti i moraćete da sačekate na "
+"oporavak."
+
+msgctxt "StoreItemSkillBallLeapText"
+msgid "Furious leap skill."
+msgstr "Veština besnog skoka."
+
+msgctxt "StoreItemSkillImmaterialityInfo"
+msgid ""
+"Immateriality skill.\n"
+"When a ball is succesfully hit with a bat, it imposes an immateriality "
+"effect on the ball, which allows it not to bounce off objects, but to "
+"destroy them with one hit and continue flying along the same trajectory.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and "
+"it will go on cooldown."
+msgstr ""
+"Veština nematerijalnosti.\n"
+"Kada se loptica uspešno udari palicom, loptici se dodaje efekat "
+"nematerijalnosti, što joj dozvoljava da ne odskače od objekata, već da ih "
+"uništi jednim udarcem i da nastavi da leti na istoj visini.\n"
+"Korišćenje:\n"
+"Izaberite slot na kojem je ova veština podešena.\n"
+"Zatim udarite lopticu palicom.\n"
+"Ako se efekat uspešno primeni, čućete zvuk primene efekta.\n"
+"Mahanje palicom bez udaranja loptice će izazvati da veština bude neuspešna i "
+"moraćete da sačekate na oporavak."
+
+msgctxt "StoreItemSkillImmaterialityText"
+msgid "Immateriality skill."
+msgstr "Veština nematerijalnosti."
+
+msgctxt "StoreItemSkillMagnetismInfo"
+msgid ""
+"Magnitism skill.\n"
+"When affected by this skill, the ball is attracted to nearby objects on the "
+"playing field.\n"
+"Usage:\n"
+"Catch the ball.\n"
+"then select the slot in which this skill is installed.\n"
+"Throw the ball back onto the playing field.\n"
+"The effect will be applied immediately after the throw."
+msgstr ""
+"Veština magnetizma.\n"
+"Kada ima uticaj ove veštine, lopticu privlače bliski objekti na terenu.\n"
+"Korišćenje:\n"
+"Uhvatite lopticu.\n"
+"Zatim izaberite slot na kojem je ova veština podešena.\n"
+"Bacite lopticu nazad na teren.\n"
+"Efekat se primenuje odmah nakon bacanja."
+
+msgctxt "StoreItemSkillMagnetismText"
+msgid "Magnetism skill."
+msgstr "Veština magnetizma."
+
+msgctxt "StoreItemSkillObjectSpawnerInfo"
+msgid ""
+"Creator's stroke skill.\n"
+"When you swing the bat, objects are spawned on the playing field.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then swing the bat.\n"
+"The skill will only work if the force of the blow is restored to maximum.\n"
+"Otherwise, it will go on cooldown and objects will not be generated."
+msgstr ""
+"Veština udarca kreatora.\n"
+"Kada zamahnete palicom, objekti se pojavljuju na terenu.\n"
+"Korišćenje:\n"
+"Izaberite slot na kojem je ova veština podešena.\n"
+"Zatim zamahnite palicom.\n"
+"Veština će raditi samo ako je snaga udarca vraćena na maksimum.\n"
+"U suprotnom, moraće da se oporavi a objekti se neće stvoriti."
+
+msgctxt "StoreItemSkillObjectSpawnerText"
+msgid "Creator's stroke skill."
+msgstr "Veština udarca kreatora."
+
+msgctxt "StoreItemSkillShadowStrikeInfo"
+msgid ""
+"Phantom Strike skill.\n"
+"Swinging the bat sends out a phantom strike that only travels upward and a "
+"certain distance, knocking down a certain number of objects in the process.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then move the character to the desired place on the field and swing the "
+"bat.\n"
+"The skill will succeed if the blow force has been restored to its maximum.\n"
+"Otherwise, it will fail and go on cooldown."
+msgstr ""
+"Veština fantomskog udarca.\n"
+"Zamahivanje palicom izaziva fantomski udarac koji ide samo gore određenom "
+"distancom, i ruši određeni broj objekata.\n"
+"Korišćenje:\n"
+"Izaberite slot na kojem je ova veština podešena.\n"
+"Zatim pomerite karaktera do željenog mesta na terenu i zamahnite palicom.\n"
+"Veština će uspeti ako je snaga udarca vraćena na maksimum.\n"
+"U suprotnom, neće uspeti i moraće da se oporavi."
+
+msgctxt "StoreItemSkillShadowStrikeText"
+msgid "Phantom Strike skill."
+msgstr "Veština fantomskog udarca."
+
+msgctxt "StoreItemSkillSuperElasticityInfo"
+msgid ""
+"Superelasticity skill.\n"
+"The ball becomes extremely elastic, which allows it to bounce off surfaces "
+"an order of magnitude stronger.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and "
+"it will go on cooldown."
+msgstr ""
+"Veština superelastičnosti.\n"
+"Loptica postaje veoma elastična, što joj dozvoljava da dosta snažnije "
+"odskače sa površina.\n"
+"Korišćenje:\n"
+"Izaberite slot na kojem je ova veština podešena.\n"
+"Zatim udarite lopticu palicom.\n"
+"Ako se efekat uspešno primeni, čućete zvuk primene efekta.\n"
+"Zamahivanje palicom bez uspešnog udara loptice će izazvati da veština ne "
+"uspe i moraće da se oporavi."
+
+msgctxt "StoreItemSkillSuperElasticityText"
+msgid "Superelasticity skill."
+msgstr "Veština superelastičnosti."
+
+msgctxt "StoreTitle"
+msgid "Welcome to the shop."
+msgstr "Dobro došli u prodavnicu."
+
+msgctxt "StoreTitleWithHint"
+msgid ""
+"Welcome to the shop. Use tab and shift+tab to move forwards and backwards on "
+"the screen. Use the up and down arrows to move through the list. To activate "
+"the selected item, press enter or spacebar."
+msgstr ""
+"Dobro došli u prodavnicu. Koristite Tab i Šift+Tab da se krećete napred i "
+"nazad po ekranu. Koristite strelice gore i dole da se krećete kroz listu. Da "
+"aktivirate odabranu stavku, pritisnite Enter ili Razmak."
+
+#, python-brace-format
+msgctxt "TimeString1"
+msgid "{0} d, {1} h, {2} min, {3} sec"
+msgstr "{0} d, {1} č, {2} min, {3} sek"
+
+#, python-brace-format
+msgctxt "TimeString2"
+msgid "{0} h, {1} min, {2} sec"
+msgstr "{0} č, {1} min, {2} sek"
+
+#, python-brace-format
+msgctxt "TimeString3"
+msgid "{0} min, {1} sec"
+msgstr "{0} min, {1} sek"
+
+#, python-brace-format
+msgctxt "TimeString4"
+msgid "{0} sec"
+msgstr "{0} sek"
+
+msgctxt "TimeStringIncorrect"
+msgid "N/A"
+msgstr "N/E"
+
+#, python-brace-format
+msgctxt "UpdateAvailableQuestionText"
+msgid "A new version of the game is available: {0}. Do you want to update now?"
+msgstr ""
+"Dostupna je nova verzija igre: {0}. Da li želite da je ažurirate odmah?"
+
+msgctxt "UpdateCheckingError"
+msgid "An error occurred while checking for updates."
+msgstr "Došlo je do greške pri proveri ažuriranja."
+
+msgctxt "UpdateProcessScreenCanceled"
+msgid "Cancelling..."
+msgstr "Otkazivanje..."
+
+#, python-brace-format
+msgctxt "UpdateProcessScreenDownloading"
+msgid "Downloading {0}%: {1} / {2}."
+msgstr "Preuzimanje {0}%: {1} / {2}."
+
+msgctxt "UpdateProcessScreenFinished"
+msgid "Installing..."
+msgstr "Instaliranje..."
+
+msgctxt "UpdateProcessScreenFinishedWithError"
+msgid ""
+"An error occurred during the update. Please try again later or download a "
+"new version from the site yourself. Press enter to continue."
+msgstr ""
+"Došlo je do greške pri ažuriranju. Molimo pokušajte ponovo kasnije ili sami "
+"preuzmite verziju sa websajta. Pritisnite Enter da nastavite."
+
+msgctxt "UpdateProcessScreenStarting"
+msgid "Preparing to download. Please wait."
+msgstr "Priprema preuzimanja. Molimo sačekajte."
+
+msgctxt "UpdateProcessScreenTitle"
+msgid "The update is downloading. Please wait."
+msgstr "Ažuriranje se preuzima. Molimo sačekajte."
+
+msgctxt "UpdateProcessScreenTitleWithHint"
+msgid ""
+"The update is downloading. Please wait. To check the progress, press any "
+"arrow key."
+msgstr ""
+"Ažuriranje se preuzima. Molimo sačekajte. Da proverite napredak, pritisnite "
+"bilo koju strelicu."
+
+msgctxt "WelcomeMenu1"
+msgid ""
+"Welcome to ball bouncer. Press the up and down arrows to navigate through "
+"this menu."
+msgstr ""
+"Dobro došli u ball bouncer. Pritisnite strelice gore i dole da se krećete "
+"kroz ovaj meni."
+
+msgctxt "WelcomeMenu2"
+msgid ""
+"We, the developers of this game, are glad that you downloaded this game!"
+msgstr "Nama, programerima ove igre je drago da ste preuzeli ovu igricu!"
+
+#, python-brace-format
+msgctxt "WelcomeMenu3"
+msgid ""
+"To get started, we strongly recommend that you read the help documentation "
+"for this game, which is located in {0}."
+msgstr ""
+"Kako biste započeli, preporučujemo da pročitate dokumentaciju pomoći za ovu "
+"igricu, koja se nalazi u {0}."
+
+msgctxt "WelcomeMenu4"
+msgid "Or press enter here to open the documentation."
+msgstr "Ili pritisnite Enter ovde da otvorite dokumentaciju."
+
+msgctxt "WelcomeMenu5"
+msgid "Have a great time, player."
+msgstr "Uživajte."
+
+msgctxt "WelcomeMenu6"
+msgid "Press enter to continue."
+msgstr "Pritisnite Enter za nastavak."
+
+msgctxt "YesOrNoScreenNo"
+msgid "No"
+msgstr "Ne"
+
+msgctxt "YesOrNoScreenYes"
+msgid "Yes"
+msgstr "Da"
