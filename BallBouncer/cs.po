@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2024-09-13 08:46+0000\n"
-"PO-Revision-Date: 2024-12-03 23:07+0100\n"
+"PO-Revision-Date: 2024-12-04 05:20+0100\n"
 "Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
 "Language-Team: 4Sense Gaming\n"
 "Language: cs\n"
@@ -162,8 +162,7 @@ msgstr ""
 
 msgctxt "GameRewardAvailableDialog"
 msgid "A reward is available! Get it in your profile on the statistics tab!"
-msgstr ""
-"Získáváš odměnu za úspěch! Vyzvedni si ji v profilu na záložce statistiky!"
+msgstr "Získáváš odměnu za úspěch! Vyzvedni si ji v profilu na kartě statistiky!"
 
 #, python-brace-format
 msgctxt "GameTimeToEnd"
@@ -220,11 +219,11 @@ msgstr "Posunout kurzor nahoru"
 
 msgctxt "KeyConfigurationActionMapMoveListenerDown"
 msgid "Move observation point lower"
-msgstr "Posunout pohled níž"
+msgstr "Posunout pozorovací bod níž"
 
 msgctxt "KeyConfigurationActionMapMoveListenerUp"
 msgid "Move observation point higher"
-msgstr "Posunout pohled výš"
+msgstr "Posunout pozorovací bod výš"
 
 msgctxt "KeyConfigurationActionMapSwitchAnnouncingObjectType"
 msgid "Toggle object type announcement"
@@ -357,7 +356,7 @@ msgstr "Mapa předmětů"
 
 msgctxt "KeyConfigurationBlockBallBouncerPracticeGameSessionKeys"
 msgid "Training mode"
-msgstr "Zkušební režim"
+msgstr "Režim tréninku"
 
 msgctxt "KeyConfigurationMergeDeletionDialogOk"
 msgid "I understand"
@@ -376,7 +375,7 @@ msgstr ""
 "ukázalo, že už pro ně máš nastavené stejné zkratky, které jsou rezervované "
 "jako výchozí. Proto hra použije tvoje nastavení namísto výchozího. Důrazně "
 "doporučujeme nastavit si klávesové zkratky pro nové příkazy v nastavení na "
-"záložce \"Nastavení klávesových zkratek\". Seznam nových příkazů najdeš v "
+"kartě \"Nastavení klávesových zkratek\". Seznam nových příkazů najdeš v "
 "historii změn."
 
 msgctxt "LearnSoundsBatHitSuccess"
@@ -478,7 +477,7 @@ msgstr "Normální hra."
 
 msgctxt "ModeSelectionFormPracticeMode"
 msgid "Training mode."
-msgstr "Zkušební režim."
+msgstr "Režim tréninku."
 
 msgctxt "ModeSelectionFormRecord"
 msgid "Record the game"
@@ -741,7 +740,7 @@ msgstr ""
 
 msgctxt "PauseMenuPracticeModeActive"
 msgid "Training mode is active."
-msgstr "Zkušební režim je aktivní."
+msgstr "Režim tréninku je aktivní."
 
 #, python-brace-format
 msgctxt "PauseMenuTimeToEnd"
