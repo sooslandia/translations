@@ -1,5 +1,19 @@
 % changelog
 
+## 1.2.3
+
+### New features
+
+- New translations added.
+   - Serbian. Translator [nidza07](https://github.com/nidza07).
+   - Czech. Translator [4sensegaming](https://github.com/4sensegaming).
+
+### Fixes
+
+- Resolved a minor issue in the Turkish translation.
+- Fixed incorrect display of in-game help.
+- Fixed a potential critical error when loading a recording.
+
 ## 1.2.2
 
 Updated Turkish and Indonesian translations.
