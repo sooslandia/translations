@@ -1,0 +1,139 @@
+<root xmlns:ns1="urn:schemas-microsoft-com:xml-msdata" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <xs:schema id="root">
+    <xs:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xs:element name="root" ns1:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="metadata">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" />
+              </xs:sequence>
+              <xs:attribute name="name" use="required" type="xsd:string" />
+              <xs:attribute name="type" type="xsd:string" />
+              <xs:attribute name="mimetype" type="xsd:string" />
+              <xs:attribute ref="xml:space" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="assembly">
+            <xs:complexType>
+              <xs:attribute name="alias" type="xsd:string" />
+              <xs:attribute name="name" type="xsd:string" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="data">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" ns1:Ordinal="1" />
+                <xs:element name="comment" type="xsd:string" minOccurs="0" ns1:Ordinal="2" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xsd:string" use="required" ns1:Ordinal="1" />
+              <xs:attribute name="type" type="xsd:string" ns1:Ordinal="3" />
+              <xs:attribute name="mimetype" type="xsd:string" ns1:Ordinal="4" />
+              <xs:attribute ref="xml:space" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="resheader">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" ns1:Ordinal="1" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xsd:string" use="required" />
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ActionsTreeText" xml:space="preserve">
+    <value>Akce</value>
+  </data>
+  <data name="AddButtonText" xml:space="preserve">
+    <value>Přidat</value>
+  </data>
+  <data name="AddKeyShortcutButtonText" xml:space="preserve">
+    <value>Přidat zkratku</value>
+  </data>
+  <data name="AddKeyShortcutError" xml:space="preserve">
+    <value>Zkratku se nepodařilo přidat. Možná se pokoušíš vytvořit duplicitní zkratku.</value>
+  </data>
+  <data name="AddKeyShortcutSuccess" xml:space="preserve">
+    <value>Zkratka přidána.</value>
+  </data>
+  <data name="CancelButtonText" xml:space="preserve">
+    <value>Zrušit</value>
+  </data>
+  <data name="CloseButtonText" xml:space="preserve">
+    <value>Zavřít</value>
+  </data>
+  <data name="DeleteKeyShortcutButtonText" xml:space="preserve">
+    <value>Smazat zkratku</value>
+  </data>
+  <data name="KeyCatcherControlCatching" xml:space="preserve">
+    <value>Stiskni klávesu, kterou chceš přidat do zkratky.</value>
+  </data>
+  <data name="KeyCatcherControlKeyReset" xml:space="preserve">
+    <value>Klávesa odstraněna</value>
+  </data>
+  <data name="KeyCatcherControlKeySet" xml:space="preserve">
+    <value>Klávesa {0} nastavena.</value>
+  </data>
+  <data name="KeyCatcherControlName" xml:space="preserve">
+    <value>Enterem na tomto místě nastavíš klávesu.</value>
+  </data>
+  <data name="KeyCatcherControlNameChange" xml:space="preserve">
+    <value>Klávesa {0} nastavena. Stiskni enter pro změnu nebo delete pro odstranění.</value>
+  </data>
+  <data name="KeyConfigureTitle" xml:space="preserve">
+    <value>Konfigurátor klávesových zkratek.</value>
+  </data>
+  <data name="KeyConfigureTitleWithHint" xml:space="preserve">
+    <value>Konfigurátor klávesových zkratek: Klávesami tab a shift+tab se pohybuješ po obrazovce dopředu a dozadu. Šipkami nahoru a dolů se pohybuješ po seznamech a stromových seznamech. Enterem potvrdíš vybranou položku.</value>
+  </data>
+  <data name="KeyShortcutAddTitle" xml:space="preserve">
+    <value>Přidat zkratku.</value>
+  </data>
+  <data name="KeyShortcutAddTitleWithHint" xml:space="preserve">
+    <value>Přidat zkratku: Klávesami tab a shift+tab se pohybuješ po obrazovce dopředu a dozadu. Šipkami nahoru a dolů se pohybuješ po seznamech. Enterem potvrdíš vybranou položku.</value>
+  </data>
+  <data name="ModifierListAlt" xml:space="preserve">
+    <value>Klávesa alt</value>
+  </data>
+  <data name="ModifierListAny" xml:space="preserve">
+    <value>Jakýkolv</value>
+  </data>
+  <data name="ModifierListCtrl" xml:space="preserve">
+    <value>Klávesa control</value>
+  </data>
+  <data name="ModifierListLeft" xml:space="preserve">
+    <value>Vlevo</value>
+  </data>
+  <data name="ModifierListRight" xml:space="preserve">
+    <value>Vpravo</value>
+  </data>
+  <data name="ModifierListShift" xml:space="preserve">
+    <value>Jlávesa shift</value>
+  </data>
+  <data name="ModifierListUnused" xml:space="preserve">
+    <value>Nepoužívá se</value>
+  </data>
+  <data name="ModifierListWin" xml:space="preserve">
+    <value>Klávesa Windows</value>
+  </data>
+  <data name="ShortcutsListText" xml:space="preserve">
+    <value>Klávesové zkratky</value>
+  </data>
+</root>
