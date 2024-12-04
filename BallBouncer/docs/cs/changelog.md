@@ -1,5 +1,19 @@
 % Historie změn
 
+## 1.2.3
+
+### Nové funkce
+
+- Přidány nové překlady.
+   - Serbian. Translator [nidza07](https://github.com/nidza07).
+   - Czech. Translator [4sensegaming](https://github.com/4sensegaming).
+
+### Opravy
+
+- Resolved a minor issue in the Turkish translation.
+- Fixed incorrect display of in-game help.
+- Fixed a potential critical error when loading a recording.
+
 ## 1.2.2
 
 Aktualizován turecký a indonéský překlad.
