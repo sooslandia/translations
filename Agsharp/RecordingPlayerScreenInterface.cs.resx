@@ -65,7 +65,7 @@
     <value>Přehrávač připraven. Přehrávání spustíš mezerníkem. Dalším stiskem mezerníku ho pozastavíš a znovu spustíš. Levou a pravou šipkou přetáčíš o pět vteřin. O třicet sekund přetáčíš šipkami společně s controlem. Přehrávač zavřeš escapem.</value>
   </data>
   <data name="Loading" xml:space="preserve">
-    <value>Загрузка...</value>
+    <value>Načítá se...</value>
   </data>
   <data name="LoadingError" xml:space="preserve">
     <value>Při načítání nahrávky došlo k chybě. Tato nahrávka je možná poškozená.</value>
