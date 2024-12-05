@@ -496,7 +496,7 @@ msgid ""
 msgstr ""
 
 msgctxt "RecordingPlayerScreenInterface_Loading"
-msgid "Загрузка..."
+msgid "Loading..."
 msgstr ""
 
 msgctxt "RecordingPlayerScreenInterface_LoadingError"

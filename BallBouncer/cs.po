@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2024-09-13 08:46+0000\n"
-"PO-Revision-Date: 2024-12-05 09:33+0100\n"
+"PO-Revision-Date: 2024-12-05 11:25+0100\n"
 "Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
 "Language-Team: 4Sense Gaming\n"
 "Language: cs\n"
@@ -356,7 +356,7 @@ msgstr "Mapa předmětů"
 
 msgctxt "KeyConfigurationBlockBallBouncerPracticeGameSessionKeys"
 msgid "Training mode"
-msgstr "Režim Trénink"
+msgstr "Režim tréninku"
 
 msgctxt "KeyConfigurationMergeDeletionDialogOk"
 msgid "I understand"
@@ -476,7 +476,7 @@ msgstr "Normální hra."
 
 msgctxt "ModeSelectionFormPracticeMode"
 msgid "Training mode."
-msgstr "Trénink."
+msgstr "Režim tréninku."
 
 msgctxt "ModeSelectionFormRecord"
 msgid "Record the game"
@@ -738,7 +738,7 @@ msgstr ""
 
 msgctxt "PauseMenuPracticeModeActive"
 msgid "Training mode is active."
-msgstr "Hraješ v režimu Trénink."
+msgstr "Hraješ v režimu tréninku."
 
 #, python-brace-format
 msgctxt "PauseMenuTimeToEnd"
