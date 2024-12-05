@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Agsharp\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-09-13 08:46+0000\n"
-"PO-Revision-Date: 2024-12-04 05:20+0100\n"
+"POT-Creation-Date: 2024-12-05 11:51+0000\n"
+"PO-Revision-Date: 2024-12-05 19:05+0700\n"
 "Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
 "Language-Team: 4Sense Gaming\n"
 "Language: cs\n"
@@ -40,7 +40,7 @@ msgstr "Nezaškrtnuto"
 
 msgctxt "AudioForms_EditBoxControlCapLetter"
 msgid "Cap"
-msgstr "Kšiltovka"
+msgstr "Zapsán maximální počet znaků"
 
 msgctxt "AudioForms_EditBoxControlCopied"
 msgid "copied"
@@ -86,7 +86,7 @@ msgstr "nevybráno {0} znaků"
 
 msgctxt "AudioForms_EditBoxControlUnselect"
 msgid "unselected"
-msgstr "nevybrané"
+msgstr "výběr zrušen"
 
 #, python-brace-format
 msgctxt "AudioForms_ItemsCount"
@@ -99,7 +99,7 @@ msgstr "seznam"
 
 msgctxt "AudioForms_SliderControlName"
 msgid "slider"
-msgstr "slider"
+msgstr "posuvník"
 
 msgctxt "AudioForms_TabControlName"
 msgid "tab panel"
@@ -218,7 +218,7 @@ msgstr "Klávesa alt"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListAny"
 msgid "Any"
-msgstr "Jakýkolv"
+msgstr "Obě"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListCtrl"
 msgid "Ctrl key"
@@ -226,19 +226,19 @@ msgstr "Klávesa control"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListLeft"
 msgid "Left"
-msgstr "Vlevo"
+msgstr "Levá"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListRight"
 msgid "Right"
-msgstr "Vpravo"
+msgstr "Pravá"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListShift"
 msgid "Shift key"
-msgstr "Jlávesa shift"
+msgstr "Klávesa shift"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListUnused"
 msgid "Not used"
-msgstr "Nepoužívá se"
+msgstr "Nepoužívat"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListWin"
 msgid "Windows key"
@@ -318,7 +318,7 @@ msgstr "smazat"
 
 msgctxt "Keys_DOWN"
 msgid "down"
-msgstr "skrýt při posouvání dolů"
+msgstr "šipka dolů"
 
 msgctxt "Keys_END"
 msgid "end"
@@ -326,7 +326,7 @@ msgstr "end"
 
 msgctxt "Keys_EQUALS"
 msgid "equals"
-msgstr "rovno"
+msgstr "rovná se"
 
 msgctxt "Keys_ESCAPE"
 msgid "escape"
@@ -338,11 +338,11 @@ msgstr "středník"
 
 msgctxt "Keys_HOME"
 msgid "home"
-msgstr "domů"
+msgstr "home"
 
 msgctxt "Keys_INSERT"
 msgid "insert"
-msgstr "vložit"
+msgstr "insert"
 
 msgctxt "Keys_KP_0"
 msgid "numpad 0"
@@ -414,7 +414,7 @@ msgstr "numerické plus"
 
 msgctxt "Keys_LEFT"
 msgid "left"
-msgstr "vlevo"
+msgstr "šipka doleva"
 
 msgctxt "Keys_LEFTBRACKET"
 msgid "left bracket"
@@ -422,7 +422,7 @@ msgstr "levá závorka"
 
 msgctxt "Keys_MINUS"
 msgid "dash"
-msgstr "špetka"
+msgstr "pomlčka"
 
 msgctxt "Keys_MUTE"
 msgid "mute"
@@ -438,11 +438,11 @@ msgstr "page up"
 
 msgctxt "Keys_PAUSE"
 msgid "pause"
-msgstr "pozastavit"
+msgstr "break"
 
 msgctxt "Keys_PERIOD"
 msgid "period"
-msgstr "period"
+msgstr "tečka"
 
 msgctxt "Keys_PRINTSCREEN"
 msgid "printscreen"
@@ -454,7 +454,7 @@ msgstr "enter"
 
 msgctxt "Keys_RIGHT"
 msgid "right"
-msgstr "vpravo"
+msgstr "šipka doprava"
 
 msgctxt "Keys_RIGHTBRACKET"
 msgid "right bracket"
@@ -474,7 +474,7 @@ msgstr "lomítko"
 
 msgctxt "Keys_SPACE"
 msgid "space"
-msgstr "místo"
+msgstr "mezerník"
 
 msgctxt "Keys_TAB"
 msgid "tab"
@@ -482,7 +482,7 @@ msgstr "karta"
 
 msgctxt "Keys_UP"
 msgid "up"
-msgstr "až 100 adres URL"
+msgstr "šipka nahoru"
 
 msgctxt "Keys_VOLUMEDOWN"
 msgid "volume down"
@@ -509,8 +509,8 @@ msgstr ""
 "escapem."
 
 msgctxt "RecordingPlayerScreenInterface_Loading"
-msgid "Загрузка..."
-msgstr "Загрузка..."
+msgid "Loading..."
+msgstr "Načítá se..."
 
 msgctxt "RecordingPlayerScreenInterface_LoadingError"
 msgid ""
@@ -547,3 +547,7 @@ msgstr "{0} z {1}"
 msgctxt "RecordingPlayerScreenInterface_Volume"
 msgid "Volume {0}%"
 msgstr "Hlasitost {0} %"
+
+#~ msgctxt "RecordingPlayerScreenInterface_Loading"
+#~ msgid "Загрузка..."
+#~ msgstr "Načítá se..."

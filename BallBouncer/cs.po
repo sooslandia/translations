@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2024-09-13 08:46+0000\n"
-"PO-Revision-Date: 2024-12-04 05:20+0100\n"
+"PO-Revision-Date: 2024-12-05 11:25+0100\n"
 "Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
 "Language-Team: 4Sense Gaming\n"
 "Language: cs\n"
@@ -22,7 +22,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "AchievementPoints"
 msgid "Achievement points: {0}."
-msgstr "Úspěchových bodů: {0}."
+msgstr "Úspěchové body: {0}."
 
 #, python-brace-format
 msgctxt "AchievementPointsTotal"
@@ -35,7 +35,7 @@ msgid ""
 "Leader's aura: level {0} (+{1}%). For each level, adds one percent to the "
 "points received."
 msgstr ""
-"Aura vůdce: Úroveň {0} (+{1} %). Každá úroveň zvyšuje celkové skóre na konci "
+"Aura vítěze: Úroveň {0} (+{1} %). Každá úroveň zvyšuje celkové skóre na konci "
 "hry o jedno procento."
 
 #, python-brace-format
@@ -44,7 +44,7 @@ msgid ""
 "Time Aura: level {0} (+{1} sec). For each level, adds 5 seconds to the maximum "
 "playing time."
 msgstr ""
-"Časová Aura: Úroveň {0} (+{1} vteřin). Každá úroveň prodlužuje maximální herní "
+"Aura času: Úroveň {0} (+{1} vteřin). Každá úroveň prodlužuje maximální herní "
 "dobu o 5 vteřin."
 
 #, python-brace-format
@@ -71,7 +71,7 @@ msgstr ""
 
 msgctxt "CheckUpdatesScreenChecking"
 msgid "Checking..."
-msgstr "Vyhledává se..."
+msgstr "Hledají se aktualizace..."
 
 msgctxt "CheckUpdatesScreenNoUpdates"
 msgid "You have the latest version."
@@ -132,11 +132,11 @@ msgstr "Televize."
 #, python-brace-format
 msgctxt "GamePoints"
 msgid "{0} points scored in this game."
-msgstr "Za tuto hru zatím získáváš {0} bodů."
+msgstr "{0} bodů."
 
 msgctxt "GamePracticeInstantSkillRecharge"
 msgid "All skills are ready to use."
-msgstr "Všechny schopnosti jsou připraveny k použití."
+msgstr "Všechny schopnosti připraveny k použití."
 
 #, python-brace-format
 msgctxt "GameResultScreenCoins"
@@ -150,15 +150,15 @@ msgstr "Získáváš {0} bodů."
 
 msgctxt "GameResultScreenTitle"
 msgid "Results of the last game."
-msgstr "Výsledky poslední hry."
+msgstr "Výsledky hry."
 
 msgctxt "GameResultScreenTitleWithHint"
 msgid ""
 "Results of the last game. Use the down and up arrows to navigate through the "
 "menu. To close the menu, press enter at any item."
 msgstr ""
-"Výsledky poslední hry. Šipkami dolů a nahoru se pohybuješ po menu. Enterem na "
-"libovolné položce menu zavřeš."
+"Výsledky hry. Šipkami dolů a nahoru se pohybuješ po menu. Enterem na libovolné "
+"položce menu zavřeš."
 
 msgctxt "GameRewardAvailableDialog"
 msgid "A reward is available! Get it in your profile on the statistics tab!"
@@ -178,8 +178,8 @@ msgid ""
 msgstr ""
 "Tento soubor s uloženým postupem vznikl v novější verzi hry\n"
 "a obsahuje data, která budou ztracena.\n"
-"Proto bude považován za nekompatibilní.\n"
-"Aplikace bude ukončena."
+"Proto je považován za nekompatibilní.\n"
+"Aplikace se ukončí."
 
 msgctxt "IncompatableSaveTitle"
 msgid "Incompatible save"
@@ -191,7 +191,7 @@ msgstr "Přečíst skóre"
 
 msgctxt "KeyConfigurationActionCheckRemainingTime"
 msgid "Check the time remaining until the end of the session"
-msgstr "Přečíst zbývající čas do konce hry"
+msgstr "Přečíst čas do konce hry"
 
 msgctxt "KeyConfigurationActionCloseMap"
 msgid "Close map"
@@ -247,7 +247,7 @@ msgstr "Zapauzovat hru"
 
 msgctxt "KeyConfigurationActionPlayCheckPositionSound"
 msgid "Play sound at character's position"
-msgstr "Přehrát zvuk na pozici postavy"
+msgstr "Přehrát zvuk z pozice postavy"
 
 msgctxt "KeyConfigurationActionPlayerCatchBall"
 msgid "Catch the ball"
@@ -259,15 +259,15 @@ msgstr "Vyskočit"
 
 msgctxt "KeyConfigurationActionPlayerMoveLeft"
 msgid "Move character left"
-msgstr "Pohnout s postavou doleva"
+msgstr "Krok doleva"
 
 msgctxt "KeyConfigurationActionPlayerMoveRight"
 msgid "Move character right"
-msgstr "Pohnout s postavou doprava"
+msgstr "Krok doprava"
 
 msgctxt "KeyConfigurationActionPracticeInstantSkillRecharge"
 msgid "Zero all skills cooldown"
-msgstr "Vynulovat prodlevu před použitím pro všechny schopnosti"
+msgstr "Vynulovat prodlevu před použitím u všech schopností"
 
 msgctxt "KeyConfigurationActionPracticeSetSkillLevels"
 msgid "Set skill levels"
@@ -283,43 +283,43 @@ msgstr "Otočit postavu doprava"
 
 msgctxt "KeyConfigurationActionSkillSlot1"
 msgid "Select the skill set in slot 1"
-msgstr "Vybrat schopnost uloženou ve slotu 1"
+msgstr "Vybrat schopnost ve slotu 1"
 
 msgctxt "KeyConfigurationActionSkillSlot10"
 msgid "Select the skill set in slot 10"
-msgstr "Vybrat schopnost uloženou ve slotu 10"
+msgstr "Vybrat schopnost ve slotu 10"
 
 msgctxt "KeyConfigurationActionSkillSlot2"
 msgid "Select the skill set in slot 2"
-msgstr "Vybrat schopnost uloženou ve slotu 2"
+msgstr "Vybrat schopnost ve slotu 2"
 
 msgctxt "KeyConfigurationActionSkillSlot3"
 msgid "Select the skill set in slot 3"
-msgstr "Vybrat schopnost uloženou ve slotu 3"
+msgstr "Vybrat schopnost ve slotu 3"
 
 msgctxt "KeyConfigurationActionSkillSlot4"
 msgid "Select the skill set in slot 4"
-msgstr "Vybrat schopnost uloženou ve slotu 4"
+msgstr "Vybrat schopnost ve slotu 4"
 
 msgctxt "KeyConfigurationActionSkillSlot5"
 msgid "Select the skill set in slot 5"
-msgstr "Vybrat schopnost uloženou ve slotu 5"
+msgstr "Vybrat schopnost ve slotu 5"
 
 msgctxt "KeyConfigurationActionSkillSlot6"
 msgid "Select the skill set in slot 6"
-msgstr "Vybrat schopnost uloženou ve slotu 6"
+msgstr "Vybrat schopnost ve slotu 6"
 
 msgctxt "KeyConfigurationActionSkillSlot7"
 msgid "Select the skill set in slot 7"
-msgstr "Vybrat schopnost uloženou ve slotu 7"
+msgstr "Vybrat schopnost ve slotu 7"
 
 msgctxt "KeyConfigurationActionSkillSlot8"
 msgid "Select the skill set in slot 8"
-msgstr "Vybrat schopnost uloženou ve slotu 8"
+msgstr "Vybrat schopnost ve slotu 8"
 
 msgctxt "KeyConfigurationActionSkillSlot9"
 msgid "Select the skill set in slot 9"
-msgstr "Vybrat schopnost uloženou ve slotu 9"
+msgstr "Vybrat schopnost ve slotu 9"
 
 msgctxt "KeyConfigurationActionSkillSlotCancel"
 msgid "Cancel the selected skill"
@@ -380,7 +380,7 @@ msgstr ""
 
 msgctxt "LearnSoundsBatHitSuccess"
 msgid "Successfully hit the ball with the bat."
-msgstr "Pálka se strefila do míče."
+msgstr "Pálka zasáhla míč."
 
 msgctxt "LearnSoundsCeilBounce"
 msgid "The ball bounced off the ceiling."
@@ -400,11 +400,11 @@ msgstr "Síla úderu postavy se plně obnovila."
 
 msgctxt "LearnSoundsObjectDestroy"
 msgid "Object destruction alert."
-msgstr "Upozornění na zničení předmětu."
+msgstr "Zničení předmětu."
 
 msgctxt "LearnSoundsObjectHit"
 msgid "Ball hit an object alert."
-msgstr "Upozornění, že míč narazil do předmětu."
+msgstr "Míč narazil do předmětu."
 
 msgctxt "LearnSoundsPerfectHit"
 msgid "A perfect strike."
@@ -425,8 +425,7 @@ msgid ""
 "key."
 msgstr ""
 "Nabídka seznámení se zvuky. Šipkami nahoru a dolů se pohybuješ. Enterem "
-"přehraješ vybraný zvuk. Výběrem příslušné položky nebo klávesou escape menu "
-"zavřeš."
+"přehraješ vybraný zvuk. Příslušnou položkou nebo klávesou escape menu zavřeš."
 
 msgctxt "MainMenuExitGame"
 msgid "Exit the game."
@@ -498,7 +497,7 @@ msgid ""
 "your selection, press enter or click the \"Start\" button."
 msgstr ""
 "Vyber si režim hry. Klávesami tab a shift+tab se pohybuješ po obrazovce "
-"dopředu a zpátky. Šipkami nahoru a dolů se pohybuješ po seznamu. Výběr "
+"dopředu a dozadu. Šipkami nahoru a dolů se pohybuješ po seznamu. Vybraný režim "
 "potvrdíš klávesou enter nebo tlačítkem Začít."
 
 msgctxt "NumberNotationsEmpty"
@@ -563,7 +562,7 @@ msgstr "Ukládat nahrávku každých 30 vteřin"
 
 msgctxt "OptionsScreenBatHitSuccessSound"
 msgid "Play a sound when the ball is successfully hit with the bat"
-msgstr "Přehrávat zvuk, když se pálka trefí do míče"
+msgstr "Přehrávat zvuk, když pálka zasáhne míč"
 
 msgctxt "OptionsScreenCatigoriesBehaviour"
 msgid "Behavior"
@@ -611,7 +610,7 @@ msgstr "Nastavit klávesové zkratky"
 
 msgctxt "OptionsScreenDisplayTitleHints"
 msgid "Show navigation hints in menu titles"
-msgstr "Zobrazovat navigační nápovědu pro různá menu"
+msgstr "Zobrazovat navigační nápovědu při otevření menu"
 
 msgctxt "OptionsScreenGameVolumeSlider"
 msgid "Game volume"
@@ -619,7 +618,7 @@ msgstr "Hlasitost hry"
 
 msgctxt "OptionsScreenLearnSounds"
 msgid "Learn game sounds"
-msgstr "Seznámit se se zvuky"
+msgstr "Seznámení se zvuky"
 
 msgctxt "OptionsScreenMusicVolumeSlider"
 msgid "Music volume"
@@ -639,7 +638,7 @@ msgstr "Upřednostnit Sapi před odečítačem"
 
 msgctxt "OptionsScreenRecordingCancellation"
 msgid "Cancel recording when canceling the game from the pause menu"
-msgstr "Přestat nahrávat při přerušení hry z menu Pauza"
+msgstr "Přestat nahrávat při ukončení hry z menu Pauza"
 
 msgctxt "OptionsScreenResetKeyConfigurationToDefault"
 msgid "Reset shortcut key configuration to defaults"
@@ -675,12 +674,11 @@ msgstr "Po dohrání hry zobrazovat výsledky"
 
 msgctxt "OptionsScreenShowRewardAvailableDialog"
 msgid "Show notification if reward is available at end of game"
-msgstr "Zobrazovat oznámení, pokud jsou po dohrání hry dostupné odměny"
+msgstr "Zobrazovat oznámení o dostupných odměnách po dohrání hry"
 
 msgctxt "OptionsScreenShowUpdateCheckErrorOnStartup"
 msgid "Show an error if it was not possible to check for updates at startup"
-msgstr ""
-"Zobrazovat chybu, pokud se při spuštění nepodařilo zkontrolovat aktualizace"
+msgstr "Zobrazit chybu, pokud se při spuštění nepodaří zkontrolovat aktualizace"
 
 msgctxt "OptionsScreenSoundPanRepresentationMode"
 msgid "Sound Panning Mode"
@@ -704,13 +702,13 @@ msgid ""
 "arrow keys to change the position of the sliders. To activate the selected "
 "item, press enter or spacebar."
 msgstr ""
-"Menu nastavení. Klávesami tab a shift+tab se pohybuješ dopředu a zpátky. "
+"Menu nastavení. Klávesami tab a shift+tab se pohybuješ dopředu a dozadu. "
 "Šipkami měníš hodnoty posuvníků. Vybranou položku potvrdíš enterem nebo "
 "mezerníkem."
 
 msgctxt "OptionsScreenWipeSave"
 msgid "Reset game progress"
-msgstr "Smazat dosavadní postup hrou"
+msgstr "Smazat uložený postup hrou"
 
 msgctxt "OptionsScreenWipeSaveConfirmationQuestion"
 msgid ""
@@ -740,7 +738,7 @@ msgstr ""
 
 msgctxt "PauseMenuPracticeModeActive"
 msgid "Training mode is active."
-msgstr "Režim tréninku je aktivní."
+msgstr "Hraješ v režimu tréninku."
 
 #, python-brace-format
 msgctxt "PauseMenuTimeToEnd"
@@ -780,9 +778,8 @@ msgid ""
 "Your profile. Use tab and shift+tab to move forwards and backwards. To receive "
 "a reward in statistics, press enter on the item with an available reward."
 msgstr ""
-"Tvůj profil. Klávesami tab a shift+tab se pohybuješ dopředu a zpátky. Enterem "
-"na některé položce ve statistikách, u které je dostupná odměna, si ji "
-"vyzvedneš."
+"Tvůj profil. Klávesami tab a shift+tab se pohybuješ dopředu a dozadu. Enterem "
+"na libovolné položce na kartě Statistiky si vyzvedneš dostupnou odměnu."
 
 msgctxt "SkillLevelsSetFormBack"
 msgid "Return to game"
@@ -790,7 +787,7 @@ msgstr "Zpět do hry"
 
 msgctxt "SkillLevelsSetFormPowerRecoveringBonusChanger"
 msgid "Increased blow force recovery rate level"
-msgstr "Zvýšena úroveň rychlosti obnovování síly úderu"
+msgstr "Úroveň rychlosti obnovování síly úderu"
 
 #, python-brace-format
 msgctxt "SkillLevelsSetFormSkillLevel"
@@ -808,13 +805,13 @@ msgid ""
 "item, press enter or spacebar."
 msgstr ""
 "Nastav úrovně schopností. Klávesami tab a shift+tab se pohybuješ dopředu a "
-"zpátky. Šipkami měníš hodnoty posuvníků. Enterem nebo mezerníkem potvrdíš "
+"dozadu. Šipkami měníš hodnoty posuvníků. Enterem nebo mezerníkem potvrdíš "
 "vybranou položku."
 
 #, python-brace-format
 msgctxt "SkillSlotRecharging"
 msgid "{0} seconds before skill cooldown."
-msgstr "{0} vteřin do dalšího použití schopnosti."
+msgstr "{0} vteřin před dalším použitím schopnosti."
 
 msgctxt "SkillSlotSelectCanceled"
 msgid "Selection canceled."
@@ -823,7 +820,7 @@ msgstr "Výběr zrušen."
 #, python-brace-format
 msgctxt "SkillSlotSelected"
 msgid "Skill {0} is selected."
-msgstr "Schopnost {0} je vybrána."
+msgstr "Schopnost {0} vybrána."
 
 msgctxt "SkillSlotSetterMenuBack"
 msgid "Go back."
@@ -831,14 +828,14 @@ msgstr "Zpět."
 
 msgctxt "SkillSlotSetterMenuTitle"
 msgid "Select a skill to install in the slot."
-msgstr "Vyber si schopnost, kterou chceš uložit do slotu."
+msgstr "Vyber schopnost, kterou chceš uložit do slotu."
 
 msgctxt "SkillSlotSetterMenuTitleWithHint"
 msgid ""
 "Select a skill to install in the slot. Use the up and down arrows to select "
 "and press enter to confirm your selection."
 msgstr ""
-"Vyber si schopnost, kterou chceš uložit do slotu. Šipkami nahoru a dolů se "
+"Vyber schopnost, kterou chceš uložit do slotu. Šipkami nahoru a dolů se "
 "pohybuješ a enterem potvrdíš vybranou položku."
 
 #, python-brace-format
@@ -945,7 +942,7 @@ msgstr ""
 
 msgctxt "SkillsNoneNameFull"
 msgid "Not set."
-msgstr "Nenastaveno."
+msgstr "Žádná schopnost."
 
 #, python-brace-format
 msgctxt "SkillsObjectSpawnerLevelInfoText"
@@ -954,11 +951,11 @@ msgid ""
 "interval is {2} seconds."
 msgstr ""
 "Úroveň {0}. Máchnutí pálkou vytvoří na hrací ploše {1} předmětů. Prodleva před "
-"dalším použitím je {2} seconds."
+"dalším použitím je {2} vteřin."
 
 msgctxt "SkillsObjectSpawnerName"
 msgid "creator's stroke"
-msgstr "úder stvořitele"
+msgstr ";úder stvořitele"
 
 msgctxt "SkillsObjectSpawnerNameFull"
 msgid "Creator's stroke."
@@ -1032,12 +1029,12 @@ msgstr ""
 #, python-brace-format
 msgctxt "StatItemBallCeilHits"
 msgid "Number of ball bounces from the ceiling: {0}. {1}"
-msgstr "Odrazů míče od stropu: {0}. {1}"
+msgstr "Odrazy míče od stropu: {0}. {1}"
 
 #, python-brace-format
 msgctxt "StatItemBallFloorHits"
 msgid "Number of ball bounces off the floor: {0}. {1}"
-msgstr "Odrazů míče od podlahy: {0}. {1}"
+msgstr "Odrazy míče od podlahy: {0}. {1}"
 
 #, python-brace-format
 msgctxt "StatItemBallsCaught"
@@ -1047,12 +1044,12 @@ msgstr "Celkem chyceno míčů: {0}. {1}"
 #, python-brace-format
 msgctxt "StatItemBatHits"
 msgid "Number of balls hit: {0}. {1}"
-msgstr "Tref do míče: {0}. {1}"
+msgstr "Trefy do míče: {0}. {1}"
 
 #, python-brace-format
 msgctxt "StatItemDestroyedObjects"
 msgid "Number of objects destroyed: {0}. {1}"
-msgstr "Zničených předmětů: {0}. {1}"
+msgstr "Zničené předměty: {0}. {1}"
 
 #, python-brace-format
 msgctxt "StatItemMaximumPoints"
@@ -1062,17 +1059,17 @@ msgstr "Nejvyšší skóre v jedné hře: {0}. {1}"
 #, python-brace-format
 msgctxt "StatItemObjectHits"
 msgid "Number of collisions with objects: {0}. {1}"
-msgstr "Nárazů míče do předmětů: {0}. {1}"
+msgstr "Nárazy míče do předmětů: {0}. {1}"
 
 #, python-brace-format
 msgctxt "StatItemPerfectHitsStreak"
 msgid "Perfect strikes made in a row: {0}. {1}"
-msgstr "Dokonalých tref za sebou: {0}. {1}"
+msgstr "Dokonalé trefy za sebou: {0}. {1}"
 
 #, python-brace-format
 msgctxt "StatItemStepsMade"
 msgid "Number of steps made: {0}. {1}"
-msgstr "Kroků postavy: {0}. {1}"
+msgstr "Kroky postavy: {0}. {1}"
 
 #, python-brace-format
 msgctxt "StatItemTotalGamingTime"
@@ -1082,7 +1079,7 @@ msgstr "Celkový čas strávený na hrací ploše: {0}. {1}"
 #, python-brace-format
 msgctxt "StatItemTotalPoints"
 msgid "Total points scored: {0}. {1}"
-msgstr "Získáno bodů celkem: {0}. {1}"
+msgstr "Celkem získáno bodů: {0}. {1}"
 
 #, python-brace-format
 msgctxt "StatItemTotalSkillsUsed"
@@ -1097,7 +1094,7 @@ msgstr "Celkový čas strávený v aplikaci: {0}. {1}"
 #, python-brace-format
 msgctxt "StatRewardAvailable"
 msgid "Reward is available. Rewards received: {0}."
-msgstr "Je dostupná odměna. Získáno odměn: {0}."
+msgstr "Je dostupná odměna. Získané odměny: {0}."
 
 msgctxt "StatRewardError"
 msgid "The reward is not yet available."
@@ -1106,7 +1103,7 @@ msgstr "Zatím nejsou dostupné žádné odměny."
 #, python-brace-format
 msgctxt "StatRewardRequirements"
 msgid "Until reward: {0}. Rewards received: {1}."
-msgstr "Do další odměny: {0}. Získáno odměn: {1}."
+msgstr "Do další odměny: {0}. Získané odměny: {1}."
 
 #, python-brace-format
 msgctxt "StatRewardsTotal"
@@ -1191,7 +1188,7 @@ msgstr "Předměty"
 #, python-brace-format
 msgctxt "StoreCoins"
 msgid "Coins: {0}."
-msgstr "Mincí: {0}."
+msgstr "Mince: {0}."
 
 msgctxt "StoreInfoTitle"
 msgid "Reference Information: "
@@ -1242,12 +1239,12 @@ msgid ""
 msgstr ""
 "Funkce výskoku\n"
 "Pokud chceš vyskočit, stiskni během hry šipku nahoru nebo klávesu W.\n"
-"Skákání je užitečné, když se snažíš trefit do míče, který se ještě neodrazil "
-"od podlahy.\n"
-"Nebo když ti utekla správná chvíle k úderu, ale ty se do míče chceš pořád "
+"Skákání je užitečné, když se snažíš odpálit míč, který se ještě neodrazil od "
+"podlahy.\n"
+"Nebo když ti utekla správná chvíle k úderu, ale ty se do míče snažíš pořád "
 "strefit.\n"
 "V takovém případě stačí jen vyskočit a ve správnou chvíli máchnout pálkou.\n"
-"Míč se taky snadněji chytá ve výskoku, pokud máš tuto funkci odemčenou."
+"Ve výskoku se míč taky snadněji chytá, pokud máš odemčené chytání míče."
 
 msgctxt "StoreItemJumpFeatureText"
 msgid "Unlock the  jump feature"
@@ -1464,8 +1461,7 @@ msgid ""
 "will go on cooldown."
 msgstr ""
 "Schopnost hopík.\n"
-"Míč bude extrémně pružit, takže se bude moct odrážet od povrchů o řád "
-"silněji.\n"
+"Míč bude extrémně pružit, takže se začne odrážet od povrchů o řád silněji.\n"
 "Použití:\n"
 "Vyber slot, ve kterém máš tuto schopnost uloženou.\n"
 "Potom se tref pálkou do míče.\n"
@@ -1488,28 +1484,28 @@ msgid ""
 "the selected item, press enter or spacebar."
 msgstr ""
 "Vítej v obchodě. Klávesami tab a shift+tab se pohybuješ po obrazovce dopředu a "
-"zpátky. Šipkami nahoru a dolů se pohybuješ po seznamu. Enterem nebo mezerníkem "
+"dozadu. Šipkami nahoru a dolů se pohybuješ po seznamu. Enterem nebo mezerníkem "
 "potvrdíš vybranou položku."
 
 #, python-brace-format
 msgctxt "TimeString1"
 msgid "{0} d, {1} h, {2} min, {3} sec"
-msgstr "{0} d, {1} h, {2} min, {3} sec"
+msgstr "{0} dnů, {1} hodin, {2} minut, {3} vteřin"
 
 #, python-brace-format
 msgctxt "TimeString2"
 msgid "{0} h, {1} min, {2} sec"
-msgstr "{0} h, {1} min, {2} sec"
+msgstr "{0} hodin, {1} minut, {2} vteřin"
 
 #, python-brace-format
 msgctxt "TimeString3"
 msgid "{0} min, {1} sec"
-msgstr "{0} min, {1} sec"
+msgstr "{0} minut, {1} vteřin"
 
 #, python-brace-format
 msgctxt "TimeString4"
 msgid "{0} sec"
-msgstr "{0} sec"
+msgstr "{0} vteřin"
 
 msgctxt "TimeStringIncorrect"
 msgid "N/A"
