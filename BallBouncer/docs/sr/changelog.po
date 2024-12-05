@@ -9,73 +9,75 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2024-12-04 15:35+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2024-12-04 18:58+0100\n"
+"Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
+"Language-Team: \n"
+"Language: sr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
 
 #: BallBouncer/docs/en/changelog.md:block 1 (paragraph)
 msgid "% changelog"
-msgstr ""
+msgstr "% Lista promena"
 
 #: BallBouncer/docs/en/changelog.md:block 2 (header)
 msgid "1.2.3"
-msgstr ""
+msgstr "1.2.3"
 
 #: BallBouncer/docs/en/changelog.md:block 3 (header)
 msgid "New features"
-msgstr ""
+msgstr "Nove funkcije"
 
 #: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
 msgid "New translations added."
-msgstr ""
+msgstr "Dodati novi prevodi."
 
 #: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
 msgid "Serbian. Translator [nidza07](https://github.com/nidza07)."
-msgstr ""
+msgstr "Srpski. Prevodilac [nidza07](https://github.com/nidza07)."
 
 #: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
 msgid "Czech. Translator [4sensegaming](https://github.com/4sensegaming)."
-msgstr ""
+msgstr "Češki. Prevodilac [4sensegaming](https://github.com/4sensegaming)."
 
 #: BallBouncer/docs/en/changelog.md:block 5 (header)
 msgid "Fixes"
-msgstr ""
+msgstr "Ispravke"
 
 #: BallBouncer/docs/en/changelog.md:block 6 (unordered list)
 msgid "Resolved a minor issue in the Turkish translation."
-msgstr ""
+msgstr "Ispravljena sitna greška u turskom prevodu."
 
 #: BallBouncer/docs/en/changelog.md:block 6 (unordered list)
 msgid "Fixed incorrect display of in-game help."
-msgstr ""
+msgstr "Ispravljeno neispravno prikazivanje pomoći igre."
 
 #: BallBouncer/docs/en/changelog.md:block 6 (unordered list)
 msgid "Fixed a potential critical error when loading a recording."
-msgstr ""
+msgstr "Ispravljena potecijalna kritična greška kada se učitava snimak."
 
 #: BallBouncer/docs/en/changelog.md:block 7 (header)
 msgid "1.2.2"
-msgstr ""
+msgstr "1.2.2"
 
 #: BallBouncer/docs/en/changelog.md:block 8 (paragraph)
 msgid "Updated Turkish and Indonesian translations."
-msgstr ""
+msgstr "Ažurirani turski i indonežanski prevodi."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (header)
 msgid "1.2.1"
-msgstr ""
+msgstr "1.2.1"
 
 #: BallBouncer/docs/en/changelog.md:block 10 (paragraph)
 msgid "This update fixes several critical bugs for Linux users."
 msgstr ""
+"Ovo ažuriranje ispravlja nekoliko kritičnih grešaka za Linux korisnike."
 
 #: BallBouncer/docs/en/changelog.md:block 11 (header)
 msgid "1.2.0"
-msgstr ""
+msgstr "1.2.0"
 
 #: BallBouncer/docs/en/changelog.md:block 12 (paragraph)
 msgid ""
@@ -85,6 +87,11 @@ msgid ""
 "recordings using the built-in player for such recordings. An object map and "
 "several other improvements and fixes are also in place."
 msgstr ""
+"Cilj ove verzije je da dodatno poboljša korisničko iskustvo i uredi "
+"postojeći sadržaj. Sada možete da promenite tasterske prečice. Možete da "
+"snimite vašu igru i reprodukujete snimke korišćenjem ugrađenog reproduktora "
+"snimaka. Dodata je mapa objekata, kao i nekoliko drugih poboljšanja i "
+"ispravki."
 
 #: BallBouncer/docs/en/changelog.md:block 13 (paragraph)
 msgid ""
@@ -92,25 +99,31 @@ msgid ""
 "com/sooslandia/translations). If you want to translate the game and have the "
 "ability, we will be glad to accept your help."
 msgstr ""
+"Otvorili smo zvanični [github repozitorijum prevoda](https://github.com/"
+"sooslandia/translations). Ako želite da prevedete igru i imate mogućnost, "
+"rado ćemo prihvatiti vašu pomoć."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid "Turkish. Translator [fatihyuksek](https://github.com/fatihyuksek1)."
-msgstr ""
+msgstr "Turski. Prevodilac [fatihyuksek](https://github.com/fatihyuksek1)."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
 "Indonesian. Translator [MuhammadGagah](https://github.com/MuhammadGagah)."
 msgstr ""
+"Indonežanski. Prevodilac [MuhammadGagah](https://github.com/MuhammadGagah)."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid "You can now change the default keyboard shortcuts."
-msgstr ""
+msgstr "Sada možete da promenite podrazumevane tasterske prečice."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
 "To do that, click the \"Customize Keyboard Shortcuts\" button located on the "
 "\"Keyboard Shortcut Configuration\" tab on the Settings screen."
 msgstr ""
+"Da biste to uradili, kliknite na dugme \"Prilagodi tasterske prečice\" koje "
+"se nalazi na kartici \"Podešavanje tasterskih prečica\" u ekranu podešavanja."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
@@ -120,16 +133,21 @@ msgid ""
 "replace your configuration file with the one you received from the other "
 "person."
 msgstr ""
+"Vaša datoteka sa podešavanjima se nalazi u folderu korisničkih podataka "
+"(userData) i zove se keyConfig.json. Možete deliti vaša podešavanja sa "
+"drugim ljudima. Kako bi tuđa podešavanja radila kod vas, morate da zamenite "
+"vašu datoteku sa podešavanjima sa onom koju ste dobili od druge osobe."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
 "You can find out more about configuration setting in the corresponding "
 "section of the documentation."
 msgstr ""
+"Možete saznati više o podešavanjima u odgovarajućem delu dokumentacije."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid "You can now record your gameplay."
-msgstr ""
+msgstr "Sada možete da snimite vašu igru."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
@@ -137,12 +155,17 @@ msgid ""
 "recorded on the updated game mode selection screen. The recording behavior "
 "can be configured in the Recording tab of the Settings screen."
 msgstr ""
+"Možete da označite izborno polje koje određuje da li će vaša sesija igre "
+"biti snimana na ažuriranom ekranu izbora režima. Ponašanje snimanja se može "
+"podesiti na kartici snimanje na ekranu podešavanja."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
 "You can play recordings from the recordings menu, which can be accessed by "
 "activating the corresponding item in the main menu."
 msgstr ""
+"Možete reprodukovati snimke iz menija snimaka, kojem možete pristupiti "
+"aktiviranjem odgovarajuće stavke u glavnom meniju."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
@@ -152,45 +175,57 @@ msgid ""
 "recording to be detected by the game, it must be placed in the game's "
 "recording folder."
 msgstr ""
+"Snimci se čuvaju u recordings folderu, koji se nalazi u folderu vaših "
+"korisničkih podataka (userData) i imaju .sgr ekstenziju. Datoteka snimka se "
+"može preimenovati ako je neophodno i deliti sa drugim ljudima. Kako bi igra "
+"prepoznala tuđi snimak, mora se prebaciti u folder snimaka."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
 "Information about how the recording player works and its control keys can be "
 "found in the corresponding section of the documentation."
 msgstr ""
+"Informacije o načinu rada reproduktora snimaka i njegovim prečicama se mogu "
+"pronaći u odgovarajućem delu dokumentacije."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid "Added object map."
-msgstr ""
+msgstr "Dodata mapa objekata."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid "It can be opened with the m key during a gaming session."
-msgstr ""
+msgstr "Može se otvoriti tasterom m u toku igre."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
 "Navigate the map using the arrow keys. You can also find out how many "
 "objects are on the map by pressing the o key."
 msgstr ""
+"Krećite se po mapi korišćenjem strelica. Možete takođe saznati koliko "
+"objekata je na mapi pritiskanjem tastera o."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
 "There are two navigation modes, which you can read about in the "
 "corresponding section of the documentation."
 msgstr ""
+"Postoje dva režima navigacije, o kojima možete pročitati više u "
+"odgovarajućem delu dokumentacije."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
 "All object map hotkeys can be changed in the keyboard shortcut configuration."
 msgstr ""
+"Sve prečice mape objekata se mogu promeniti u podešavanjima tasterskih "
+"prečica."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid "Training mode is expanded as well."
-msgstr ""
+msgstr "Režim vežbanja je takođe proširen."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid "You can now instantly zero the cooldown of all skills by pressing f1."
-msgstr ""
+msgstr "Sada možete odmah oporaviti sve veštine tasterom f1."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
@@ -199,6 +234,10 @@ msgid ""
 "displays the skills you have. You can change their level only in the range "
 "from level 1 to the maximum current level."
 msgstr ""
+"Kada pritisnete taster f2, otvoriće se ekran na kojem možete da promenite "
+"nivoe vaših veština i brzinu oporavka snage udarca. Ovaj ekran prikazuje "
+"samo veštine koje imate. Možete promeniti njihov nivo samo u opsegu od nivoa "
+"1 do maksimalnog trenutnog nivoa."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
@@ -206,65 +245,74 @@ msgid ""
 "determines whether the first-person view state will be saved between game "
 "sessions."
 msgstr ""
+"U podešavanjima, na kartici \"ponašanje\", dodato je izborno polje koje "
+"određuje da li će se režim kamere čuvati između igara."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
 "It is now possible to delete saved game progress and reset settings to "
 "default values."
 msgstr ""
+"Sada je moguće obrisati napredak igre i vratiti podešavanja na podrazumevana."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid "This can be done in the settings, on the \"General\" tab."
-msgstr ""
+msgstr "Ovo se može uraditi u podešavanjima, na kartici \"opšta\"."
 
 #: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
 msgid ""
 "You will not be able to reset settings or delete your progress if you "
 "accessed settings through the pause menu."
 msgstr ""
+"Nećete moći da vratite podešavanja ili obrišete napredak ako ste "
+"podešavanjima pristupili iz menija pauze."
 
 #: BallBouncer/docs/en/changelog.md:block 16 (header)
 msgid "Changes"
-msgstr ""
+msgstr "Promene"
 
 #: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
 msgid "The game mode selection screen has been changed."
-msgstr ""
+msgstr "Ekran izbora režima igre je promenjen."
 
 #: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
 msgid ""
 "the screen is now represented by a virtual form instead of a menu. "
 "Navigation is similar to the settings or profile screen."
 msgstr ""
+"Ekran se sada prikazuje u obliku virtuelne forme umesto menija. Navigacija "
+"je slična ekranima podešavanja i profila."
 
 #: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
 msgid ""
 "From the new screen you can determine whether the game session will be "
 "recorded."
-msgstr ""
+msgstr "Sa novog ekrana možete odlučiti da li će igra biti snimljena."
 
 #: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
 msgid "Improved profile screen interface."
-msgstr ""
+msgstr "Poboljšan interfejs ekrana profila."
 
 #: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
 msgid ""
 "Now any item from the statistics list can be copied to the clipboard by "
 "pressing ctrl+c."
 msgstr ""
+"Sada se bilo koja stavka iz liste statistika može kopirati u privremenu "
+"memoriju prečicom ctrl+c."
 
 #: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
 msgid ""
 "The statistics tab now displays the current number of achievement points."
-msgstr ""
+msgstr "Kartica statistika sada prikazuje trenutni broj poena dostignuća."
 
 #: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
 msgid "Auras now display their bonus as well."
-msgstr ""
+msgstr "Aure takođe prikazuju svoje bonuse."
 
 #: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
 msgid "Slight changes to the game balance."
-msgstr ""
+msgstr "Sitne promene u balansu igre."
 
 #: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
 msgid ""
@@ -272,6 +320,8 @@ msgid ""
 "example, you scored 678 points, in which case you will receive 7 coins, and "
 "not one as before."
 msgstr ""
+"Sada na svakih sto poena do hiljadu, dobićete jedan novčić. Na primer, "
+"dobili ste 678 poena, dobićete 7 novčića, a ne jedan kao ranije."
 
 #: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
 msgid ""
@@ -279,68 +329,85 @@ msgid ""
 "received remain with you. For example, you scored 1234 points, in which case "
 "you will receive 11 coins."
 msgstr ""
+"Nakon hiljadu poena, sve ostaje kao ranije, ali 10 novčića koje ste dobili "
+"vam ostaju. Na primer, dobili ste 1234 poena, dobićete 11 novčića."
 
 #: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
 msgid "The maximum number of objects on the field has been increased."
-msgstr ""
+msgstr "Maksimalan broj objekata na terenu je povećan."
 
 #: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
 msgid ""
 "Now the sound played by pressing the c key in first person camera mode will "
 "play in the center of the field."
 msgstr ""
+"Sada će zvuk koji se reprodukuje pritiskanjem tastera c u režimu kamere "
+"fokusiranog na karaktera biti reprodukovan na centru terena."
 
 #: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
 msgid ""
 "The file name format with critical error data has been changed to (error "
 "yyyy_MM_dd hh-mm-ss.log)"
 msgstr ""
+"Format imena datoteke sa podacima o kritičnim greškama je promenjen na "
+"(error gggg_MM_dd čč-mm-ss.log)"
 
 #: BallBouncer/docs/en/changelog.md:block 19 (unordered list)
 msgid ""
 "Now, when critical errors are displayed, the sound will be completely muted "
 "instead of looping."
 msgstr ""
+"Sada, kada se prikazuju kritične greške, zvuk će u potpunosti biti isključen "
+"umesto da se ponavlja."
 
 #: BallBouncer/docs/en/changelog.md:block 19 (unordered list)
 msgid "Improved game stability in some cases."
-msgstr ""
+msgstr "Poboljšana stabilnost igre u nekim situacijama."
 
 #: BallBouncer/docs/en/changelog.md:block 20 (header)
 msgid "1.1.1"
-msgstr ""
+msgstr "1.1.1"
 
 #: BallBouncer/docs/en/changelog.md:block 22 (unordered list)
 msgid ""
 "Fixed a critical bug that occurred when the first person mode and the ball "
 "watch mode were active at the same time."
 msgstr ""
+"Ispravljena kritična greška do koje je dolazilo kada su režim kamere "
+"fokusiran na karaktera i režim gledanja loptice aktivirani u isto vreme."
 
 #: BallBouncer/docs/en/changelog.md:block 22 (unordered list)
 msgid "Fixed some other minor bugs."
-msgstr ""
+msgstr "Ispravljene neke druge sitne greške."
 
 #: BallBouncer/docs/en/changelog.md:block 23 (header)
 msgid "1.1.0"
-msgstr ""
+msgstr "1.1.0"
 
 #: BallBouncer/docs/en/changelog.md:block 24 (paragraph)
 msgid ""
 "This version is focused on improving the user experiance: Successful bat hit "
 "sound, first person camera view, alternative bat swing keys, etc."
 msgstr ""
+"Ova verzija se fokusira na poboljšanje korisničkog iskustva: Zvuk za uspešan "
+"udarac palicom, režim kamere fokusiran na karaktera, alternativni tasteri za "
+"udarac palicom, i tako dalje."
 
 #: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
 msgid ""
 "The game now supports translations that are missing one or more strings. If "
 "a string is not found, the game falls back to English localization strings."
 msgstr ""
+"Igra sada podržava prevode kojima nedostaje jedan ili više nizova. Ako niz "
+"nije pronađen, igra se vraća na nizove engleskog prevoda."
 
 #: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
 msgid ""
 "In ball watching mode, a background sound has been attached to the ceiling, "
 "which will help make watching more spectacular."
 msgstr ""
+"U režimu gledanja loptice, dodat je pozadinski zvuk za plafon, što će "
+"gledanje učiniti spektakularnijim."
 
 #: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
 msgid ""
@@ -348,64 +415,80 @@ msgid ""
 "default, the notification is disabled; it is enabled in the settings, on the "
 "\"Behavior\" tab."
 msgstr ""
+"Dodat zvuk koji označava uspešan udarac loptice palicom. Podrazumevano, "
+"obaveštenje je onemogućeno; može se omogućiti u podešavanjima, na kartici "
+"\"ponašanje\"."
 
 #: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
 msgid ""
 "Implemented first-person camera mode. To switch between modes, press v while "
 "playing."
 msgstr ""
+"Dodat režim kamere fokusiran na karaktera. Da biste promenili režime, "
+"pritisnite v u toku igre."
 
 #: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
 msgid ""
 "Errors during the update are now written to a file that will be located in "
 "the userData/errorLogs folder."
 msgstr ""
+"Greške tokom ažuriranja se sada evidentiraju u datoteci koja će se nalaziti "
+"u folderu userData/errorLogs."
 
 #: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
 msgid ""
 "Added temporary alternative keys for making horizontal and vertical bat "
 "swings."
 msgstr ""
+"Dodati privremeni alternativni tasteri za horizontalne i vertikalne udarce "
+"palicom."
 
 #: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
 msgid ""
 "For a horizontal swing, use the e key, for a vertical swing, use the r key."
 msgstr ""
+"Za horizontalni udarac, koristite taster e, za vertikalni udarac, koristite "
+"taster r."
 
 #: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
 msgid ""
 "This solution is temporary and remains until the key config is implemented."
 msgstr ""
+"Ovo rešenje je privremeno i ostaje dok se ne doda podešavanje tasterskih "
+"prečica."
 
 #: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
 msgid ""
 "Now items with an available reward in the statistics list are at the "
 "beginning of the list."
 msgstr ""
+"Sada su stavke sa dostupnom nagradom u listi statistika na početku liste."
 
 #: BallBouncer/docs/en/changelog.md:block 28 (unordered list)
 msgid ""
 "Increased points received for perfect strike streeks, ball bounces off the "
 "ceiling and ball with object collisions streeks."
 msgstr ""
+"Povećani poeni koji se dobijaju za nizove savršenih udaraca, odskakanja "
+"loptice sa plafona i sudare loptice sa objektima."
 
 #: BallBouncer/docs/en/changelog.md:block 28 (unordered list)
 msgid "Documentation has been updated to take new features into account."
-msgstr ""
+msgstr "Dokumentacija je ažurirana kako bi se u obzir uzele nove funkcije."
 
 #: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
 msgid "Increased the volume of the landing sound after a jump."
-msgstr ""
+msgstr "Pojačan zvuk prizemljenja nakon skoka."
 
 #: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
 msgid ""
 "Now the leader's aura does not increase the points lost due to penalties."
-msgstr ""
+msgstr "Sada aura vođe ne povećava poene koji se gube usled kazni."
 
 #: BallBouncer/docs/en/changelog.md:block 31 (header)
 msgid "1.0.0"
-msgstr ""
+msgstr "1.0.0"
 
 #: BallBouncer/docs/en/changelog.md:block 32 (paragraph)
 msgid "Initial release."
-msgstr ""
+msgstr "Prva verzija."
