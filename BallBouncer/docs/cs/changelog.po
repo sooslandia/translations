@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2024-12-04 15:35+0000\n"
-"PO-Revision-Date: 2024-12-05 23:26+0100\n"
+"PO-Revision-Date: 2024-12-06 05:03+0100\n"
 "Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
 "Language-Team: 4Sense Gaming\n"
 "Language: cs\n"
@@ -24,7 +24,7 @@ msgstr "% Historie změn"
 
 #: BallBouncer/docs/en/changelog.md:block 2 (header)
 msgid "1.2.3"
-msgstr "1.2.2"
+msgstr "1.2.3"
 
 #: BallBouncer/docs/en/changelog.md:block 3 (header)
 msgid "New features"
@@ -88,11 +88,10 @@ msgid ""
 "several other improvements and fixes are also in place."
 msgstr ""
 "Tato verze se zaměřuje na další vylepšování uživatelského prostředí a "
-"dolaďování stávajícího obsahu.\n"
-"Nyní si můžeš nastavit klávesové zkratky podle vlastního uvážení.\n"
-"Nyní je možné nahrávat své hraní a přehrávat výsledné nahrávky pomocí "
-"vestavěného přehrávače.\n"
-"K dispozici je také mapa předmětů a několik dalších vylepšení a oprav."
+"dolaďování stávajícího obsahu. Nyní si můžeš nastavit klávesové zkratky "
+"podle vlastního uvážení. Nyní je možné nahrávat své hraní a přehrávat "
+"výsledné nahrávky pomocí vestavěného přehrávače. K dispozici je také mapa "
+"předmětů a několik dalších vylepšení a oprav."
 
 #: BallBouncer/docs/en/changelog.md:block 13 (paragraph)
 msgid ""
