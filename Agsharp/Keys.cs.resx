@@ -110,13 +110,13 @@
     <value>smazat</value>
   </data>
   <data name="DOWN" xml:space="preserve">
-    <value>skrýt při posouvání dolů</value>
+    <value>šipka dolů</value>
   </data>
   <data name="END" xml:space="preserve">
     <value>end</value>
   </data>
   <data name="EQUALS" xml:space="preserve">
-    <value>rovno</value>
+    <value>rovná se</value>
   </data>
   <data name="ESCAPE" xml:space="preserve">
     <value>escape</value>
@@ -125,10 +125,10 @@
     <value>středník</value>
   </data>
   <data name="HOME" xml:space="preserve">
-    <value>domů</value>
+    <value>home</value>
   </data>
   <data name="INSERT" xml:space="preserve">
-    <value>vložit</value>
+    <value>insert</value>
   </data>
   <data name="KP_0" xml:space="preserve">
     <value>numerická 0</value>
@@ -182,13 +182,13 @@
     <value>numerické plus</value>
   </data>
   <data name="LEFT" xml:space="preserve">
-    <value>vlevo</value>
+    <value>šipka doleva</value>
   </data>
   <data name="LEFTBRACKET" xml:space="preserve">
     <value>levá závorka</value>
   </data>
   <data name="MINUS" xml:space="preserve">
-    <value>špetka</value>
+    <value>pomlčka</value>
   </data>
   <data name="MUTE" xml:space="preserve">
     <value>ztlumit</value>
@@ -200,10 +200,10 @@
     <value>page up</value>
   </data>
   <data name="PAUSE" xml:space="preserve">
-    <value>pozastavit</value>
+    <value>break</value>
   </data>
   <data name="PERIOD" xml:space="preserve">
-    <value>period</value>
+    <value>tečka</value>
   </data>
   <data name="PRINTSCREEN" xml:space="preserve">
     <value>printscreen</value>
@@ -212,7 +212,7 @@
     <value>enter</value>
   </data>
   <data name="RIGHT" xml:space="preserve">
-    <value>vpravo</value>
+    <value>šipka doprava</value>
   </data>
   <data name="RIGHTBRACKET" xml:space="preserve">
     <value>pravá závorka</value>
@@ -227,13 +227,13 @@
     <value>lomítko</value>
   </data>
   <data name="SPACE" xml:space="preserve">
-    <value>místo</value>
+    <value>mezerník</value>
   </data>
   <data name="TAB" xml:space="preserve">
     <value>karta</value>
   </data>
   <data name="UP" xml:space="preserve">
-    <value>až 100 adres URL</value>
+    <value>šipka nahoru</value>
   </data>
   <data name="VOLUMEDOWN" xml:space="preserve">
     <value>hlasitost zeslabit</value>

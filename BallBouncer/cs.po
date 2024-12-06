@@ -267,7 +267,7 @@ msgstr "Krok doprava"
 
 msgctxt "KeyConfigurationActionPracticeInstantSkillRecharge"
 msgid "Zero all skills cooldown"
-msgstr "Vynulovat prodlevu před použitím pro všechny schopnosti"
+msgstr "Vynulovat prodlevu před použitím u všech schopností"
 
 msgctxt "KeyConfigurationActionPracticeSetSkillLevels"
 msgid "Set skill levels"

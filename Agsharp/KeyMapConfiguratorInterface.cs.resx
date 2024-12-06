@@ -113,22 +113,22 @@
     <value>Klávesa alt</value>
   </data>
   <data name="ModifierListAny" xml:space="preserve">
-    <value>Jakýkolv</value>
+    <value>Obě</value>
   </data>
   <data name="ModifierListCtrl" xml:space="preserve">
     <value>Klávesa control</value>
   </data>
   <data name="ModifierListLeft" xml:space="preserve">
-    <value>Vlevo</value>
+    <value>Levá</value>
   </data>
   <data name="ModifierListRight" xml:space="preserve">
-    <value>Vpravo</value>
+    <value>Pravá</value>
   </data>
   <data name="ModifierListShift" xml:space="preserve">
-    <value>Jlávesa shift</value>
+    <value>Klávesa shift</value>
   </data>
   <data name="ModifierListUnused" xml:space="preserve">
-    <value>Nepoužívá se</value>
+    <value>Nepoužívat</value>
   </data>
   <data name="ModifierListWin" xml:space="preserve">
     <value>Klávesa Windows</value>

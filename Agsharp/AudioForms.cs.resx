@@ -74,7 +74,7 @@
     <value>Nezaškrtnuto</value>
   </data>
   <data name="EditBoxControlCapLetter" xml:space="preserve">
-    <value>Kšiltovka</value>
+    <value>Zapsán maximální počet znaků</value>
   </data>
   <data name="EditBoxControlCopied" xml:space="preserve">
     <value>zkopírováno</value>
@@ -107,7 +107,7 @@
     <value>nevybráno {0} znaků</value>
   </data>
   <data name="EditBoxControlUnselect" xml:space="preserve">
-    <value>nevybrané</value>
+    <value>výběr zrušen</value>
   </data>
   <data name="ItemsCount" xml:space="preserve">
     <value>{0} z {1}</value>
@@ -116,7 +116,7 @@
     <value>seznam</value>
   </data>
   <data name="SliderControlName" xml:space="preserve">
-    <value>slider</value>
+    <value>posuvník</value>
   </data>
   <data name="TabControlName" xml:space="preserve">
     <value>panel karet</value>
