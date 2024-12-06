@@ -80,16 +80,16 @@ dají zavřít klávesou escape.
 ### Režim Tréninku
 
 Hra má tréninkový režim, ve kterém můžeš strávit neomezeně dlouhou dobu a kde
-jsou vypnuté všechny penalizace. V tomto režimu se vždycky, když můžeš úspěšně
-odpálit míč, bude ozývat zvuk, který si můžeš poslechnout v menu Seznámení se
-zvuky. Jiný zvuk se ozve, když se míč alespoň jednou odrazí od podlahy. Díky
-tomu se postupně můžeš naučit vycítit správný moment pro dokonalou trefu. V
-režimu tréninku se neshromažďují žádné herní statistiky ani nezískáváš body.
-Během tréninku můžeš klávesou F2 otevřít obrazovku Režim tréninku. Zde si můžeš
-nastavit rychlost obnovení síly úderu a úrovně jednotlivých schopností (pokud je
-máš) podle svých představ. Přípustný rozsah těchto úrovní je od 1 do úrovně,
-kterou máš aktuálně odemčenou. Klávesou F1 okamžitě vynuluješ prodlevu před
-dalším použitím u všech schopností najednou.
+jsou vypnuté všechny penalizace. V tomto režimu se bude přehrávat příslušný
+zvuk, který si můžeš poslechnout v menu Seznámení se zvuky, vždycky, když můžeš
+míč úspěšně odpálit. Tento zvuk se začne ozývat, teprve až se míč alespoň jednou
+odrazí od podlahy. Díky tomu se postupně můžeš naučit vycítit správný moment pro
+dokonalou trefu. V režimu tréninku se neshromažďují žádné herní statistiky ani
+nezískáváš body. Během tréninku můžeš klávesou F2 otevřít obrazovku Režim
+tréninku. Zde si můžeš nastavit rychlost obnovení síly úderu a úrovně
+jednotlivých schopností (pokud je máš) podle svých představ. Přípustný rozsah
+těchto úrovní je od 1 do úrovně, kterou máš aktuálně odemčenou. Klávesou F1
+okamžitě vynuluješ prodlevu před dalším použitím u všech schopností najednou.
 
 Tyto klávesy lze měnit v konfigurátoru klávesových zkratek.
 
