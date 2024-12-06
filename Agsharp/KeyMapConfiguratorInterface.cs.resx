@@ -104,10 +104,10 @@
     <value>Konfigurátor klávesových zkratek: Klávesami tab a shift+tab se pohybuješ po obrazovce dopředu a dozadu. Šipkami nahoru a dolů se pohybuješ po seznamech a stromových seznamech. Enterem potvrdíš vybranou položku.</value>
   </data>
   <data name="KeyShortcutAddTitle" xml:space="preserve">
-    <value>Přidat zkratku.</value>
+    <value>Přidání zkratky.</value>
   </data>
   <data name="KeyShortcutAddTitleWithHint" xml:space="preserve">
-    <value>Přidat zkratku: Klávesami tab a shift+tab se pohybuješ po obrazovce dopředu a dozadu. Šipkami nahoru a dolů se pohybuješ po seznamech. Enterem potvrdíš vybranou položku.</value>
+    <value>Přidání zkratky: Klávesami tab a shift+tab se pohybuješ po obrazovce dopředu a dozadu. Šipkami nahoru a dolů se pohybuješ po seznamech. Enterem potvrdíš vybranou položku.</value>
   </data>
   <data name="ModifierListAlt" xml:space="preserve">
     <value>Klávesa alt</value>
