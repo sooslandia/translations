@@ -5,14 +5,14 @@
 ### Nové funkce
 
 - Přidány nové překlady.
-   - Serbian. Translator [nidza07](https://github.com/nidza07).
-   - Czech. Translator [4sensegaming](https://github.com/4sensegaming).
+   - Srbština. Překladatel [nidza07](https://github.com/nidza07).
+   - Čeština. Překladatel [4sensegaming](https://github.com/4sensegaming).
 
 ### Opravy
 
-- Resolved a minor issue in the Turkish translation.
-- Fixed incorrect display of in-game help.
-- Fixed a potential critical error when loading a recording.
+- Opravena drobná chyba v tureckém překladu.
+- Opraveno nesprávné zobrazování nápovědy přímo ve hře.
+- Opravena potenciální kritická chyba při načítání nahrávky.
 
 ## 1.2.2
 
@@ -25,12 +25,9 @@ Tato aktualizace opravuje několik kritických chyb pro uživatele Linuxu.
 ## 1.2.0
 
 Tato verze se zaměřuje na další vylepšování uživatelského prostředí a dolaďování
-stávajícího obsahu.
-Nyní si můžeš nastavit klávesové zkratky podle vlastního
-uvážení.
-Nyní je možné nahrávat své hraní a přehrávat výsledné nahrávky pomocí
-vestavěného přehrávače.
-K dispozici je také mapa předmětů a několik dalších
+stávajícího obsahu. Nyní si můžeš nastavit klávesové zkratky podle vlastního
+uvážení. Nyní je možné nahrávat své hraní a přehrávat výsledné nahrávky pomocí
+vestavěného přehrávače. K dispozici je také mapa předmětů a několik dalších
 vylepšení a oprav.
 
 Otevřeli jsme oficiální překladový repozitář
@@ -44,7 +41,7 @@ máš na to schopnosti, rádi tvoji pomoc přijmeme.
    - Indonéština. Překladatel [MuhammadGagah](https://github.com/MuhammadGagah).
 - Nyní můžeš měnit výchozí klávesové zkratky.
    - To provedeš kliknutím na tlačítko "Nastavit klávesové zkratky", které najdeš na
-záložce "Nastavení klávesových zkratek" na obrazovce Nastavení.
+kartě "Nastavení klávesových zkratek" na obrazovce Nastavení.
    - Konfigurační soubor se nachází ve složce userData a jmenuje se keyConfig.json.
 Svou konfiguraci můžeš sdílet s ostatními uživateli. Aby ti konfigurace někoho
 jiného fungovala, musíš nahradit svůj konfigurační soubor tím, který dostaneš od
@@ -54,7 +51,7 @@ dokumentace.
 - Nyní můžeš nahrávat své hraní.
    - Na aktualizované obrazovce pro výběr režimu hry můžeš zaškrtnout políčko, které
 určuje, jestli se tvoje hraní má nahrávat. Chování nahrávání lze
-nakonfigurovat na záložce Nahrávání na obrazovce Nastavení.
+nakonfigurovat na kartě Nahrávání na obrazovce Nastavení.
    - Nahrávky můžeš poslouchat v menu Nahrávky, do kterého se dostaneš příslušnou
 položkou hlavního menu.
    - Nahrávky se ukládají do složky Recordings, která se nachází ve složce userData,
@@ -64,17 +61,17 @@ umístěna v této složce s nahrávkami.
    - Informace o tom, jak přehrávač nahrávek funguje, a o jeho ovládání najdeš v
 příslušné části dokumentace.
 - Přidána mapa předmětů.
-   - Během hraní ji lze otevřít klávesou m.
-   - Po mapě se pohybuješ šipkami. Stisknutím klávesy o můžeš také zjistit, kolik
-předmětů se na mapě nachází.
+   - Během hraní ji lze otevřít klávesou M.
+   - Po mapě se pohybuješ šipkami. Klávesou O můžeš také zjistit, kolik předmětů se
+na mapě nachází.
    - Existují dva režimy pohybu kurzoru, o kterých se dočteš v příslušné části
 dokumentace.
    - Všechny klávesové zkratky pro mapu předmětů lze změnit v konfigurátoru
 klávesových zkratek.
 - Režim Trénink se také dočkal vylepšení.
-   - Stisknutím klávesy f1 nyní můžeš okamžitě vynulovat prodlevu před dalším
-použitím u všech schopností najednou.
-   - Po stisku klávesy f2 se otevře obrazovka, kde můžeš měnit úrovně svých
+   - Klávesou F1 nyní můžeš okamžitě vynulovat prodlevu před dalším použitím u všech
+schopností najednou.
+   - Po stisku klávesy F2 se otevře obrazovka, kde můžeš měnit úrovně svých
 schopností a rychlost obnovování síly úderu. Na této obrazovce se zobrazují
 jen ty schopnosti, které už máš. Jejich úroveň můžeš měnit pouze v rozsahu od 1
 až po aktuálně odemčené maximum.
@@ -94,12 +91,12 @@ ní je podobná jako na obrazovce Nastavení nebo Profil.
    - Na nové obrazovce si můžeš vybrat, jestli se má hra nahrávat.
 - Vylepšeno rozhraní obrazovky Profil.
    - Nyní lze libovolnou položku ze seznamu statistik zkopírovat do schránky
-stisknutím kláves ctrl+c.
+stisknutím kláves ctrl+C.
    - Na záložce Statistiky je nyní uvedeno, kolik máš aktuálně úspěchových bodů.
    - Aury nyní zobrazují i svůj bonus.
 - Mírné změny ve vyvážení hry.
-   - Za každých sto bodů až do tisíce získáš jednu minci. Například jsi získal/a 678
-bodů, v takovém případě dostaneš 7 mincí a ne jednu jako dřív.
+   - Za každých sto bodů až do tisíce dostaneš jednu minci. Například jsi získal/a
+678 bodů, v takovém případě dostaneš 7 mincí a ne jednu jako dřív.
    - Až se dostaneš na tisíc bodů, zůstává vše při starém, ale těch prvních 10
 mincí, které jsi dostal/a předtím, máš pořád. Například jsi získal/a 1234
 bodů, v takovém případě dostaneš 11 mincí.
@@ -125,19 +122,19 @@ pozice postavy a současně režim sledování míče.
 
 ## 1.1.0
 
-Tato verze se zaměřuje na zlepšování uživatelského zážitku: Zvuk při trefě pálkou
-do míče, režim pohledu z pozice postavy, alternativní klávesy pro máchnutí
-pálkou atd.
+Tato verze se zaměřuje na zlepšování uživatelského zážitku: Zvuk při odpálení
+míče, režim pohledu z pozice postavy, alternativní klávesy pro máchnutí pálkou
+atd.
 
 ### Nové funkce
 
 - Hra nyní podporuje překlady, ve kterých chybí jeden nebo více řetězců. Pokud
-není řetězec nalezen, hra se vrátí k anglickým lokalizačním řetězcům.
+není řetězec nalezen, hra místo něj použije odpovídající anglický lokalizační
+řetězec.
 - V režimu sledování míče nyní strop přehrává zvuk na pozadí, takže sledování teď
 bude efektnější.
-- Přidán zvuk, který signalizuje úspěšnou trefu pálkou do míče. Ve výchozím
-nastavení je toto upozornění vypnuté; můžeš si ho zapnout v nastavení na kartě
-"Chování".
+- Přidán zvuk, který signalizuje úspěšné odpálení míče. Ve výchozím nastavení je
+toto upozornění vypnuté; můžeš si ho zapnout v nastavení na kartě "Chování".
 - Implementován režim pohledu z pozice postavy (pohled z první osoby). Chceš-li
 režim přepnout, stiskni při hře klávesu V.
 - Chyby při aktualizaci se nyní zapisují do souboru, který se nachází ve složce

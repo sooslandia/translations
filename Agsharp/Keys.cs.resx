@@ -107,7 +107,7 @@
     <value>9</value>
   </data>
   <data name="DELETE" xml:space="preserve">
-    <value>smazat</value>
+    <value>delete</value>
   </data>
   <data name="DOWN" xml:space="preserve">
     <value>šipka dolů</value>
@@ -230,7 +230,7 @@
     <value>mezerník</value>
   </data>
   <data name="TAB" xml:space="preserve">
-    <value>karta</value>
+    <value>tab</value>
   </data>
   <data name="UP" xml:space="preserve">
     <value>šipka nahoru</value>

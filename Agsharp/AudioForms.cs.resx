@@ -71,7 +71,7 @@
     <value>zaškrtnuto</value>
   </data>
   <data name="CheckboxStateUnchecked" xml:space="preserve">
-    <value>Nezaškrtnuto</value>
+    <value>nezaškrtnuto</value>
   </data>
   <data name="EditBoxControlCapLetter" xml:space="preserve">
     <value>Zapsán maximální počet znaků</value>
