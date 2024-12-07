@@ -1,5 +1,11 @@
 % log perubahan
 
+## 1.2.4
+
+### Perbaikan
+
+- Updated and corrected translations.
+
 ## 1.2.3
 
 ### Fitur baru

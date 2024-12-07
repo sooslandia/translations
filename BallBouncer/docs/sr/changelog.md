@@ -1,5 +1,11 @@
 % Lista promena
 
+## 1.2.4
+
+### Ispravke
+
+- Updated and corrected translations.
+
 ## 1.2.3
 
 ### Nove funkcije
