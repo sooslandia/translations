@@ -1,5 +1,11 @@
 % Historie změn
 
+## 1.2.4
+
+### Opravy
+
+- Updated and corrected translations.
+
 ## 1.2.3
 
 ### Nové funkce

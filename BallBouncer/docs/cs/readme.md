@@ -259,7 +259,7 @@ Všechny zde uvedené klávesy si můžeš přenastavit v nastavení klávesový
 | Akce | Klávesa |
 | :-- | :-- |
 | Pohyb postavy doprava / doleva | Šipka doprava / doleva nebo klávesa D / A |
-| Přehrát zvuk na pozici postavy | C |
+| Přehraje zvuk z pozice postavy | C |
 | Otočení postavy doprava / doleva | Pravý / levý shift |
 | Máchnutí pálkou (odpálí míč se silným horizontálním impulsem) | Mezerník, S nebo E |
 | Máchnutí pálkou (odpálí míč se silným vertikálním impulsem) | Alt+mezerník, alt+S nebo R |
