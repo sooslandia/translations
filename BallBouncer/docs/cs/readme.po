@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2024-09-16 17:04+0000\n"
-"PO-Revision-Date: 2024-12-07 02:21+0100\n"
+"PO-Revision-Date: 2024-12-07 20:51+0100\n"
 "Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
 "Language-Team: 4Sense Gaming\n"
 "Language: cs\n"
@@ -129,9 +129,9 @@ msgid ""
 "corresponding tab as well."
 msgstr ""
 "Při prvním spuštění hry si musíš vybrat jazyk. Poté se zobrazí uvítací "
-"obrazovka. Až si vybereš jazyk, začne hrát naše logo. To můžeš přeskočit "
-"klávesou enter. Až ho přeskočíš nebo až dozní, dostaneš se do hlavního menu "
-"hry. Doporučujeme dobře se s ním obeznámit. Pokud se chceš seznámit s "
+"obrazovka. Až ji potvrdíš, začne hrát naše logo. To můžeš přeskočit klávesou "
+"enter. Až ho přeskočíš nebo až dozní, dostaneš se do hlavního menu hry. "
+"Doporučujeme dobře se s ním obeznámit. Pokud se chceš seznámit s "
 "jednotlivými zvuky hry a zjistit, co znamenají, musíš v hlavním menu vybrat "
 "položku \"Nastavení\" a poté na kartě \"Obecné\" kliknout na příslušné "
 "tlačítko. Na kartě \"Zvuk\" si můžeš upravit hlasitost hudby a zvuků nebo "
@@ -681,7 +681,7 @@ msgstr "Šipka doprava / doleva nebo klávesa D / A"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Play sound at character's position"
-msgstr "Přehraje zvuk z pozice postavy"
+msgstr "Přehrání zvuku z pozice postavy"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "c"
@@ -778,7 +778,7 @@ msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "keys 1 to 0/numpad1 to numpad0"
-msgstr "Klávesy 1 až 0 / numerická 1 až numerická 0"
+msgstr "1 až 0 / numerická 1 až numerická 0"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Cancel skill slot selection"
@@ -870,7 +870,7 @@ msgstr "Přepnutí režimu pohybu kurzoru"
 
 #: BallBouncer/docs/en/readme.md:block 63 (table)
 msgid "Find out the number of objects on the map"
-msgstr "Oznámení počtu předmětů na mapě"
+msgstr "Zjištění počtu předmětů na mapě"
 
 #: BallBouncer/docs/en/readme.md:block 63 (table)
 msgid "o"
