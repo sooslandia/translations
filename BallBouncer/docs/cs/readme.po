@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2024-09-16 17:04+0000\n"
-"PO-Revision-Date: 2024-12-06 20:59+0100\n"
+"PO-Revision-Date: 2024-12-07 02:21+0100\n"
 "Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
 "Language-Team: 4Sense Gaming\n"
 "Language: cs\n"
@@ -681,7 +681,7 @@ msgstr "Šipka doprava / doleva nebo klávesa D / A"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Play sound at character's position"
-msgstr "Přehrát zvuk na pozici postavy"
+msgstr "Přehraje zvuk z pozice postavy"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "c"
