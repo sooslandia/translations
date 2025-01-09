@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2024-09-16 17:04+0000\n"
-"PO-Revision-Date: 2024-12-08 16:18+0100\n"
+"PO-Revision-Date: 2025-01-09 22:23+0100\n"
 "Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
 "Language-Team: 4Sense Gaming\n"
 "Language: cs\n"
@@ -697,7 +697,7 @@ msgstr "Pravý / levý shift"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Swing the bat (hit the ball with a strong horizontal impulse)"
-msgstr "Máchnutí pálkou (odpálí míč se silným horizontálním impulsem)"
+msgstr "Máchnutí pálkou (vodorovný odpal)"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Spacebar, s or e key"
@@ -705,7 +705,7 @@ msgstr "Mezerník, S nebo E"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Swing the bat (hit the ball with strong vertical impulse)"
-msgstr "Máchnutí pálkou (odpálí míč se silným vertikálním impulsem)"
+msgstr "Máchnutí pálkou (svislý odpal)"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "alt+space, alt+s or r"
@@ -782,7 +782,7 @@ msgstr "1 až 0 / numerická 1 až numerická 0"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Cancel skill slot selection"
-msgstr "Zrušení výběru schopnosti v daném slotu"
+msgstr "Zrušení výběru schopnosti ve slotu"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Grave / numpad enter"
