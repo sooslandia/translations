@@ -8,13 +8,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-09-13 08:46+0000\n"
+"POT-Creation-Date: 2025-03-06 16:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #, python-brace-format
@@ -24,21 +24,87 @@ msgstr ""
 
 #, python-brace-format
 msgctxt "AchievementPointsTotal"
-msgid "{0} achievement points received in total."
+msgid "{0} achievement points earned in total."
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraCreatorText"
+msgid ""
+"Creator's aura: Level {0}/2. Enhances the Creator's Sweep ability, "
+"increasing the number of generated objects"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraElectroResistanceText"
+msgid ""
+"Electric resistance aura: Level {0}/2. Prevents damage from electric "
+"discharges in trial of speed mode"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraExploderText"
+msgid ""
+"Blaster's aura: Level {0}/2. Enhances the mine object, increasing its "
+"explosion radius"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraFireRetributionText"
+msgid ""
+"Fiery vengeance aura: Level {0}/1. Enhances the Furious leap ability, "
+"creating a fiery aura around the character that destroys all objects in "
+"their path while flying toward the ball"
 msgstr ""
 
 #, python-brace-format
 msgctxt "AuraLeaderText"
 msgid ""
-"Leader's aura: level {0} (+{1}%). For each level, adds one percent to the "
-"points received."
+"Leader's aura: level {0} (+{1}%). For each level, adds {2} % to the points "
+"received"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraLuckyMasterText"
+msgid ""
+"Lucky master's aura: Level {0}/6. Enhances gameplay in mastery trial mode"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraMagnetarText"
+msgid ""
+"Magnetar Aura: Level {0}/4. Enhances the Magnetism skill, increasing the "
+"speed at which the ball is attracted to objects"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraOtherworldlyText"
+msgid ""
+"Otherworldly aura: Level {0}/2. Enhances the immateriality skill, granting "
+"the ball increased bounce elasticity when it hits the field boundary, as "
+"well as slightly extending the skill's effect duration"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraShadowMasterText"
+msgid ""
+"Phantom master's aura: Level {0}/3. Enhances the Phantom Strike skill, "
+"allowing the destruction of any number of objects in its path and expanding "
+"the area of effect"
+msgstr ""
+
+msgctxt "AuraStatusActive"
+msgid "(Active)"
+msgstr ""
+
+msgctxt "AuraStatusInactive"
+msgid "(Inactive)"
 msgstr ""
 
 #, python-brace-format
 msgctxt "AuraTimeText"
 msgid ""
-"Time Aura: level {0} (+{1} sec). For each level, adds 5 seconds to the "
-"maximum playing time."
+"Time Aura: level {0} (+{1} sec). For each level, adds {2} seconds to the "
+"maximum playing time"
 msgstr ""
 
 #, python-brace-format
@@ -69,6 +135,58 @@ msgctxt "CheckUpdatesScreenNoUpdates"
 msgid "You have the latest version."
 msgstr ""
 
+msgctxt "ChestOfLuckHelpButton"
+msgid "Open luck chest reference information"
+msgstr ""
+
+msgctxt "ChestOfLuckHelpInfo"
+msgid ""
+"Luck Chest\n"
+"By opening chests, you can receive a random amount of any currency except "
+"coins.\n"
+"Chests are opened using coins, and the cost increases with each subsequent "
+"chest you open.\n"
+"You can open a maximum of ten chests per day. However, after unlocking the "
+"quest board, you will be able to increase this limit using an upgrade that "
+"appears in the Star Upgrades section of the shop.\n"
+"The opened chests counter resets at midnight."
+msgstr ""
+
+#, python-brace-format
+msgctxt "ChestOfLuckOpenButton"
+msgid "Open chest for {0} coins"
+msgstr ""
+
+msgctxt "ChestOfLuckOpenButtonLocked"
+msgid "Open chest"
+msgstr ""
+
+#, python-brace-format
+msgctxt "ChestOfLuckOpenMaxButton"
+msgid "Open X{0} for {1} coins"
+msgstr ""
+
+#, python-brace-format
+msgctxt "ChestOfLuckOpenedChests"
+msgid "Chests opened: {0}/{1}. Until reset: {2}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "ChestOfLuckRewardDialog"
+msgid "Congratulations! {0}"
+msgstr ""
+
+msgctxt "ChestOfLuckRewardMenuTitle"
+msgid "List of received rewards."
+msgstr ""
+
+msgctxt "ChestOfLuckRewardMenuTitleWithHint"
+msgid ""
+"List of received rewards. Use the down and up arrows to navigate through the "
+"menu. To close the menu, press escape  or select the corresponding option "
+"and press enter."
+msgstr ""
+
 #, python-brace-format
 msgctxt "FileSizeBytes"
 msgid "{0} b"
@@ -89,8 +207,17 @@ msgctxt "FileSizeMegabytes"
 msgid "{0} mb"
 msgstr ""
 
+#, python-brace-format
+msgctxt "GameBallViewSwitch"
+msgid "Ball {0}."
+msgstr ""
+
 msgctxt "GameObjectCloset"
 msgid "Closet."
+msgstr ""
+
+msgctxt "GameObjectCouch"
+msgid "Couch."
 msgstr ""
 
 msgctxt "GameObjectDish"
@@ -99,6 +226,10 @@ msgstr ""
 
 msgctxt "GameObjectDishCloset"
 msgid "Kitchen cabinet."
+msgstr ""
+
+msgctxt "GameObjectGates"
+msgid "Goal."
 msgstr ""
 
 msgctxt "GameObjectGlass"
@@ -121,6 +252,15 @@ msgctxt "GameObjectTelevision"
 msgid "TV."
 msgstr ""
 
+msgctxt "GameObjectToolbox"
+msgid "Toolbox."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GamePlanks"
+msgid "Planks: {0}."
+msgstr ""
+
 #, python-brace-format
 msgctxt "GamePoints"
 msgid "{0} points scored in this game."
@@ -131,13 +271,33 @@ msgid "All skills are ready to use."
 msgstr ""
 
 #, python-brace-format
+msgctxt "GameResultScreenBlueOrbs"
+msgid "Got {0} blue orbs."
+msgstr ""
+
+#, python-brace-format
 msgctxt "GameResultScreenCoins"
 msgid "Got {0} coins."
 msgstr ""
 
 #, python-brace-format
+msgctxt "GameResultScreenGreenOrbs"
+msgid "Got {0} green orbs."
+msgstr ""
+
+#, python-brace-format
 msgctxt "GameResultScreenPoints"
 msgid "{0} points scored."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameResultScreenRedOrbs"
+msgid "Got {0} red orbs."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameResultScreenStars"
+msgid "Got {0} stars."
 msgstr ""
 
 msgctxt "GameResultScreenTitle"
@@ -151,7 +311,12 @@ msgid ""
 msgstr ""
 
 msgctxt "GameRewardAvailableDialog"
-msgid "A reward is available! Get it in your profile on the statistics tab!"
+msgid "A reward is available! Claim it in your profile on the statistics tab!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameStarEnergy"
+msgid "Star energy: {0}."
 msgstr ""
 
 #, python-brace-format
@@ -171,6 +336,10 @@ msgctxt "IncompatableSaveTitle"
 msgid "Incompatible save"
 msgstr ""
 
+msgctxt "KeyConfigurationActionBallViewSwitch"
+msgid "Switch to the next ball in ball watch mode"
+msgstr ""
+
 msgctxt "KeyConfigurationActionCheckPoints"
 msgid "Find out the number of points scored"
 msgstr ""
@@ -179,8 +348,16 @@ msgctxt "KeyConfigurationActionCheckRemainingTime"
 msgid "Check the time remaining until the end of the session"
 msgstr ""
 
+msgctxt "KeyConfigurationActionCheckStarEnergy"
+msgid "Check the amount of available star energy"
+msgstr ""
+
 msgctxt "KeyConfigurationActionCloseMap"
 msgid "Close map"
+msgstr ""
+
+msgctxt "KeyConfigurationActionCurrentPlanks"
+msgid "Check the current number of boards the character has"
 msgstr ""
 
 msgctxt "KeyConfigurationActionHorizontalBatSwing"
@@ -223,12 +400,32 @@ msgctxt "KeyConfigurationActionMapTotalObjects"
 msgid "Find out the number of objects on the map"
 msgstr ""
 
+msgctxt "KeyConfigurationActionMoveBallDown"
+msgid "Move ball down"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMoveBallLeft"
+msgid "Move ball left"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMoveBallRight"
+msgid "Move ball right"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMoveBallUp"
+msgid "Move ball up"
+msgstr ""
+
 msgctxt "KeyConfigurationActionOpenMap"
 msgid "Open map"
 msgstr ""
 
 msgctxt "KeyConfigurationActionPauseGame"
 msgid "Pause the game"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPickupItem"
+msgid "Activate item"
 msgstr ""
 
 msgctxt "KeyConfigurationActionPlayCheckPositionSound"
@@ -252,7 +449,7 @@ msgid "Move character right"
 msgstr ""
 
 msgctxt "KeyConfigurationActionPracticeInstantSkillRecharge"
-msgid "Zero all skills cooldown"
+msgid "Instantly recharge all skills"
 msgstr ""
 
 msgctxt "KeyConfigurationActionPracticeSetSkillLevels"
@@ -311,6 +508,22 @@ msgctxt "KeyConfigurationActionSkillSlotCancel"
 msgid "Cancel the selected skill"
 msgstr ""
 
+msgctxt "KeyConfigurationActionStarModuleSlot1"
+msgid "Activate the star module set in slot 1"
+msgstr ""
+
+msgctxt "KeyConfigurationActionStarModuleSlot2"
+msgid "Activate the star module set in slot 2"
+msgstr ""
+
+msgctxt "KeyConfigurationActionStarModuleSlot3"
+msgid "Activate the star module set in slot 3"
+msgstr ""
+
+msgctxt "KeyConfigurationActionStarModuleSlot4"
+msgid "Activate the star module set in slot 4"
+msgstr ""
+
 msgctxt "KeyConfigurationActionSwitchBallViewMode"
 msgid "Switch to ball watch mode"
 msgstr ""
@@ -327,8 +540,16 @@ msgctxt "KeyConfigurationActionThrowBallVertical"
 msgid "Throw the ball vertically"
 msgstr ""
 
+msgctxt "KeyConfigurationActionThrowPlank"
+msgid "Throw the board"
+msgstr ""
+
 msgctxt "KeyConfigurationActionVerticalBatSwing"
 msgid "Vertical bat swing"
+msgstr ""
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionBallControlKeys"
+msgid "Controlled Ball Controls"
 msgstr ""
 
 msgctxt "KeyConfigurationBlockBallBouncerGameSessionKeys"
@@ -337,6 +558,10 @@ msgstr ""
 
 msgctxt "KeyConfigurationBlockBallBouncerGameSessionObjectMapKeys"
 msgid "Object map"
+msgstr ""
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionTestOfSkillKeys"
+msgid "Trial of mastery mode"
 msgstr ""
 
 msgctxt "KeyConfigurationBlockBallBouncerPracticeGameSessionKeys"
@@ -349,12 +574,48 @@ msgstr ""
 
 msgctxt "KeyConfigurationMergeDeletionDialogText"
 msgid ""
-"New keyboard shortcuts have been introduced into the game, but upon loading "
-"your configuration, it was discovered that you already have the shortcuts "
-"that are reserved as default shortcuts installed. Due to this, new "
-"combinations have been removed in favor of yours. We strongly recommend that "
-"you go to Settings, go to the \"Keyboard Shortcut Configuration\" tab and "
-"configure new actions. You can find a list of new actions in the changelog."
+"New controls have been introduced into the game, but upon loading your "
+"configuration, it was discovered that you already have the controls that are "
+"reserved as default controls installed. Due to this, new controls have been "
+"removed in favor of yours. We strongly recommend that you go to Settings, go "
+"to the \"controls Configuration\" tab and configure new actions. You can "
+"find a list of new actions in the changelog."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectAppear"
+msgid "Effect appears."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectChaoticMovement"
+msgid "Effect \"Chaotic movement\"."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectDisappear"
+msgid "Effect disappears."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectElectrocharge"
+msgid "Effect \"Electric discharge\"."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectGatesLift"
+msgid "Effect \"Elevator\"."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectGatesLocker"
+msgid "Effect \"Stopper\"."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectPointsMultiplier"
+msgid "Effect \"Points multiplier\"."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectRocket"
+msgid "Effect \"Rocket\"."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectTripleMiss"
+msgid "Penalty for Missing Three Effects."
 msgstr ""
 
 msgctxt "LearnSoundsBatHitSuccess"
@@ -374,7 +635,100 @@ msgid "Penalty for frequent misses with the bat on the ball."
 msgstr ""
 
 msgctxt "LearnSoundsForceFull"
-msgid "Character's blow force has been fully restored."
+msgid "Character's hit strength has been fully restored."
+msgstr ""
+
+msgctxt "LearnSoundsFormCatigoriesBasic"
+msgid "Basic sounds"
+msgstr ""
+
+msgctxt "LearnSoundsFormCatigoriesTestOfSkill"
+msgid "Trial of mastery mode sounds"
+msgstr ""
+
+msgctxt "LearnSoundsFormCatigoriesTestOfSpeed"
+msgid "Trial of speed mode sounds"
+msgstr ""
+
+msgctxt "LearnSoundsFormCatigoriesTestOfWill"
+msgid "Trial of will mode sounds"
+msgstr ""
+
+msgctxt "LearnSoundsFormCatigoriesTitle"
+msgid "Categories"
+msgstr ""
+
+msgctxt "LearnSoundsFormSoundList"
+msgid "Sounds"
+msgstr ""
+
+msgctxt "LearnSoundsFormTitle"
+msgid "Learn sounds screen."
+msgstr ""
+
+msgctxt "LearnSoundsFormTitleWithHint"
+msgid ""
+"Learn sounds screen. Use tab and shift+tab to move forwards and backwards on "
+"the screen. To move between tab panels, use the right and left arrow keys. "
+"To navigate the sound list, use the up and down arrow keys. To listen to a "
+"selected sound, press Enter. To exit, press the corresponding button or the "
+"Escape key."
+msgstr ""
+
+msgctxt "LearnSoundsGatesHit"
+msgid "Goal hit."
+msgstr ""
+
+msgctxt "LearnSoundsGatesHitStreakReset"
+msgid "Hit Streak Reset."
+msgstr ""
+
+msgctxt "LearnSoundsGatesLoop"
+msgid "Goal."
+msgstr ""
+
+msgctxt "LearnSoundsItemImmaterialityApplier"
+msgid "Mass immateriality."
+msgstr ""
+
+msgctxt "LearnSoundsItemObjectCreator"
+msgid "Creator's item."
+msgstr ""
+
+msgctxt "LearnSoundsItemPlanks"
+msgid "Planks."
+msgstr ""
+
+msgctxt "LearnSoundsItemPointsLosement"
+msgid "Penalty Item."
+msgstr ""
+
+msgctxt "LearnSoundsItemPointsMultiplier"
+msgid "Points Multiplier Item."
+msgstr ""
+
+msgctxt "LearnSoundsItemRocketLauncher"
+msgid "Rocket launcher."
+msgstr ""
+
+msgctxt "LearnSoundsItemShadowStriker"
+msgid "Phantom Strike item."
+msgstr ""
+
+msgctxt "LearnSoundsItemSpawn"
+msgid "Item Appears on the Field."
+msgstr ""
+
+msgctxt "LearnSoundsItemSuperElasticityApplier"
+msgid "Mass superelasticity."
+msgstr ""
+
+msgctxt "LearnSoundsItemTripleMiss"
+msgid "Penalty for Missing Three Items."
+msgstr ""
+
+msgctxt "LearnSoundsItemWoodenPuppet"
+msgid "Wooden Puppet."
 msgstr ""
 
 msgctxt "LearnSoundsObjectDestroy"
@@ -386,22 +740,31 @@ msgid "Ball hit an object alert."
 msgstr ""
 
 msgctxt "LearnSoundsPerfectHit"
-msgid "A perfect strike."
+msgid "Perfect strike."
+msgstr ""
+
+msgctxt "LearnSoundsPointsMultiplierOff"
+msgid "Points multiplier deactivated."
+msgstr ""
+
+msgctxt "LearnSoundsPointsMultiplierOn"
+msgid "Points multiplier activated."
+msgstr ""
+
+msgctxt "LearnSoundsPuppetDestroyed"
+msgid "Bonus for Destroying a puppet."
+msgstr ""
+
+msgctxt "LearnSoundsPuppetNegative"
+msgid "Penalty for Missing a puppet."
+msgstr ""
+
+msgctxt "LearnSoundsPuppetPositive"
+msgid "Bonus for Damaged puppet."
 msgstr ""
 
 msgctxt "LearnSoundsScoresUnderNeg500"
 msgid "The points dropped below minus five hundred."
-msgstr ""
-
-msgctxt "LearnSoundsTitle"
-msgid "Learn sounds menu."
-msgstr ""
-
-msgctxt "LearnSoundsTitleWithHint"
-msgid ""
-"Learn sounds menu. Use the up and down arrows to move. To listen to the "
-"sound, press enter. To exit the menu, press the corresponding menu item or "
-"the escape key."
 msgstr ""
 
 msgctxt "MainMenuExitGame"
@@ -442,6 +805,10 @@ msgctxt "ModeSelectionFormBack"
 msgid "Return to main menu."
 msgstr ""
 
+msgctxt "ModeSelectionFormDescription"
+msgid "Open mode description"
+msgstr ""
+
 msgctxt "ModeSelectionFormModes"
 msgid "Modes"
 msgstr ""
@@ -450,8 +817,22 @@ msgctxt "ModeSelectionFormNormalMode"
 msgid "Normal game."
 msgstr ""
 
+msgctxt "ModeSelectionFormNormalModeInfo"
+msgid ""
+"Normal game.\n"
+"Standard mode without restrictions."
+msgstr ""
+
 msgctxt "ModeSelectionFormPracticeMode"
 msgid "Training mode."
+msgstr ""
+
+msgctxt "ModeSelectionFormPracticeModeInfo"
+msgid ""
+"Training Mode.\n"
+"In this mode, you can spend unlimited time with all penalties turned off.\n"
+"Additionally, if it's possible to hit the ball, a sound will play.\n"
+"No game statistics are collected in Training Mode, and no points are scored."
 msgstr ""
 
 msgctxt "ModeSelectionFormRecord"
@@ -460,6 +841,173 @@ msgstr ""
 
 msgctxt "ModeSelectionFormStart"
 msgid "Start"
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfSkillMode"
+msgid "Trial of mastery."
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfSkillModeInfo"
+msgid ""
+"Trial of mastery.\n"
+"In this mode, you will need to apply all accumulated experience, "
+"demonstrating exceptional skill in navigating true chaos.\n"
+"The number of objects on the field is slightly reduced compared to the "
+"regular mode, and you only earn seventy percent of the original point "
+"values.\n"
+"Using skills is prohibited, and bonus points are not awarded for perfect "
+"strikes or bounces off the ceiling.\n"
+"Additionally, special objects like mines are absent from the field.\n"
+"The leader and time auras do not affect this mode.\n"
+"The maximum duration for continuing hit and object destruction streaks is "
+"reduced to two seconds, instead of the usual six.\n"
+"Instead of one ball, you start with three.\n"
+"They need to be thrown onto the field as quickly as possible, as the penalty "
+"for holding onto the ball works as usual.\n"
+"Put all your effort into avoiding frequent bounces of the balls off the "
+"floor, as the penalty will increase rapidly.\n"
+"The balls can also collide with each other, causing complete chaos.\n"
+"It’s also important to note that the more points you accumulate, the higher "
+"the penalty for the balls bouncing off the floor becomes.\n"
+"From time to time, items will appear on the ground that you can activate.\n"
+"This mode features eight types of items:\n"
+"1. Points Multiplier: When activated, it gives you a bonus to the points you "
+"earn for fifteen seconds.\n"
+"2. Rocket Launcher: When activated, it launches a rocket upward, which flies "
+"to the center of the field and explodes, destroying nearby objects.\n"
+"3. Creator's Item: When activated, it creates ten to fifteen objects on the "
+"field.\n"
+"4. Mass Immateriality: When activated, it applies the Immateriality effect "
+"to all balls on the field for fifteen seconds.\n"
+"5. Mass Superelasticity: When activated, it applies the Superelasticity "
+"effect to all balls on the field for ten seconds.\n"
+"6. Penalty Item: When activated, you lose fifteen percent of your current "
+"score.\n"
+"7. Wooden Puppet: When activated, a wooden puppet appears at either the left "
+"or right boundary of the field, aiming to reach the opposite boundary.\n"
+"Your task is to destroy the puppet by following it and hitting it with the "
+"bat.\n"
+"Once the puppet is destroyed, you will receive a bonus equal to thirty-five "
+"percent of your current score, and an item will appear at the location of "
+"its destruction, which can be activated to receive five planks.\n"
+"If you fail to destroy the puppet before it reaches the opposite boundary, "
+"one of two events will occur:\n"
+"1. If the puppet took no damage or only minor damage, you will receive a "
+"thirty-five percent penalty to your current score.\n"
+"2. If the puppet took significant damage, when it reaches the boundary, you "
+"will receive a bonus to your score proportional to the damage dealt to it, "
+"but not exceeding twenty-five percent. Additionally, an item will appear at "
+"the field boundary, which can be activated to receive some planks.\n"
+"Each event has its own sound, which can be listened to, along with all other "
+"additional sounds of the mode, by selecting the relevant option in the "
+"reference.\n"
+"8. Boards: When activated, you receive a certain number of boards.\n"
+"You can check the current number of boards by pressing alt+z, and throw one "
+"board upward with z (this applies only to the default key configuration).\n"
+"After being thrown, the board flies upwards, knocking objects down along the "
+"way.\n"
+"Each type of item has its own characteristic sound, helping you identify "
+"which item is on the field.\n"
+"If you miss three items in a row, you will receive a penalty of twenty-five "
+"percent of your current score.\n"
+"You can check how many items you've missed in the pause menu.\n"
+"At the end of the game session, you will receive not coins, but a new "
+"currency - red orbs.\n"
+"By spending this currency in the in-game store, you can either acquire new "
+"abilities or improve the conditions of this mode."
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfSpeedMode"
+msgid "Trial of speed."
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfSpeedModeInfo"
+msgid ""
+"Trial of speed.\n"
+"In this mode, you will test your reaction, endurance, and decision-making "
+"speed.\n"
+"There are no objects on the field; instead, you need to hit the ball into "
+"the goal.\n"
+"Using skills is prohibited, and bonus points are not awarded for perfect "
+"strikes.\n"
+"However, the leader and time auras work without restriction.\n"
+"The goal is located at the bottom of the field and emits a special looping "
+"sound.\n"
+"You need to hit the ball in such a way that it hits the goal.\n"
+"After a successful hit, you will earn points, and the goal will start moving "
+"in a random horizontal direction. After it stops, you will be able to hit it "
+"again.\n"
+"With each successful hit, the streak increases, allowing you to earn more "
+"points with subsequent hits.\n"
+"If no hits are made within a certain time frame, the streak will reset.\n"
+"The streak has a limit, after which it will stop growing, but the points "
+"will continue to be earned with the same bonus until the streak is reset.\n"
+"At the top of the field is a bar that limits the ball's flight.\n"
+"Occasionally, for a few seconds, there will be an opportunity to activate "
+"one of six effects.\n"
+"To activate an effect, the ball must hit the bar.\n"
+"1. Chaotic Movement: When activated, the goal will move constantly in random "
+"horizontal directions for fifteen seconds. The ability to hit the goal with "
+"the ball in this mode is unlimited.\n"
+"2. Stopper: When activated, the goal’s movement will be blocked for fifteen "
+"seconds. After hitting the goal, it will stay in the same position.\n"
+"3. Point Multiplier: When activated, you will receive a bonus to the points "
+"you earn for fifteen seconds.\n"
+"4. Elevator: When activated, the goal will rise closer to the bar for "
+"fifteen seconds.\n"
+"5. Rocket: When activated, a rocket will be launched toward the goal. After "
+"the rocket hits the target, you will receive several times more points than "
+"for a regular ball hit.\n"
+"6. Electric discharge: When activated, an electric discharge will be fired "
+"at the character. If it hits the character, they will be paralyzed for ten "
+"seconds. However, if you manage to avoid the charge, you will receive a "
+"bonus of five percent of your current score.\n"
+"Each effect has its unique sound.\n"
+"All additional sounds of the mode can be listened to by selecting the "
+"corresponding option at the end of the reference.\n"
+"If you miss three activation opportunities in a row, you will be penalized "
+"by twenty-five percent of your current score.\n"
+"You can check how many activations you have missed in the pause menu.\n"
+"At the end of the game session, you will receive not coins, but a new "
+"currency - blue orbs.\n"
+"By spending this currency in the in-game store, you can either acquire a new "
+"skill or an object, or improve the conditions of this mode."
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfWillMode"
+msgid "Trial of will."
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfWillModeInfo"
+msgid ""
+"Trial of Will.\n"
+"In this mode, you will test your patience and will to win.\n"
+"The number of objects on the field is significantly reduced compared to the "
+"regular mode, and you only earn fifty percent of the original point values.\n"
+"Using skills is prohibited, and bonus points are not awarded for perfect "
+"strikes or bounces off the ceiling.\n"
+"Additionally, special objects like mines are absent from the field.\n"
+"However, the leader and time auras work without restriction.\n"
+"From time to time, items will appear on the ground that you can activate.\n"
+"This mode features three types of items:\n"
+"1. Point Multiplier: When activated, you will receive a bonus to the points "
+"you earn for fifteen seconds.\n"
+"2. Phantom strike: When activated, the item sends a phantom strike upward, "
+"which can destroy an unlimited number of objects.\n"
+"3. Creator's item: When activated, it creates ten to fifteen objects on the "
+"field.\n"
+"Each type of item has its own characteristic sound, helping you identify "
+"which item is on the field.\n"
+"All additional sounds of the mode can be listened to by selecting the "
+"corresponding option at the end of the reference information.\n"
+"At the end of the game session, you will receive not coins, but a new "
+"currency - green orbs.\n"
+"By spending this currency in the in-game store, you can either acquire a new "
+"skill or an object, or improve the conditions of this mode."
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfWillModeLearnSounds"
+msgid "Learn additional mode sounds."
 msgstr ""
 
 msgctxt "ModeSelectionFormTitle"
@@ -471,6 +1019,49 @@ msgid ""
 "Select a game mode. Use tab and shift+tab to move forwards and backwards on "
 "the screen. Use the up and down arrows to move through the list. To confirm "
 "your selection, press enter or click the \"Start\" button."
+msgstr ""
+
+msgctxt "ModeUnlockTestOfSkill"
+msgid ""
+"New Mode Unlocked!\n"
+"The Trial of Mastery mode is now available.\n"
+"You can view the description by selecting it from the list on the start game "
+"screen and pressing the D key, or by pressing the corresponding button to "
+"open the description.\n"
+"New milestones related to the unlocked mode are now available in your "
+"profile.\n"
+"A new category of upgrades for this mode has been added to the store, along "
+"with two new skills available for purchase.\n"
+"You now have access to the Luck Chest, it's tab can be found in the shop.\n"
+"For more details, press the open reference information button located on the "
+"Luck Chest tab.\n"
+"You can unlock the quest board on the new corresponding tab in your profile."
+msgstr ""
+
+msgctxt "ModeUnlockTestOfSpeed"
+msgid ""
+"New Mode Unlocked!\n"
+"The Trial of Speed mode is now available!\n"
+"You can view the description by selecting it from the list on the start game "
+"screen and pressing the D key, or by pressing the corresponding button to "
+"open the description.\n"
+"New milestones related to the unlocked mode are now available in your "
+"profile.\n"
+"A new category of upgrades for this mode has been added to the store, along "
+"with a new skill and object available for purchase."
+msgstr ""
+
+msgctxt "ModeUnlockTestOfWill"
+msgid ""
+"New Mode Unlocked!\n"
+"The Trial of Will mode is now available!\n"
+"You can view the description by selecting it from the list on the start game "
+"screen and pressing the D key, or by pressing the corresponding button to "
+"open the description.\n"
+"New milestones related to the unlocked mode are now available in your "
+"profile.\n"
+"A new category of upgrades for this mode has been added to the store, along "
+"with a new skill and object available for purchase."
 msgstr ""
 
 msgctxt "NumberNotationsEmpty"
@@ -528,10 +1119,6 @@ msgid ""
 "field"
 msgstr ""
 
-msgctxt "OptionsScreenAutosaveRecording"
-msgid "Save the recording every 30 seconds"
-msgstr ""
-
 msgctxt "OptionsScreenBatHitSuccessSound"
 msgid "Play a sound when the ball is successfully hit with the bat"
 msgstr ""
@@ -545,7 +1132,7 @@ msgid "General"
 msgstr ""
 
 msgctxt "OptionsScreenCatigoriesKeyConfiguration"
-msgid "Keyboard shortcut configuration"
+msgid "Controlls"
 msgstr ""
 
 msgctxt "OptionsScreenCatigoriesRecording"
@@ -577,7 +1164,7 @@ msgid "Close"
 msgstr ""
 
 msgctxt "OptionsScreenConfigureKeysButton"
-msgid "Configure keyboard shortcuts"
+msgid "Configure controlls"
 msgstr ""
 
 msgctxt "OptionsScreenDisplayTitleHints"
@@ -613,13 +1200,13 @@ msgid "Cancel recording when canceling the game from the pause menu"
 msgstr ""
 
 msgctxt "OptionsScreenResetKeyConfigurationToDefault"
-msgid "Reset shortcut key configuration to defaults"
+msgid "Reset controls configuration to defaults"
 msgstr ""
 
 msgctxt "OptionsScreenResetKeyConfigurationToDefaultConfirmationQuestion"
 msgid ""
-"Are you sure you want to reset your current keyboard shortcut configuration? "
-"Attention: this action is irreversible!"
+"Are you sure you want to reset your current controls configuration? Warning: "
+"this action is irreversible!"
 msgstr ""
 
 msgctxt "OptionsScreenResetOptionsToDefault"
@@ -628,7 +1215,7 @@ msgstr ""
 
 msgctxt "OptionsScreenResetOptionsToDefaultConfirmationQuestion"
 msgid ""
-"Are you sure you want to reset your settings to default? Attention: this "
+"Are you sure you want to reset your settings to defaults? Warning: this "
 "action is irreversible! Once confirmed, the application will be restarted."
 msgstr ""
 
@@ -677,12 +1264,29 @@ msgstr ""
 
 msgctxt "OptionsScreenWipeSaveConfirmationQuestion"
 msgid ""
-"Are you sure you want to reset your game progress? Attention: this action is "
+"Are you sure you want to reset your game progress? Warning: this action is "
 "irreversible!"
 msgstr ""
 
 msgctxt "PauseMenuAbortGame"
 msgid "Abort the game and return to the main menu."
+msgstr ""
+
+msgctxt "PauseMenuActiveQuests"
+msgid "Active quests list."
+msgstr ""
+
+msgctxt "PauseMenuActiveQuestsNoQuests"
+msgid "No active quests."
+msgstr ""
+
+msgctxt "PauseMenuBarbellEffect"
+msgid "The effect is waiting for activation."
+msgstr ""
+
+#, python-brace-format
+msgctxt "PauseMenuBarbellEffectMiss"
+msgid "Penalty for missed effects: {0}/3."
 msgstr ""
 
 msgctxt "PauseMenuContinueGame"
@@ -695,6 +1299,29 @@ msgid ""
 "{0} points scored in this game. The ball collided with objects {1} times, "
 "destroyed {2} objects, and bounced off the floor {3} times. You hit the ball "
 "{4} times."
+msgstr ""
+
+#, python-brace-format
+msgctxt "PauseMenuGatesInfo"
+msgid "Hit Streak: {0}/{1}. Total Hits on Goal: {2}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "PauseMenuItemMiss"
+msgid "Penalty for Missed Items: {0}/3."
+msgstr ""
+
+msgctxt "PauseMenuItemOnField"
+msgid "An item is on the field."
+msgstr ""
+
+#, python-brace-format
+msgctxt "PauseMenuPoints"
+msgid "{0} points scored in this game."
+msgstr ""
+
+msgctxt "PauseMenuPointsMultiplierActive"
+msgid "Points multiplier is active."
 msgstr ""
 
 msgctxt "PauseMenuPracticeModeActive"
@@ -716,8 +1343,102 @@ msgid ""
 "item, press enter."
 msgstr ""
 
+#, python-brace-format
+msgctxt "ProfileAurasActive"
+msgid "Active auras: {0}/{1}."
+msgstr ""
+
+msgctxt "ProfileAurasHelp"
+msgid "Open the aura reference information"
+msgstr ""
+
 msgctxt "ProfileAurasPageTitle"
 msgid "Auras"
+msgstr ""
+
+msgctxt "ProfileModulesHelp"
+msgid "Open the module reference information"
+msgstr ""
+
+msgctxt "ProfileModulesList"
+msgid "Unlocked modules"
+msgstr ""
+
+msgctxt "ProfileModulesPageTitle"
+msgid "Star modules"
+msgstr ""
+
+msgctxt "ProfileModulesUpgrades"
+msgid "Module upgrades"
+msgstr ""
+
+#, python-brace-format
+msgctxt "ProfileQuestBoardBuyQuestSlot"
+msgid ""
+"Buy a new quest slot for {0} green orbs, {1} blue orbs, and {2} red orbs"
+msgstr ""
+
+msgctxt "ProfileQuestBoardGetReward"
+msgid "Claim star"
+msgstr ""
+
+msgctxt "ProfileQuestBoardPageTitle"
+msgid "Quest board"
+msgstr ""
+
+msgctxt "ProfileQuestBoardQuests"
+msgid "Quests"
+msgstr ""
+
+msgctxt "ProfileQuestBoardRecieveAll"
+msgid "Claim all rewards"
+msgstr ""
+
+#, python-brace-format
+msgctxt "ProfileQuestBoardStars"
+msgid "Stars: {0}."
+msgstr ""
+
+msgctxt "ProfileQuestBoardTakeAll"
+msgid "Get all available quests"
+msgstr ""
+
+msgctxt "ProfileQuestBoardTakeQuest"
+msgid "Get a quest"
+msgstr ""
+
+#, python-brace-format
+msgctxt "ProfileQuestBoardUnlock"
+msgid ""
+"Unlock the quest board for {0} green orbs, {1} blue orbs, and {2} red orbs"
+msgstr ""
+
+msgctxt "ProfileQuestBoardUnlocked"
+msgid ""
+"You have unlocked the quest board.\n"
+"In your profile, on the corresponding tab, the list of quests is now "
+"available.\n"
+"You can accept a quest by pressing the corresponding button located right "
+"after the list.\n"
+"You have twenty-four hours to complete each quest.\n"
+"Once this time expires, if the quest hasn't been completed, it will be "
+"reset, and the slot will be free for a new quest.\n"
+"If you completed the quest but didn't claim the reward before the time ran "
+"out, the quest will be reset, and the opportunity to claim the reward will "
+"be lost.\n"
+"If you finish the quest before the scheduled time, you will still need to "
+"wait until the time expires before receiving a new quest.\n"
+"As a reward for completing quests, you earn a new currency - stars.\n"
+"New upgrades and auras are now available for purchase in the store.\n"
+"Initially, you only have one quest slot, but on the quest tab in your "
+"profile, you can increase the number of slots using green, blue, and red "
+"orbs.\n"
+"Additionally, in the pause menu, you can view all currently active quests."
+msgstr ""
+
+#, python-brace-format
+msgctxt "ProfileRewardsForUnlockNextMode"
+msgid "To unlock the next mode, claim {0} more rewards."
 msgstr ""
 
 msgctxt "ProfileStatsCopied"
@@ -739,12 +1460,165 @@ msgid ""
 "reward."
 msgstr ""
 
+msgctxt "QuestActivateBarbellEffects"
+msgid "Activate effects in trial of speed mode."
+msgstr ""
+
+msgctxt "QuestActivateItems"
+msgid "Activate items."
+msgstr ""
+
+msgctxt "QuestBallHits"
+msgid "Hit the ball."
+msgstr ""
+
+msgctxt "QuestBarbellHits"
+msgid "Collide the ball with the bar in the Trial of Speed mode."
+msgstr ""
+
+msgctxt "QuestCatchBalls"
+msgid "Catch balls."
+msgstr ""
+
+msgctxt "QuestCatchBallsTestOfSkill"
+msgid "Catch balls in the Trial of Mastery mode."
+msgstr ""
+
+msgctxt "QuestCeilingHitsStreak"
+msgid "Achieve a ceiling collision streak."
+msgstr ""
+
+msgctxt "QuestCompleted"
+msgid "Quest completed"
+msgstr ""
+
+msgctxt "QuestDestroyObjects"
+msgid "Destroy objects."
+msgstr ""
+
+msgctxt "QuestDestroyPuppets"
+msgid "Destroy puppets in the Trial of Mastery mode."
+msgstr ""
+
+msgctxt "QuestDestroyedObjectsStreak"
+msgid "Achieve a continuous object destruction streak."
+msgstr ""
+
+msgctxt "QuestElectrochargeDodge"
+msgid "Dodge electric charges in the Trial of Speed mode."
+msgstr ""
+
+msgctxt "QuestGatesHitsStreak"
+msgid "Achieve a continuous goal hit streak in the Trial of Speed mode."
+msgstr ""
+
+msgctxt "QuestHitBallWithBallLeap"
+msgid ""
+"Hit the ball, which is at least twelve tiles above the ground, using the "
+"Furious leap skill."
+msgstr ""
+
+msgctxt "QuestHitCeiling"
+msgid "Collide the ball with the ceiling."
+msgstr ""
+
+msgctxt "QuestHitCeilingInImmateriality"
+msgid ""
+"Hit the ball against the ceiling while the immateriality effect is active."
+msgstr ""
+
+msgctxt "QuestHitGates"
+msgid "Score goals in the Trial of Speed mode."
+msgstr ""
+
+msgctxt "QuestHitGatesInMove"
+msgid "Hit the ball into the moving goal in the Trial of Speed mode."
+msgstr ""
+
+msgctxt "QuestInBallView"
+msgid "Use the ball watch mode."
+msgstr ""
+
+msgctxt "QuestJumpHits"
+msgid "Hit the ball while jumping."
+msgstr ""
+
+msgctxt "QuestNone"
+msgid "No quest."
+msgstr ""
+
+msgctxt "QuestObjectHits"
+msgid "Collide the ball with objects."
+msgstr ""
+
+msgctxt "QuestObjectHitsStreak"
+msgid "Achieve a continuous object collision streak."
+msgstr ""
+
+msgctxt "QuestOnlyHorizontalHits"
+msgid ""
+"Complete the game session by hitting the ball with only horizontal hits."
+msgstr ""
+
+msgctxt "QuestOutOfEffectMisses"
+msgid ""
+"Complete the game session in the Trial of Speed mode without receiving a "
+"penalty for missing effects."
+msgstr ""
+
+msgctxt "QuestOutOfItemMisses"
+msgid ""
+"Complete the game session in the Trial of Mastery mode without receiving a "
+"penalty for missing items."
+msgstr ""
+
+msgctxt "QuestOutOfPointsLosementItems"
+msgid ""
+"Complete the game session in the Trial of Mastery mode without activating "
+"the penalty item."
+msgstr ""
+
+msgctxt "QuestPerfectHits"
+msgid "Make perfect strikes."
+msgstr ""
+
+msgctxt "QuestPerfectHitsStreak"
+msgid "Achieve a continuous perfect strike streak."
+msgstr ""
+
+msgctxt "QuestPlayGame"
+msgid "Spend time on the game field."
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestProgress"
+msgid "Progress: {0}/{1} ({2}%)."
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestTime"
+msgid "Time left to complete the quest: {0}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestTimeNew"
+msgid "A new quest will be available in {0}"
+msgstr ""
+
+msgctxt "QuestUseMagnetism"
+msgid "Use the Magnetism skill during an active object destruction streak."
+msgstr ""
+
+msgctxt "QuestUseSkills"
+msgid "Use skills."
+msgstr ""
+
 msgctxt "SkillLevelsSetFormBack"
 msgid "Return to game"
 msgstr ""
 
 msgctxt "SkillLevelsSetFormPowerRecoveringBonusChanger"
-msgid "Increased blow force recovery rate level"
+msgid "Increased hit strength recovery rate level"
 msgstr ""
 
 #, python-brace-format
@@ -774,7 +1648,7 @@ msgstr ""
 
 #, python-brace-format
 msgctxt "SkillSlotSelected"
-msgid "Skill {0} is selected."
+msgid "Skill {0} selected."
 msgstr ""
 
 msgctxt "SkillSlotSetterMenuBack"
@@ -782,13 +1656,13 @@ msgid "Go back."
 msgstr ""
 
 msgctxt "SkillSlotSetterMenuTitle"
-msgid "Select a skill to install in the slot."
+msgid "Select a skill to set in the slot."
 msgstr ""
 
 msgctxt "SkillSlotSetterMenuTitleWithHint"
 msgid ""
-"Select a skill to install in the slot. Use the up and down arrows to select "
-"and press enter to confirm your selection."
+"Select a skill to set in the slot. Use the up and down arrows to select and "
+"press enter to confirm your selection."
 msgstr ""
 
 #, python-brace-format
@@ -798,6 +1672,30 @@ msgstr ""
 
 msgctxt "SkillSlotsTitle"
 msgid "Slots"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsAutoCatchLevelInfoText"
+msgid ""
+"Level {0}. Summons an entity for {1} seconds that will automatically catch "
+"the ball if it is within {2} or fewer cells from the character, with a "
+"cooldown of {3} seconds between uses."
+msgstr ""
+
+msgctxt "SkillsAutoCatchName"
+msgid "catcher’s Soul"
+msgstr ""
+
+msgctxt "SkillsAutoCatchNameFull"
+msgid "Catcher’s Soul."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsAutoCatchText"
+msgid ""
+"Catcher's soul: Level {0}/3. Summons an entity for {1} seconds that will "
+"automatically catch the ball if it is within {2} or fewer cells from the "
+"character, with a cooldown of {3} seconds between uses"
 msgstr ""
 
 #, python-brace-format
@@ -820,7 +1718,52 @@ msgctxt "SkillsBallLeapText"
 msgid ""
 "Furious leap: level {0}/4. The character makes a rapid dash towards the "
 "ball, located no higher than {1} cells above the ground, cooldown interval "
-"is {2} seconds."
+"is {2} seconds"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsBallPumpLevelInfoText"
+msgid ""
+"Level {0}. For {1} seconds, makes the ball twice as large, with a cooldown "
+"of {2} seconds between uses."
+msgstr ""
+
+msgctxt "SkillsBallPumpName"
+msgid "hand pump"
+msgstr ""
+
+msgctxt "SkillsBallPumpNameFull"
+msgid "Hand pump."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsBallPumpText"
+msgid ""
+"Hand Pump: Level {0}/5. For {1} seconds, makes the ball twice as large, with "
+"a cooldown of {2} seconds between uses"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsBatThrowLevelInfoText"
+msgid ""
+"Level {0}. The character throws the bat upwards, no more than {1} cells, "
+"aiming at a mine, sofa, or toolbox. The cooldown between uses is {2} seconds."
+msgstr ""
+
+msgctxt "SkillsBatThrowName"
+msgid "filigree throw"
+msgstr ""
+
+msgctxt "SkillsBatThrowNameFull"
+msgid "Filigree Throw."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsBatThrowText"
+msgid ""
+"Filigree Throw: Level {0}/3. The character throws the bat upwards, no more "
+"than {1} cells, aiming at a mine, sofa, or toolbox. The cooldown between "
+"uses is {2} seconds"
 msgstr ""
 
 msgctxt "SkillsEmpty"
@@ -846,7 +1789,7 @@ msgstr ""
 msgctxt "SkillsImmaterialityText"
 msgid ""
 "Immateriality: level {0}/3. The ball goes immaterial for {1} seconds, "
-"cooldown interval is {2} seconds."
+"cooldown interval is {2} seconds"
 msgstr ""
 
 msgctxt "SkillsLevelInfo"
@@ -876,7 +1819,7 @@ msgstr ""
 msgctxt "SkillsMagnetismText"
 msgid ""
 "Magnetism: level {0}/4. The ball receives an effect that attracts it to "
-"nearby objects for {1} seconds, cooldown interval is {2} seconds."
+"nearby objects for {1} seconds, cooldown interval is {2} seconds"
 msgstr ""
 
 msgctxt "SkillsNoneNameFull"
@@ -891,22 +1834,47 @@ msgid ""
 msgstr ""
 
 msgctxt "SkillsObjectSpawnerName"
-msgid "creator's stroke"
+msgid "creator's sweep"
 msgstr ""
 
 msgctxt "SkillsObjectSpawnerNameFull"
-msgid "Creator's stroke."
+msgid "Creator's sweep."
 msgstr ""
 
 #, python-brace-format
 msgctxt "SkillsObjectSpawnerText"
 msgid ""
-"Creator's stroke: level {0}/4. Swinging the bat creates {1} objects on the "
-"field, cooldown interval is {2} seconds."
+"Creator's sweep: level {0}/4. Swinging the bat creates {1} objects on the "
+"field, cooldown interval is {2} seconds"
 msgstr ""
 
 msgctxt "SkillsPageTitle"
 msgid "Skills"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsRocketShotLevelInfoText"
+msgid ""
+"Level {0}. The character launches a rocket that flies vertically upwards to "
+"the center of the field and then explodes, destroying objects within {1} "
+"cells of the explosion's epicenter. The cooldown between uses is {2} seconds."
+msgstr ""
+
+msgctxt "SkillsRocketShotName"
+msgid "rocket salvo"
+msgstr ""
+
+msgctxt "SkillsRocketShotNameFull"
+msgid "Rocket salvo."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsRocketShotText"
+msgid ""
+"Rocket Salvo: Level {0}/5. The character launches a rocket that flies "
+"vertically upwards to the center of the field, then explodes, destroying "
+"objects within {1} cells of the explosion's epicenter. The cooldown between "
+"uses is {2} seconds"
 msgstr ""
 
 #, python-brace-format
@@ -928,7 +1896,32 @@ msgstr ""
 msgctxt "SkillsShadowStrikeText"
 msgid ""
 "Phantom strike: level {0}/5. The range of the strike is {1} cells up, can "
-"destroy {2} objects, cooldown interval is {3} seconds."
+"destroy {2} objects, cooldown interval is {3} seconds"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsStarDisintegratorLevelInfoText"
+msgid ""
+"Level {0}. A wave is created that disintegrates any object it encounters "
+"along its path, turning it into {1} star energy. The wave's width is {2} "
+"tiles, speed is {3} tiles per second. Cooldown interval is {4} seconds."
+msgstr ""
+
+msgctxt "SkillsStarDisintegratorName"
+msgid "star disintegrating"
+msgstr ""
+
+msgctxt "SkillsStarDisintegratorNameFull"
+msgid "Star Disintegrating."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsStarDisintegratorText"
+msgid ""
+"Star Disintegration: Level {0}/16. A wave is created that disintegrates any "
+"object it encounters along its path, turning it into {1} star energy. The "
+"wave's width is {2} tiles, speed is {3} tiles per second. Cooldown interval "
+"is {4} seconds"
 msgstr ""
 
 #, python-brace-format
@@ -950,77 +1943,419 @@ msgstr ""
 msgctxt "SkillsSuperElasticityText"
 msgid ""
 "Superelasticity: level {0}/4. For {1} seconds the ball bounces off objects "
-"an order of magnitude stronger, cooldown interval is {2} seconds."
+"an order of magnitude stronger, cooldown interval is {2} seconds"
+msgstr ""
+
+msgctxt "StarModuleBallEnslaverInfo"
+msgid ""
+"Ball controller\n"
+"After activating this module, which consumes star energy to operate, you'll "
+"be able to control the ball's movement, manually directing it in any "
+"direction.\n"
+"To use the module during gameplay, don't forget to set it in one of the four "
+"slots.\n"
+"Modules can only be used in the normal and training modes.\n"
+"The following keybindings apply to the default configuration.\n"
+"To activate the module, hold the Alt key and press the number of the slot "
+"where it's set.\n"
+"To deactivate the module, press the same combination used to activate it.\n"
+"Activation, as well as the active operation of the module, consumes star "
+"energy, which can be obtained by using the Star Disintegration skill.\n"
+"Once activated, you will no longer control the character.\n"
+"Instead, you'll manually control the ball's movement.\n"
+"Control the ball with the arrow keys or W, A, S, D keys.\n"
+"The ball's movement speed is fixed at a constant value, ignoring the game's "
+"physics.\n"
+"In this mode, the ball destroys objects with a single hit.\n"
+"Speed of the ball and the amount of energy consumed by the module can be "
+"upgraded with corresponding upgrades.\n"
+"You can view the energy consumption and other useful information by clicking "
+"on the module's upgrade button and going to the module's additional "
+"information tab.\n"
+"If you run out of star energy while the module is still active, it will "
+"automatically deactivate."
+msgstr ""
+
+msgctxt "StarModuleBallEnslaverText"
+msgid "Ball controller"
+msgstr ""
+
+msgctxt "StarModuleDestroyerInfo"
+msgid ""
+"Destroyer.\n"
+"With this module, using star energy obtained by using a special skill, you "
+"can fire energy charges that annihilate objects.\n"
+"To use the module during gameplay, don't forget to set it in one of the four "
+"available slots.\n"
+"Modules can only be used in standard and training modes.\n"
+"The following keybindings apply to the default configuration.\n"
+"To activate the module, hold the Alt key and press the number corresponding "
+"to the slot in which it’s set.\n"
+"To deactivate the module, press the same combination used for activation.\n"
+"Activation and active module operation consume star energy, which can be "
+"gained by using the Star Disintegration skill.\n"
+"To shoot, press the key for a horizontal or vertical bat swing.\n"
+"The shot generates an energy charge that flies upwards and destroys a set "
+"number of objects.\n"
+"The number of objects destroyed can be increased with the charge "
+"stabilization upgrade.\n"
+"Destroyed objects are annihilated by the charge on impact, meaning they "
+"don’t fall down or make any noise.\n"
+"Each shot consumes star energy and puts strain on the module's reactor.\n"
+"The greater the reactor overload, the more energy each shot consumes, and "
+"the more energy is used to keep the module operational.\n"
+"The reactor’s status is reflected in its sound, which changes pitch "
+"depending on the current load.\n"
+"If shooting is stopped, the reactor will gradually reduce its overload and "
+"return to its original state.\n"
+"You can reduce the strain created by shots by upgrading overload protection "
+"efficiency.\n"
+"The overload protection efficiency, along with other useful information, can "
+"be viewed by clicking the module's upgrade button and going to the "
+"additional information tab.\n"
+"If there’s not enough energy for a shot, the module will emit a sound to "
+"notify you.\n"
+"Once star energy is depleted and the module is still active, it will "
+"automatically deactivate."
+msgstr ""
+
+msgctxt "StarModuleDestroyerText"
+msgid "Destroyer"
+msgstr ""
+
+msgctxt "StarModuleFirstUnlock"
+msgid ""
+"You've unlocked your first Star Module!\n"
+"Star disintegration skill unlocked.\n"
+"By using star disintegration, you gain the star energy required to operate "
+"star modules.\n"
+"Modules can be upgraded. You can access module upgrades on the new Star "
+"Modules tab in your profile."
+msgstr ""
+
+msgctxt "StarModuleFormInfoList"
+msgid "Information"
+msgstr ""
+
+msgctxt "StarModuleFormTabInfo"
+msgid "Additional module information"
+msgstr ""
+
+msgctxt "StarModuleFormTabUpgrades"
+msgid "Module upgrades"
+msgstr ""
+
+msgctxt "StarModuleFormTitle"
+msgid "Module upgrades."
+msgstr ""
+
+msgctxt "StarModuleFormTitleWithHint"
+msgid ""
+"Module upgrades. Use tab and shift+tab to move forwards and backwards on the "
+"screen. Use the up and down arrows to move through the list. To activate the "
+"selected item, press enter or spacebar."
+msgstr ""
+
+msgctxt "StarModuleFormUpgrades"
+msgid "Upgrades"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoBallEnslaverBallSpeed"
+msgid "Ball speed: {0} cells per second."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoDestroyerOverdriveProtection"
+msgid "Module Overload Protection Efficiency: {0}%."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoDestroyerProjectileSize"
+msgid "Charge Size: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoDestroyerProjectileStability"
+msgid "Charge Stability: Destruction of {0} objects before destabilization."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoDestroyerShootingSpeed"
+msgid "Rate of Fire: {0} shots per minute."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoDestroyerShotConsumption"
+msgid "Energy consumption per shot: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoIdleCost"
+msgid "Energy consumption per second: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoStarStormEnergyBoltCost"
+msgid "Energy consumption for forming an energy burst: {0} units."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoStarStormEnergyBoltFormingSpeed"
+msgid "Speed of forming energy bursts: {0} per minute."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoStartCost"
+msgid "Energy consumed per activation: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoTimeShifterShiftChance"
+msgid "Cooldown Time of Random Skill reduction Chance: {0}%."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoTimeShifterShiftCost"
+msgid "Energy consumption for reducing skill cooldown time: {0} units."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoTimeShifterShiftingTime"
+msgid "Skill cooldown reduction time: from 1 to {0} seconds."
+msgstr ""
+
+msgctxt "StarModuleNoneText"
+msgid "Not set."
+msgstr ""
+
+msgctxt "StarModuleSlotSetterMenuTitle"
+msgid "Select a module to set in the slot."
+msgstr ""
+
+msgctxt "StarModuleSlotSetterMenuTitleWithHint"
+msgid ""
+"Select a module to set in the slot. Use the up and down arrows to select and "
+"press enter to confirm your selection."
+msgstr ""
+
+msgctxt "StarModuleStarStormInfo"
+msgid ""
+"Star storm.\n"
+"While active, this module uses star energy to generate energy bursts that "
+"fall from the ceiling to the ground, destroying any objects in their path.\n"
+"To use the module during the game, make sure to set it in one of the four "
+"slots.\n"
+"Modules can only be used in regular and training modes.\n"
+"The following key bindings apply to the default key configuration:\n"
+"To activate the module, hold the Alt key and press the number of the slot "
+"where it is set.\n"
+"To deactivate the module, press the same combination used for activation.\n"
+"Both activation and active use of the module consume star energy, which can "
+"be obtained by using the Star Disintegration skill.\n"
+"While active, the module generates energy bursts near the ceiling at regular "
+"intervals.\n"
+"As they fall, these bursts destroy objects in their path.\n"
+"Destroyed objects are annihilated by the burst upon impact, so they do not "
+"fall down or create noise.\n"
+"Each generated burst consumes star energy.\n"
+"You can reduce the energy consumption and increase the burst generation "
+"speed by improving the module with the appropriate upgrades.\n"
+"You can check the energy consumption and other useful information by "
+"pressing the module upgrades button and going to the module's additional "
+"information tab.\n"
+"If you run out of star energy and the module is still active, it will be "
+"automatically deactivated."
+msgstr ""
+
+msgctxt "StarModuleStarStormText"
+msgid "Star storm"
+msgstr ""
+
+msgctxt "StarModuleTimeShifterInfo"
+msgid ""
+"Temporary Shift Module.\n"
+"When this module is active, it consumes star energy to operate, but there is "
+"a chance that a perfect strike will reduce the cooldown time of a random "
+"skill.\n"
+"To use the module during the game, make sure to set it in one of the four "
+"slots.\n"
+"Modules can only be used in regular and training modes.\n"
+"The following key bindings apply to the default key configuration:\n"
+"To activate the module, hold the Alt key and press the number of the slot "
+"where it is set.\n"
+"To deactivate the module, press the same combination used for activation.\n"
+"Both activation and active use of the module consume star energy, which can "
+"be obtained by using the Star Disintegration skill.\n"
+"Make perfect strikes while the module is active to have a chance of reducing "
+"the cooldown time of a random skill.\n"
+"The chance to reduce the cooldown and other useful information can be viewed "
+"by pressing the module upgrades button and going to the module's additional "
+"information tab.\n"
+"If you run out of star energy and the module is still active, it will be "
+"automatically deactivated."
+msgstr ""
+
+msgctxt "StarModuleTimeShifterText"
+msgid "Temporary Shift module"
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatItemBallCeilHits"
-msgid "Number of ball bounces from the ceiling: {0}. {1}"
+msgid "Number of ball bounces off the ceiling: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemBallCeilHitsStreak"
+msgid "Maximum ball bounce off the ceiling streak duration : {0}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatItemBallFloorHits"
-msgid "Number of ball bounces off the floor: {0}. {1}"
+msgid "Number of ball bounces off the floor: {0}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatItemBallsCaught"
-msgid "Total balls caught: {0}. {1}"
+msgid "Total balls caught: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemBarbellEffectsActivated"
+msgid "Effects activated in trial of speed mode: {0}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatItemBatHits"
-msgid "Number of balls hit: {0}. {1}"
+msgid "Number of balls hit: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemCouchesDestroyed"
+msgid "Destroyed couches: {0}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatItemDestroyedObjects"
-msgid "Number of objects destroyed: {0}. {1}"
+msgid "Number of objects destroyed: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemDestroyedObjectsStreak"
+msgid "Maximum duration of the object destruction streak: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemDestroyedObjectsTestOfSkillStreak"
+msgid ""
+"Maximum duration of the object destruction streak in the trial of mastery "
+"mode: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemGatesHitStreak"
+msgid "Consecutive goals scored in a single streak: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemGatesHits"
+msgid "Total goal hits: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemItemsActivated"
+msgid "Items activated: {0}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatItemMaximumPoints"
-msgid "Maximum points per game: {0}. {1}"
+msgid "Maximum points per game: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemMaximumTestOfSkillPoints"
+msgid "Maximum points per game in trial of mastery mode: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemMaximumTestOfSpeedPoints"
+msgid "Maximum points per game in trial of speed mode: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemMaximumTestOfWillPoints"
+msgid "Maximum points per game in trial of will mode: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemMinesDetonated"
+msgid "Mines exploded: {0}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatItemObjectHits"
-msgid "Number of collisions with objects: {0}. {1}"
+msgid "Number of collisions with objects: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemObjectHitsStreak"
+msgid "Maximum object collision streak duration: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemObjectHitsTestOfSkillStreak"
+msgid ""
+"Maximum duration of a collision streak in the trial of mastery mode: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemPerfectHits"
+msgid "Perfect strikes made in total: {0}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatItemPerfectHitsStreak"
-msgid "Perfect strikes made in a row: {0}. {1}"
+msgid "Perfect strikes made in a row: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemPuppetsDestroyed"
+msgid "Puppets destroyed: {0}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatItemStepsMade"
-msgid "Number of steps made: {0}. {1}"
+msgid "Number of steps made: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemToolboxesDestroyed"
+msgid "Toolboxes flipped: {0}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatItemTotalGamingTime"
-msgid "Total time spent on the playing field: {0}. {1}"
+msgid "Total time spent on the playing field: {0}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatItemTotalPoints"
-msgid "Total points scored: {0}. {1}"
+msgid "Total points scored: {0}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatItemTotalSkillsUsed"
-msgid "Total skills used: {0}. {1}"
+msgid "Total skills used: {0}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatItemTotalTime"
-msgid "Total time spent in the application: {0}. {1}"
+msgid "Total time spent in the application: {0}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatRewardAvailable"
-msgid "Reward is available. Rewards received: {0}."
+msgid "Reward is available. Rewards claimed: {0}."
 msgstr ""
 
 msgctxt "StatRewardError"
@@ -1029,12 +2364,12 @@ msgstr ""
 
 #, python-brace-format
 msgctxt "StatRewardRequirements"
-msgid "Until reward: {0}. Rewards received: {1}."
+msgid "Until reward: {0}. Rewards claimed: {1}."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StatRewardsTotal"
-msgid "{0} awards received in total."
+msgid "{0} awards claimed in total."
 msgstr ""
 
 #, python-brace-format
@@ -1047,16 +2382,44 @@ msgctxt "StoreButtonUnlock"
 msgid "Unlock for {0} coins"
 msgstr ""
 
+msgctxt "StoreButtonUnlockAuraUnlocked"
+msgid "Aura unlocked"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUnlockBlueOrbs"
+msgid "Unlock for {0} blue orbs"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUnlockGreenOrbs"
+msgid "Unlock for {0} green orbs"
+msgstr ""
+
+msgctxt "StoreButtonUnlockModuleUnlocked"
+msgid "Module unlocked"
+msgstr ""
+
 msgctxt "StoreButtonUnlockObjectUnlocked"
-msgid "Object unlocked."
+msgid "Object unlocked"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUnlockRedOrbs"
+msgid "Unlock for {0} red orbs"
 msgstr ""
 
 msgctxt "StoreButtonUnlockSkillUnlocked"
-msgid "Skill unlocked."
+msgid "Skill unlocked"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUnlockStars"
+msgid "Unlock for {0} stars"
 msgstr ""
 
 msgctxt "StoreButtonUnlockUnlocked"
-msgid "Feature unlocked"
+msgid "Ability unlocked"
 msgstr ""
 
 #, python-brace-format
@@ -1064,12 +2427,56 @@ msgctxt "StoreButtonUpgrade"
 msgid "Upgrade for {0} coins"
 msgstr ""
 
+#, python-brace-format
+msgctxt "StoreButtonUpgradeBlueOrbs"
+msgid "Upgrade for {0} blue orbs"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUpgradeGreenOrbs"
+msgid "Upgrade for {0} green orbs"
+msgstr ""
+
 msgctxt "StoreButtonUpgradeMaxed"
 msgid "Maxed out"
 msgstr ""
 
+#, python-brace-format
+msgctxt "StoreButtonUpgradeRedOrbs"
+msgid "Upgrade for {0} red orbs"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUpgradeStars"
+msgid "Upgrade for {0} stars"
+msgstr ""
+
 msgctxt "StoreBuyError1"
 msgid "Error: Not enough coins."
+msgstr ""
+
+msgctxt "StoreBuyError10"
+msgid "Error: Not enough blue orbs."
+msgstr ""
+
+msgctxt "StoreBuyError11"
+msgid "Error: Not enough red orbs."
+msgstr ""
+
+msgctxt "StoreBuyError12"
+msgid "Error: Not enough stars."
+msgstr ""
+
+msgctxt "StoreBuyError13"
+msgid "Error: This aura is already at maximum level."
+msgstr ""
+
+msgctxt "StoreBuyError14"
+msgid "Error: This aura is already unlocked."
+msgstr ""
+
+msgctxt "StoreBuyError15"
+msgid "Error: This module is already unlocked."
 msgstr ""
 
 msgctxt "StoreBuyError2"
@@ -1077,7 +2484,7 @@ msgid "Error: This upgrade is already at maximum level."
 msgstr ""
 
 msgctxt "StoreBuyError3"
-msgid "Error: This feature is already unlocked."
+msgid "Error: This ability is already unlocked."
 msgstr ""
 
 msgctxt "StoreBuyError4"
@@ -1100,21 +2507,68 @@ msgctxt "StoreBuyError8"
 msgid "Error: This object is already unlocked."
 msgstr ""
 
+msgctxt "StoreBuyError9"
+msgid "Error: Not enough green orbs."
+msgstr ""
+
 msgctxt "StoreCatigories"
 msgid "Categories"
+msgstr ""
+
+msgctxt "StoreCatigoriesAuras"
+msgid "Auras"
 msgstr ""
 
 msgctxt "StoreCatigoriesCharacter"
 msgid "Character"
 msgstr ""
 
+msgctxt "StoreCatigoriesChestOfLuck"
+msgid "Luck chest"
+msgstr ""
+
 msgctxt "StoreCatigoriesObjects"
 msgid "Objects"
 msgstr ""
 
+msgctxt "StoreCatigoriesStarModules"
+msgid "Star modules"
+msgstr ""
+
+msgctxt "StoreCatigoriesStarUpgrades"
+msgid "Star upgrades"
+msgstr ""
+
+msgctxt "StoreCatigoriesTestOfSkill"
+msgid "Trial of mastery upgrades"
+msgstr ""
+
+msgctxt "StoreCatigoriesTestOfSpeed"
+msgid "Trial of speed upgrades"
+msgstr ""
+
+msgctxt "StoreCatigoriesTestOfWill"
+msgid "Trial of will upgrades"
+msgstr ""
+
 #, python-brace-format
-msgctxt "StoreCoins"
+msgctxt "StoreCurrencyBlueOrbs"
+msgid "Blue orbs: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreCurrencyCoins"
 msgid "Coins: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreCurrencyGreenOrbs"
+msgid "Green orbs: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreCurrencyRedOrbs"
+msgid "Red orbs: {0}."
 msgstr ""
 
 msgctxt "StoreInfoTitle"
@@ -1127,9 +2581,159 @@ msgid ""
 "press escape or enter at any item."
 msgstr ""
 
+msgctxt "StoreItemAuraCreatorInfo"
+msgid ""
+"Creator's aura.\n"
+"Enhances the Creator's sweep skill by increasing the number of objects "
+"generated.\n"
+"Note: The aura provides no bonuses at level 0.\n"
+"Aura bonuses by level:\n"
+"Level 1: Increases the number of objects generated by the Creator's sweep by "
+"6.\n"
+"Level 2: Increases the number of objects generated by the Creator's sweep by "
+"15."
+msgstr ""
+
+msgctxt "StoreItemAuraCreatorText"
+msgid "Creator's aura"
+msgstr ""
+
+msgctxt "StoreItemAuraElectroResistanceInfo"
+msgid ""
+"Electric resistance aura.\n"
+"Prevents harm from electrical discharges in the trial of speed mode.\n"
+"Note: The aura provides no bonuses at level 0.\n"
+"Aura bonuses by level:\n"
+"Level 1: The character ignores the paralysis effect from being hit by an "
+"electric discharge.\n"
+"Level 2: The character ignores the paralysis effect from being hit by an "
+"electric discharge. When hit, the discharge is reflected, and if goals are "
+"nearby, they are struck without being moved."
+msgstr ""
+
+msgctxt "StoreItemAuraElectroResistanceText"
+msgid "Electric resistance aura"
+msgstr ""
+
+msgctxt "StoreItemAuraExploderInfo"
+msgid ""
+"Blaster's aura\n"
+"Enhances the mine object, increasing its explosion radius.\n"
+"Note: The aura provides no bonuses at level 0.\n"
+"Aura bonuses by level:\n"
+"Level 1: The mine's explosion radius is increased by one cell.\n"
+"Level 2: The mine's explosion radius is increased by three cells."
+msgstr ""
+
+msgctxt "StoreItemAuraExploderText"
+msgid "Blaster's aura"
+msgstr ""
+
+msgctxt "StoreItemAuraFireRetributionInfo"
+msgid ""
+"Firy vengeance aura.\n"
+"Enhances the Furious leap skill, creating a fiery aura around the character "
+"that destroys all objects in its path while the character flies toward the "
+"ball.\n"
+"Note: The aura provides no bonuses at level 0.\n"
+"At level 1, the effect is automatically activated after using the Furious "
+"leap skill."
+msgstr ""
+
+msgctxt "StoreItemAuraFireRetributionText"
+msgid "Firy vengeance aura"
+msgstr ""
+
+msgctxt "StoreItemAuraLuckyMasterInfo"
+msgid ""
+"Lucky master's aura.\n"
+"Enhances gameplay in the trial of mastery mode.\n"
+"Note: At level 0, the aura provides no bonuses.\n"
+"Aura bonuses by level:\n"
+"Level 1. The Creator's item generates five more objects.\n"
+"Level 2. The Creator's item generates eight more objects. The "
+"Superelasticity effect lasts five seconds longer.\n"
+"Level 3. The Creator's item generates fifteen more objects. The "
+"Superelasticity effect lasts five seconds longer. The rocket explosion "
+"radius increases by one cell.\n"
+"Level 4. The Creator's item generates twenty more objects. The effects of "
+"Superelasticity and points Multiplier last five seconds longer. The rocket "
+"explosion radius increases by two cells.\n"
+"Level 5. The Creator's item generates twenty more objects. The effects of "
+"Superelasticity and Score Multiplier last five seconds longer. The rocket "
+"explosion radius increases by two cells. Puppet bonuses are changed: "
+"Destruction - 60%, Field Boundary Achievement - 45%.\n"
+"Level 6. The Creator's item generates twenty-five more objects. The effects "
+"of Superelasticity, immateriality, and points Multiplier last five seconds "
+"longer. The rocket explosion radius increases by three cells. Puppet bonuses "
+"are changed: Destruction - 75%, Field Boundary Achievement - 60%. Items "
+"appear more frequently, and there are no penalty items."
+msgstr ""
+
+msgctxt "StoreItemAuraLuckyMasterText"
+msgid "Lucky master's aura"
+msgstr ""
+
+msgctxt "StoreItemAuraMagnetarInfo"
+msgid ""
+"Magnetar aura\n"
+"Enhances the Magnetism skill by increasing the attraction speed of the ball "
+"to objects.\n"
+"Note: At level 0, the aura provides no bonuses.\n"
+"Aura bonuses by level:\n"
+"Level 1. Increases the ball's movement speed by 1.2x while Magnetism is "
+"active.\n"
+"Level 2. Increases the ball's movement speed by 1.5x while Magnetism is "
+"active.\n"
+"Level 3. Doubles the ball's movement speed while Magnetism is active. "
+"Increases the duration of Magnetism by 3 seconds.\n"
+"Level 4. Triples the ball's movement speed while Magnetism is active. "
+"Increases the duration of Magnetism by 7 seconds."
+msgstr ""
+
+msgctxt "StoreItemAuraMagnetarText"
+msgid "Magnetar aura"
+msgstr ""
+
+msgctxt "StoreItemAuraOtherworldlyInfo"
+msgid ""
+"Otherworldly Aura\n"
+"Enhances the Immateriality skill by giving the ball increased bounce when it "
+"hits the boundaries of the field, as well as slightly increasing the "
+"duration of the effect.\n"
+"Note: At level 0, the aura provides no bonuses.\n"
+"Aura bonuses by level:\n"
+"Level 1. The ball bounces slightly stronger off the boundaries of the "
+"field.\n"
+"Level 2. The ball bounces significantly stronger off the boundaries of the "
+"field. The duration of the Immateriality effect is increased by 5 seconds."
+msgstr ""
+
+msgctxt "StoreItemAuraOtherworldlyText"
+msgid "Otherworldly Aura"
+msgstr ""
+
+msgctxt "StoreItemAuraShadowMasterInfo"
+msgid ""
+"Phantom Master's aura\n"
+"Enhances the phantom Strike skill, allowing it to destroy unlimited number "
+"of objects in its path and expanding the area of effect.\n"
+"Note: At level 0, the aura provides no bonuses.\n"
+"Aura bonuses by level:\n"
+"Level 1. Phantom Strike can destroy an unlimited number of objects.\n"
+"Level 2. Phantom Strike can destroy an unlimited number of objects. The area "
+"of effect is increased by two cells.\n"
+"Level 3. Phantom Strike can destroy an unlimited number of objects. The area "
+"of effect is increased by four cells."
+msgstr ""
+
+msgctxt "StoreItemAuraShadowMasterText"
+msgid "Phantom master's aura"
+msgstr ""
+
 msgctxt "StoreItemBallCatchFeatureInfo"
 msgid ""
-"Ball catch feature.\n"
+"Ball catch ability.\n"
 "To try to catch the ball, press left or right control during the game.\n"
 "The ball can only be caught if it is close to you.\n"
 "If the attempt is successful, the sound of the ball will disappear from the "
@@ -1139,29 +2743,75 @@ msgid ""
 msgstr ""
 
 msgctxt "StoreItemBallCatchFeatureText"
-msgid "Unlock the ball catch feature"
+msgid "Unlock the ball catch ability"
+msgstr ""
+
+msgctxt "StoreItemChestOfLuckLimitUpgradeInfo"
+msgid ""
+"Daily limit for opening Luck Chests increase.\n"
+"This upgrade increases the maximum number of chests that can be opened per "
+"day by one for each level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemChestOfLuckLimitUpgradeText"
+msgid "Daily limit for opening Luck Chests increase: Level {0}/15"
+msgstr ""
+
+msgctxt "StoreItemCouchObjectInfo"
+msgid ""
+"Couch object.\n"
+"After destruction, it falls down, destroying objects in its path within a "
+"small radius."
+msgstr ""
+
+msgctxt "StoreItemCouchObjectText"
+msgid "Unlock the couch object"
+msgstr ""
+
+msgctxt "StoreItemDestroyStreakUpgradeInfo"
+msgid ""
+"Points earned for an object destruction streak increase .\n"
+"This upgrade slightly increases the points earned for object destruction."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemDestroyStreakUpgradeText"
+msgid "Points earned for an object destruction streak increase: level {0}/5"
 msgstr ""
 
 msgctxt "StoreItemJumpFeatureInfo"
 msgid ""
-"Jump feature.\n"
+"Jump ability.\n"
 "To jump, press the up arrow or the w key during the game.\n"
 "Jumping is useful in scenarios where you want to hit a ball that hasn't yet "
 "bounced off the floor.\n"
 "Or when you missed a good moment to strike, but still want to hit the ball.\n"
 "In this case, all you need to do is jump and swing the bat at the right "
 "moment.\n"
-"It is also easier to catch the ball while jumping if you have this feature "
+"It is also easier to catch the ball while jumping if you have this ability "
 "unlocked."
 msgstr ""
 
 msgctxt "StoreItemJumpFeatureText"
-msgid "Unlock the  jump feature"
+msgid "Unlock the  jump ability"
+msgstr ""
+
+msgctxt "StoreItemMaxActiveAurasUpgradeInfo"
+msgid ""
+"Maximum number of active auras increase.\n"
+"This upgrade increases the maximum number of auras that can be active at the "
+"same time by one for each level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemMaxActiveAurasUpgradeText"
+msgid "Maximum number of active auras increase: level {0}/3"
 msgstr ""
 
 msgctxt "StoreItemMinObjectIncreaseInfo"
 msgid ""
-"Increasing the minimum number of objects on the field.\n"
+"Minimum number of objects on the field increase.\n"
 "Initially, the minimum number of objects is twenty-five.\n"
 "When there are fewer objects on the field than this value, as many new "
 "objects are added as are not enough to equal this number.\n"
@@ -1170,7 +2820,7 @@ msgstr ""
 
 #, python-brace-format
 msgctxt "StoreItemMinObjectIncreaseText"
-msgid "Minimum number of objects on the field increase: level {0}/10."
+msgid "Minimum number of objects on the field increase: level {0}/10"
 msgstr ""
 
 msgctxt "StoreItemMineObjectInfo"
@@ -1183,19 +2833,19 @@ msgid ""
 msgstr ""
 
 msgctxt "StoreItemMineObjectText"
-msgid "Unlock the mine object."
+msgid "Unlock the mine object"
 msgstr ""
 
 msgctxt "StoreItemPowerRecoveringInfo"
 msgid ""
-"Increased blow force recovery rate.\n"
+"Increased hit strength recovery rate.\n"
 "The upgrade significantly increases the speed at which the force of a blow "
 "is restored after each swing of the bat."
 msgstr ""
 
 #, python-brace-format
 msgctxt "StoreItemPowerRecoveringText"
-msgid "Increased blow force recovery rate: level {0}/10"
+msgid "Increased hit strength recovery rate: level {0}/10"
 msgstr ""
 
 msgctxt "StoreItemResetAchievementPointsInfo"
@@ -1207,12 +2857,29 @@ msgstr ""
 
 msgctxt "StoreItemResetAchievementPointsQuestion"
 msgid ""
-"Do you really want to reset the distribution of achievement points for a "
-"hundred coins?"
+"Do you really want to reset distributed achievement points for a hundred "
+"coins?"
 msgstr ""
 
 msgctxt "StoreItemResetAchievementPointsText"
-msgid "Reset spent achievement points."
+msgid "Reset spent achievement points"
+msgstr ""
+
+msgctxt "StoreItemSkillAutoCatchInfo"
+msgid ""
+"Catcher's Soul Skill.\n"
+"This skill summons a catcher entity that will catch the ball for you if it "
+"gets near the character.\n"
+"Usage:\n"
+"Select the slot where this skill is set.\n"
+"Then press the key responsible for catching the ball.\n"
+"After successfully using the skill, a sound will play and continue until the "
+"skill’s effect ends.\n"
+"Once the ball is caught, the skill will end prematurely."
+msgstr ""
+
+msgctxt "StoreItemSkillAutoCatchText"
+msgid "Catcher's Soul Skill"
 msgstr ""
 
 msgctxt "StoreItemSkillBallLeapInfo"
@@ -1221,14 +2888,59 @@ msgid ""
 "The character makes a rapid dash towards the ball, which is close to the "
 "ground.\n"
 "Usage:\n"
-"Select the slot in which this skill is installed.\n"
+"Select the slot where this skill is set.\n"
 "Wait for the right moment to use.\n"
 "Then swing the bat, the character will do the rest on his own.\n"
 "If the ball is out of range, the skill will fail and will go on cooldown."
 msgstr ""
 
 msgctxt "StoreItemSkillBallLeapText"
-msgid "Furious leap skill."
+msgid "Furious leap skill"
+msgstr ""
+
+msgctxt "StoreItemSkillBallPumpInfo"
+msgid ""
+"Hand Pump Skill.\n"
+"The ball doubles in size for a set duration.\n"
+"Usage:\n"
+"The ball must be in your hands for successful activation.\n"
+"Select the slot where this skill is set.\n"
+"Press the key for a horizontal bat swing.\n"
+"Then, throw the ball onto the field.\n"
+"The duration starts immediately after activation, so it's best to throw the "
+"ball right away.\n"
+"If the ball is already on the field, the skill will fail, triggering its "
+"cooldown."
+msgstr ""
+
+msgctxt "StoreItemSkillBallPumpText"
+msgid "Hand Pump Skill"
+msgstr ""
+
+msgctxt "StoreItemSkillBatThrowInfo"
+msgid ""
+"Filigree Throw skill.\n"
+"The character throws the bat, aiming at a mine, couch, or toolbox.\n"
+"Usage:\n"
+"Select the slot where this skill is set.\n"
+"Then press the key for a horizontal bat swing.\n"
+"The character will perform the throw and won't be able to use any skills "
+"until the bat returns to their hands.\n"
+"The goal of the throw is to knock over a mine, couch, or toolbox within the "
+"maximum throwing range and with maximum effectiveness.\n"
+"If none of the specified objects are nearby, the character will throw the "
+"bat at the farthest object.\n"
+"In flight, the bat destroys any object in its path.\n"
+"Once the target object is reached, the bat automatically returns to the "
+"character's hands.\n"
+"The skill will only activate if the hit strength is fully restored.\n"
+"Otherwise, it will go into cooldown.\n"
+"The skill is considered failed if there are no objects within the bat's "
+"possible flight range."
+msgstr ""
+
+msgctxt "StoreItemSkillBatThrowText"
+msgid "Filigree throw skill"
 msgstr ""
 
 msgctxt "StoreItemSkillImmaterialityInfo"
@@ -1238,7 +2950,7 @@ msgid ""
 "effect on the ball, which allows it not to bounce off objects, but to "
 "destroy them with one hit and continue flying along the same trajectory.\n"
 "Usage:\n"
-"Select the slot in which this skill is installed.\n"
+"Select the slot where this skill is set.\n"
 "Then hit the ball with the bat.\n"
 "If the effect is applied successfully, you will hear the sound of the effect "
 "being applied.\n"
@@ -1247,7 +2959,7 @@ msgid ""
 msgstr ""
 
 msgctxt "StoreItemSkillImmaterialityText"
-msgid "Immateriality skill."
+msgid "Immateriality skill"
 msgstr ""
 
 msgctxt "StoreItemSkillMagnetismInfo"
@@ -1257,28 +2969,46 @@ msgid ""
 "playing field.\n"
 "Usage:\n"
 "Catch the ball.\n"
-"then select the slot in which this skill is installed.\n"
+"then select the slot where this skill is set.\n"
 "Throw the ball back onto the playing field.\n"
 "The effect will be applied immediately after the throw."
 msgstr ""
 
 msgctxt "StoreItemSkillMagnetismText"
-msgid "Magnetism skill."
+msgid "Magnetism skill"
 msgstr ""
 
 msgctxt "StoreItemSkillObjectSpawnerInfo"
 msgid ""
-"Creator's stroke skill.\n"
+"Creator's sweep skill.\n"
 "When you swing the bat, objects are spawned on the playing field.\n"
 "Usage:\n"
-"Select the slot in which this skill is installed.\n"
+"Select the slot where this skill is set.\n"
 "Then swing the bat.\n"
-"The skill will only work if the force of the blow is restored to maximum.\n"
+"The skill will only work if the hit strength is restored to maximum.\n"
 "Otherwise, it will go on cooldown and objects will not be generated."
 msgstr ""
 
 msgctxt "StoreItemSkillObjectSpawnerText"
-msgid "Creator's stroke skill."
+msgid "Creator's sweep skill"
+msgstr ""
+
+msgctxt "StoreItemSkillRocketShotInfo"
+msgid ""
+"Rocket Salvo skill.\n"
+"The character launches a rocket that flies vertically upward and then "
+"explodes upon reaching the center of the field, destroying nearby objects.\n"
+"Usage:\n"
+"Select the slot where this skill is set.\n"
+"Then press the key for a horizontal bat swing.\n"
+"The rocket can only be launched if the hit strength is fully restored. "
+"Otherwise, the ability will go on cooldown.\n"
+"Tip: Avoid launching the rocket too close to the edges of the field, as the "
+"explosion may affect fewer objects."
+msgstr ""
+
+msgctxt "StoreItemSkillRocketShotText"
+msgid "Rocket salvo skill"
 msgstr ""
 
 msgctxt "StoreItemSkillShadowStrikeInfo"
@@ -1287,15 +3017,31 @@ msgid ""
 "Swinging the bat sends out a phantom strike that only travels upward and a "
 "certain distance, knocking down a certain number of objects in the process.\n"
 "Usage:\n"
-"Select the slot in which this skill is installed.\n"
+"Select the slot where this skill is set.\n"
 "Then move the character to the desired place on the field and swing the "
 "bat.\n"
-"The skill will succeed if the blow force has been restored to its maximum.\n"
+"The skill will succeed if the hit strength has been restored to its "
+"maximum.\n"
 "Otherwise, it will fail and go on cooldown."
 msgstr ""
 
 msgctxt "StoreItemSkillShadowStrikeText"
-msgid "Phantom Strike skill."
+msgid "Phantom Strike skill"
+msgstr ""
+
+msgctxt "StoreItemSkillStarDisintegratorInfo"
+msgid ""
+"Star Disintegration.\n"
+"Using this skill creates a wave capable of disintegrating objects upon "
+"collision, turning them into star energy, which is then used to power star "
+"modules.\n"
+"No points are awarded for disintegrated objects, and collision and "
+"destruction streaks are not increased.\n"
+"The harvested star energy accumulates for further use.\n"
+"Usage:\n"
+"Select the slot where this skill is set.\n"
+"Then press the horizontal bat swing key.\n"
+"After that, the wave formation will begin."
 msgstr ""
 
 msgctxt "StoreItemSkillSuperElasticityInfo"
@@ -1304,16 +3050,474 @@ msgid ""
 "The ball becomes extremely elastic, which allows it to bounce off surfaces "
 "an order of magnitude stronger.\n"
 "Usage:\n"
-"Select the slot in which this skill is installed.\n"
+"Select the slot where this skill is set.\n"
 "Then hit the ball with the bat.\n"
 "If the effect is applied successfully, you will hear the sound of the effect "
 "being applied.\n"
 "Swinging the bat without hitting the ball will cause the skill to fail and "
-"it will go on cooldown."
+"it will go on cooldown"
 msgstr ""
 
 msgctxt "StoreItemSkillSuperElasticityText"
 msgid "Superelasticity skill."
+msgstr ""
+
+msgctxt "StoreItemStarModuleBallEnslaverBallSpeedUpgradeInfo"
+msgid ""
+"Controlled ball speed increase\n"
+"This upgrade increases the speed of the ball under the module's control by "
+"twelve percent per level"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleBallEnslaverBallSpeedUpgradeText"
+msgid "Controlled ball speed increase: level {0}/7."
+msgstr ""
+
+msgctxt "StoreItemStarModuleBallEnslaverIdleConsumptionDecreaseUpgradeInfo"
+msgid ""
+"Reduced Energy Consumption During Operation\n"
+"This upgrade reduces the energy consumed by the module in its active state "
+"by three units per level"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleBallEnslaverIdleConsumptionDecreaseUpgradeText"
+msgid "Reduced Energy Consumption During Operation: level {0}/10."
+msgstr ""
+
+msgctxt "StoreItemStarModuleBallEnslaverInfo"
+msgid ""
+"Ball controller star module.\n"
+"After activating this module, which consumes star energy to operate, you "
+"will be able to control the ball's movement, manually directing it in any "
+"direction.\n"
+"If you haven't purchased any modules yet, activating this module will unlock "
+"a skill that allows you to collect star energy.\n"
+"The module can also be upgraded by pressing the upgrade button on the "
+"corresponding tab in your profile, which will be unlocked after purchasing "
+"your first module.\n"
+"Modules can only be used in regular and training modes.\n"
+"More detailed information about the module will be available after "
+"purchase.\n"
+"To view the detailed information, go to the star modules tab in your "
+"profile, select ball controller from the module list, and click on the "
+"reference information button or press Enter on the list item."
+msgstr ""
+
+msgctxt "StoreItemStarModuleBallEnslaverStartConsumptionDecreaseUpgradeInfo"
+msgid ""
+"Energy needed for activation decrease.\n"
+"This upgrade reduces the required energy consumed by the module during "
+"activation by five units per level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleBallEnslaverStartConsumptionDecreaseUpgradeText"
+msgid "Energy needed for activation decrease: level {0}/10"
+msgstr ""
+
+msgctxt "StoreItemStarModuleBallEnslaverText"
+msgid "Ball controller star module"
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerInfo"
+msgid ""
+"Destroyer star module.\n"
+"With this module, using the star energy gained from a special skill, you can "
+"shoot energy charges that annihilate objects.\n"
+"If you haven't purchased any modules yet, after buying this module, a skill "
+"will be unlocked that allows you to generate star energy.\n"
+"You can also upgrade the module by clicking the upgrade button on the "
+"corresponding profile tab, which is unlocked after purchasing your first "
+"module.\n"
+"Modules can only be used in regular and training modes.\n"
+"More detailed information about the module will be available after "
+"purchasing it.\n"
+"To access detailed information, go to the Star Modules tab in your profile, "
+"select destroyer from the module list, and click the reference information "
+"button or press the Enter key on the list item."
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerOverdriveProtectionUpgradeInfo"
+msgid ""
+"Overload protection efficiency increase.\n"
+"This upgrade increases the protection efficiency by ten percent per level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleDestroyerOverdriveProtectionUpgradeText"
+msgid "Overload protection efficiency increase: level {0}/10"
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerProjectileSizeUpgradeInfo"
+msgid ""
+"Charge size increase.\n"
+"This upgrade increases the charge size by one cell per level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleDestroyerProjectileSizeUpgradeText"
+msgid "Charge size increase: level{0}/3"
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerProjectileStabilityUpgradeInfo"
+msgid ""
+"Charge stability increase.\n"
+"This upgrade increases the maximum number of objects the destroyer charge "
+"can annihilate before destabilizing and disappearing."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleDestroyerProjectileStabilityUpgradeText"
+msgid "Charge stability increase: level{0}/5"
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerShootingSpeedUpgradeInfo"
+msgid ""
+"Rate of Fire.\n"
+"This upgrade increases the firing rate of the Destroyer, but be careful— the "
+"higher the module overload, the more energy is consumed per shot."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleDestroyerShootingSpeedUpgradeText"
+msgid "Rate of fire. Level {0}/25}"
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerShotConsumptionUpgradeInfo"
+msgid ""
+"Energy consumption per Shot reduction.\n"
+"This upgrade reduces the energy consumed per shot by two units for each "
+"level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleDestroyerShotConsumptionUpgradeText"
+msgid "Energy consumption per Shot reduction: level {0}/10"
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerText"
+msgid "Destroyer star module"
+msgstr ""
+
+msgctxt "StoreItemStarModuleStarStormEnergyBoltCostUpgradeInfo"
+msgid ""
+"Energy burst formation cost Reduction.\n"
+"This upgrade reduces the cost of forming an energy burst by 0.75 units per "
+"level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleStarStormEnergyBoltCostUpgradeText"
+msgid "Energy burst formation cost Reduction: level {0}/10"
+msgstr ""
+
+msgctxt "StoreItemStarModuleStarStormEnergyBoltFormingSpeedUpgradeInfo"
+msgid ""
+"Energy burst formation speed increase.\n"
+"This upgrade speeds up the process of forming energy bursts, thereby "
+"increasing their quantity per minute."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleStarStormEnergyBoltFormingSpeedUpgradeText"
+msgid "Energy burst formation speed increase: level {0}/15"
+msgstr ""
+
+msgctxt "StoreItemStarModuleStarStormInfo"
+msgid ""
+"Star storm star module.\n"
+"When active, this module uses star energy to generate energy bursts that "
+"fall from the ceiling to the ground, destroying objects in their path.\n"
+"If you haven't purchased any modules yet, after purchasing this module, a "
+"skill will be unlocked that allows you to gather star energy.\n"
+"The module can also be upgraded by clicking the upgrade button in the "
+"corresponding profile tab, which will be unlocked after purchasing your "
+"first module.\n"
+"Modules can only be used in the standard and training modes.\n"
+"More detailed information about the module will be available after its "
+"purchase.\n"
+"To access detailed information, go to the Star Modules tab in the profile, "
+"select Starstorm from the list of modules, and click the reference "
+"information button or press Enter on the list item."
+msgstr ""
+
+msgctxt "StoreItemStarModuleStarStormText"
+msgid "Star storm star module"
+msgstr ""
+
+msgctxt "StoreItemStarModuleTimeShifterInfo"
+msgid ""
+"Temporal shift star module.\n"
+"When this module is active, it consumes star energy to function, but there "
+"is a chance that performing a perfect strike will reduce the cooldown time "
+"of a random skill.\n"
+"If you haven't purchased any modules yet, after purchasing this module, a "
+"skill will be unlocked that allows you to gather star energy.\n"
+"The module can also be upgraded by clicking the upgrade button in the "
+"corresponding profile tab, which will be unlocked after purchasing your "
+"first module.\n"
+"Modules can only be used in the standard and training modes.\n"
+"More detailed information about the module will be available after its "
+"purchase.\n"
+"To access detailed information, go to the Star Modules tab in the profile, "
+"select Temporal Shift from the list of modules, and click the reference "
+"information button or press Enter on the list item."
+msgstr ""
+
+msgctxt "StoreItemStarModuleTimeShifterShiftChanceUpgradeInfo"
+msgid ""
+"Cooldown Time of Random Skill reduction Chance increase.\n"
+"This upgrade increases the chance of the module activation by five percent "
+"per level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleTimeShifterShiftChanceUpgradeText"
+msgid "Cooldown Time of Random Skill reduction Chance increase: level{0}/12"
+msgstr ""
+
+msgctxt "StoreItemStarModuleTimeShifterShiftCostUpgradeInfo"
+msgid ""
+"Reduction of Energy Consumption Upon Module Activation.\n"
+"This upgrade decreases the energy consumed when applying the cooldown time "
+"shift by two units per level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleTimeShifterShiftCostUpgradeText"
+msgid "Reduction of Energy Consumption Upon Module Activation: level {0}/8"
+msgstr ""
+
+msgctxt "StoreItemStarModuleTimeShifterShiftMaxTimeUpgradeInfo"
+msgid ""
+"Cooldown Shift Maximum Seconds Increase.\n"
+"This upgrade increases the upper limit of the cooldown time shift by two "
+"seconds per level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleTimeShifterShiftMaxTimeUpgradeText"
+msgid "Cooldown Shift Maximum Seconds Increase: level {0}/4"
+msgstr ""
+
+msgctxt "StoreItemStarModuleTimeShifterText"
+msgid "Temporal shift star module"
+msgstr ""
+
+msgctxt "StoreItemTestOfSkillFloorBounceFineUpgradeInfo"
+msgid ""
+"Reduction of Ball Bounce off the Floor Penalty.\n"
+"This upgrade reduces the penalty for ball bounces off the floor by two "
+"percent per level."
+msgstr ""
+
+#, python-format, python-brace-format
+msgctxt "StoreItemTestOfSkillFloorBounceFineUpgradeText"
+msgid ""
+"Reduction of Ball Bounce off the Floor Penalty: level {0}/10. Current value: "
+"{1}% of full penalty"
+msgstr ""
+
+msgctxt "StoreItemTestOfSkillPlanksUpgradeInfo"
+msgid ""
+"Increased Board Throwing Skill.\n"
+"With each level of this upgrade, the character becomes better at throwing "
+"boards, thereby increasing their effectiveness and destructiveness."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSkillPlanksUpgradeText"
+msgid "Increased Board Throwing Skill: level {0}/3"
+msgstr ""
+
+msgctxt "StoreItemTestOfSkillRarityUpgradeInfo"
+msgid ""
+"Chance of Special Object Spawn increase.\n"
+"This upgrade increases the chance of special objects, such as mines, "
+"toolboxes, and sofas, appearing on the field."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSkillRarityUpgradeText"
+msgid "Chance of Special Object Spawn increase: level {0}/10"
+msgstr ""
+
+msgctxt "StoreItemTestOfSkillRewardIncreaseUpgradeInfo"
+msgid ""
+"Number of Red Orbs Earned increase.\n"
+"This upgrade increases the number of red orbs received after completing a "
+"game session in the trial of mastery mode."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSkillRewardIncreaseUpgradeText"
+msgid "Number of Red Orbs Earned increase: level {0}/20"
+msgstr ""
+
+msgctxt "StoreItemTestOfSpeedHitStreakTimeUpgradeInfo"
+msgid ""
+"Time Before Goal Streak Reset increase.\n"
+"After the last goal hit, there must initially be ten seconds before the "
+"streak is reset.\n"
+"This upgrade increases this value by one second per level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedHitStreakTimeUpgradeText"
+msgid ""
+"Time Before Goal Streak Reset increase: level {0}/6. Current value: {1} "
+"seconds until reset"
+msgstr ""
+
+msgctxt "StoreItemTestOfSpeedLeaderAuraUpgradeInfo"
+msgid ""
+"Leader's aura upgrade.\n"
+"This upgrade increases the bonus provided by each level of the leader's aura "
+"by 0.1% per level.\n"
+"At the maximum upgrade level, the bonus per level of the leader's aura will "
+"be 3% to the points earned, instead of the initial 1%."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedLeaderAuraUpgradeText"
+msgid "Leader's aura upgrade: level {0}/20"
+msgstr ""
+
+msgctxt "StoreItemTestOfSpeedMaxStreakUpgradeInfo"
+msgid ""
+"Maximum value of the goal hit streak increase.\n"
+"After reaching the initial limit of five, the streak stops increasing, and "
+"the same number of points is added for each subsequent hit.\n"
+"This upgrade raises the limit by one hit per level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedMaxStreakUpgradeText"
+msgid ""
+"Maximum value of the goal hit streak increase: level {0}/7. Current value: "
+"{1} hits until the limit"
+msgstr ""
+
+msgctxt "StoreItemTestOfSpeedPointsMultiplierUpgradeInfo"
+msgid ""
+"Points Multiplier\" bonus upgrade.\n"
+"This upgrade increases the multiplier provided by the \"points Multiplier\" "
+"bonus."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedPointsMultiplierUpgradeText"
+msgid "Points Multiplier\" bonus upgrade: level {0}/5"
+msgstr ""
+
+msgctxt "StoreItemTestOfSpeedRewardIncreaseUpgradeInfo"
+msgid ""
+"Number of blue orbs earned increase.\n"
+"This upgrade increases the number of blue orbs earned after completing a "
+"game session in the trial of speed mode."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedRewardIncreaseUpgradeText"
+msgid "Number of blue orbs earned increase: level {0}/15"
+msgstr ""
+
+msgctxt "StoreItemTestOfSpeedRocketMultiplierUpgradeInfo"
+msgid ""
+"\"Rocket\" bonus multiplier increase.\n"
+"When the rocket hits the goal, it initially grants five times more points "
+"than a regular ball hit.\n"
+"This upgrade increases the multiplier by 1 for each level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedRocketMultiplierUpgradeText"
+msgid "\"Rocket\" bonus multiplier increase: level {0}/5. Current value: X{1}"
+msgstr ""
+
+msgctxt "StoreItemTestOfWillItemSpawnChanceUpgradeInfo"
+msgid ""
+"Item spawn chance increase.\n"
+"After an item appears, a mandatory time must pass before a new item can "
+"spawn.\n"
+"Then, once per second, with a certain chance, a new item attempts to appear "
+"on the field.\n"
+"This upgrade increases the chance of spawning by 2% per level, allowing you "
+"to activate more items during a game session."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfWillItemSpawnChanceUpgradeText"
+msgid "Item spawn chance increase: level {0}/15. Current value: {1}%"
+msgstr ""
+
+msgctxt "StoreItemTestOfWillMaxObjectsIncreaseUpgradeInfo"
+msgid ""
+"Maximum number of objects on the field increase.\n"
+"Initially, in the trial of will mode, the field can hold up to fifteen "
+"objects.\n"
+"This upgrade increases that number by one object per level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfWillMaxObjectsIncreaseUpgradeText"
+msgid ""
+"Maximum number of objects on the field increase: level {0}/10. Current "
+"value: {1} objects"
+msgstr ""
+
+msgctxt "StoreItemTestOfWillRequiredMinimalTimeBetweenItemsUpgradeInfo"
+msgid ""
+"Mandatory time between item spawns decrease.\n"
+"There is an initial mandatory time of twenty-five seconds between item "
+"spawns.\n"
+"This upgrade reduces this interval by one second per level."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfWillRequiredMinimalTimeBetweenItemsUpgradeText"
+msgid ""
+"Mandatory time between item spawns decrease: level {0}/10. Current value: "
+"{1} seconds"
+msgstr ""
+
+msgctxt "StoreItemTestOfWillRewardIncreaseUpgradeInfo"
+msgid ""
+"Number of green orbs received increase.\n"
+"This upgrade increases the number of green orbs earned after completing a "
+"game session in the trial of will mode."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfWillRewardIncreaseUpgradeText"
+msgid "Number of green orbs received increase: level {0}/5"
+msgstr ""
+
+msgctxt "StoreItemTestOfWillTimeAuraUpgradeInfo"
+msgid ""
+"Time Aura Upgrade.\n"
+"This upgrade increases the bonus provided by the Time Aura by one second per "
+"level.\n"
+"Thus, at the maximum fifth level of this upgrade, the bonus from each Time "
+"Aura level will add not five, but ten seconds to the maximum game time."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfWillTimeAuraUpgradeText"
+msgid "Time Aura Upgrade: level {0}/5"
+msgstr ""
+
+msgctxt "StoreItemToolboxObjectInfo"
+msgid ""
+"Toolbox.\n"
+"When destroyed, the toolbox spills out tools that fall down and deal damage "
+"to objects in their path."
+msgstr ""
+
+msgctxt "StoreItemToolboxObjectText"
+msgid "Unlock the toolbox object"
 msgstr ""
 
 msgctxt "StoreTitle"
@@ -1395,20 +3599,19 @@ msgstr ""
 
 msgctxt "WelcomeMenu1"
 msgid ""
-"Welcome to ball bouncer. Press the up and down arrows to navigate through "
+"Welcome to ball bouncer. Use the up and down arrow keys to navigate through "
 "this menu."
 msgstr ""
 
 msgctxt "WelcomeMenu2"
-msgid ""
-"We, the developers of this game, are glad that you downloaded this game!"
+msgid "We, the developers of this game, are glad that you downloaded it!"
 msgstr ""
 
 #, python-brace-format
 msgctxt "WelcomeMenu3"
 msgid ""
-"To get started, we strongly recommend that you read the help documentation "
-"for this game, which is located in {0}."
+"To get started, we strongly recommend checking out the game's documentation, "
+"which is located in {0}."
 msgstr ""
 
 msgctxt "WelcomeMenu4"
