@@ -1,5 +1,9 @@
 % log perubahan
 
+## 1.3.1
+
+Fixed a bug with objects sound panning.
+
 ## 1.3.0
 
 This is the largest update, adding a lot of new content to the game.
