@@ -1,5 +1,18 @@
 % Lista promena
 
+## 1.3.2
+
+### Ispravke
+
+- Successful bat hit sound has been fixed and now plays in all intended
+situations.
+- Information on how to activate items has been added to the descriptions of
+trial of will and trial of mastery modes.
+- Fixed game crashes that occurred when a screen reader other than NVDA was
+active.
+- Potentially fixed a game crash that occurred when playing with recording
+enabled.
+
 ## 1.3.1
 
 Fixed a bug with objects sound panning.
@@ -42,6 +55,7 @@ screen and press the D key, or click the "Open Mode Description" button.
 ### Promene
 
 - Now auras can be active or inactive.
+
    - Initially, you can use only two auras at the same time, but in the future, the
 number of active auras can be increased, as well as new ones can be acquired.
    - You can also open the description of an aura, except for the leader and time
@@ -59,28 +73,29 @@ also hold Enter on buttons for rapid activations.
 million.
 - The behavior of the sound playback for checking the character's position has
 been changed.
+
    - Previously: The sound played at the character's position in the field center
 view, and played at the center of the field in the first-person view.
    - Now: The sound always plays at the character's position, except when the
 first-person view is active and ball watch mode is turned off. In this case,
 the sound plays at the center of the field.
 - The learn sounds screen has been redesigned.
+
    - The menu has been replaced with a virtual form.
    - Sounds, both from the base game and new modes, are now organized into separate
 tabs of the form for easier navigation and the ability to listen to them
 during gameplay.
 - The method of recording gameplay has been changed.
+
    - Now, recordings are saved in MP3 format.
    - The old recording method has been disabled, but it is still possible to play
 previously recorded files.
    - New recordings will be located in userData/mp3recordings.
    - The ability to play recordings in the old format will be removed in version
 1.5.0.
-
-### Ispravke
-
 - Minor changes and inconsistencies fixed in English translation.
 - Setting skill levels in training mode has been fixed.
+
    - Now, changing skill levels will have an effect on the game session.
    - Also, now you can set any skill level up to the maximum possible.
 - A critical bug has been fixed when changing controls configuration during
