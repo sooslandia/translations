@@ -68,11 +68,15 @@ aktifkan kontrol dengan menekan enter atau spasi. Telusuri daftar dengan panah
 atas dan bawah, ubah nilai penggeser dengan panah. Pemilihan tab dilakukan
 dengan menekan tombol panah kiri/kanan.
 
-Di layar toko, dengan menekan enter pada item yang Anda pilih, Anda dapat membuka
-informasi referensi yang menjelaskan item tersebut. Di profil Anda, pada tab
-"Statistik", dengan menekan enter pada item daftar, Anda dapat menerima hadiah,
-jika tersedia. Pada tab “Skill”, dengan mengklik item, Anda bisa mendapatkan
-informasi detail tentang skill tersebut.
+On the shop screen, pressing Enter on the selected item will open the reference
+information, where the item is described in detail.
+
+In the profile, on the "Statistics" tab, by pressing enter on a list item you can
+claim a reward, if available. By pressing ctrl+c you can copy the contents of
+the item into your clipboard.
+
+On the "Skills" tab, pressing on an item will provide detailed information about
+the skill.
 
 Semua menu dan layar, kecuali menu utama dan menu hasil pertandingan terakhir,
 dapat ditutup dengan tombol escape.
@@ -81,40 +85,53 @@ dapat ditutup dengan tombol escape.
 
 ### Mode latihan
 
-Permainan ini memiliki mode latihan di mana Anda dapat menghabiskan waktu tanpa
-batas dan semua hukuman dinonaktifkan. Di mode ini, sebuah suara akan diputar
-ketika Anda dapat memukul bola, yang bisa Anda dengarkan di menu belajar suara.
-Suara akan diputar ketika bola telah memantul setidaknya sekali dari lantai
-untuk mengajari Anda merasakan momen yang tepat untuk pukulan yang sempurna. Di
-mode latihan, statistik permainan tidak dikumpulkan dan poin tidak dihitung.
-Selama latihan, Anda dapat menekan f2 untuk membuka layar mode latihan. Di sana,
-Anda dapat mengatur laju pemulihan kekuatan pukulan dan tingkat keterampilan
-(jika ada) sesuai keinginan Anda. Rentang tingkat dari 1 hingga tingkat yang
-telah Anda buka saat ini. Dengan menekan f1, Anda dapat segera mengatur ulang
-cooldown keterampilan Anda.
+The game has a training mode where you can spend unlimited time and where all
+penalties are disabled. In this mode, a sound will be played when you can hit
+the ball, which you can listen to in the learn sounds menu. The sound will play
+when the ball has bounced at least once off the floor to teach you to sense the
+moment for the perfect strike. In training mode, game statistics are not
+collected, and points are not scored.
 
-Tombol-tombol ini dapat diubah menggunakan Pengonfigurasi Pintasan Tombol.
+During training, you can press the F2 key, and a screen will open where you can
+set the level of the hit strength recovery rate upgrade, ranging from the first
+to the maximum level.
+
+Also, in the future, when you acquire your first skills, you will be able to set
+their levels on this screen, if they are set in one of the slots, following the
+same principle as the hit strength recovery rate upgrade.
+
+When you press the F1 key, your skills set in the slots will be instantly
+recharged and available for use.
+
+These keys can be changed using the controls Configurator.
 
 ### Cara bermain
 
-Setelah memilih “Mulai permainan” di menu utama, hitungan mundur awal akan
-dimulai. Anda kemudian akan dapat mengontrol karakter tersebut. Pada awal
-permainan karakter berada di tengah lapangan. Anda dapat memindahkannya
-menggunakan panah kiri dan kanan. Awalnya kamera dalam tampilan terpusat di
-lapangan, namun Anda dapat mengalihkannya ke tampilan orang pertama dan kembali
-dengan menekan v. Dengan menekan tombol C, Anda akan mendengar suara yang
-diposisikan di lokasi karakter. Ini akan membantu Anda lebih memahami keberadaan
-karakter Anda saat mencoba memukul bola. Dengan menggeser ke kiri atau ke kanan,
-Anda dapat mengatur arah hadap karakter. Saat bergerak, arah menghadap diatur
-secara otomatis.
+After selecting the "Start Game" option in the main menu, the countdown will
+begin. Then, you will be able to control the character.
 
-Pertama-tama, Anda perlu melempar bola agar muncul di lapangan permainan. Anda
-dapat melakukan ini dengan menekan tombol f. Setelah bola berada di lapangan,
-akan terdengar nada yang bergerak ke kiri dan ke kanan, menandakan pergerakan
-bola pada bidang horizontal. Volume dan nada juga akan berubah, menandakan
-pergerakan bola vertikal. Jika volume terdengar kecil dan  nada terdengar
-meninggi, berarti bola bergerak ke atas, sedangkan jika terdengar volume lebih
-keras dan nada turun, berarti sebaliknya.
+At the beginning of the game, the character is located in the center of the
+field. You can move them using the left and right arrow keys. The camera is
+initially set to a center-field view, but you can switch to a first-person view
+by pressing the "v" key.
+
+By pressing the "C" key in the field center view, you will hear a sound
+positioned at the character's location. In the first-person view, the sound will
+play from the center of the field, unless you are observing the ball. In that
+case, the sound will be played at the character's position. This will help you
+better feel the character when attempting to hit the ball.
+
+By pressing the left or right shift key, you can set the character's facing
+direction. When moving, the direction is set automatically.
+
+First, you need to throw the ball to make it appear on the game field. You can do
+this by pressing the "f" key.
+
+After the ball is on the field, you will hear a tone which will move left and
+right, indicating movement of the ball in the horizontal plane. The tone's pitch
+and volume will also change, indicating vertical ball movement. Decreasing
+volume and rising pitch mean that the ball is moving upwards, while increasing
+volume and lowering pitch mean the opposite.
 
 Ada dua jenis lemparan:
 
@@ -135,79 +152,110 @@ ke arah yang dihadapi karakter.
 + Tahan tombol alt dan tekan spasi. Bola akan menerima dorongan vertikal yang
 kuat, mempertahankan arah terbang horizontal terlepas dari arah lawannya.
 
-Anda hanya bisa memukul bola saat berada di dekat bola. Setelah setiap ayunan
-pemukul, karakter memulihkan kekuatan pukulannya. Setelah pulih sepenuhnya, Anda
-akan mendengar peringatan, yang suaranya dapat didengar di menu pelajari suara.
-Anda juga dapat mengaktifkan suara pukulan tongkat yang berhasil mengenai bola,
-pada tab perilaku.
+You can only hit the ball while being near it. After each swing of the bat, the
+character restores the hit strength. Once it is fully restored, you will hear an
+alert, the sound of which can be heard in the learn sounds menu. You can also
+toggle the sound of successful bat hits in the options on the behavior tab.
 
-Anda harus berusaha untuk selalu membuat pukulan sempurna, karena Anda akan
-diberikan poin bonus untuk itu. Pukulan sempurna terjadi jika bola hanya
-memantul satu kali saja. Untuk pantulan kedua dan selanjutnya, Anda akan
-kehilangan poin. Semakin banyak bola memantul ke tanah, semakin banyak poin yang
-hilang. Oleh karena itu, usahakan untuk memukul bola ke atas secepat mungkin.
-Berdiri di satu tempat dalam waktu lama juga tidak sepadan, karena jika Anda
-tidak bergerak selama sepuluh detik atau lebih, Anda juga akan kehilangan poin.
-Di awal permainan, jangan terlalu lama memegang bola di tangan, karena setiap
-detik memegang bola akan mengakibatkan penalti yang semakin besar. Hal yang sama
-berlaku untuk bola yang ditangkap. Untuk kesalahan kelima dan selanjutnya dengan
-pemukul, penalti akan diberikan. Untuk membenturkan bola dengan suatu benda,
-serta untuk menghancurkan benda tersebut, Anda mendapat poin. Jika bola memantul
-ke langit-langit, Anda juga akan mendapatkan poin bonus. Setelah bertabrakan
-dengan suatu benda atau menghancurkannya, sebuah pukulan dimulai. Ada
-garis-garis terpisah untuk tabrakan dan kehancuran. Setiap tabrakan atau
-kehancuran berikutnya menghasilkan lebih banyak poin. Namun jika pukulan
-beruntun tidak berlangsung lebih dari enam detik, maka pukulan tersebut akan
-diatur ulang. Hal yang sama berlaku untuk bola yang memantul dari langit-langit.
-Setelah melakukan pukulan sempurna, pukulan beruntun juga dimulai. Untuk setiap
-serangan sempurna baru yang Anda lakukan, Anda mendapatkan poin yang jauh lebih
-banyak dibandingkan serangan sebelumnya. Jika bola memantul dari lantai lebih
-dari satu kali, pukulannya berakhir dan Anda harus memulai dari awal. Setelah
-hancur, objek akan jatuh ke tanah sehingga menimbulkan ketidaknyamanan dengan
-suara yang keras dan menambah kekacauan.
+You should always aim to make perfect strikes, as they reward you with bonus
+points. A perfect strike occurs when the ball bounces off the floor only once.
+For the second and any additional bounces, you'll lose points. The more times
+the ball bounces on the ground, the more points you lose. So, try to hit the
+ball upwards as quickly as possible.
 
-Selama permainan, Anda tidak hanya dapat menonton keseluruhan gambar lapangan
-permainan, tetapi juga beralih ke mode menonton bola. Untuk mengaktifkan mode
-ini, tahan tombol G. Mode memonton bola akan aktif selama Anda menahan G dan
-akan mati segera setelah Anda melepaskannya. Permainan dapat dijeda dengan
-menekan tombol escape. Saat diaktifkan, Anda akan dibawa ke menu jeda permainan,
-di mana Anda dapat melihat waktu hingga sesi permainan berakhir, jumlah poin
-yang dicetak, dan informasi lainnya. Anda juga dapat mengakses pengaturan dari
-menu jeda, atau menghentikan permainan. Alternatifnya, tekan t untuk melihat
-waktu dan p untuk melihat poin selama permainan berlangsung.
+It's also not a good idea to stay in one place for too long, as you'll lose
+points for being stationary for ten seconds or more.
 
-Jika Anda membiarkan poin Anda turun hingga minus seribu, sesi permainan akan
-berakhir lebih awal. Koin tidak akan dikreditkan, tetapi Anda tidak akan
-kehilangan apa pun. Sesi permainan berlangsung lima menit. Kali ini dapat
-ditingkatkan dengan meningkatkan aura waktu di profil. Setelah sesi permainan
-berakhir, animasi suara koin yang ditambahkan akan mulai diputar, yang dapat
-dilewati dengan menekan tombol enter. Kemudian menu hasil pertandingan terakhir
-akan terbuka, di mana Anda dapat mengetahui berapa banyak poin yang akhirnya
-dicetak dan koin yang diterima. Setelah menutup menu dengan menekan enter, Anda
-mungkin diperlihatkan pemberitahuan tentang hadiah yang tersedia untuk mencapai
-pencapaian statistik. Tampilan menu hasil pertandingan terakhir dan
-pemberitahuan tentang hadiah yang tersedia dapat dinonaktifkan di pengaturan,
-pada tab “Perilaku”.
+At the beginning of the game, avoid holding the ball for too long, as each second
+the ball is held adds an increasing penalty. The same applies to a caught ball.
 
-Game ini juga memiliki keterampilan yang dijelaskan secara lengkap di dalam game.
-Untuk menggunakan keterampilan selama permainan, Anda perlu menetapkannya ke
-salah satu dari sepuluh slot. Penugasan dilakukan di profil Anda, pada tab
-“Keterampilan”. Slot diakses menggunakan kunci dari 1 (slot pertama) hingga 0
-(slot kesepuluh).
+A penalty is applied for the fifth and subsequent misses.
 
-Di toko, Anda dapat membuka kunci mekanisme melompat dan menangkap bola. Kedua
-mekanisme ini juga dijelaskan secara lengkap di dalam game, termasuk kunci yang
-digunakan. Mereka juga ada di tabel kontrol.
+You earn points for the ball colliding with an object, as well as for destroying
+an object. If the ball bounces off the ceiling, you will also receive bonus
+points.
+
+After colliding with an object or destroying it, a streak begins. Each subsequent
+collision or destruction brings more points. However, if the streak was not
+continued for more than six seconds, it is reset. The same applies to the ball's
+bounces off the ceiling.
+
+After making a perfect strike, a separate streak begins. For each new perfect
+strike, you earn significantly more points than the previous one. If the ball
+bounces more than once off the floor, the streak ends, and you’ll have to start
+over.
+
+After being destroyed, objects will fall to the ground, creating noise and adding
+chaos to what’s happening.
+
+During the game, you can not only observe the entire field but also switch to the
+ball watch mode. To activate this mode, hold the G key. The ball watch mode will
+stay active as long as you hold G, and will deactivate as soon as you release it.
+
+You can pause the game by pressing the escape key. After pressing it, you will
+enter the pause menu, where you can view the time remaining in the session, the
+score, and other information. From the pause menu, you can also access the
+settings or abort the game.
+
+However, you can check the remaining time and current score not only in the pause
+menu. Press the T key to check the time, and the P key to see your score.
+
+If your score drops to minus one thousand, the game session will end prematurely.
+No coins will be awarded, but you won't lose anything else.
+
+The game session lasts five minutes. This time can be extended by upgrading the
+Time Aura in the profile.
+
+After the game session ends, a sound animation of coin awarding will play, which
+can be skipped by pressing the Enter key.
+
+Then, the last game results menu will open, where you can find out how many
+points were ultimately scored and coins received. After closing the menu by
+pressing enter, you may be shown a notification about an available reward for
+reaching a statistic milestone. The display of the results menu for the last
+game and notifications about available rewards can be disabled in the settings,
+on the “Behavior” tab.
+
+The game also has skills that are fully described in the game. To use a skill
+during the game, you need to set it in one of ten slots. Assigning is done in
+your profile, on the “Skills” tab. Slots are accessed using keys from 1 (first
+slot) to 0 (tenth slot).
+
+In the store you can unlock the abilities to jump and catch the ball. These two
+abilities are also fully described in the game, including the keys to use. They
+are also present in the table of controls.
+
+### Other game modes
+
+In addition to the normal and training modes, there are three other modes in the
+game, but they are not unlocked immediately.
+
+To unlock new modes, earn rewards for reaching statistical milestones.
+
+In the profile, on the statistics tab, you can see how many rewards you need to
+unlock the next mode.
+
+When you receive the required number of rewards, an informational menu will
+appear, briefly describing what has become available to you.
+
+To learn detailed information about any mode, select the mode from the list on
+the new game start screen and press the D key, or click the "Open mode
+description" button.
+
+All additional keys for a specific mode are listed in the mode description and
+are also mentioned in the controls tables.
 
 ### Peta objek
 
-Peta objek berfungsi dalam mode apa pun. Anda dapat membukanya dengan tombol m.
-Peta menampilkan semua objek yang ada di lapangan saat dibuka. Dengan
-menggunakan tombol panah, Anda dapat menggerakkan kursor di sekitar peta, yang
-akan memutar suara singkat dari objek di tempat objek tersebut berada, dan jenis
-objek juga akan diumumkan. Anda dapat mematikan pengucapan tipe objek
-menggunakan tombol f1. Dengan menggunakan tombol f2 Anda dapat beralih antar
-mode gerakan.
+The object map works in any mode. You can open it by pressing the M key.
+
+The map displays all the objects that were on the field when it was opened.
+
+Using the arrow keys, you can move the cursor around the map, which will play a
+short sound of the object in the place where this object is located, and the
+type of object will also be announced. You can turn off the announcement of the
+object type using the f1 key. Using the f2 key you can switch between movement
+modes.
 
 Ada dua mode pergerakan kursor:
 
@@ -219,23 +267,23 @@ atau ke kiri akan berpindah melalui objek pada baris yang sama secara
 horizontal. Bergerak ke atas atau ke bawah akan memindahkan kursor ke objek
 terdekat secara vertikal dan melewati baris kosong.
 
-Selain kursor, peta menunjukkan titik pengamatan yang terletak di tengah sumbu
-horizontal dan dapat dipindahkan secara vertikal. Semua suara objek dimainkan
-relatif terhadap titik ini. Anda dapat memindahkan titik pengamatan menggunakan
-tombol w - up, s - down. Dalam hal ini, akan dimainkan suara yang berubah nada
-tergantung posisinya, sehingga lebih mudah bagi Anda untuk memahami di mana
-letak titik di sepanjang sumbu.
+In addition to the cursor, the map features an observation point located at the
+center of the horizontal axis, which can move vertically. All object sounds are
+played relative to this point.
+
+You can move the observation point using the keys w - up, s - down. In this case,
+a sound will be played that changes its pitch depending on the position, so that
+it is easier for you to understand where the point is located along the axis.
 
 Anda juga dapat mengetahui berapa banyak objek yang ada di lapangan saat ini.
 Untuk melakukannya, tekan tombol o.
 
-Semua tombol yang terdaftar dapat diubah menggunakan konfigurator pintasan
-keyboard.
+All of the listed keys can be changed using the controls configurator.
 
 ### Rekaman permainan
 
-Anda dapat merekam permainan Anda dan kemudian memutar rekaman yang dihasilkan di
-pemutar bawaan permainan.
+You can record your gameplay and then play the resulting recordings in any media
+player.
 
 Penting: rekaman tidak dapat dilakukan selama mode latihan.
 
@@ -243,13 +291,23 @@ Untuk mulai merekam, pastikan kotak centang "Rekam permainan" pada layar
 pemilihan mode permainan dicentang. Perekaman dimulai setelah hitungan mundur
 permainan dimulai.
 
-Dalam pengaturan, pada tab "Rekaman", Anda dapat menentukan apakah rekaman akan
-disimpan setiap 30 detik, serta apakah akan membatalkan atau menyimpan rekaman
-saat menjeda permainan dari menu jeda.
+In the settings, on the "Recording" tab, you can determine whether to cancel or
+save the recording when aborting the game from the pause menu.
 
-Untuk mendengarkan rekaman, pilih item yang sesuai di menu utama permainan.
-Kemudian, di menu rekaman, pilih yang Anda inginkan dan tekan enter. Setelah
-memuat rekaman, Anda akan dibawa ke pemutar.
+Your recordings are located in the mp3recordings folder, which is inside the
+userData folder, and have the .mp3 extension.
+
+#### Old format recordings
+
+Before version 1.3.0, the game used an internal recording format, with files in
+this format having the extension .sgr, and they could only be played in the
+built-in game player.
+
+To listen to recordings of the old format, select the corresponding item in the
+main menu of the game. Then, in the recordings menu, select the one you want and
+press enter.
+
+After loading the recording, you will enter the player.
 
 Tombol kontrol pemutar rekaman:
 
@@ -265,23 +323,25 @@ dengan menekan tombol t.
 - Anda dapat menghentikan pemutaran dan kembali ke menu perekaman menggunakan
 tombol escape.
 
-Rekaman Anda terletak di folder rekaman, yang selanjutnya terletak di folder data
-pengguna (userData), dan memiliki ekstensi .sgr. Anda dapat mengganti nama file
-rekaman jika perlu dan membaginya dengan orang lain. Jika Anda ingin memutar
-rekaman orang lain, letakkan di folder rekaman Anda. Kemudian akan terlihat di
-menu rekaman.
+The old format recordings are located at the path userData/recordings.
 
-## tombol kontrol
+If you want to play a recording in the old format, place it in the "recordings"
+folder. It will then appear in the recordings menu.
 
-Semua tombol di bagian ini dapat didefinisikan ulang dengan menyesuaikan
-konfigurasi pintasan keyboard.
+Attention! The ability to play recordings in the old format will be removed in
+version 1.5.0!
+
+## controls
+
+All keys in this section can be redefined by customizing the controls
+configuration.
 
 ### Dasar
 
 | Tindakan | Kunci/tombol |
 | :-- | :-- |
 | Atur karakter menghadap kanan/kiri | Panah Kanan/Kiri atau tombol d/a |
-| Mainkan suara pada posisi karakter | c |
+| Play the sound at the character's position or at the center of the field (depending on the view). | c |
 | Atur karakter menghadap kanan/kiri | shift kanan/shift kiri |
 | Mengayunkan pemukul (memukul bola dengan dorongan mendatar yang kuat) | Spasi atau tombol e |
 | Mengayunkan pemukul (memukul bola dengan dorongan vertikal yang kuat) | alt+spasi atau r |
@@ -290,10 +350,13 @@ konfigurasi pintasan keyboard.
 | Alihkan kamera ke mode menonton bola | Tahan tombol g |
 | Alihkan kamera ke mode normal | Lepaskan tombol g |
 | Beralih mode kamera antara mode orang pertama dan mode tampilan terpusat di lapangan | v |
-| Melompat (jika fitur tidak terkunci) | Panah atas atau tombol w |
-| Menangkap bola (jika fitur tidak terkunci) | kontrol kiri atau kanan |
+| Jump (if the ability is unlocked) | Panah atas atau tombol w |
+| Catch the ball (if the ability is unlocked) | kontrol kiri atau kanan |
 | Pilih slot keterampilan dari 1 hingga 10 (jika keterampilan diatur) | tombol 1 hingga 0/numpad1 hingga numpad0 |
 | Batalkan pemilihan slot keterampilan | Grave / numpad enter |
+| Activate/deactivate the star module set in slot 1 to 4 (if the module is set). | alt + keys 1 to 4/numpad1 to numpad4 |
+| Activate the item (if allowed in the current game mode). | x |
+| Check the amount of available star energy (if you have at least one star module and module usage is allowed in the current game mode) | y |
 | Buka peta objek | m |
 | Cari tahu waktu hingga akhir sesi permainan | t |
 | Cari tahu jumlah poin yang dihasilkan saat ini | p |
@@ -303,7 +366,7 @@ konfigurasi pintasan keyboard.
 
 | Tindakan | Kunci/tombol |
 | :-- | :-- |
-| Untuk menghilangkan semua waktu tunggu keterampilan | f1 |
+| Instantly recharge all skills | f1 |
 | Tetapkan tingkat keterampilan | f2 |
 
 ### Peta objek
@@ -317,26 +380,35 @@ konfigurasi pintasan keyboard.
 | Alihkan mode pergerakan kursor | f2 |
 | Cari tahu jumlah objek di peta | o |
 
-### Mengonfigurasi pintasan keyboard
+### Configuring controls
 
-Di pengaturan, pada tab 'Konfigurasi Pintasan Keyboard', Anda bisa mengubah
-kontrol sesuai keinginan Anda dengan mengklik tombol yang sesuai. Di layar
-konfigurasi, ada daftar yang menunjukkan berbagai blok, masing-masing berisi
-tindakan yang bisa Anda atur. Setiap tindakan memiliki daftar pintasan keyboard
-yang sudah ada. Anda bisa menambah atau menghapus pintasan dari daftar ini
-menggunakan tombol yang ada. Setelah menekan tombol tambah, layar baru akan
-muncul dengan empat daftar, tempat Anda bisa menetapkan tombol utama dan memilih
-opsi untuk tombol modifier (alt, windows, control, shift). Pilih opsi yang
-diinginkan untuk setiap tombol modifier. Jika Anda hanya ingin menggunakan
-tombol modifier dalam pintasan Anda, biarkan kolom tidak diisi. Setelah selesai
-mengatur semua parameter, klik tombol 'Tambah'. Harap diingat bahwa duplikat
-dalam blok pintasan yang sama tidak diperbolehkan.
+In the settings, on the "controls" tab, you can customize the control keys to
+your personal preference by pressing the corresponding button.
 
-Jika perlu, Anda bisa membagikan konfigurasi pintasan keyboard Anda dengan orang
-lain. Konfigurasi ini terletak di folder data pengguna (userData) dan bernama
-'keyConfig.json'. Orang lain harus mengganti konfigurasi mereka, yang ada di
-tempat yang sama, dengan yang Anda berikan. Meskipun konfigurasi disimpan dalam
-bentuk terbuka, sebaiknya tidak diedit secara manual.
+On the configuration screen, there is a tree where the first level displays
+individual blocks, which, in turn, contain actions.
+
+Each action has a list of assigned key combinations. You can add or remove
+combinations from this list using the corresponding buttons.
+
+After pressing the add combination button, a new screen will open, containing
+four lists, a field to assign the main key, and the "Add" and "Cancel" buttons.
+
+Each list corresponds to its modifier key (alt, windows, control, shift) and
+contains 4 options for using the modifier key (none, left, right, any).
+
+To set the primary key, follow the instructions in the key-assignment field,
+which comes immediately after the list for the shift modifier key. If you want
+to use only modifier keys in your combination, leave the field unassigned.
+
+After you have set all the necessary parameters, click the "Add" button. However,
+keep in mind that duplicates within a single action block are not allowed.
+
+If required, you can share your controls configuration with other people. The
+configuration is located in the user data folder (userData) and is named
+"keyConfig.json". The other person will have to replace their configuration,
+located in the same location, with the one you passed on. Despite the fact that
+the configuration is stored in open form, it is not intended for manual editing.
 
 ## Terjemahan permainan ke bahasa lain
 

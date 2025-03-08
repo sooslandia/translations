@@ -65,12 +65,15 @@ shift+tab dopředu a dozadu. Enterem nebo mezerníkem aktivuješ vybraný prvek.
 seznamech se pohybuješ šipkami nahoru a dolů. Šipkami měníš i hodnoty posuvníků.
 Z jedné karty na druhou se přepneš šipkou doleva nebo doprava.
 
-Na obrazovce Obchod si můžeš enterem na vybrané položce otevřít referenční
-informace, které tuto položku popisují. Ve svém profilu na kartě "Statistiky"
-můžeš stisknutím enteru na libovolné položce seznamu získat odměnu, pokud je pro
-tuto položku zrovna dostupná. Klávesovou zkratkou ctrl+C zkopíruješ obsah
-položky do schránky. Na kartě "Schopnosti" můžeš po kliknutí na položku získat
-podrobné informace o dané schopnosti.
+On the shop screen, pressing Enter on the selected item will open the reference
+information, where the item is described in detail.
+
+In the profile, on the "Statistics" tab, by pressing enter on a list item you can
+claim a reward, if available. By pressing ctrl+c you can copy the contents of
+the item into your clipboard.
+
+On the "Skills" tab, pressing on an item will provide detailed information about
+the skill.
 
 Všechna menu a obrazovky kromě hlavního menu a menu s výsledky poslední hry se
 dají zavřít klávesou escape.
@@ -79,39 +82,53 @@ dají zavřít klávesou escape.
 
 ### Režim Tréninku
 
-Hra má tréninkový režim, ve kterém můžeš strávit neomezeně dlouhou dobu a kde
-jsou vypnuté všechny penalizace. V tomto režimu se bude přehrávat příslušný
-zvuk, který si můžeš poslechnout v menu Seznámení se zvuky, vždycky, když můžeš
-míč úspěšně odpálit. Tento zvuk se začne ozývat, teprve až se míč alespoň jednou
-odrazí od podlahy. Díky tomu se postupně můžeš naučit vycítit správný moment pro
-dokonalou trefu. V režimu tréninku se neshromažďují žádné herní statistiky ani
-nezískáváš body. Během tréninku můžeš klávesou F2 otevřít obrazovku Režim
-tréninku. Zde si můžeš nastavit rychlost obnovení síly úderu a úrovně
-jednotlivých schopností (pokud je máš) podle svých představ. Přípustný rozsah
-těchto úrovní je od 1 do úrovně, kterou máš aktuálně odemčenou. Klávesou F1
-okamžitě vynuluješ prodlevu před dalším použitím u všech schopností najednou.
+The game has a training mode where you can spend unlimited time and where all
+penalties are disabled. In this mode, a sound will be played when you can hit
+the ball, which you can listen to in the learn sounds menu. The sound will play
+when the ball has bounced at least once off the floor to teach you to sense the
+moment for the perfect strike. In training mode, game statistics are not
+collected, and points are not scored.
 
-Tyto klávesy lze měnit v konfigurátoru klávesových zkratek.
+During training, you can press the F2 key, and a screen will open where you can
+set the level of the hit strength recovery rate upgrade, ranging from the first
+to the maximum level.
+
+Also, in the future, when you acquire your first skills, you will be able to set
+their levels on this screen, if they are set in one of the slots, following the
+same principle as the hit strength recovery rate upgrade.
+
+When you press the F1 key, your skills set in the slots will be instantly
+recharged and available for use.
+
+These keys can be changed using the controls Configurator.
 
 ### Jak hrát
 
-Po výběru možnosti "Spustit hru" v hlavním menu začne odpočítávání. Poté budeš
-moct ovládat postavu. Na začátku hry se postava nachází ve středu hrací plochy.
-Pohybuješ s ní šipkami doleva a doprava. Na začátku hry je kamera nastavená na
-pohled ze středu hrací plochy, můžeš ji ale klávesou V kdykoli přepnout do
-pohledu z pozice postavy a zpět. Klávesa C přehraje zvuk z místa, kde se postava
-právě nachází, pokud jsi zrovna v pohledu ze středu plochy. V pohledu z pozice
-postavy se zvuk naopak vždy přehrává ze středu plochy. To ti pomůže udělat si
-lepší představu o tom, kde se tvoje postava nachází, když se zrovna snažíš
-odpálit míč. Levým nebo pravým shiftem nastavíš směr, kterým se postava dívá.
-Při pohybu se směr otočení postavy mění automaticky.
+After selecting the "Start Game" option in the main menu, the countdown will
+begin. Then, you will be able to control the character.
 
-Míč musíš nejdřív hodit, aby se na ploše objevil. To provedeš klávesou F. Až se
-míč ocitne na ploše, uslyšíš tón, který se bude pohybovat doleva a doprava, což
-znázorňuje pohyb míče ve vodorovném směru. Bude se měnit i výška a hlasitost
-tónu, což znázorňuje pohyb míče ve svislém směru. Tišší a vyšší tón znamená, že
-se míč pohybuje směrem nahoru. Naopak hlasitější a hlubší tón znamená , že míč
-padá.
+At the beginning of the game, the character is located in the center of the
+field. You can move them using the left and right arrow keys. The camera is
+initially set to a center-field view, but you can switch to a first-person view
+by pressing the "v" key.
+
+By pressing the "C" key in the field center view, you will hear a sound
+positioned at the character's location. In the first-person view, the sound will
+play from the center of the field, unless you are observing the ball. In that
+case, the sound will be played at the character's position. This will help you
+better feel the character when attempting to hit the ball.
+
+By pressing the left or right shift key, you can set the character's facing
+direction. When moving, the direction is set automatically.
+
+First, you need to throw the ball to make it appear on the game field. You can do
+this by pressing the "f" key.
+
+After the ball is on the field, you will hear a tone which will move left and
+right, indicating movement of the ball in the horizontal plane. The tone's pitch
+and volume will also change, indicating vertical ball movement. Decreasing
+volume and rising pitch mean that the ball is moving upwards, while increasing
+volume and lowering pitch mean the opposite.
 
 Existují dva typy hodu:
 
@@ -132,69 +149,110 @@ kterým je otočená postava.
 vertikální impuls, takže si udrží vodorovný směr letu bez ohledu na to, kterým
 směrem je právě otočená postava.
 
-Míč můžeš odpálit pouze v jeho blízkosti. Po každém máchnutí pálkou se postavě
-postupně obnovuje síla úderu. Po jejím úplném obnovení se ozve upozornění, jehož
-zvuk si můžeš poslechnout v menu seznámení se zvuky. V Nastavení na kartě
-"Chování" můžeš také přepínat zvukový signál úspěšného odpálení míče.
+You can only hit the ball while being near it. After each swing of the bat, the
+character restores the hit strength. Once it is fully restored, you will hear an
+alert, the sound of which can be heard in the learn sounds menu. You can also
+toggle the sound of successful bat hits in the options on the behavior tab.
 
-Měl/a by ses snažit, aby každá trefa byla dokonalá, protože za takovou trefu
-získáš bonusové body. Dokonalá trefa je takový úder, při kterém se míč odrazí od
-podlahy jen jednou. Za druhý a každý další odraz body ztrácíš. Čím častěji se
-míč bude odrážet od podlahy, tím víc bodů ztratíš. Proto se vždycky snaž míč co
-nejrychleji odpálit zpátky nahoru. Ani dlouhé stání na jednom místě se
-nevyplácí, protože pokud se deset nebo víc vteřin nepohneš, postupně přicházíš o
-tím víc bodů, čím déle se nehýbeš. Na začátku hry nedrž míč dlouho v rukou,
-protože každá vteřina, kdy není v pohybu, vede k další postupně vzrůstající
-penalizaci. Totéž platí, i když míč chytíš. Penalizaci dostaneš i za pátý a
-každý další úder pálkou mimo míč. Za náraz míče do předmětu, stejně jako za
-zničení předmětu, body naopak získáváš. Pokud se míč odrazí od stropu, získáš
-bonusové body. Po srážce míče s předmětem nebo po zničení předmětu se začne
-počítat bodovací série. Nárazy do předmětů a zničení předmětů jsou dvě
-samostatné série. Každý další náraz nebo zničení v řadě za sebou dává víc bodů.
-Pokud ale série nepokračovala po dobu šesti vteřin nebo déle, vynuluje se. Totéž
-platí, když se míč odráží od stropu. A konečně, série se začne počítat i při
-dokonalé trefě. Za každou další dokonalou trefu v řadě získáš mnohem víc bodů
-než za tu předchozí. Pokud se míč odrazí od podlahy víckrát než jednou, série
-skončí a budeš ji muset začít znovu. Zničené předměty budou padat na zem a
-vydávat při tomhlasité zvuky, což může být časem celkem nepříjemné a tím spíš
-přispívat k už tak slušnému chaosu.
+You should always aim to make perfect strikes, as they reward you with bonus
+points. A perfect strike occurs when the ball bounces off the floor only once.
+For the second and any additional bounces, you'll lose points. The more times
+the ball bounces on the ground, the more points you lose. So, try to hit the
+ball upwards as quickly as possible.
 
-Během hry můžeš sledovat nejen celou hrací plochu, ale i přímo pohyb míče. Tento
-režim aktivuješ podržením klávesy G. Režim sledování míče je aktivní, dokud tuto
-klávesu držíš, a ukončí se, jakmile ji pustíš. Hru můžeš kdykoli zapauzovat
-klávesou escape. V tom případě se zobrazí menu Pauza, kde můžeš zjistit
-zbývající čas do konce hry, dosavadní skóre a další informace. Z menu Pauza
-můžeš také otevřít nastavení nebo hru ukončit. Případně si můžeš čas zbývající
-do konce hry zobrazit klávesou T a aktuální skóre klávesou P přímo během hry.
+It's also not a good idea to stay in one place for too long, as you'll lose
+points for being stationary for ten seconds or more.
 
-Pokud tvoje skóre klesne na mínus tisíc, hra skončí předčasně. Nepřibydou ti
-žádné mince, ale o nic jiného nepřijdeš. Jedna hra za normálních okolností trvá
-pět minut. Tuto dobu lze prodloužit, když si zvýšíš úroveň aury času na
-obrazovce Profil. Až hra skončí, začne se přehrávat zvuková animace přičítání
-mincí, kterou můžeš přeskočit enterem. Poté se otevře menu s výsledky hry, kde
-zjistíš, kolik bodů a mincí jsi nakonec získal/a. Až toto menu enterem zavřeš,
-může se zobrazit oznámení o dostupné odměně za dosažení určitého statistického
-milníku. Zobrazování menu s výsledky hry a oznamování dostupných odměn můžeš
-vypnout v nastavení na kartě "Chování".
+At the beginning of the game, avoid holding the ball for too long, as each second
+the ball is held adds an increasing penalty. The same applies to a caught ball.
 
-Časem narazíš na určité speciální schopnosti, které jsou plně popsány přímo ve
-hře. Pokud budeš chtít během hry některou z nich použít, musíš si ji uložit do
-jednoho z deseti dostupných slotů. To můžeš udělat ve svém profilu na kartě
-"Schopnosti". Ve hře pak slot vybíráš klávesami 1 (první slot) až 0 (desátý
-slot).
+A penalty is applied for the fifth and subsequent misses.
 
-V obchodě si můžeš odemknout mechaniky výskoku a chycení míče. Tyto dvě mechaniky
-jsou ve hře také plně popsány, včetně kláves, kterými se ovládají. Ty jsou
-uvedeny i v tabulce klávesových zkratek.
+You earn points for the ball colliding with an object, as well as for destroying
+an object. If the ball bounces off the ceiling, you will also receive bonus
+points.
+
+After colliding with an object or destroying it, a streak begins. Each subsequent
+collision or destruction brings more points. However, if the streak was not
+continued for more than six seconds, it is reset. The same applies to the ball's
+bounces off the ceiling.
+
+After making a perfect strike, a separate streak begins. For each new perfect
+strike, you earn significantly more points than the previous one. If the ball
+bounces more than once off the floor, the streak ends, and you’ll have to start
+over.
+
+After being destroyed, objects will fall to the ground, creating noise and adding
+chaos to what’s happening.
+
+During the game, you can not only observe the entire field but also switch to the
+ball watch mode. To activate this mode, hold the G key. The ball watch mode will
+stay active as long as you hold G, and will deactivate as soon as you release it.
+
+You can pause the game by pressing the escape key. After pressing it, you will
+enter the pause menu, where you can view the time remaining in the session, the
+score, and other information. From the pause menu, you can also access the
+settings or abort the game.
+
+However, you can check the remaining time and current score not only in the pause
+menu. Press the T key to check the time, and the P key to see your score.
+
+If your score drops to minus one thousand, the game session will end prematurely.
+No coins will be awarded, but you won't lose anything else.
+
+The game session lasts five minutes. This time can be extended by upgrading the
+Time Aura in the profile.
+
+After the game session ends, a sound animation of coin awarding will play, which
+can be skipped by pressing the Enter key.
+
+Then, the last game results menu will open, where you can find out how many
+points were ultimately scored and coins received. After closing the menu by
+pressing enter, you may be shown a notification about an available reward for
+reaching a statistic milestone. The display of the results menu for the last
+game and notifications about available rewards can be disabled in the settings,
+on the “Behavior” tab.
+
+The game also has skills that are fully described in the game. To use a skill
+during the game, you need to set it in one of ten slots. Assigning is done in
+your profile, on the “Skills” tab. Slots are accessed using keys from 1 (first
+slot) to 0 (tenth slot).
+
+In the store you can unlock the abilities to jump and catch the ball. These two
+abilities are also fully described in the game, including the keys to use. They
+are also present in the table of controls.
+
+### Other game modes
+
+In addition to the normal and training modes, there are three other modes in the
+game, but they are not unlocked immediately.
+
+To unlock new modes, earn rewards for reaching statistical milestones.
+
+In the profile, on the statistics tab, you can see how many rewards you need to
+unlock the next mode.
+
+When you receive the required number of rewards, an informational menu will
+appear, briefly describing what has become available to you.
+
+To learn detailed information about any mode, select the mode from the list on
+the new game start screen and press the D key, or click the "Open mode
+description" button.
+
+All additional keys for a specific mode are listed in the mode description and
+are also mentioned in the controls tables.
 
 ### Mapa předmětů
 
-Mapa předmětů funguje ve všech režimech hry. Otevřeš ji klávesou M. Zobrazí se na
-ní všechny předměty, které se nacházely na hrací ploše ve chvíli, kdy se mapa
-otevřela. Šipkami pohybuješ kurzorem po mapě. Při pohybu kurzoru se budou ozývat
-krátké zvuky z pozice, kde se nacházejí jednotlivé předměty, a bude oznamován i
-jejich typ. Oznamování typu předmětů vypneš klávesou F1. Klávesou F2 můžeš
-přepínat režim pohybu kurzoru.
+The object map works in any mode. You can open it by pressing the M key.
+
+The map displays all the objects that were on the field when it was opened.
+
+Using the arrow keys, you can move the cursor around the map, which will play a
+short sound of the object in the place where this object is located, and the
+type of object will also be announced. You can turn off the announcement of the
+object type using the f1 key. Using the f2 key you can switch between movement
+modes.
 
 Existují dva režimy pohybu kurzoru:
 
@@ -206,33 +264,45 @@ druhý. Pohybem doprava nebo doleva se přesouváš po předmětech ve stejném 
 ve vodorovném směru. Pohybem nahoru nebo dolů se kurzor přesune na nejbližší
 předmět ve svislém směru a přeskočí prázdné řádky.
 
-Kromě samotného kurzoru je na mapě vyznačen i pozorovací bod, který se nachází
-uprostřed vodorovné osy a lze s ním vertikálně pohybovat. Všechny zvuky předmětů
-se budou přehrávat vzhledem k tomuto bodu. Pozorovací bod můžeš přesouvat pomocí
-kláves W - nahoru - a S - dolů. V takovém případě se přehraje zvuk s proměnlivou
-výškou podle polohy pozorovacího bodu, abys měl/a lepší představu, kde se bod na
-ose právě nachází.
+In addition to the cursor, the map features an observation point located at the
+center of the horizontal axis, which can move vertically. All object sounds are
+played relative to this point.
+
+You can move the observation point using the keys w - up, s - down. In this case,
+a sound will be played that changes its pitch depending on the position, so that
+it is easier for you to understand where the point is located along the axis.
 
 Stiskem klávesy O zjistíš, kolik předmětů je v daném okamžiku na ploše.
 
-Všechny uvedené klávesy si můžeš přenastavit v konfigurátoru klávesových zkratek.
+All of the listed keys can be changed using the controls configurator.
 
 ### Nahrávání hry
 
-Hru můžeš nahrávat a výsledné nahrávky si pak pouštět ve vestavěném přehrávači
-přímo ve hře.
+You can record your gameplay and then play the resulting recordings in any media
+player.
 
 Důležité: V režimu tréninku nahrávání nefunguje.
 
 Chceš-li začít nahrávat, ujisti se, že je zaškrtnuté políčko "Nahrávat hru" na
 obrazovce výběru režimu hry. Nahrávání se spustí hned po úvodním odpočítávání.
 
-V nastavení na kartě "Nahrávání" si můžeš vybrat, jestli se má nahrávka ukládat
-každých 30 vteřin a jestli se má nahrávání ukončit při zapauzování hry.
+In the settings, on the "Recording" tab, you can determine whether to cancel or
+save the recording when aborting the game from the pause menu.
 
-Pokud si budeš chtít některou nahrávku pustit, vyber příslušnou položku v hlavním
-menu hry. Poté v menu Nahrávky zvol požadovanou nahrávku a stiskni enter. Po
-načtení nahrávky se otevře přehrávač.
+Your recordings are located in the mp3recordings folder, which is inside the
+userData folder, and have the .mp3 extension.
+
+#### Old format recordings
+
+Before version 1.3.0, the game used an internal recording format, with files in
+this format having the extension .sgr, and they could only be played in the
+built-in game player.
+
+To listen to recordings of the old format, select the corresponding item in the
+main menu of the game. Then, in the recordings menu, select the one you want and
+press enter.
+
+After loading the recording, you will enter the player.
 
 Ovládání přehrávače:
 
@@ -244,22 +314,25 @@ vzad. Pokud zároveň se šipkou podržíš control, přetočíš nahrávku o 30
 - Klávesou T zjistíš, jak je nahrávka dlouhá a jak velká část už se přehrála.
 - Přehrávání můžeš zastavit a vrátit se do menu Nahrávky klávesou escape.
 
-Tvoje nahrávky se nacházejí ve složce recordings, kterou najdeš ve složce hry a
-podsložce userData, a mají příponu .sgr. Soubor s nahrávkou můžeš v případě
-potřeby přejmenovat a sdílet ho s ostatními hráči. Pokud si budeš chtít
-poslechnout nahrávku někoho jiného, umísti ji do své složky recordings. Pak ji
-uvidíš v menu Nahrávky.
+The old format recordings are located at the path userData/recordings.
 
-## Klávesové zkratky
+If you want to play a recording in the old format, place it in the "recordings"
+folder. It will then appear in the recordings menu.
 
-Všechny zde uvedené klávesy si můžeš přenastavit v nastavení klávesových zkratek.
+Attention! The ability to play recordings in the old format will be removed in
+version 1.5.0!
+
+## controls
+
+All keys in this section can be redefined by customizing the controls
+configuration.
 
 ### Základní
 
 | Akce | Klávesa |
 | :-- | :-- |
 | Pohyb postavy doprava / doleva | Šipka doprava / doleva nebo klávesa D / A |
-| Přehraje zvuk z pozice postavy | C |
+| Play the sound at the character's position or at the center of the field (depending on the view). | C |
 | Otočení postavy doprava / doleva | Pravý / levý shift |
 | Máchnutí pálkou (odpálí míč se silným horizontálním impulsem) | Mezerník, S nebo E |
 | Máchnutí pálkou (odpálí míč se silným vertikálním impulsem) | Alt+mezerník, alt+S nebo R |
@@ -268,10 +341,13 @@ Všechny zde uvedené klávesy si můžeš přenastavit v nastavení klávesový
 | Přepnutí kamery do režimu sledování míče | Podrž G |
 | Přepnutí kamery do normálního režimu | Pusť G |
 | Přepnutí kamery mezi pohledem z pozice postavy a pohledem ze středu hrací plochy | V |
-| Výskok (pokud je tato mechanika odemčená) | Šipka nahoru nebo W |
-| Chycení míče (pokud je tato mechanika odemčená) | Levý nebo pravý control |
+| Jump (if the ability is unlocked) | Šipka nahoru nebo W |
+| Catch the ball (if the ability is unlocked) | Levý nebo pravý control |
 | Výběr schopnosti v určitém slotu od 1 do 10 (pokud je v daném slotu nějaká schopnost uložena) | Klávesy 1 až 0 / numerická 1 až numerická 0 |
 | Zrušení výběru schopnosti v daném slotu | Středník / numerický enter |
+| Activate/deactivate the star module set in slot 1 to 4 (if the module is set). | alt + keys 1 to 4/numpad1 to numpad4 |
+| Activate the item (if allowed in the current game mode). | x |
+| Check the amount of available star energy (if you have at least one star module and module usage is allowed in the current game mode) | y |
 | Otevření mapy předmětů | M |
 | Zjištění zbývajícího času do konce hry | T |
 | Zjištění aktuálního skóre | P |
@@ -281,7 +357,7 @@ Všechny zde uvedené klávesy si můžeš přenastavit v nastavení klávesový
 
 | Akce | Klávesa |
 | :-- | :-- |
-| Vynulování prodlevy před použitím všech schopností | F1 |
+| Instantly recharge all skills | F1 |
 | Nastavení úrovně schopností | F2 |
 
 ### Mapa předmětů
@@ -295,28 +371,35 @@ Všechny zde uvedené klávesy si můžeš přenastavit v nastavení klávesový
 | Přepnutí režimu pohybu kurzoru | F2 |
 | Oznámení počtu předmětů na mapě | O |
 
-### Konfigurace klávesových zkratek
+### Configuring controls
 
-V Nastavení na kartě "Nastavení klávesových zkratek" si můžeš kliknutím na
-příslušné tlačítko přizpůsobit všechny zkratky podle svých představ. Na
-obrazovce konfigurátoru se nachází stromový seznam, v němž jsou na první úrovni
-jednotlivé kategorie příkazů) a v nich pak samotné akce. U každé akce je seznam
-s přiřazenými klávesovými zkratkami. Pomocí příslušných tlačítek můžeš do tohoto
-seznamu zkratky přidávat nebo je z něj odebírat. Po stisknutí tlačítka Přidat
-zkratku se otevře nová obrazovka obsahující čtyři seznamy, políčko pro nastavení
-hlavní klávesy a nakonec tlačítka "Přidat" a "Zrušit". Každý seznam nastavuje
-zvlášť jednu modifikační klávesu (alt, Windows, control nebo shift) a jsou v něm
-4 volby: Nepoužívat, levá, pravá a obě). Chceš-li nastavit hlavní klávesu,
-postupuj podle pokynů v políčku pro přiřazení klávesy, které následuje
-bezprostředně za seznamem pro shift. Pokud chceš ve své zkratce používat pouze
-modifikační klávesy, nech políčko pro hlavní klávesu prázdné. Po nastavení všech
-potřebných parametrů klikni na tlačítko "Přidat". V rámci stejné kategorie jsou
-zakázány duplicitní zkratky.
+In the settings, on the "controls" tab, you can customize the control keys to
+your personal preference by pressing the corresponding button.
 
-Svoji konfiguraci klávesových zkratek můžeš sdílet s ostatními hráči. Najdeš ji
-ve složce userData a má název "keyConfig.json". Uživatel, se kterým ji sdílíš,
-bude muset nahradit svoji konfiguraci v této složce tou tvojí. Přestože je
-konfigurace uložená v otevřené podobě, není určena k ručním úpravám.
+On the configuration screen, there is a tree where the first level displays
+individual blocks, which, in turn, contain actions.
+
+Each action has a list of assigned key combinations. You can add or remove
+combinations from this list using the corresponding buttons.
+
+After pressing the add combination button, a new screen will open, containing
+four lists, a field to assign the main key, and the "Add" and "Cancel" buttons.
+
+Each list corresponds to its modifier key (alt, windows, control, shift) and
+contains 4 options for using the modifier key (none, left, right, any).
+
+To set the primary key, follow the instructions in the key-assignment field,
+which comes immediately after the list for the shift modifier key. If you want
+to use only modifier keys in your combination, leave the field unassigned.
+
+After you have set all the necessary parameters, click the "Add" button. However,
+keep in mind that duplicates within a single action block are not allowed.
+
+If required, you can share your controls configuration with other people. The
+configuration is located in the user data folder (userData) and is named
+"keyConfig.json". The other person will have to replace their configuration,
+located in the same location, with the one you passed on. Despite the fact that
+the configuration is stored in open form, it is not intended for manual editing.
 
 ## Překlad hry do jiných jazyků
 
