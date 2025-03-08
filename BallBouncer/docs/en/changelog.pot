@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2025-03-07 12:58+0000\n"
+"POT-Creation-Date: 2025-03-08 20:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,14 +43,43 @@ msgstr ""
 
 #: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
 msgid ""
-"Fixed game crashes that occurred when a screen reader other than NVDA was "
+"Fixed a game crash that occurred when a screen reader other than NVDA was "
 "active."
+msgstr ""
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid "Issues with mp3 recordings have been fixed."
 msgstr ""
 
 #: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
 msgid ""
 "Potentially fixed a game crash that occurred when playing with recording "
 "enabled."
+msgstr ""
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"A special VBR header is now added to recordings. Previously, its absence "
+"could cause some players to incorrectly display the recording's duration and "
+"experience issues with seeking."
+msgstr ""
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"MP3 encoding parameters have been adjusted to reduce file size without "
+"noticeable quality loss.-"
+msgstr ""
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"A line has been added to the documentation explaining how to unlock the "
+"quest board (in the \"Other Game Modes\" section)."
+msgstr ""
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"Fixed a critical error that occurred when many sounds were playing "
+"simultaneously."
 msgstr ""
 
 #: BallBouncer/docs/en/changelog.md:block 5 (header)

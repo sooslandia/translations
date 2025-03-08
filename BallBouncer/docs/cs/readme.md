@@ -242,6 +242,9 @@ description" button.
 All additional keys for a specific mode are listed in the mode description and
 are also mentioned in the controls tables.
 
+After unlocking all three modes, you will be able to see the requirements for
+unlocking the quest board. A corresponding tab will appear on the profile screen.
+
 ### Mapa předmětů
 
 The object map works in any mode. You can open it by pressing the M key.

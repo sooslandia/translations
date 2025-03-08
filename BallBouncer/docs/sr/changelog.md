@@ -8,10 +8,20 @@
 situations.
 - Information on how to activate items has been added to the descriptions of
 trial of will and trial of mastery modes.
-- Fixed game crashes that occurred when a screen reader other than NVDA was
+- Fixed a game crash that occurred when a screen reader other than NVDA was
 active.
-- Potentially fixed a game crash that occurred when playing with recording
+- Issues with mp3 recordings have been fixed.
+   - Potentially fixed a game crash that occurred when playing with recording
 enabled.
+   - A special VBR header is now added to recordings. Previously, its absence could
+cause some players to incorrectly display the recording's duration and
+experience issues with seeking.
+   - MP3 encoding parameters have been adjusted to reduce file size without
+noticeable quality loss.-
+- A line has been added to the documentation explaining how to unlock the quest
+board (in the "Other Game Modes" section).
+- Fixed a critical error that occurred when many sounds were playing
+simultaneously.
 
 ## 1.3.1
 
