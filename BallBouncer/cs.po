@@ -1,0 +1,1596 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the BallBouncer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BallBouncer\n"
+"Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
+"POT-Creation-Date: 2024-09-13 08:46+0000\n"
+"PO-Revision-Date: 2024-12-06 16:34+0100\n"
+"Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
+"Language-Team: 4Sense Gaming\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#, python-brace-format
+msgctxt "AchievementPoints"
+msgid "Achievement points: {0}."
+msgstr "Úspěchové body: {0}."
+
+#, python-brace-format
+msgctxt "AchievementPointsTotal"
+msgid "{0} achievement points received in total."
+msgstr "Celkem získáno {0} úspěchových bodů."
+
+#, python-brace-format
+msgctxt "AuraLeaderText"
+msgid ""
+"Leader's aura: level {0} (+{1}%). For each level, adds one percent to the "
+"points received."
+msgstr ""
+"Aura vítěze: Úroveň {0} (+{1} %). Každá úroveň zvyšuje celkové skóre na konci "
+"hry o jedno procento."
+
+#, python-brace-format
+msgctxt "AuraTimeText"
+msgid ""
+"Time Aura: level {0} (+{1} sec). For each level, adds 5 seconds to the maximum "
+"playing time."
+msgstr ""
+"Aura času: Úroveň {0} (+{1} vteřin). Každá úroveň prodlužuje maximální herní "
+"dobu o 5 vteřin."
+
+#, python-brace-format
+msgctxt "AuraUpgradeButton"
+msgid "Upgrade for {0} achievement points"
+msgstr "Zvýšit úroveň za {0} úspěchových bodů"
+
+#, python-brace-format
+msgctxt "BallLoopSelectionMenuSound"
+msgid "Sound {0}."
+msgstr "Zvuk {0}."
+
+msgctxt "BallLoopSelectionMenuTitle"
+msgid "Select the ball sound."
+msgstr "Vyber si zvuk míče."
+
+msgctxt "BallLoopSelectionMenuTitleWithHint"
+msgid ""
+"Select the ball sound. Use the up and down arrows to move. To listen to the "
+"sound, press Spacebar. To confirm your selection, press enter."
+msgstr ""
+"Vyber si zvuk míče. Šipkami nahoru a dolů se pohybuješ po seznamu. Vybraný "
+"zvuk přehraješ mezerníkem. Výběr potvrdíš enterem."
+
+msgctxt "CheckUpdatesScreenChecking"
+msgid "Checking..."
+msgstr "Vyhledávají se aktualizace..."
+
+msgctxt "CheckUpdatesScreenNoUpdates"
+msgid "You have the latest version."
+msgstr "Máš nejnovější verzi."
+
+#, python-brace-format
+msgctxt "FileSizeBytes"
+msgid "{0} b"
+msgstr "{0} bajtů"
+
+#, python-brace-format
+msgctxt "FileSizeGigabytes"
+msgid "{0} GB"
+msgstr "{0} gigabajtů"
+
+#, python-brace-format
+msgctxt "FileSizeKilobytes"
+msgid "{0} kb"
+msgstr "{0} kilobajtů"
+
+#, python-brace-format
+msgctxt "FileSizeMegabytes"
+msgid "{0} mb"
+msgstr "{0} megabajtů"
+
+msgctxt "GameObjectCloset"
+msgid "Closet."
+msgstr "Šatník."
+
+msgctxt "GameObjectDish"
+msgid "Dish."
+msgstr "Miska."
+
+msgctxt "GameObjectDishCloset"
+msgid "Kitchen cabinet."
+msgstr "Skříňka."
+
+msgctxt "GameObjectGlass"
+msgid "Glass."
+msgstr "Sklenička."
+
+msgctxt "GameObjectLightbulb"
+msgid "Lamp."
+msgstr "Lampa."
+
+msgctxt "GameObjectMine"
+msgid "Mine."
+msgstr "Mina."
+
+msgctxt "GameObjectRadio"
+msgid "Radio."
+msgstr "Rádio."
+
+msgctxt "GameObjectTelevision"
+msgid "TV."
+msgstr "Televize."
+
+#, python-brace-format
+msgctxt "GamePoints"
+msgid "{0} points scored in this game."
+msgstr "{0} bodů."
+
+msgctxt "GamePracticeInstantSkillRecharge"
+msgid "All skills are ready to use."
+msgstr "Všechny schopnosti připraveny k použití."
+
+#, python-brace-format
+msgctxt "GameResultScreenCoins"
+msgid "Got {0} coins."
+msgstr "Získáváš {0} mincí."
+
+#, python-brace-format
+msgctxt "GameResultScreenPoints"
+msgid "{0} points scored."
+msgstr "Získáváš {0} bodů."
+
+msgctxt "GameResultScreenTitle"
+msgid "Results of the last game."
+msgstr "Výsledky hry."
+
+msgctxt "GameResultScreenTitleWithHint"
+msgid ""
+"Results of the last game. Use the down and up arrows to navigate through the "
+"menu. To close the menu, press enter at any item."
+msgstr ""
+"Výsledky hry. Šipkami dolů a nahoru se pohybuješ po menu. Enterem na libovolné "
+"položce menu zavřeš."
+
+msgctxt "GameRewardAvailableDialog"
+msgid "A reward is available! Get it in your profile on the statistics tab!"
+msgstr "Získáváš odměnu za úspěch! Vyzvedni si ji v profilu na kartě statistiky!"
+
+#, python-brace-format
+msgctxt "GameTimeToEnd"
+msgid "{0} seconds left until the end of the game."
+msgstr "{0} vteřin do konce hry."
+
+msgctxt "IncompatableSaveMessage"
+msgid ""
+"The loaded save belongs to a newer version of the game\n"
+"and contains data that will be lost.\n"
+"Therefore, the save is considered incompatible.\n"
+"The game will be closed."
+msgstr ""
+"Tento soubor s uloženým postupem vznikl v novější verzi hry\n"
+"a obsahuje data, která budou ztracena.\n"
+"Proto je považován za nekompatibilní.\n"
+"Aplikace se ukončí."
+
+msgctxt "IncompatableSaveTitle"
+msgid "Incompatible save"
+msgstr "Nekompatibilní uložený postup"
+
+msgctxt "KeyConfigurationActionCheckPoints"
+msgid "Find out the number of points scored"
+msgstr "Přečíst skóre"
+
+msgctxt "KeyConfigurationActionCheckRemainingTime"
+msgid "Check the time remaining until the end of the session"
+msgstr "Přečíst čas do konce hry"
+
+msgctxt "KeyConfigurationActionCloseMap"
+msgid "Close map"
+msgstr "Zavřít mapu"
+
+msgctxt "KeyConfigurationActionHorizontalBatSwing"
+msgid "Swing the bat horizontally"
+msgstr "Máchnout pálkou vodorovně"
+
+msgctxt "KeyConfigurationActionMapCursorMoveDown"
+msgid "Move cursor down"
+msgstr "Posunout kurzor dolů"
+
+msgctxt "KeyConfigurationActionMapCursorMoveLeft"
+msgid "Move cursor left"
+msgstr "Posunout kurzor doleva"
+
+msgctxt "KeyConfigurationActionMapCursorMoveRight"
+msgid "Move cursor right"
+msgstr "Posunout kurzor doprava"
+
+msgctxt "KeyConfigurationActionMapCursorMoveUp"
+msgid "Move cursor up"
+msgstr "Posunout kurzor nahoru"
+
+msgctxt "KeyConfigurationActionMapMoveListenerDown"
+msgid "Move observation point lower"
+msgstr "Posunout pozorovací bod níž"
+
+msgctxt "KeyConfigurationActionMapMoveListenerUp"
+msgid "Move observation point higher"
+msgstr "Posunout pozorovací bod výš"
+
+msgctxt "KeyConfigurationActionMapSwitchAnnouncingObjectType"
+msgid "Toggle object type announcement"
+msgstr "Přepnout oznamování typu předmětů"
+
+msgctxt "KeyConfigurationActionMapSwitchMovingMode"
+msgid "Toggle cursor movement mode"
+msgstr "Přepnout režim pohybu kurzoru"
+
+msgctxt "KeyConfigurationActionMapTotalObjects"
+msgid "Find out the number of objects on the map"
+msgstr "Přečíst počet předmětů na mapě"
+
+msgctxt "KeyConfigurationActionOpenMap"
+msgid "Open map"
+msgstr "Otevřít mapu"
+
+msgctxt "KeyConfigurationActionPauseGame"
+msgid "Pause the game"
+msgstr "Zapauzovat hru"
+
+msgctxt "KeyConfigurationActionPlayCheckPositionSound"
+msgid "Play sound at character's position"
+msgstr "Přehrát zvuk z pozice postavy"
+
+msgctxt "KeyConfigurationActionPlayerCatchBall"
+msgid "Catch the ball"
+msgstr "Chytit míč"
+
+msgctxt "KeyConfigurationActionPlayerJump"
+msgid "Jump"
+msgstr "Vyskočit"
+
+msgctxt "KeyConfigurationActionPlayerMoveLeft"
+msgid "Move character left"
+msgstr "Udělat krok doleva"
+
+msgctxt "KeyConfigurationActionPlayerMoveRight"
+msgid "Move character right"
+msgstr "Udělat krok doprava"
+
+msgctxt "KeyConfigurationActionPracticeInstantSkillRecharge"
+msgid "Zero all skills cooldown"
+msgstr "Vynulovat prodlevu před použitím u všech schopností"
+
+msgctxt "KeyConfigurationActionPracticeSetSkillLevels"
+msgid "Set skill levels"
+msgstr "Nastavit úrovně schopností"
+
+msgctxt "KeyConfigurationActionSetPlayerFacingLeft"
+msgid "Set character facing left"
+msgstr "Otočit postavu doleva"
+
+msgctxt "KeyConfigurationActionSetPlayerFacingRight"
+msgid "Set character facing right"
+msgstr "Otočit postavu doprava"
+
+msgctxt "KeyConfigurationActionSkillSlot1"
+msgid "Select the skill set in slot 1"
+msgstr "Vybrat schopnost ve slotu 1"
+
+msgctxt "KeyConfigurationActionSkillSlot10"
+msgid "Select the skill set in slot 10"
+msgstr "Vybrat schopnost ve slotu 10"
+
+msgctxt "KeyConfigurationActionSkillSlot2"
+msgid "Select the skill set in slot 2"
+msgstr "Vybrat schopnost ve slotu 2"
+
+msgctxt "KeyConfigurationActionSkillSlot3"
+msgid "Select the skill set in slot 3"
+msgstr "Vybrat schopnost ve slotu 3"
+
+msgctxt "KeyConfigurationActionSkillSlot4"
+msgid "Select the skill set in slot 4"
+msgstr "Vybrat schopnost ve slotu 4"
+
+msgctxt "KeyConfigurationActionSkillSlot5"
+msgid "Select the skill set in slot 5"
+msgstr "Vybrat schopnost ve slotu 5"
+
+msgctxt "KeyConfigurationActionSkillSlot6"
+msgid "Select the skill set in slot 6"
+msgstr "Vybrat schopnost ve slotu 6"
+
+msgctxt "KeyConfigurationActionSkillSlot7"
+msgid "Select the skill set in slot 7"
+msgstr "Vybrat schopnost ve slotu 7"
+
+msgctxt "KeyConfigurationActionSkillSlot8"
+msgid "Select the skill set in slot 8"
+msgstr "Vybrat schopnost ve slotu 8"
+
+msgctxt "KeyConfigurationActionSkillSlot9"
+msgid "Select the skill set in slot 9"
+msgstr "Vybrat schopnost ve slotu 9"
+
+msgctxt "KeyConfigurationActionSkillSlotCancel"
+msgid "Cancel the selected skill"
+msgstr "Zrušit výběr schopnosti"
+
+msgctxt "KeyConfigurationActionSwitchBallViewMode"
+msgid "Switch to ball watch mode"
+msgstr "Sledovat míč"
+
+msgctxt "KeyConfigurationActionSwitchCharacterCameraMode"
+msgid "Switch camera mode between first person and center field view"
+msgstr ""
+"Přepnout mezi pohledem z pozice postavy a pohledem ze středu hrací plochy"
+
+msgctxt "KeyConfigurationActionThrowBallHorizontal"
+msgid "Throw the ball horizontally"
+msgstr "Hodit míč vodorovně"
+
+msgctxt "KeyConfigurationActionThrowBallVertical"
+msgid "Throw the ball vertically"
+msgstr "Hodit míč svisle"
+
+msgctxt "KeyConfigurationActionVerticalBatSwing"
+msgid "Vertical bat swing"
+msgstr "Máchnout pálkou svisle"
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionKeys"
+msgid "Game session"
+msgstr "Hra"
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionObjectMapKeys"
+msgid "Object map"
+msgstr "Mapa předmětů"
+
+msgctxt "KeyConfigurationBlockBallBouncerPracticeGameSessionKeys"
+msgid "Training mode"
+msgstr "Režim tréninku"
+
+msgctxt "KeyConfigurationMergeDeletionDialogOk"
+msgid "I understand"
+msgstr "Rozumím"
+
+msgctxt "KeyConfigurationMergeDeletionDialogText"
+msgid ""
+"New keyboard shortcuts have been introduced into the game, but upon loading "
+"your configuration, it was discovered that you already have the shortcuts that "
+"are reserved as default shortcuts installed. Due to this, new combinations "
+"have been removed in favor of yours. We strongly recommend that you go to "
+"Settings, go to the \"Keyboard Shortcut Configuration\" tab and configure new "
+"actions. You can find a list of new actions in the changelog."
+msgstr ""
+"Do hry přibyly nové klávesové příkazy, ale po načtení tvého nastavení se "
+"ukázalo, že už pro ně máš nastavené stejné zkratky, které jsou rezervované "
+"jako výchozí. Proto hra použije tvoje nastavení namísto výchozího. Důrazně "
+"doporučujeme nastavit si klávesové zkratky pro nové příkazy v nastavení na "
+"kartě \"Nastavení klávesových zkratek\". Seznam nových příkazů najdeš v "
+"historii změn."
+
+msgctxt "LearnSoundsBatHitSuccess"
+msgid "Successfully hit the ball with the bat."
+msgstr "Pálka zasáhla míč."
+
+msgctxt "LearnSoundsCeilBounce"
+msgid "The ball bounced off the ceiling."
+msgstr "Míč se odrazil od stropu."
+
+msgctxt "LearnSoundsFineStanding"
+msgid "You are starting to be fined for standing in one place for too long."
+msgstr "Začíná penalizace za příliš dlouhé stání na místě."
+
+msgctxt "LearnSoundsFineSwinging"
+msgid "Penalty for frequent misses with the bat on the ball."
+msgstr "Penalizace za časté údery pálkou mimo míč."
+
+msgctxt "LearnSoundsForceFull"
+msgid "Character's blow force has been fully restored."
+msgstr "Síla úderu postavy se plně obnovila."
+
+msgctxt "LearnSoundsObjectDestroy"
+msgid "Object destruction alert."
+msgstr "Zničení předmětu."
+
+msgctxt "LearnSoundsObjectHit"
+msgid "Ball hit an object alert."
+msgstr "Míč narazil do předmětu."
+
+msgctxt "LearnSoundsPerfectHit"
+msgid "A perfect strike."
+msgstr "Dokonalá trefa."
+
+msgctxt "LearnSoundsScoresUnderNeg500"
+msgid "The points dropped below minus five hundred."
+msgstr "Skóre kleslo pod mínus pět set."
+
+msgctxt "LearnSoundsTitle"
+msgid "Learn sounds menu."
+msgstr "Nabídka seznámení se zvuky."
+
+msgctxt "LearnSoundsTitleWithHint"
+msgid ""
+"Learn sounds menu. Use the up and down arrows to move. To listen to the sound, "
+"press enter. To exit the menu, press the corresponding menu item or the escape "
+"key."
+msgstr ""
+"Nabídka seznámení se zvuky. Šipkami nahoru a dolů se pohybuješ. Enterem "
+"přehraješ vybraný zvuk. Příslušnou položkou nebo klávesou escape menu zavřeš."
+
+msgctxt "MainMenuExitGame"
+msgid "Exit the game."
+msgstr "Ukončit hru."
+
+msgctxt "MainMenuOptions"
+msgid "Settings."
+msgstr "Nastavení."
+
+msgctxt "MainMenuProfile"
+msgid "Profile."
+msgstr "Profil."
+
+msgctxt "MainMenuRecordings"
+msgid "Recordings."
+msgstr "Nahrávky."
+
+msgctxt "MainMenuStartGame"
+msgid "Start game."
+msgstr "Spustit hru."
+
+msgctxt "MainMenuStore"
+msgid "Shop."
+msgstr "Obchod."
+
+msgctxt "MainMenuTitle"
+msgid "Main menu."
+msgstr "Hlavní menu."
+
+msgctxt "MainMenuTitleWithHint"
+msgid ""
+"Main menu. Use the up and down arrows to move. To select a menu item, press "
+"enter."
+msgstr ""
+"Hlavní menu. Šipkami nahoru a dolů se pohybuješ. Enterem vybereš položku."
+
+msgctxt "ModeSelectionFormBack"
+msgid "Return to main menu."
+msgstr "Zpět do hlavního menu."
+
+msgctxt "ModeSelectionFormModes"
+msgid "Modes"
+msgstr "Režimy"
+
+msgctxt "ModeSelectionFormNormalMode"
+msgid "Normal game."
+msgstr "Normální hra."
+
+msgctxt "ModeSelectionFormPracticeMode"
+msgid "Training mode."
+msgstr "Režim tréninku."
+
+msgctxt "ModeSelectionFormRecord"
+msgid "Record the game"
+msgstr "Nahrávat hru"
+
+msgctxt "ModeSelectionFormStart"
+msgid "Start"
+msgstr "Začít"
+
+msgctxt "ModeSelectionFormTitle"
+msgid "Select a game mode."
+msgstr "Vyber si režim hry."
+
+msgctxt "ModeSelectionFormTitleWithHint"
+msgid ""
+"Select a game mode. Use tab and shift+tab to move forwards and backwards on "
+"the screen. Use the up and down arrows to move through the list. To confirm "
+"your selection, press enter or click the \"Start\" button."
+msgstr ""
+"Vyber si režim hry. Klávesami tab a shift+tab se pohybuješ po obrazovce "
+"dopředu a dozadu. Šipkami nahoru a dolů se pohybuješ po seznamu. Vybraný režim "
+"potvrdíš klávesou enter nebo tlačítkem Začít."
+
+msgctxt "NumberNotationsEmpty"
+msgid "No notation."
+msgstr "Bez formátování."
+
+msgctxt "NumberNotationsEngineering"
+msgid "Engineering."
+msgstr "Inženýrský zápis."
+
+msgctxt "NumberNotationsLetter"
+msgid "Letter."
+msgstr "Zkrácený tvar (s písmeny)."
+
+msgctxt "NumberNotationsScientific"
+msgid "Scientific."
+msgstr "Vědecký zápis."
+
+msgctxt "NumberNotationsStandard"
+msgid "Standard."
+msgstr "Standardní (s mezerami)."
+
+msgctxt "ObjectsMapScreenAnnounceObjectTypeDisabled"
+msgid "Object type announcement under the cursor disabled."
+msgstr "Oznamování předmětu pod kurzorem vypnuto."
+
+msgctxt "ObjectsMapScreenAnnounceObjectTypeEnabled"
+msgid "Object type announcement under the cursor enabled."
+msgstr "Oznamování předmětu pod kurzorem zapnuto."
+
+msgctxt "ObjectsMapScreenFreeMovingMode"
+msgid "Switched to free movement mode."
+msgstr "Nastaven režim volného pohybu."
+
+msgctxt "ObjectsMapScreenObjectMovingMode"
+msgid "Switched to object movement mode."
+msgstr "Nastaven režim pohybu po předmětech."
+
+msgctxt "ObjectsMapScreenTitle"
+msgid "Object map."
+msgstr "Mapa předmětů."
+
+#, python-brace-format
+msgctxt "ObjectsMapScreenTotalObjects"
+msgid "{0} objects on the map."
+msgstr "{0} předmětů na mapě."
+
+msgctxt "OptionsScreenAllowOverMaxVolume"
+msgid "Allow audio volume boost up to two hundred percent"
+msgstr "Umožnit zesílení zvuku až na dvě stě procent"
+
+msgctxt "OptionsScreenAllowPlayObjectNotifySounds"
+msgid ""
+"Play alert sounds when the ball collides with or destroys objects on the field"
+msgstr "Přehrávat zvuk, když míč zničí předmět na hrací ploše nebo do něj narazí"
+
+msgctxt "OptionsScreenAutosaveRecording"
+msgid "Save the recording every 30 seconds"
+msgstr "Ukládat nahrávku každých 30 vteřin"
+
+msgctxt "OptionsScreenBatHitSuccessSound"
+msgid "Play a sound when the ball is successfully hit with the bat"
+msgstr "Přehrávat zvuk, když pálka zasáhne míč"
+
+msgctxt "OptionsScreenCatigoriesBehaviour"
+msgid "Behavior"
+msgstr "Chování"
+
+msgctxt "OptionsScreenCatigoriesGeneral"
+msgid "General"
+msgstr "Obecné"
+
+msgctxt "OptionsScreenCatigoriesKeyConfiguration"
+msgid "Keyboard shortcut configuration"
+msgstr "Nastavení klávesových zkratek"
+
+msgctxt "OptionsScreenCatigoriesRecording"
+msgid "Recording"
+msgstr "Nahrávání"
+
+msgctxt "OptionsScreenCatigoriesSound"
+msgid "Sound"
+msgstr "Zvuk"
+
+msgctxt "OptionsScreenChangeBallLoopSoundButton"
+msgid "Change ball sound"
+msgstr "Změnit zvuk míče"
+
+msgctxt "OptionsScreenChangeLanguageButton"
+msgid "Change language"
+msgstr "Změnit jazyk"
+
+msgctxt "OptionsScreenCheckForUpdates"
+msgid "Check for updates"
+msgstr "Vyhledat aktualizace"
+
+msgctxt "OptionsScreenCheckForUpdatesOnStartup"
+msgid "Check for updates on startup"
+msgstr "Při spuštění kontrolovat aktualizace"
+
+msgctxt "OptionsScreenCloseButton"
+msgid "Close"
+msgstr "Zavřít"
+
+msgctxt "OptionsScreenConfigureKeysButton"
+msgid "Configure keyboard shortcuts"
+msgstr "Nastavit klávesové zkratky"
+
+msgctxt "OptionsScreenDisplayTitleHints"
+msgid "Show navigation hints in menu titles"
+msgstr "Zobrazovat navigační nápovědu při otevření menu"
+
+msgctxt "OptionsScreenGameVolumeSlider"
+msgid "Game volume"
+msgstr "Hlasitost hry"
+
+msgctxt "OptionsScreenLearnSounds"
+msgid "Learn game sounds"
+msgstr "Seznámení se zvuky"
+
+msgctxt "OptionsScreenMusicVolumeSlider"
+msgid "Music volume"
+msgstr "Hlasitost hudby"
+
+msgctxt "OptionsScreenNumberNotationSelector"
+msgid "Notation for displaying numbers"
+msgstr "Formátování čísel"
+
+msgctxt "OptionsScreenPauseGameWhenWindowLostsFocus"
+msgid "Pause the game when switching to another window"
+msgstr "Zapauzovat hru při přepnutí do jiného okna"
+
+msgctxt "OptionsScreenPrefereSapi"
+msgid "Prefer sapi to screen reader"
+msgstr "Upřednostnit Sapi před odečítačem"
+
+msgctxt "OptionsScreenRecordingCancellation"
+msgid "Cancel recording when canceling the game from the pause menu"
+msgstr "Přestat nahrávat při ukončení hry z menu Pauza"
+
+msgctxt "OptionsScreenResetKeyConfigurationToDefault"
+msgid "Reset shortcut key configuration to defaults"
+msgstr "Obnovit výchozí nastavení klávesových zkratek"
+
+msgctxt "OptionsScreenResetKeyConfigurationToDefaultConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your current keyboard shortcut configuration? "
+"Attention: this action is irreversible!"
+msgstr ""
+"Chceš opravdu smazat svoje nastavené klávesové zkratky? Pozor: Tato akce je "
+"nevratná!"
+
+msgctxt "OptionsScreenResetOptionsToDefault"
+msgid "Reset settings to defaults"
+msgstr "Obnovit výchozí nastavení"
+
+msgctxt "OptionsScreenResetOptionsToDefaultConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your settings to default? Attention: this "
+"action is irreversible! Once confirmed, the application will be restarted."
+msgstr ""
+"Chceš opravdu obnovit všechna nastavení na výchozí hodnoty? Pozor: Tato akce "
+"je nevratná! Pokud ji potvrdíš, aplikace se restartuje."
+
+msgctxt "OptionsScreenSaveCharacterViewState"
+msgid "Save first person view state between games"
+msgstr "Zachovat vybraný způsob pohledu i po dohrání hry"
+
+msgctxt "OptionsScreenShowResultMenu"
+msgid "Show results menu at the end of the game"
+msgstr "Po dohrání hry zobrazovat výsledky"
+
+msgctxt "OptionsScreenShowRewardAvailableDialog"
+msgid "Show notification if reward is available at end of game"
+msgstr "Zobrazovat oznámení o dostupných odměnách po dohrání hry"
+
+msgctxt "OptionsScreenShowUpdateCheckErrorOnStartup"
+msgid "Show an error if it was not possible to check for updates at startup"
+msgstr "Zobrazit chybu, pokud se při spuštění nepodaří zkontrolovat aktualizace"
+
+msgctxt "OptionsScreenSoundPanRepresentationMode"
+msgid "Sound Panning Mode"
+msgstr "Způsob přehrávání zvuků ve stereu"
+
+msgctxt "OptionsScreenSoundPanRepresentationModeNarrowedCenter"
+msgid "Narrowed center"
+msgstr "Blíž ke středu"
+
+msgctxt "OptionsScreenSoundPanRepresentationModeNormal"
+msgid "Normal"
+msgstr "Normálně"
+
+msgctxt "OptionsScreenTitle"
+msgid "Settings screen."
+msgstr "Menu nastavení."
+
+msgctxt "OptionsScreenTitleWithHint"
+msgid ""
+"Settings screen. Use tab and shift+tab to move forward and backward. Use the "
+"arrow keys to change the position of the sliders. To activate the selected "
+"item, press enter or spacebar."
+msgstr ""
+"Menu nastavení. Klávesami tab a shift+tab se pohybuješ dopředu a dozadu. "
+"Šipkami měníš hodnoty posuvníků. Vybranou položku potvrdíš enterem nebo "
+"mezerníkem."
+
+msgctxt "OptionsScreenWipeSave"
+msgid "Reset game progress"
+msgstr "Smazat uložený postup hrou"
+
+msgctxt "OptionsScreenWipeSaveConfirmationQuestion"
+msgid ""
+"Are you sure you want to reset your game progress? Attention: this action is "
+"irreversible!"
+msgstr ""
+"Chceš opravdu smazat veškerý svůj dosavadní postup hrou? Pozor: Tato akce je "
+"nevratná!"
+
+msgctxt "PauseMenuAbortGame"
+msgid "Abort the game and return to the main menu."
+msgstr "Ukončit hru a vrátit se do hlavního menu."
+
+msgctxt "PauseMenuContinueGame"
+msgid "Continue game."
+msgstr "Pokračovat ve hře."
+
+#, python-brace-format
+msgctxt "PauseMenuGameInfo"
+msgid ""
+"{0} points scored in this game. The ball collided with objects {1} times, "
+"destroyed {2} objects, and bounced off the floor {3} times. You hit the ball "
+"{4} times."
+msgstr ""
+"Za tuto hru zatím získáváš {0} bodů. Míč narazil do {1} předmětů, zničil {2} "
+"předmětů a {3}krát se odrazil od podlahy. {4}krát byl odpálen."
+
+msgctxt "PauseMenuPracticeModeActive"
+msgid "Training mode is active."
+msgstr "Hraješ v režimu tréninku."
+
+#, python-brace-format
+msgctxt "PauseMenuTimeToEnd"
+msgid "The game will end in {0} seconds."
+msgstr "Hra skončí za {0} vteřin."
+
+msgctxt "PauseMenuTitle"
+msgid "Pause menu."
+msgstr "Menu Pauza."
+
+msgctxt "PauseMenuTitleWithHint"
+msgid ""
+"Pause menu. Use the up and down arrows to move. To activate the selected item, "
+"press enter."
+msgstr ""
+"Menu Pauza. Šipkami nahoru a dolů se pohybuješ. Vybranou položku potvrdíš "
+"enterem."
+
+msgctxt "ProfileAurasPageTitle"
+msgid "Auras"
+msgstr "Aury"
+
+msgctxt "ProfileStatsCopied"
+msgid "Copied."
+msgstr "Zkopírováno."
+
+msgctxt "ProfileStatsPageTitle"
+msgid "Statistics"
+msgstr "Statistiky"
+
+msgctxt "ProfileTitle"
+msgid "Your profile."
+msgstr "Tvůj profil."
+
+msgctxt "ProfileTitleWithHint"
+msgid ""
+"Your profile. Use tab and shift+tab to move forwards and backwards. To receive "
+"a reward in statistics, press enter on the item with an available reward."
+msgstr ""
+"Tvůj profil. Klávesami tab a shift+tab se pohybuješ dopředu a dozadu. Enterem "
+"na některé položce na kartě Statistiky, u které je dostupná odměna, si tuto "
+"odměnu vyzvedneš."
+
+msgctxt "SkillLevelsSetFormBack"
+msgid "Return to game"
+msgstr "Zpět do hry"
+
+msgctxt "SkillLevelsSetFormPowerRecoveringBonusChanger"
+msgid "Increased blow force recovery rate level"
+msgstr "Úroveň rychlosti obnovování síly úderu"
+
+#, python-brace-format
+msgctxt "SkillLevelsSetFormSkillLevel"
+msgid "Skill level {0}"
+msgstr "Úroveň {0}"
+
+msgctxt "SkillLevelsSetFormTitle"
+msgid "Set skill levels."
+msgstr "Nastav úrovně schopností."
+
+msgctxt "SkillLevelsSetFormTitleWithHint"
+msgid ""
+"Set skill levels. Use tab and shift+tab to move forward and backward. Use the "
+"arrow keys to change the position of the sliders. To activate the selected "
+"item, press enter or spacebar."
+msgstr ""
+"Nastav úrovně schopností. Klávesami tab a shift+tab se pohybuješ dopředu a "
+"dozadu. Šipkami měníš hodnoty posuvníků. Enterem nebo mezerníkem potvrdíš "
+"vybranou položku."
+
+#, python-brace-format
+msgctxt "SkillSlotRecharging"
+msgid "{0} seconds before skill cooldown."
+msgstr "{0} vteřin do dalšího použití schopnosti."
+
+msgctxt "SkillSlotSelectCanceled"
+msgid "Selection canceled."
+msgstr "Výběr zrušen."
+
+#, python-brace-format
+msgctxt "SkillSlotSelected"
+msgid "Skill {0} is selected."
+msgstr "Schopnost {0} vybrána."
+
+msgctxt "SkillSlotSetterMenuBack"
+msgid "Go back."
+msgstr "Zpět."
+
+msgctxt "SkillSlotSetterMenuTitle"
+msgid "Select a skill to install in the slot."
+msgstr "Vyber schopnost, kterou chceš uložit do slotu."
+
+msgctxt "SkillSlotSetterMenuTitleWithHint"
+msgid ""
+"Select a skill to install in the slot. Use the up and down arrows to select "
+"and press enter to confirm your selection."
+msgstr ""
+"Vyber schopnost, kterou chceš uložit do slotu. Šipkami nahoru a dolů se "
+"pohybuješ a enterem potvrdíš vybranou položku."
+
+#, python-brace-format
+msgctxt "SkillSlotText"
+msgid "Slot {0}. {1}"
+msgstr "Slot {0}. {1}"
+
+msgctxt "SkillSlotsTitle"
+msgid "Slots"
+msgstr "Sloty"
+
+#, python-brace-format
+msgctxt "SkillsBallLeapLevelInfoText"
+msgid ""
+"Level {0}. The character makes a rapid dash towards the ball, located no "
+"higher than {1} cells above the ground, The cooldown interval is {2} seconds."
+msgstr ""
+"Úroveň {0}. Postava se rychle vrhne po míči, který nesmí být výš než {1} "
+"políček nad podlahou. Prodleva před dalším použitím je {2} vteřin."
+
+msgctxt "SkillsBallLeapName"
+msgid "furious leap"
+msgstr "titánský skok"
+
+msgctxt "SkillsBallLeapNameFull"
+msgid "Furious leap."
+msgstr "Titánský skok."
+
+#, python-brace-format
+msgctxt "SkillsBallLeapText"
+msgid ""
+"Furious leap: level {0}/4. The character makes a rapid dash towards the ball, "
+"located no higher than {1} cells above the ground, cooldown interval is {2} "
+"seconds."
+msgstr ""
+"Titánský skok: Úroveň {0} z 4. Postava se rychle vrhne po míči, který nesmí "
+"být výš než {1} políček nad podlahou. Prodleva před dalším použitím je {2} "
+"vteřin."
+
+msgctxt "SkillsEmpty"
+msgid "You haven't unlocked any skills yet."
+msgstr "Zatím nemáš odemčené žádné schopnosti."
+
+#, python-brace-format
+msgctxt "SkillsImmaterialityLevelInfoText"
+msgid ""
+"Level {0}. The ball goes immaterial for {1} seconds, cooldown interval is {2} "
+"seconds."
+msgstr ""
+"Úroveň {0}. Míč se odhmotní na {1} vteřin. Prodleva před dalším použitím je "
+"{2} vteřin."
+
+msgctxt "SkillsImmaterialityName"
+msgid "immateriality"
+msgstr "odhmotnění"
+
+msgctxt "SkillsImmaterialityNameFull"
+msgid "Immateriality."
+msgstr "Odhmotnění."
+
+#, python-brace-format
+msgctxt "SkillsImmaterialityText"
+msgid ""
+"Immateriality: level {0}/3. The ball goes immaterial for {1} seconds, cooldown "
+"interval is {2} seconds."
+msgstr ""
+"Odhmotnění: Úroveň {0} z 3. Míč se odhmotní na {1} vteřin. Prodleva před "
+"dalším použitím je {2} vteřin."
+
+msgctxt "SkillsLevelInfo"
+msgid "List of skill effects by level."
+msgstr "Výpis účinků schopnosti podle úrovně."
+
+msgctxt "SkillsListTitle"
+msgid "Unlocked Skills"
+msgstr "Odemčené schopnosti"
+
+#, python-brace-format
+msgctxt "SkillsMagnetismLevelInfoText"
+msgid ""
+"Level {0}. The ball receives an effect that attracts it to nearby objects for "
+"{1} seconds, cooldown interval is {2} seconds."
+msgstr ""
+"Úroveň {0}. Míč získá bonus, který ho bude {1} vteřin přitahovat k předmětům v "
+"blízkosti. Prodleva před dalším použitím je {2} vteřin."
+
+msgctxt "SkillsMagnetismName"
+msgid "magnetism"
+msgstr "magnetická přitažlivost"
+
+msgctxt "SkillsMagnetismNameFull"
+msgid "Magnetism."
+msgstr "Magnetická přitažlivost."
+
+#, python-brace-format
+msgctxt "SkillsMagnetismText"
+msgid ""
+"Magnetism: level {0}/4. The ball receives an effect that attracts it to nearby "
+"objects for {1} seconds, cooldown interval is {2} seconds."
+msgstr ""
+"Magnetická přitažlivost: Úroveň {0} z 4. Míč získá bonus, který ho bude {1} "
+"vteřin přitahovat k předmětům v blízkosti. Prodleva před dalším použitím je "
+"{2} vteřin."
+
+msgctxt "SkillsNoneNameFull"
+msgid "Not set."
+msgstr "Žádná schopnost."
+
+#, python-brace-format
+msgctxt "SkillsObjectSpawnerLevelInfoText"
+msgid ""
+"Level {0}. The  swing of the bat creates {1} objects on the field, cooldown "
+"interval is {2} seconds."
+msgstr ""
+"Úroveň {0}. Máchnutí pálkou vytvoří na hrací ploše {1} předmětů. Prodleva před "
+"dalším použitím je {2} vteřin."
+
+msgctxt "SkillsObjectSpawnerName"
+msgid "creator's stroke"
+msgstr ";úder stvořitele"
+
+msgctxt "SkillsObjectSpawnerNameFull"
+msgid "Creator's stroke."
+msgstr "Úder stvořitele."
+
+#, python-brace-format
+msgctxt "SkillsObjectSpawnerText"
+msgid ""
+"Creator's stroke: level {0}/4. Swinging the bat creates {1} objects on the "
+"field, cooldown interval is {2} seconds."
+msgstr ""
+"Úder stvořitele: Úroveň {0} z 4. Máchnutí pálkou vytvoří na hrací ploše {1} "
+"předmětů. Prodleva před dalším použitím je {2} vteřin."
+
+msgctxt "SkillsPageTitle"
+msgid "Skills"
+msgstr "Schopnosti"
+
+#, python-brace-format
+msgctxt "SkillsShadowStrikeLevelInfoText"
+msgid ""
+"Level {0}. The range of the strike is {1} cells up, can destroy {2} objects, "
+"cooldown interval is {3} seconds."
+msgstr ""
+"Úroveň {0}. Dosah úderu je {1} políček přímo nahoru a může zničit až {2} "
+"předmětů. Prodleva před dalším použitím je {3} vteřin."
+
+msgctxt "SkillsShadowStrikeName"
+msgid "phantom strike"
+msgstr "fantomový úder"
+
+msgctxt "SkillsShadowStrikeNameFull"
+msgid "Phantom strike."
+msgstr "Fantomový úder."
+
+#, python-brace-format
+msgctxt "SkillsShadowStrikeText"
+msgid ""
+"Phantom strike: level {0}/5. The range of the strike is {1} cells up, can "
+"destroy {2} objects, cooldown interval is {3} seconds."
+msgstr ""
+"Fantomový úder: Úroveň {0} z 5. Dosah úderu je {1} políček přímo nahoru a může "
+"zničit až {2} předmětů. Prodleva před dalším použitím je {3} vteřin."
+
+#, python-brace-format
+msgctxt "SkillsSuperElasticityLevelInfoText"
+msgid ""
+"Level {0}. For {1} seconds the ball bounces off objects an order of magnitude "
+"stronger, cooldown interval is {2} seconds."
+msgstr ""
+"Úroveň {0}. Míč se bude {1} vteřin odrážet od předmětů o řád silněji. Prodleva "
+"před dalším použitím je {2} vteřin."
+
+msgctxt "SkillsSuperElasticityName"
+msgid "superelasticity"
+msgstr "hopík"
+
+msgctxt "SkillsSuperElasticityNameFull"
+msgid "Superelasticity."
+msgstr "Hopík."
+
+#, python-brace-format
+msgctxt "SkillsSuperElasticityText"
+msgid ""
+"Superelasticity: level {0}/4. For {1} seconds the ball bounces off objects an "
+"order of magnitude stronger, cooldown interval is {2} seconds."
+msgstr ""
+"Hopík: Úroveň {0} z 4. Míč se bude {1} vteřin odrážet od předmětů o řád "
+"silněji. Prodleva před dalším použitím je {2} vteřin."
+
+#, python-brace-format
+msgctxt "StatItemBallCeilHits"
+msgid "Number of ball bounces from the ceiling: {0}. {1}"
+msgstr "Odrazy míče od stropu: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemBallFloorHits"
+msgid "Number of ball bounces off the floor: {0}. {1}"
+msgstr "Odrazy míče od podlahy: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemBallsCaught"
+msgid "Total balls caught: {0}. {1}"
+msgstr "Celkem chyceno míčů: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemBatHits"
+msgid "Number of balls hit: {0}. {1}"
+msgstr "Trefy do míče: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemDestroyedObjects"
+msgid "Number of objects destroyed: {0}. {1}"
+msgstr "Zničené předměty: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemMaximumPoints"
+msgid "Maximum points per game: {0}. {1}"
+msgstr "Nejvyšší skóre v jedné hře: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemObjectHits"
+msgid "Number of collisions with objects: {0}. {1}"
+msgstr "Nárazy míče do předmětů: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemPerfectHitsStreak"
+msgid "Perfect strikes made in a row: {0}. {1}"
+msgstr "Dokonalé trefy za sebou: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemStepsMade"
+msgid "Number of steps made: {0}. {1}"
+msgstr "Kroky postavy: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemTotalGamingTime"
+msgid "Total time spent on the playing field: {0}. {1}"
+msgstr "Celkový čas strávený na hrací ploše: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemTotalPoints"
+msgid "Total points scored: {0}. {1}"
+msgstr "Celkem získáno bodů: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemTotalSkillsUsed"
+msgid "Total skills used: {0}. {1}"
+msgstr "Celkem Použito schopností: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatItemTotalTime"
+msgid "Total time spent in the application: {0}. {1}"
+msgstr "Celkový čas strávený v aplikaci: {0}. {1}"
+
+#, python-brace-format
+msgctxt "StatRewardAvailable"
+msgid "Reward is available. Rewards received: {0}."
+msgstr "Je dostupná odměna. Získané odměny: {0}."
+
+msgctxt "StatRewardError"
+msgid "The reward is not yet available."
+msgstr "Zatím nejsou dostupné žádné odměny."
+
+#, python-brace-format
+msgctxt "StatRewardRequirements"
+msgid "Until reward: {0}. Rewards received: {1}."
+msgstr "Do další odměny: {0}. Získané odměny: {1}."
+
+#, python-brace-format
+msgctxt "StatRewardsTotal"
+msgid "{0} awards received in total."
+msgstr "{0} odměn získáno celkem."
+
+#, python-brace-format
+msgctxt "StoreButtonReset"
+msgid "Reset for {0} coins"
+msgstr "Vynulovat za {0} mincí"
+
+#, python-brace-format
+msgctxt "StoreButtonUnlock"
+msgid "Unlock for {0} coins"
+msgstr "Odemknout za {0} mincí"
+
+msgctxt "StoreButtonUnlockObjectUnlocked"
+msgid "Object unlocked."
+msgstr "Předmět odemčen."
+
+msgctxt "StoreButtonUnlockSkillUnlocked"
+msgid "Skill unlocked."
+msgstr "Schopnost odemčena."
+
+msgctxt "StoreButtonUnlockUnlocked"
+msgid "Feature unlocked"
+msgstr "Funkce odemčena"
+
+#, python-brace-format
+msgctxt "StoreButtonUpgrade"
+msgid "Upgrade for {0} coins"
+msgstr "Zvýšit úroveň za {0} mincí"
+
+msgctxt "StoreButtonUpgradeMaxed"
+msgid "Maxed out"
+msgstr "Dosažena nejvyšší možná úroveň"
+
+msgctxt "StoreBuyError1"
+msgid "Error: Not enough coins."
+msgstr "Chyba: Nemáš dost mincí."
+
+msgctxt "StoreBuyError2"
+msgid "Error: This upgrade is already at maximum level."
+msgstr "Chyba: Toto vylepšení už je na nejvyšší možné úrovni."
+
+msgctxt "StoreBuyError3"
+msgid "Error: This feature is already unlocked."
+msgstr "Chyba: Tato funkce už je odemčena."
+
+msgctxt "StoreBuyError4"
+msgid "Error: Not enough achievement points."
+msgstr "Chyba: Nemáš dost úspěchových bodů."
+
+msgctxt "StoreBuyError5"
+msgid "Error: no achievement points were spent."
+msgstr "Chyba: Žádné utracené úspěchové body."
+
+msgctxt "StoreBuyError6"
+msgid "Error: This skill is already at maximum level."
+msgstr "Chyba: Tato schopnost už je na nejvyšší možné úrovni."
+
+msgctxt "StoreBuyError7"
+msgid "Error: This skill is already unlocked"
+msgstr "Chyba: Tato schopnost už je odemčena"
+
+msgctxt "StoreBuyError8"
+msgid "Error: This object is already unlocked."
+msgstr "Chyba: Tento předmět už je odemčen."
+
+msgctxt "StoreCatigories"
+msgid "Categories"
+msgstr "Kategorie"
+
+msgctxt "StoreCatigoriesCharacter"
+msgid "Character"
+msgstr "Postava"
+
+msgctxt "StoreCatigoriesObjects"
+msgid "Objects"
+msgstr "Předměty"
+
+#, python-brace-format
+msgctxt "StoreCoins"
+msgid "Coins: {0}."
+msgstr "Mince: {0}."
+
+msgctxt "StoreInfoTitle"
+msgid "Reference Information: "
+msgstr "Referenční informace: "
+
+msgctxt "StoreInfoTitleWithHint"
+msgid ""
+"Reference Information. Use the up and down arrows to move. To exit the menu, "
+"press escape or enter at any item."
+msgstr ""
+"Referenční informace. Šipkami nahoru a dolů se pohybuješ. Klávesami escape "
+"nebo enter na kterékoli položce menu zavřeš."
+
+msgctxt "StoreItemBallCatchFeatureInfo"
+msgid ""
+"Ball catch feature.\n"
+"To try to catch the ball, press left or right control during the game.\n"
+"The ball can only be caught if it is close to you.\n"
+"If the attempt is successful, the sound of the ball will disappear from the "
+"playing field, and you will be able to throw it again.\n"
+"This mechanic can be used in your scoring strategies or just for fun, but it "
+"is initially useful when used in conjunction with certain skills."
+msgstr ""
+"Funkce chytání míče.\n"
+"Pokud chceš míč zkusit chytit, stiskni během hry levý nebo pravý control.\n"
+"Míč se dá chytit, jenom když je blízko u tebe.\n"
+"Pokud se ti to povede, z hrací plochy zmizí zvuk míče a budeš ho moct znovu "
+"hodit.\n"
+"Tuto mechaniku můžeš používat při hledání nejlepší strategie, jak získat co "
+"nejvíc bodů, nebo jen tak pro zábavu, ale v počátcích hry je užitečná i v "
+"kombinaci s některými schopnostmi."
+
+msgctxt "StoreItemBallCatchFeatureText"
+msgid "Unlock the ball catch feature"
+msgstr "Odemknout funkci chytání míče"
+
+msgctxt "StoreItemJumpFeatureInfo"
+msgid ""
+"Jump feature.\n"
+"To jump, press the up arrow or the w key during the game.\n"
+"Jumping is useful in scenarios where you want to hit a ball that hasn't yet "
+"bounced off the floor.\n"
+"Or when you missed a good moment to strike, but still want to hit the ball.\n"
+"In this case, all you need to do is jump and swing the bat at the right "
+"moment.\n"
+"It is also easier to catch the ball while jumping if you have this feature "
+"unlocked."
+msgstr ""
+"Funkce výskoku\n"
+"Pokud chceš vyskočit, stiskni během hry šipku nahoru nebo klávesu W.\n"
+"Skákání je užitečné, když se snažíš odpálit míč, který se ještě neodrazil od "
+"podlahy.\n"
+"Nebo když ti utekla správná chvíle k úderu, ale ty se do míče snažíš pořád "
+"strefit.\n"
+"V takovém případě stačí jen vyskočit a ve správnou chvíli máchnout pálkou.\n"
+"Ve výskoku se míč taky snadněji chytá, pokud máš odemčené chytání míče."
+
+msgctxt "StoreItemJumpFeatureText"
+msgid "Unlock the  jump feature"
+msgstr "Odemknout funkci výskoku"
+
+msgctxt "StoreItemMinObjectIncreaseInfo"
+msgid ""
+"Increasing the minimum number of objects on the field.\n"
+"Initially, the minimum number of objects is twenty-five.\n"
+"When there are fewer objects on the field than this value, as many new objects "
+"are added as are not enough to equal this number.\n"
+"Each upgrade level increases this value by one."
+msgstr ""
+"Zvýšení minimálního počtu předmětů na hrací ploše\n"
+"Na začátku je minimální počet předmětů 25.\n"
+"Když je na ploše méně předmětů než tento počet, vytvoří se tolik nových "
+"předmětů, kolik je potřeba, aby se minimální počet doplnil.\n"
+"Každá úroveň zvyšuje tuto hodnotu o jedna."
+
+#, python-brace-format
+msgctxt "StoreItemMinObjectIncreaseText"
+msgid "Minimum number of objects on the field increase: level {0}/10."
+msgstr "Zvýšení minimálního počtu předmětů na hrací ploše: Úroveň {0} z 10."
+
+msgctxt "StoreItemMineObjectInfo"
+msgid ""
+"Mine object.\n"
+"The ball's collision with this object causes an explosion that violently "
+"pushes the ball away and destroys nearby objects.\n"
+"If a mine's explosion hits another mine, it will explode, thereby creating a "
+"chain of explosions."
+msgstr ""
+"Předmět mina.\n"
+"Když míč narazí do tohoto předmětu, způsobí to výbuch, který míč prudce odhodí "
+"pryč a zničí předměty v blízkosti.\n"
+"Pokud výbuch miny zasáhne jinou minu, ta taky vybuchne, takže výbuchy se mohou "
+"řetězit."
+
+msgctxt "StoreItemMineObjectText"
+msgid "Unlock the mine object."
+msgstr "Odemknout předmět mina."
+
+msgctxt "StoreItemPowerRecoveringInfo"
+msgid ""
+"Increased blow force recovery rate.\n"
+"The upgrade significantly increases the speed at which the force of a blow is "
+"restored after each swing of the bat."
+msgstr ""
+"Zvýšená rychlost obnovy síly úderu.\n"
+"Toto vylepšení výrazně zvyšuje rychlost, jakou se obnovuje síla úderu po "
+"každém máchnutí pálkou."
+
+#, python-brace-format
+msgctxt "StoreItemPowerRecoveringText"
+msgid "Increased blow force recovery rate: level {0}/10"
+msgstr "Zvýšená rychlost obnovy síly úderu: Úroveň {0} z 10"
+
+msgctxt "StoreItemResetAchievementPointsInfo"
+msgid ""
+"Resetting spent achievement points.\n"
+"When reset, the levels of auras and skills are reset to zero, and all "
+"achievement points spent on upgrading them are returned to you."
+msgstr ""
+"Vynulování utracených úspěchových bodů.\n"
+"Při vynulování se obnoví výchozí úrovně schopností a aur a všechny úspěchové "
+"body utracené za jejich vylepšování se ti vrátí."
+
+msgctxt "StoreItemResetAchievementPointsQuestion"
+msgid ""
+"Do you really want to reset the distribution of achievement points for a "
+"hundred coins?"
+msgstr ""
+"Chceš opravdu vynulovat stávající rozdělení úspěchových bodů za cenu sto mincí?"
+
+msgctxt "StoreItemResetAchievementPointsText"
+msgid "Reset spent achievement points."
+msgstr "Vynulování utracených úspěchových bodů."
+
+msgctxt "StoreItemSkillBallLeapInfo"
+msgid ""
+"Furious leap skill.\n"
+"The character makes a rapid dash towards the ball, which is close to the "
+"ground.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Wait for the right moment to use.\n"
+"Then swing the bat, the character will do the rest on his own.\n"
+"If the ball is out of range, the skill will fail and will go on cooldown."
+msgstr ""
+"Schopnost titánský skok.\n"
+"Postava se prudce vrhne po míči, který musí být blízko u podlahy.\n"
+"Použití:\n"
+"Vyber slot, ve kterém máš tuto schopnost uloženou.\n"
+"Počkej na správnou chvíli, kdy ji použít.\n"
+"Potom máchni pálkou a postava udělá zbytek sama.\n"
+"Pokud je míč mimo dosah, schopnost selže a začne běžet prodleva před jejím "
+"dalším použitím."
+
+msgctxt "StoreItemSkillBallLeapText"
+msgid "Furious leap skill."
+msgstr "Schopnost titánský skok."
+
+msgctxt "StoreItemSkillImmaterialityInfo"
+msgid ""
+"Immateriality skill.\n"
+"When a ball is succesfully hit with a bat, it imposes an immateriality effect "
+"on the ball, which allows it not to bounce off objects, but to destroy them "
+"with one hit and continue flying along the same trajectory.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and it "
+"will go on cooldown."
+msgstr ""
+"Schopnost odhmotnění.\n"
+"Při úspěšném odpálení míče udělí míči efekt odhmotnění, který mu umožní "
+"neodrážet se od předmětů, ale naopak je zničit jedním nárazem a pokračovat v "
+"letu po stejné trajektorii.\n"
+"Použití:\n"
+"Vyber slot, ve kterém máš tuto schopnost uloženou.\n"
+"Potom odpal míč.\n"
+"Pokud se ti to povede, uslyšíš zvuk znázorňující, že efekt odhmotnění působí.\n"
+"Pokud se do míče nestrefíš, schopnost selže a začne běžet prodleva před jejím "
+"dalším použitím."
+
+msgctxt "StoreItemSkillImmaterialityText"
+msgid "Immateriality skill."
+msgstr "Schopnost odhmotnění."
+
+msgctxt "StoreItemSkillMagnetismInfo"
+msgid ""
+"Magnitism skill.\n"
+"When affected by this skill, the ball is attracted to nearby objects on the "
+"playing field.\n"
+"Usage:\n"
+"Catch the ball.\n"
+"then select the slot in which this skill is installed.\n"
+"Throw the ball back onto the playing field.\n"
+"The effect will be applied immediately after the throw."
+msgstr ""
+"Schopnost magnetická přitažlivost.\n"
+"Pod vlivem této schopnosti předměty v dostatečné blízkosti přitahují míč k "
+"sobě.\n"
+"Použití:\n"
+"Chyť míč.\n"
+"Potom vyber slot, ve kterém máš tuto schopnost uloženou.\n"
+"Hoď míč zpátky na hrací plochu.\n"
+"Efekt začne působit hned po hodu."
+
+msgctxt "StoreItemSkillMagnetismText"
+msgid "Magnetism skill."
+msgstr "Schopnost magnetická přitažlivost."
+
+msgctxt "StoreItemSkillObjectSpawnerInfo"
+msgid ""
+"Creator's stroke skill.\n"
+"When you swing the bat, objects are spawned on the playing field.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then swing the bat.\n"
+"The skill will only work if the force of the blow is restored to maximum.\n"
+"Otherwise, it will go on cooldown and objects will not be generated."
+msgstr ""
+"Schopnost úder stvořitele.\n"
+"Při máchnutí pálkou se na hrací ploše vytvoří nové předměty.\n"
+"Použití:\n"
+"Vyber slot, ve kterém máš tuto schopnost uloženou.\n"
+"Potom máchni pálkou.\n"
+"Schopnost bude fungovat, jenom pokud je síla úderu obnovená na maximum.\n"
+"V opačném případě začne běžet prodleva před jejím dalším použitím a žádné "
+"předměty se nevygenerují."
+
+msgctxt "StoreItemSkillObjectSpawnerText"
+msgid "Creator's stroke skill."
+msgstr "Schopnost úder stvořitele."
+
+msgctxt "StoreItemSkillShadowStrikeInfo"
+msgid ""
+"Phantom Strike skill.\n"
+"Swinging the bat sends out a phantom strike that only travels upward and a "
+"certain distance, knocking down a certain number of objects in the process.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then move the character to the desired place on the field and swing the bat.\n"
+"The skill will succeed if the blow force has been restored to its maximum.\n"
+"Otherwise, it will fail and go on cooldown."
+msgstr ""
+"Schopnost fantomový úder.\n"
+"Máchnutí pálkou vyšle fantomový úder, který se pohybuje jenom nahoru a pouze "
+"určitou vzdálenost a přitom shodí určitý počet předmětů.\n"
+"Použití:\n"
+"Vyber slot, ve kterém máš tuto schopnost uloženou.\n"
+"Potom přesuň postavu na požadované místo na hrací ploše a máchni pálkou.\n"
+"Schopnost bude fungovat, jenom pokud je síla úderu obnovená na maximum.\n"
+"V opačném případě selže a začne běžet prodleva před jejím dalším použitím."
+
+msgctxt "StoreItemSkillShadowStrikeText"
+msgid "Phantom Strike skill."
+msgstr "Schopnost fantomový úder."
+
+msgctxt "StoreItemSkillSuperElasticityInfo"
+msgid ""
+"Superelasticity skill.\n"
+"The ball becomes extremely elastic, which allows it to bounce off surfaces an "
+"order of magnitude stronger.\n"
+"Usage:\n"
+"Select the slot in which this skill is installed.\n"
+"Then hit the ball with the bat.\n"
+"If the effect is applied successfully, you will hear the sound of the effect "
+"being applied.\n"
+"Swinging the bat without hitting the ball will cause the skill to fail and it "
+"will go on cooldown."
+msgstr ""
+"Schopnost hopík.\n"
+"Míč se stane extrémně pružným, takže se začne odrážet od povrchů o řád "
+"silněji.\n"
+"Použití:\n"
+"Vyber slot, ve kterém máš tuto schopnost uloženou.\n"
+"Potom odpal míč.\n"
+"Pokud se ti to povede, uslyšíš zvuk znázorňující, že efekt působí.\n"
+"Pokud se do míče nestrefíš, schopnost selže a začne běžet prodleva před jejím "
+"dalším použitím."
+
+msgctxt "StoreItemSkillSuperElasticityText"
+msgid "Superelasticity skill."
+msgstr "Schopnost hopík."
+
+msgctxt "StoreTitle"
+msgid "Welcome to the shop."
+msgstr "Vítej v obchodě."
+
+msgctxt "StoreTitleWithHint"
+msgid ""
+"Welcome to the shop. Use tab and shift+tab to move forwards and backwards on "
+"the screen. Use the up and down arrows to move through the list. To activate "
+"the selected item, press enter or spacebar."
+msgstr ""
+"Vítej v obchodě. Klávesami tab a shift+tab se pohybuješ po obrazovce dopředu a "
+"dozadu. Šipkami nahoru a dolů se pohybuješ po seznamu. Enterem nebo mezerníkem "
+"potvrdíš vybranou položku."
+
+#, python-brace-format
+msgctxt "TimeString1"
+msgid "{0} d, {1} h, {2} min, {3} sec"
+msgstr "{0} dnů, {1} hodin, {2} minut, {3} vteřin"
+
+#, python-brace-format
+msgctxt "TimeString2"
+msgid "{0} h, {1} min, {2} sec"
+msgstr "{0} hodin, {1} minut, {2} vteřin"
+
+#, python-brace-format
+msgctxt "TimeString3"
+msgid "{0} min, {1} sec"
+msgstr "{0} minut, {1} vteřin"
+
+#, python-brace-format
+msgctxt "TimeString4"
+msgid "{0} sec"
+msgstr "{0} vteřin"
+
+msgctxt "TimeStringIncorrect"
+msgid "N/A"
+msgstr "N/A"
+
+#, python-brace-format
+msgctxt "UpdateAvailableQuestionText"
+msgid "A new version of the game is available: {0}. Do you want to update now?"
+msgstr "Je dostupná nová verze hry: {0}. Chceš aktualizovat teď?"
+
+msgctxt "UpdateCheckingError"
+msgid "An error occurred while checking for updates."
+msgstr "Při kontrole aktualizací došlo k chybě."
+
+msgctxt "UpdateProcessScreenCanceled"
+msgid "Cancelling..."
+msgstr "Ukončuje se."
+
+#, python-brace-format
+msgctxt "UpdateProcessScreenDownloading"
+msgid "Downloading {0}%: {1} / {2}."
+msgstr "Staženo {0} procent: {1} z {2}."
+
+msgctxt "UpdateProcessScreenFinished"
+msgid "Installing..."
+msgstr "Instaluje se..."
+
+msgctxt "UpdateProcessScreenFinishedWithError"
+msgid ""
+"An error occurred during the update. Please try again later or download a new "
+"version from the site yourself. Press enter to continue."
+msgstr ""
+"Při aktualizaci došlo k chybě. Zkus to prosím znovu později nebo si stáhni "
+"novou verzi přímo ze stránky hry. Pokračuj enterem."
+
+msgctxt "UpdateProcessScreenStarting"
+msgid "Preparing to download. Please wait."
+msgstr "Připravuje se stahování. Prosím o strpení."
+
+msgctxt "UpdateProcessScreenTitle"
+msgid "The update is downloading. Please wait."
+msgstr "Aktualizace se stahuje. Prosím o strpení."
+
+msgctxt "UpdateProcessScreenTitleWithHint"
+msgid ""
+"The update is downloading. Please wait. To check the progress, press any arrow "
+"key."
+msgstr ""
+"Aktualizace se stahuje. Prosím o strpení. Kteroukoli klávesou zjistíš postup."
+
+msgctxt "WelcomeMenu1"
+msgid ""
+"Welcome to ball bouncer. Press the up and down arrows to navigate through this "
+"menu."
+msgstr "Vítá tě Ball Bouncer. Šipkami nahoru a dolů se pohybuješ po tomto menu."
+
+msgctxt "WelcomeMenu2"
+msgid "We, the developers of this game, are glad that you downloaded this game!"
+msgstr "Jsme rádi, že máš naši hru staženou! Vývojáři."
+
+#, python-brace-format
+msgctxt "WelcomeMenu3"
+msgid ""
+"To get started, we strongly recommend that you read the help documentation for "
+"this game, which is located in {0}."
+msgstr ""
+"Na začátek důrazně doporučujeme přečíst si nápovědu ke hře, kterou najdeš v "
+"{0}."
+
+msgctxt "WelcomeMenu4"
+msgid "Or press enter here to open the documentation."
+msgstr "Nebo na tomto místě stiskni enter a tím ji otevřeš přímo."
+
+msgctxt "WelcomeMenu5"
+msgid "Have a great time, player."
+msgstr "Příjemnou zábavu."
+
+msgctxt "WelcomeMenu6"
+msgid "Press enter to continue."
+msgstr "Pokračuj enterem."
+
+msgctxt "YesOrNoScreenNo"
+msgid "No"
+msgstr "Ne"
+
+msgctxt "YesOrNoScreenYes"
+msgid "Yes"
+msgstr "Ano"

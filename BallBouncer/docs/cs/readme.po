@@ -1,0 +1,1011 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the BallBouncer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BallBouncer\n"
+"Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
+"POT-Creation-Date: 2024-09-16 17:04+0000\n"
+"PO-Revision-Date: 2024-12-07 02:21+0100\n"
+"Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
+"Language-Team: 4Sense Gaming\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: BallBouncer/docs/en/readme.md:block 1 (paragraph)
+msgid "% \"Ball bouncer\" documentation"
+msgstr "% Ball Bouncer - dokumentace"
+
+#: BallBouncer/docs/en/readme.md:block 2 (paragraph)
+msgid ""
+"This help file explains how to navigate the menus and screens of the "
+"application, and also describes the gameplay in detail with most of the "
+"nuances. If you want to figure it out yourself, we recommend that you "
+"immediately go and familiarize yourself with the table of control keys."
+msgstr ""
+"V této nápovědě se dozvíš, jak se ovládají všechna menu a obrazovky hry, a "
+"také do detailu, jak se Ball Bouncer hraje. Pokud na to chceš přijít bez "
+"pomoci, doporučujeme rovnou se podívat do tabulky klávesových zkratek."
+
+#: BallBouncer/docs/en/readme.md:block 3 (header)
+msgid "About the game"
+msgstr "O hře"
+
+#: BallBouncer/docs/en/readme.md:block 4 (header)
+msgid "Brief description"
+msgstr "Stručný popis"
+
+#: BallBouncer/docs/en/readme.md:block 5 (paragraph)
+msgid ""
+"BallBouncer is a simple, yet hard to master arcade game which will put your "
+"reflexes and patience to the test."
+msgstr ""
+"Ball Bouncer je jednoduchá arkádová hra, kterou je ale těžké zvládnout a "
+"která prověří tvoje reflexy a trpělivost."
+
+#: BallBouncer/docs/en/readme.md:block 6 (paragraph)
+msgid ""
+"Armed with a hefty bat, hit the ball at the right moments to turn it's wild "
+"trajectory into a well thought out tactic of object destruction."
+msgstr ""
+"Jsi vyzbrojen/a pořádnou pálkou a tvým úkolem je trefovat se v těch "
+"správných chvílích do míče a udělat tak z jeho bláznivého poletování "
+"promyšlenou taktiku ničení předmětů."
+
+#: BallBouncer/docs/en/readme.md:block 7 (paragraph)
+msgid ""
+"But can you really think ahead when cups, dishes, closets and tvs crash "
+"around you?"
+msgstr ""
+"Dokážeš ale opravdu uvažovat dopředu, když se všude kolem tebe rozbíjejí "
+"hrnky, misky, skříně a televize?"
+
+#: BallBouncer/docs/en/readme.md:block 8 (paragraph)
+msgid ""
+"The ball's unpredictable bounces can create thrilling chain reactions, "
+"keeping you challenged and your playstyle evolving."
+msgstr ""
+"Nepředvídatelné odrazy míče dokážou vyvolat vzrušující řetězové reakce, "
+"takže před sebou budeš mít stále nějakou výzvu a tvůj styl hraní se bude "
+"neustále měnit."
+
+#: BallBouncer/docs/en/readme.md:block 9 (paragraph)
+msgid ""
+"Ball bouncer offers the possibility of creating your own scoring strategy. "
+"With a variety of skills, features and upgrades to unlock and max out in the "
+"store, can you beat your previous score? At the end of the gaming session, "
+"points are converted to coins. Spend them wisely!"
+msgstr ""
+"Ball Bouncer ti dává svobodu najít si vlastní strategii pro dosažení co "
+"nejvyššího skóre s pomocí nejrůznějších schopností, funkcí a vylepšení, "
+"která si můžeš odemknout a potom postupně vylepšovat v obchodě. Dokážeš "
+"překonat svoje předchozí skóre? Na konci každé hry se získané body převedou "
+"na mince. Utrácej je s rozvahou!"
+
+#: BallBouncer/docs/en/readme.md:block 10 (paragraph)
+msgid ""
+"So, are you ready to embark on a path of methodical, but chaotic "
+"destruction? Then go ahead!"
+msgstr ""
+"Jsi připraven/a vydat se cestou metodického, a přitom chaotického ničení? "
+"Pusť se do toho!"
+
+#: BallBouncer/docs/en/readme.md:block 11 (header)
+msgid "System requirements"
+msgstr "Systémové požadavky"
+
+#: BallBouncer/docs/en/readme.md:block 12 (paragraph)
+msgid "windows 10 64 bit or later."
+msgstr "64-bitová Windows 10 nebo novější."
+
+#: BallBouncer/docs/en/readme.md:block 13 (paragraph)
+msgid "ubuntu 22 64 bit or later."
+msgstr "64-bitové Ubuntu 22 nebo novější."
+
+#: BallBouncer/docs/en/readme.md:block 14 (header)
+msgid "First steps"
+msgstr "První kroky"
+
+#: BallBouncer/docs/en/readme.md:block 15 (paragraph)
+msgid ""
+"When the game runs for the first time you will have to select a language. "
+"After making your selection, a welcome screen will appear. As soon as you "
+"make your selection our logo will start playing. You can skip it by pressing "
+"the enter key. After the logo is skipped or finishes playing you will be "
+"taken to the main menu of the game. We encourage you to familiarize yourself "
+"with its contents. If you want to learn the game sounds, you need to select "
+"“Settings” in the main menu, then on the “General” tab click on the "
+"corresponding button. On the “Sound” tab you can adjust the volume of music "
+"and sounds, change the sound panning mode And disable some alerts. on the "
+"\"Behavior\" tab. You can delete your progress and reset your settings to "
+"default by clicking the corresponding buttons on the General tab. Resetting "
+"the keyboard shortcut configuration to the default one is done on the "
+"corresponding tab as well."
+msgstr ""
+"Při prvním spuštění hry si musíš vybrat jazyk. Poté se zobrazí uvítací "
+"obrazovka. Až si vybereš jazyk, začne hrát naše logo. To můžeš přeskočit "
+"klávesou enter. Až ho přeskočíš nebo až dozní, dostaneš se do hlavního menu "
+"hry. Doporučujeme dobře se s ním obeznámit. Pokud se chceš seznámit s "
+"jednotlivými zvuky hry a zjistit, co znamenají, musíš v hlavním menu vybrat "
+"položku \"Nastavení\" a poté na kartě \"Obecné\" kliknout na příslušné "
+"tlačítko. Na kartě \"Zvuk\" si můžeš upravit hlasitost hudby a zvuků nebo "
+"změnit režim přehrávání zvuků ve stereu. Na kartě \"Chování\" můžeš mimo "
+"jiné vypnout některá zvuková upozornění. Příslušnými tlačítky na kartě "
+"\"Obecné\" můžeš smazat veškerý dosavadní postup hrou nebo obnovit výchozí "
+"nastavení. Na příslušné kartě si můžeš také nastavit vlastní klávesové "
+"zkratky nebo obnovit ty výchozí."
+
+#: BallBouncer/docs/en/readme.md:block 16 (paragraph)
+msgid ""
+"If you don't like the sound of the ball, you can change it in the settings, "
+"on the \"Sound\" tab, choosing from five proposed options. This can be done "
+"directly during the game by going to the settings from the pause menu. The "
+"ball sound will change as soon as you unpause the game."
+msgstr ""
+"Pokud se ti nelíbí zvuk míče, dá se změnit v nastavení na kartě \"Zvuk\". "
+"Máš na výběr z pěti možností. Můžeš to udělat i přímo během hry tak, že "
+"otevřeš nastavení z menu Pauza. Zvuk míče se změní, jakmile hru zase "
+"odpauzuješ."
+
+#: BallBouncer/docs/en/readme.md:block 17 (header)
+msgid "Navigation"
+msgstr "Navigace"
+
+#: BallBouncer/docs/en/readme.md:block 18 (paragraph)
+msgid ""
+"Moving through menus is done by using the up and down arrows. Enter selects "
+"an item, while home and end keys do their respective job by setting you on "
+"the first or last menu item."
+msgstr ""
+"Ve všech menu se pohybuješ šipkami nahoru a dolů. Enterem potvrzuješ "
+"vybranou položku. Klávesami Home a End přeskočíš na první nebo poslední "
+"položku menu."
+
+#: BallBouncer/docs/en/readme.md:block 19 (paragraph)
+msgid ""
+"Screen navigation(settings, shop, profile, etc.),: tab/shift+tab forward/"
+"back, activate controls by pressing enter or spacebar. Move through the "
+"lists with up and down arrows, change the value of the sliders with arrows. "
+"Tab selection is done by pressing left/right arrow keys."
+msgstr ""
+"Na obrazovkách Nastavení, Obchod, Profil a dalších se pohybuješ klávesami "
+"tab a shift+tab dopředu a dozadu. Enterem nebo mezerníkem aktivuješ vybraný "
+"prvek. V seznamech se pohybuješ šipkami nahoru a dolů. Šipkami měníš i "
+"hodnoty posuvníků. Z jedné karty na druhou se přepneš šipkou doleva nebo "
+"doprava."
+
+#: BallBouncer/docs/en/readme.md:block 20 (paragraph)
+msgid ""
+"On the shop screen, by pressing enter on the item you have selected, you can "
+"open reference information that describes this item. In your profile, on the "
+"\"Statistics\" tab, by pressing enter on a list item you can receive a "
+"reward, if available. By pressing ctrl+c you can copy the contents of the "
+"item into your clipboard. On the “Skills” tab, by clicking on an item, you "
+"can get detailed information about the skill."
+msgstr ""
+"Na obrazovce Obchod si můžeš enterem na vybrané položce otevřít referenční "
+"informace, které tuto položku popisují. Ve svém profilu na kartě "
+"\"Statistiky\" můžeš stisknutím enteru na libovolné položce seznamu získat "
+"odměnu, pokud je pro tuto položku zrovna dostupná. Klávesovou zkratkou "
+"ctrl+C zkopíruješ obsah položky do schránky. Na kartě \"Schopnosti\" můžeš "
+"po kliknutí na položku získat podrobné informace o dané schopnosti."
+
+#: BallBouncer/docs/en/readme.md:block 21 (paragraph)
+msgid ""
+"All menus and screens, excluding the main menu and the last game results "
+"menu, can be closed with the escape key."
+msgstr ""
+"Všechna menu a obrazovky kromě hlavního menu a menu s výsledky poslední hry "
+"se dají zavřít klávesou escape."
+
+#: BallBouncer/docs/en/readme.md:block 22 (header)
+msgid "Game process"
+msgstr "Průběh hry"
+
+#: BallBouncer/docs/en/readme.md:block 23 (header)
+msgid "Training mode"
+msgstr "Režim Tréninku"
+
+#: BallBouncer/docs/en/readme.md:block 24 (paragraph)
+msgid ""
+"The game has a training mode where you can spend unlimited time and where "
+"all penalties are disabled. In this mode, a sound will be played when you "
+"can hit the ball, which you can listen to in the learn sounds menu. The "
+"sound will play when the ball has bounced at least once off the floor to "
+"teach you to sense the moment for the perfect strike. In training mode, game "
+"statistics are not collected, and points are not scored. During training, "
+"you can press f2 in order to open the training mode screen. There you can "
+"set your blow force recovery rate and skill (if any) levels to your liking. "
+"Levels range is from 1 to your current unlocked level. By pressing f1 you "
+"can instantly zero the cooldown of your skills."
+msgstr ""
+"Hra má tréninkový režim, ve kterém můžeš strávit neomezeně dlouhou dobu a "
+"kde jsou vypnuté všechny penalizace. V tomto režimu se bude přehrávat "
+"příslušný zvuk, který si můžeš poslechnout v menu Seznámení se zvuky, "
+"vždycky, když můžeš míč úspěšně odpálit. Tento zvuk se začne ozývat, teprve "
+"až se míč alespoň jednou odrazí od podlahy. Díky tomu se postupně můžeš "
+"naučit vycítit správný moment pro dokonalou trefu. V režimu tréninku se "
+"neshromažďují žádné herní statistiky ani nezískáváš body. Během tréninku "
+"můžeš klávesou F2 otevřít obrazovku Režim tréninku. Zde si můžeš nastavit "
+"rychlost obnovení síly úderu a úrovně jednotlivých schopností (pokud je máš) "
+"podle svých představ. Přípustný rozsah těchto úrovní je od 1 do úrovně, "
+"kterou máš aktuálně odemčenou. Klávesou F1 okamžitě vynuluješ prodlevu před "
+"dalším použitím u všech schopností najednou."
+
+#: BallBouncer/docs/en/readme.md:block 25 (paragraph)
+msgid "These keys can be changed using the Shortcut Key Configurator."
+msgstr "Tyto klávesy lze měnit v konfigurátoru klávesových zkratek."
+
+#: BallBouncer/docs/en/readme.md:block 26 (header)
+msgid "How to play"
+msgstr "Jak hrát"
+
+#: BallBouncer/docs/en/readme.md:block 27 (paragraph)
+msgid ""
+"After selecting “Start game” in the main menu, the starting countdown will "
+"begin. You will then be able to control the character. At the beginning of "
+"the game the character is in the center of the field. You can move it using "
+"the left and right arrows. Initially the camera is in the field-centered "
+"view, but you can switch it to first person view and back by pressing v. By "
+"pressing the C key, you will hear a sound positioned at the character's "
+"location if in the field centered view. In the first person view the sound "
+"is played in the center of the field. This will help you better understand "
+"your character whereabouts when trying to hit the ball. With the left or "
+"right shift you can set the direction the character is facing. When moving, "
+"the facing direction is set automatically."
+msgstr ""
+"Po výběru možnosti \"Spustit hru\" v hlavním menu začne odpočítávání. Poté "
+"budeš moct ovládat postavu. Na začátku hry se postava nachází ve středu "
+"hrací plochy. Pohybuješ s ní šipkami doleva a doprava. Na začátku hry je "
+"kamera nastavená na pohled ze středu hrací plochy, můžeš ji ale klávesou V "
+"kdykoli přepnout do pohledu z pozice postavy a zpět. Klávesa C přehraje zvuk "
+"z místa, kde se postava právě nachází, pokud jsi zrovna v pohledu ze středu "
+"plochy. V pohledu z pozice postavy se zvuk naopak vždy přehrává ze středu "
+"plochy. To ti pomůže udělat si lepší představu o tom, kde se tvoje postava "
+"nachází, když se zrovna snažíš odpálit míč. Levým nebo pravým shiftem "
+"nastavíš směr, kterým se postava dívá. Při pohybu se směr otočení postavy "
+"mění automaticky."
+
+#: BallBouncer/docs/en/readme.md:block 28 (paragraph)
+msgid ""
+"First of all, you need to throw the ball so that it appears on the playing "
+"field. You can do this by pressing the f key. After the ball is on the "
+"field, you will hear a tone which will move left and right, indicating "
+"movement of the ball in the horizontal plane. The tone's pitch and volume "
+"will also change, indicating vertical ball movement. Decreasing volume and "
+"rising pitch mean that the ball is moving upwards, while increasing volume "
+"and lowering pitch mean the opposite."
+msgstr ""
+"Míč musíš nejdřív hodit, aby se na ploše objevil. To provedeš klávesou F. Až "
+"se míč ocitne na ploše, uslyšíš tón, který se bude pohybovat doleva a "
+"doprava, což znázorňuje pohyb míče ve vodorovném směru. Bude se měnit i "
+"výška a hlasitost tónu, což znázorňuje pohyb míče ve svislém směru. Tišší a "
+"vyšší tón znamená, že se míč pohybuje směrem nahoru. Naopak hlasitější a "
+"hlubší tón znamená , že míč padá."
+
+#: BallBouncer/docs/en/readme.md:block 29 (paragraph)
+msgid "There are two types of throw:"
+msgstr "Existují dva typy hodu:"
+
+#: BallBouncer/docs/en/readme.md:block 30 (unordered list)
+msgid ""
+"Normal. Performed by pressing the f key. The ball begins to fly in an arc in "
+"the direction the character is facing."
+msgstr ""
+"Normální: Provedeš ho klávesou F. Míč začne létat obloukem ve směru, kterým "
+"je postava otočená."
+
+#: BallBouncer/docs/en/readme.md:block 30 (unordered list)
+msgid ""
+"Vertical. Performed by holding down the alt key and pressing f. The ball "
+"starts flying along the vertical axis, but also moves slightly along the "
+"horizontal axis in the direction the character is facing."
+msgstr ""
+"Hod přímo nahoru: Provedeš ho podržením klávesy alt a současným stisknutím "
+"klávesy F. Míč začne létat podél svislé osy, ale zároveň se bude mírně "
+"pohybovat i podél vodorovné osy ve směru, kterým je postava otočená."
+
+#: BallBouncer/docs/en/readme.md:block 31 (paragraph)
+msgid ""
+"The goal of the game is to destroy as many objects as possible, gaining "
+"points along the way. The ball always tends to fall down, and you need to "
+"hit it back with a bat."
+msgstr ""
+"Cílem hry je zničit co nejvíc předmětů a získat za ně body. Míč má vždy "
+"tendenci padat a ty ho musíš pálkou odpálit zpátky nahoru."
+
+#: BallBouncer/docs/en/readme.md:block 32 (paragraph)
+msgid "The ball can be hit in two ways:"
+msgstr "Míč můžeš odpálit dvěma způsoby:"
+
+#: BallBouncer/docs/en/readme.md:block 33 (unordered list)
+msgid ""
+"Spacebar key. In this case, the ball will receive a strong horizontal "
+"impulse in the direction the character is facing."
+msgstr ""
+"Samotným mezerníkem: Tímto úderem dáš míči silný horizontální impuls ve "
+"směru, kterým je otočená postava."
+
+#: BallBouncer/docs/en/readme.md:block 33 (unordered list)
+msgid ""
+"Hold down the alt key and press spacebar. The ball will receive a strong "
+"vertical impulse, maintaining a horizontal flight direction regardless of "
+"the character's facing."
+msgstr ""
+"Podržením altu a současným stisknutím mezerníku: Tímto úderem dáš míči silný "
+"vertikální impuls, takže si udrží vodorovný směr letu bez ohledu na to, "
+"kterým směrem je právě otočená postava."
+
+#: BallBouncer/docs/en/readme.md:block 34 (paragraph)
+msgid ""
+"You can only hit the ball while being near it. After each swing of the bat, "
+"the character restores the force of the blow. Once it is fully restored, you "
+"will hear an alert, the sound of which can be heard in the learn sounds "
+"menu. You can also toggle the sound of successful bat hits in the options on "
+"the behavior tab."
+msgstr ""
+"Míč můžeš odpálit pouze v jeho blízkosti. Po každém máchnutí pálkou se "
+"postavě postupně obnovuje síla úderu. Po jejím úplném obnovení se ozve "
+"upozornění, jehož zvuk si můžeš poslechnout v menu seznámení se zvuky. V "
+"Nastavení na kartě \"Chování\" můžeš také přepínat zvukový signál úspěšného "
+"odpálení míče."
+
+#: BallBouncer/docs/en/readme.md:block 35 (paragraph)
+msgid ""
+"You need to strive to always make perfect strikes, as you will be awarded "
+"bonus points for them. A perfect strike occurs if the ball bounces off the "
+"ground only once. For the second and subsequent bounces, you will lose "
+"points. The more the ball bounces off the ground, the more points you lose. "
+"Therefore, try to hit the ball up as quickly as possible. Standing in one "
+"place for a long time is also not worth it, since if you don’t move for ten "
+"or more seconds, you will also lose points. At the beginning of the game, do "
+"not hold the ball in your hands for long, as each second of holding the ball "
+"will result in an increasing penalty. The same applies to the caught ball. "
+"For the fifth and subsequent misses with the bat a penalty is assessed. For "
+"colliding the ball with an object, as well as for destroying the object, you "
+"get points. If the ball bounces off the ceiling, you will also get bonus "
+"points. After colliding with an object or destroying it, a streak begins. "
+"There are separate streaks for collisions and destructions. Each subsequent "
+"collision or destruction brings more points. But if the streak did not last "
+"more than six seconds, it is reset. The same applies to ball bounces from "
+"the ceiling. After making a perfect strike, a streak also begins. For each "
+"new perfect strike you make, you get significantly more points than the "
+"previous one. If the ball bounces off the floor more than once, the streak "
+"ends and you have to start over. Once destroyed, objects will fall to the "
+"ground, causing inconvenience with loud sounds and adding to the chaos."
+msgstr ""
+"Měl/a by ses snažit, aby každá trefa byla dokonalá, protože za takovou trefu "
+"získáš bonusové body. Dokonalá trefa je takový úder, při kterém se míč "
+"odrazí od podlahy jen jednou. Za druhý a každý další odraz body ztrácíš. Čím "
+"častěji se míč bude odrážet od podlahy, tím víc bodů ztratíš. Proto se "
+"vždycky snaž míč co nejrychleji odpálit zpátky nahoru. Ani dlouhé stání na "
+"jednom místě se nevyplácí, protože pokud se deset nebo víc vteřin nepohneš, "
+"postupně přicházíš o tím víc bodů, čím déle se nehýbeš. Na začátku hry nedrž "
+"míč dlouho v rukou, protože každá vteřina, kdy není v pohybu, vede k další "
+"postupně vzrůstající penalizaci. Totéž platí, i když míč chytíš. Penalizaci "
+"dostaneš i za pátý a každý další úder pálkou mimo míč. Za náraz míče do "
+"předmětu, stejně jako za zničení předmětu, body naopak získáváš. Pokud se "
+"míč odrazí od stropu, získáš bonusové body. Po srážce míče s předmětem nebo "
+"po zničení předmětu se začne počítat bodovací série. Nárazy do předmětů a "
+"zničení předmětů jsou dvě samostatné série. Každý další náraz nebo zničení v "
+"řadě za sebou dává víc bodů. Pokud ale série nepokračovala po dobu šesti "
+"vteřin nebo déle, vynuluje se. Totéž platí, když se míč odráží od stropu. A "
+"konečně, série se začne počítat i při dokonalé trefě. Za každou další "
+"dokonalou trefu v řadě získáš mnohem víc bodů než za tu předchozí. Pokud se "
+"míč odrazí od podlahy víckrát než jednou, série skončí a budeš ji muset "
+"začít znovu. Zničené předměty budou padat na zem a vydávat při tomhlasité "
+"zvuky, což může být časem celkem nepříjemné a tím spíš přispívat k už tak "
+"slušnému chaosu."
+
+#: BallBouncer/docs/en/readme.md:block 36 (paragraph)
+msgid ""
+"During the game, you can watch not only the entire picture of the playing "
+"field, but also switch to the ball watch mode. To activate this mode, hold "
+"down the G key. Ball Watch mode will be active as long as you hold G and "
+"will turn off as soon as you release it. The game can be paused by pressing "
+"the escape key. When activated, you will be taken to the pause menu, where "
+"you can see the time until the end of the gaming session, the number of "
+"points scored and other information. You can also access the settings from "
+"the pause menu, or interrupt the game. Alternatively, press t to see the "
+"time and p to see the points during the game."
+msgstr ""
+"Během hry můžeš sledovat nejen celou hrací plochu, ale i přímo pohyb míče. "
+"Tento režim aktivuješ podržením klávesy G. Režim sledování míče je aktivní, "
+"dokud tuto klávesu držíš, a ukončí se, jakmile ji pustíš. Hru můžeš kdykoli "
+"zapauzovat klávesou escape. V tom případě se zobrazí menu Pauza, kde můžeš "
+"zjistit zbývající čas do konce hry, dosavadní skóre a další informace. Z "
+"menu Pauza můžeš také otevřít nastavení nebo hru ukončit. Případně si můžeš "
+"čas zbývající do konce hry zobrazit klávesou T a aktuální skóre klávesou P "
+"přímo během hry."
+
+#: BallBouncer/docs/en/readme.md:block 37 (paragraph)
+msgid ""
+"If you allow your points to drop to minus one thousand, the gaming session "
+"will end early. Coins will not be credited, but you do not lose anything "
+"else. A gaming session lasts five minutes. This time can be increased by "
+"improving the time aura in the profile. After the game session ends, a sound "
+"animation of coins being added will begin playing, which can be skipped by "
+"pressing the enter key. Then the last game results menu will open, where you "
+"can find out how many points were ultimately scored and coins received. "
+"After closing the menu by pressing enter, you may be shown a notification "
+"about an available reward for reaching a statistic milestone. The display of "
+"the results menu for the last game and notifications about available rewards "
+"can be disabled in the settings, on the “Behavior” tab."
+msgstr ""
+"Pokud tvoje skóre klesne na mínus tisíc, hra skončí předčasně. Nepřibydou ti "
+"žádné mince, ale o nic jiného nepřijdeš. Jedna hra za normálních okolností "
+"trvá pět minut. Tuto dobu lze prodloužit, když si zvýšíš úroveň aury času na "
+"obrazovce Profil. Až hra skončí, začne se přehrávat zvuková animace "
+"přičítání mincí, kterou můžeš přeskočit enterem. Poté se otevře menu s "
+"výsledky hry, kde zjistíš, kolik bodů a mincí jsi nakonec získal/a. Až toto "
+"menu enterem zavřeš, může se zobrazit oznámení o dostupné odměně za dosažení "
+"určitého statistického milníku. Zobrazování menu s výsledky hry a oznamování "
+"dostupných odměn můžeš vypnout v nastavení na kartě \"Chování\"."
+
+#: BallBouncer/docs/en/readme.md:block 38 (paragraph)
+msgid ""
+"The game also has skills that are fully described in the game. To use a "
+"skill during the game, you need to assign it to one of ten slots. Assigning "
+"is done in your profile, on the “Skills” tab. Slots are accessed using keys "
+"from 1 (first slot) to 0 (tenth slot)."
+msgstr ""
+"Časem narazíš na určité speciální schopnosti, které jsou plně popsány přímo "
+"ve hře. Pokud budeš chtít během hry některou z nich použít, musíš si ji "
+"uložit do jednoho z deseti dostupných slotů. To můžeš udělat ve svém profilu "
+"na kartě \"Schopnosti\". Ve hře pak slot vybíráš klávesami 1 (první slot) až "
+"0 (desátý slot)."
+
+#: BallBouncer/docs/en/readme.md:block 39 (paragraph)
+msgid ""
+"In the store you can unlock the mechanics of jumping and catching the ball. "
+"These two mechanics are also fully described in the game, including the keys "
+"to use. They are also present in the table of controls."
+msgstr ""
+"V obchodě si můžeš odemknout mechaniky výskoku a chycení míče. Tyto dvě "
+"mechaniky jsou ve hře také plně popsány, včetně kláves, kterými se ovládají. "
+"Ty jsou uvedeny i v tabulce klávesových zkratek."
+
+#: BallBouncer/docs/en/readme.md:block 40 (header)
+msgid "The object map"
+msgstr "Mapa předmětů"
+
+#: BallBouncer/docs/en/readme.md:block 41 (paragraph)
+msgid ""
+"The object map works in any mode. You can open it with the m key. The map "
+"displays all objects that were on the field when it was opened. Using the "
+"arrow keys, you can move the cursor around the map, which will play a short "
+"sound of the object in the place where this object is located, and the type "
+"of object will also be announced. You can turn off the pronunciation of the "
+"object type using the f1 key. Using the f2 key you can switch between "
+"movement modes."
+msgstr ""
+"Mapa předmětů funguje ve všech režimech hry. Otevřeš ji klávesou M. Zobrazí "
+"se na ní všechny předměty, které se nacházely na hrací ploše ve chvíli, kdy "
+"se mapa otevřela. Šipkami pohybuješ kurzorem po mapě. Při pohybu kurzoru se "
+"budou ozývat krátké zvuky z pozice, kde se nacházejí jednotlivé předměty, a "
+"bude oznamován i jejich typ. Oznamování typu předmětů vypneš klávesou F1. "
+"Klávesou F2 můžeš přepínat režim pohybu kurzoru."
+
+#: BallBouncer/docs/en/readme.md:block 42 (paragraph)
+msgid "There are two cursor movement modes:"
+msgstr "Existují dva režimy pohybu kurzoru:"
+
+#: BallBouncer/docs/en/readme.md:block 43 (unordered list)
+msgid ""
+"Free movement. The cursor can be moved on the map in any direction by one "
+"cell. When moving in free mode, empty cells will also be visible under the "
+"cursor, which are indicated by their own sound."
+msgstr ""
+"Volný pohyb: Kurzor se bude po mapě pohybovat libovolným směrem, vždy o "
+"jedno políčko. Při volném pohybu bude kurzor procházet i přes prázdná "
+"políčka, která jsou indikována vlastním zvukem."
+
+#: BallBouncer/docs/en/readme.md:block 43 (unordered list)
+msgid ""
+"Moving through objects. The cursor moves only over objects; moving to the "
+"right or left will move through objects in the same row horizontally. Moving "
+"up or down will move the cursor to the nearest object vertically and skip "
+"empty rows."
+msgstr ""
+"Pohyb po předmětech: Kurzor se bude pohybovat pouze z jednoho předmětu na "
+"druhý. Pohybem doprava nebo doleva se přesouváš po předmětech ve stejném "
+"řádku ve vodorovném směru. Pohybem nahoru nebo dolů se kurzor přesune na "
+"nejbližší předmět ve svislém směru a přeskočí prázdné řádky."
+
+#: BallBouncer/docs/en/readme.md:block 44 (paragraph)
+msgid ""
+"In addition to the cursor, the map indicates an observation point, which is "
+"located in the center of the horizontal axis and can be moved vertically. "
+"All object sounds are played relative to this point. You can move the "
+"observation point using the keys w - up, s - down. In this case, a sound "
+"will be played that changes its pitch depending on the position, so that it "
+"is easier for you to understand where the point is located along the axis."
+msgstr ""
+"Kromě samotného kurzoru je na mapě vyznačen i pozorovací bod, který se "
+"nachází uprostřed vodorovné osy a lze s ním vertikálně pohybovat. Všechny "
+"zvuky předmětů se budou přehrávat vzhledem k tomuto bodu. Pozorovací bod "
+"můžeš přesouvat pomocí kláves W - nahoru - a S - dolů. V takovém případě se "
+"přehraje zvuk s proměnlivou výškou podle polohy pozorovacího bodu, abys měl/"
+"a lepší představu, kde se bod na ose právě nachází."
+
+#: BallBouncer/docs/en/readme.md:block 45 (paragraph)
+msgid ""
+"You can also find out how many objects are on the field at the moment. To do "
+"this, press the o key."
+msgstr ""
+"Stiskem klávesy O zjistíš, kolik předmětů je v daném okamžiku na ploše."
+
+#: BallBouncer/docs/en/readme.md:block 46 (paragraph)
+msgid ""
+"All of the listed keys can be changed using the keyboard shortcut "
+"configurator."
+msgstr ""
+"Všechny uvedené klávesy si můžeš přenastavit v konfigurátoru klávesových "
+"zkratek."
+
+#: BallBouncer/docs/en/readme.md:block 47 (header)
+msgid "Gameplay recording"
+msgstr "Nahrávání hry"
+
+#: BallBouncer/docs/en/readme.md:block 48 (paragraph)
+msgid ""
+"You can record your gameplay and then play the resulting recordings in the "
+"game's built-in player."
+msgstr ""
+"Hru můžeš nahrávat a výsledné nahrávky si pak pouštět ve vestavěném "
+"přehrávači přímo ve hře."
+
+#: BallBouncer/docs/en/readme.md:block 49 (paragraph)
+msgid "Important: recordings are not made during training mode."
+msgstr "Důležité: V režimu tréninku nahrávání nefunguje."
+
+#: BallBouncer/docs/en/readme.md:block 50 (paragraph)
+msgid ""
+"To start recording, make sure the \"Record game\" checkbox on the game mode "
+"selection screen is checked. Recording begins after the game start countdown."
+msgstr ""
+"Chceš-li začít nahrávat, ujisti se, že je zaškrtnuté políčko \"Nahrávat "
+"hru\" na obrazovce výběru režimu hry. Nahrávání se spustí hned po úvodním "
+"odpočítávání."
+
+#: BallBouncer/docs/en/readme.md:block 51 (paragraph)
+msgid ""
+"In the settings, on the \"Recording\" tab, you can determine whether a "
+"recording will be saved every 30 seconds, as well as whether to cancel or "
+"save the recording when pausing the game from the pause menu."
+msgstr ""
+"V nastavení na kartě \"Nahrávání\" si můžeš vybrat, jestli se má nahrávka "
+"ukládat každých 30 vteřin a jestli se má nahrávání ukončit při zapauzování "
+"hry."
+
+#: BallBouncer/docs/en/readme.md:block 52 (paragraph)
+msgid ""
+"To listen to recordings, select the corresponding item in the main menu of "
+"the game. Then, in the recordings menu, select the one you want and press "
+"enter. After loading the recording, you will be taken to the player."
+msgstr ""
+"Pokud si budeš chtít některou nahrávku pustit, vyber příslušnou položku v "
+"hlavním menu hry. Poté v menu Nahrávky zvol požadovanou nahrávku a stiskni "
+"enter. Po načtení nahrávky se otevře přehrávač."
+
+#: BallBouncer/docs/en/readme.md:block 53 (paragraph)
+msgid "Player control keys:"
+msgstr "Ovládání přehrávače:"
+
+#: BallBouncer/docs/en/readme.md:block 54 (unordered list)
+msgid "To start, pause and unpause playback, press spacebar."
+msgstr "Přehrávání spustíš, zapauzuješ nebo odpauzuješ mezerníkem."
+
+#: BallBouncer/docs/en/readme.md:block 54 (unordered list)
+msgid ""
+"To adjust the volume, use the up arrow keys to make it louder, down arrow "
+"keys to make it quieter. The recording volume can be increased to a maximum "
+"of two hundred percent."
+msgstr ""
+"Budeš-li chtít upravit hlasitost, šipkou nahoru ji zvýšíš a šipkou dolů "
+"snížíš. Hlasitost přehrávání nahrávky lze zvýšit až na dvě stě procent."
+
+#: BallBouncer/docs/en/readme.md:block 54 (unordered list)
+msgid ""
+"to rewind the recording by 5 seconds, use the arrow keys right - forward, "
+"left - backward. Rewinding by 30 seconds is done with the ctrl key held down."
+msgstr ""
+"Pro přetočení nahrávky o 5 vteřin stiskni šipku doprava - vpřed - nebo "
+"doleva - vzad. Pokud zároveň se šipkou podržíš control, přetočíš nahrávku o "
+"30 vteřin."
+
+#: BallBouncer/docs/en/readme.md:block 54 (unordered list)
+msgid ""
+"You can find out how much you listened to, as well as the duration of the "
+"recording, by pressing the t key."
+msgstr ""
+"Klávesou T zjistíš, jak je nahrávka dlouhá a jak velká část už se přehrála."
+
+#: BallBouncer/docs/en/readme.md:block 54 (unordered list)
+msgid ""
+"You can stop playback and return to the recording menu using the escape key."
+msgstr ""
+"Přehrávání můžeš zastavit a vrátit se do menu Nahrávky klávesou escape."
+
+#: BallBouncer/docs/en/readme.md:block 55 (paragraph)
+msgid ""
+"Your recordings are located in the recordings folder, which in turn is "
+"located in the user data folder (userData), and have a .sgr extension. You "
+"can rename the recording file if necessary and share it with other people. "
+"If you want to play someone else's recording, place it in your recordings "
+"folder. Then it will be visible in the recordings menu."
+msgstr ""
+"Tvoje nahrávky se nacházejí ve složce recordings, kterou najdeš ve složce "
+"hry a podsložce userData, a mají příponu .sgr. Soubor s nahrávkou můžeš v "
+"případě potřeby přejmenovat a sdílet ho s ostatními hráči. Pokud si budeš "
+"chtít poslechnout nahrávku někoho jiného, umísti ji do své složky "
+"recordings. Pak ji uvidíš v menu Nahrávky."
+
+#: BallBouncer/docs/en/readme.md:block 56 (header)
+msgid "control keys"
+msgstr "Klávesové zkratky"
+
+#: BallBouncer/docs/en/readme.md:block 57 (paragraph)
+msgid ""
+"All keys in this section can be redefined by customizing the keyboard "
+"shortcut configuration."
+msgstr ""
+"Všechny zde uvedené klávesy si můžeš přenastavit v nastavení klávesových "
+"zkratek."
+
+#: BallBouncer/docs/en/readme.md:block 58 (header)
+msgid "Basic"
+msgstr "Základní"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Action"
+msgstr "Akce"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Key/keys"
+msgstr "Klávesa"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Move the character right/left"
+msgstr "Pohyb postavy doprava / doleva"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Right/Left arrows or d/a keys"
+msgstr "Šipka doprava / doleva nebo klávesa D / A"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Play sound at character's position"
+msgstr "Přehraje zvuk z pozice postavy"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "c"
+msgstr "C"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Set character facing right/left"
+msgstr "Otočení postavy doprava / doleva"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "right/left shift"
+msgstr "Pravý / levý shift"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Swing the bat (hit the ball with a strong horizontal impulse)"
+msgstr "Máchnutí pálkou (odpálí míč se silným horizontálním impulsem)"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Spacebar, s or e key"
+msgstr "Mezerník, S nebo E"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Swing the bat (hit the ball with strong vertical impulse)"
+msgstr "Máchnutí pálkou (odpálí míč se silným vertikálním impulsem)"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "alt+space, alt+s or r"
+msgstr "Alt+mezerník, alt+S nebo R"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Throw the ball in an arc"
+msgstr "Hození míče obloukem"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "f"
+msgstr "F"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Throw the ball vertically"
+msgstr "Hození míče přímo nahoru"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "alt+f"
+msgstr "alt+F"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Switch the camera to ball watch mode"
+msgstr "Přepnutí kamery do režimu sledování míče"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Hold down the g key"
+msgstr "Podrž G"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Switch the camera to normal mode"
+msgstr "Přepnutí kamery do normálního režimu"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Release the g key"
+msgstr "Pusť G"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid ""
+"Switch camera mode between first person mode and field-centered view mode"
+msgstr ""
+"Přepnutí kamery mezi pohledem z pozice postavy a pohledem ze středu hrací "
+"plochy"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "v"
+msgstr "V"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Jump (if the mechanic is unlocked)"
+msgstr "Výskok (pokud je tato mechanika odemčená)"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Up arrow or w key"
+msgstr "Šipka nahoru nebo W"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Catch the ball (if the mechanic is unlocked)"
+msgstr "Chycení míče (pokud je tato mechanika odemčená)"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "left or right control"
+msgstr "Levý nebo pravý control"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Select a skill slot from 1 to 10 (if the skill is set)"
+msgstr ""
+"Výběr schopnosti v určitém slotu od 1 do 10 (pokud je v daném slotu nějaká "
+"schopnost uložena)"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "keys 1 to 0/numpad1 to numpad0"
+msgstr "Klávesy 1 až 0 / numerická 1 až numerická 0"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Cancel skill slot selection"
+msgstr "Zrušení výběru schopnosti v daném slotu"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Grave / numpad enter"
+msgstr "Středník / numerický enter"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Open the object map"
+msgstr "Otevření mapy předmětů"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "m"
+msgstr "M"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Find out the time until the end of the gaming session"
+msgstr "Zjištění zbývajícího času do konce hry"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "t"
+msgstr "T"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Find out the current number of points scored"
+msgstr "Zjištění aktuálního skóre"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "p"
+msgstr "P"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "Pause the game"
+msgstr "Zapauzování hry"
+
+#: BallBouncer/docs/en/readme.md:block 59 (table)
+msgid "escape"
+msgstr "Escape"
+
+#: BallBouncer/docs/en/readme.md:block 61 (table)
+msgid "Zero the cooldown of all skills"
+msgstr "Vynulování prodlevy před použitím všech schopností"
+
+#: BallBouncer/docs/en/readme.md:block 61 (table)
+msgid "f1"
+msgstr "F1"
+
+#: BallBouncer/docs/en/readme.md:block 61 (table)
+msgid "Set skill levels"
+msgstr "Nastavení úrovně schopností"
+
+#: BallBouncer/docs/en/readme.md:block 61 (table)
+msgid "f2"
+msgstr "F2"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Move cursor"
+msgstr "Pohyb kurzoru"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Arrow keys"
+msgstr "Kurzorové šipky"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Move observation point lower"
+msgstr "Posunutí pozorovacího bodu níž"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "s"
+msgstr "S"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Move observation point higher"
+msgstr "Posunutí pozorovacího bodu výš"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "w"
+msgstr "W"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Toggle object type announcement status"
+msgstr "Přepnutí oznamování typu předmětů"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Toggle cursor movement mode"
+msgstr "Přepnutí režimu pohybu kurzoru"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "Find out the number of objects on the map"
+msgstr "Oznámení počtu předmětů na mapě"
+
+#: BallBouncer/docs/en/readme.md:block 63 (table)
+msgid "o"
+msgstr "O"
+
+#: BallBouncer/docs/en/readme.md:block 64 (header)
+msgid "Configuring keyboard shortcuts"
+msgstr "Konfigurace klávesových zkratek"
+
+#: BallBouncer/docs/en/readme.md:block 65 (paragraph)
+msgid ""
+"In the settings, on the \"keyboard shortcuts configuration\" tab, by "
+"clicking on the corresponding button, you can customise the controls to your "
+"liking. On the configurator screen there is a tree in which, at the first "
+"level, individual blocks are presented, which in turn contain actions. Each "
+"action has a list with assigned keyboard shortcuts. You can either add or "
+"remove them from this list using the appropriate buttons. After pressing the "
+"add button, a new screen will open, containing four lists, a field assigning "
+"the main key, the “Add” and “Cancel” buttons. Each list is responsible for "
+"its own modifier key (alt, windows, control, shift), and contains 4 options "
+"for using the modifier key (do not use, left, right, any). To set a key, "
+"follow the instructions in the key assigner field immediately following the "
+"list for the shift modifier key. If you want to use only modifier keys in "
+"your shortcut, leave the field unassigned. After all the necessary "
+"parameters have been set, click on the “Add” button, but keep in mind that "
+"duplicates within the same shortcuts block are prohibited."
+msgstr ""
+"V Nastavení na kartě \"Nastavení klávesových zkratek\" si můžeš kliknutím na "
+"příslušné tlačítko přizpůsobit všechny zkratky podle svých představ. Na "
+"obrazovce konfigurátoru se nachází stromový seznam, v němž jsou na první "
+"úrovni jednotlivé kategorie příkazů) a v nich pak samotné akce. U každé akce "
+"je seznam s přiřazenými klávesovými zkratkami. Pomocí příslušných tlačítek "
+"můžeš do tohoto seznamu zkratky přidávat nebo je z něj odebírat. Po "
+"stisknutí tlačítka Přidat zkratku se otevře nová obrazovka obsahující čtyři "
+"seznamy, políčko pro nastavení hlavní klávesy a nakonec tlačítka \"Přidat\" "
+"a \"Zrušit\". Každý seznam nastavuje zvlášť jednu modifikační klávesu (alt, "
+"Windows, control nebo shift) a jsou v něm 4 volby: Nepoužívat, levá, pravá a "
+"obě). Chceš-li nastavit hlavní klávesu, postupuj podle pokynů v políčku pro "
+"přiřazení klávesy, které následuje bezprostředně za seznamem pro shift. "
+"Pokud chceš ve své zkratce používat pouze modifikační klávesy, nech políčko "
+"pro hlavní klávesu prázdné. Po nastavení všech potřebných parametrů klikni "
+"na tlačítko \"Přidat\". V rámci stejné kategorie jsou zakázány duplicitní "
+"zkratky."
+
+#: BallBouncer/docs/en/readme.md:block 66 (paragraph)
+msgid ""
+"If required, you can share your keyboard shortcut configuration with other "
+"people. The configuration is located in the user data folder (userData) and "
+"is named \"keyConfig.json\". The other person will have to replace their "
+"configuration, located in the same location, with the one you passed on. "
+"Despite the fact that the configuration is stored in open form, it is not "
+"intended for manual editing."
+msgstr ""
+"Svoji konfiguraci klávesových zkratek můžeš sdílet s ostatními hráči. Najdeš "
+"ji ve složce userData a má název \"keyConfig.json\". Uživatel, se kterým ji "
+"sdílíš, bude muset nahradit svoji konfiguraci v této složce tou tvojí. "
+"Přestože je konfigurace uložená v otevřené podobě, není určena k ručním "
+"úpravám."
+
+#: BallBouncer/docs/en/readme.md:block 67 (header)
+msgid "Translation of the game into other languages"
+msgstr "Překlad hry do jiných jazyků"
+
+#: BallBouncer/docs/en/readme.md:block 68 (paragraph)
+msgid ""
+"If you would like to translate ball bouncer into your native language, "
+"please visit [sooslandia-games translation repository on github](https://"
+"github.com/sooslandia/translations)"
+msgstr ""
+"Pokud bys chtěl/a přeložit Ball Bouncera do svého rodného jazyka, navštiv "
+"prosím [repozitář překladů sooslandia-games na Githubu](https://github.com/"
+"sooslandia/translations)"
+
+#: BallBouncer/docs/en/readme.md:block 69 (paragraph)
+msgid ""
+"Github was chosen because it allows us to centralize all translations in one "
+"place, automatically confirm that the game with a new translation will "
+"launch without errors, convert different translation formats using scripts, "
+"and maintain the structure of the stored data in order."
+msgstr ""
+"Github jsme si vybrali proto, že nám umožňuje centralizovat všechny překlady "
+"na jednom místě, automaticky ověřovat, že se hra s novým překladem spustí "
+"bez chyb, konvertovat různé formáty překladů pomocí skriptů a udržovat "
+"strukturu uložených dat v pořádku."
+
+#: BallBouncer/docs/en/readme.md:block 70 (paragraph)
+msgid ""
+"If you have any difficulties, contact us for help in the telegram group, "
+"discord or email. Look for links to the above in the “Conclusion” section."
+msgstr ""
+"Pokud máš jakékoli potíže, kontaktuj nás a požádej o pomoc v Telegramové "
+"skupině, na Discordu nebo e-mailem. Odkazy na výše uvedené hledej v sekci "
+"\"Závěrem\"."
+
+#: BallBouncer/docs/en/readme.md:block 71 (header)
+msgid "Conclusion"
+msgstr "Závěrem"
+
+#: BallBouncer/docs/en/readme.md:block 72 (paragraph)
+msgid ""
+"We are glad that you got interested in this project and we hope that you "
+"will like it. Destroy and have fun!"
+msgstr ""
+"Jsme rádi, že tě tento projekt zaujal, a doufáme, že se ti bude líbit. Nič a "
+"bav se!"
+
+#: BallBouncer/docs/en/readme.md:block 73 (paragraph)
+msgid ""
+"Subscribe to our [channel](https://t.me/sooslandia) on telegram, or join our "
+"[discord server](https://discord.gg/8xcKB7dsDR), to receive the latest news "
+"about updates to this game, as well as about other interesting projects."
+msgstr ""
+"Přihlas se k odběru našeho [kanálu na Telegramu](https://t.me/sooslandia) "
+"nebo se připoj k našemu [serveru na Discordu](https://discord."
+"gg/8xcKB7dsDR), aby ti chodily nejnovější zprávy o aktualizacích této hry i "
+"dalších zajímavých projektech."
+
+#: BallBouncer/docs/en/readme.md:block 74 (paragraph)
+msgid ""
+"Join the [channel chat](https://t.me/sooslandiadiscussion), where you can "
+"share your opinion about the game, report any bugs, or suggest your idea, "
+"just like in discord."
+msgstr ""
+"Připoj se ke [kanálu Chat](https://t.me/sooslandiadiscussion), kde se můžeš "
+"podělit o svůj názor na hru, nahlašovat chyby nebo sdílet svoje nápady, "
+"stejně jako na Discordu."
+
+#: BallBouncer/docs/en/readme.md:block 75 (paragraph)
+msgid ""
+"If you don't use telegram and discord, you can write to [our email](mailto://"
+"contact@sooslandia.ru), but a quick response is not guaranteed."
+msgstr ""
+"Pokud nepoužíváš Telegram ani Discord, můžeš nám [napsat e-mail](mailto://"
+"contact@sooslandia.ru), ale nedokážeme zaručit, že ti odpovíme rychle."
+
+#: BallBouncer/docs/en/readme.md:block 76 (paragraph)
+msgid "All the best, Sooslandia-games."
+msgstr "Měj se krásně! Sooslandia-games"

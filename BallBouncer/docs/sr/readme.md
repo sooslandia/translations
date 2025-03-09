@@ -1,72 +1,71 @@
-% Dokumentasi "Ball bouncer"
+% "Ball bouncer" dokumentacija
 
-File bantuan ini menjelaskan cara menavigasi menu dan layar aplikasi, dan juga
-menjelaskan gameplay secara detail dengan sebagian besar nuansanya. Jika Anda
-ingin mengetahuinya sendiri, kami sarankan Anda segera membuka dan membiasakan
-diri dengan tabel tombol kontrol.
+Ova datoteka pomoći objašnjava kako da se krećete kroz menije i ekrane
+aplikacije, a takođe i detaljno opisuje igranje igrice uz većinu sitnica. Ako
+želite da ovaj drugi deo sami otkrijete, preporučujemo vam da se odmah upoznate
+sa listom prečica.
 
-## Jeda permainan
+## O igrici
 
-### Deskripsi singkat
+### Kratak opis
 
-BallBouncer adalah gim arkade sederhana namun sulit dikuasai yang akan menguji
-refleks dan kesabaran Anda.
+BallBouncer je jednostavna arkadna igra u kojoj ipak nije tako jednostavno
+postati majstor. Igrica će testirati vaše reflekse i strpljenje.
 
-Dilengkapi dengan tongkat berat namun keren, pukul bola pada momen yang tepat
-untuk mengubah trajektorinya yang liar menjadi taktik penghancuran objek yang
-matang.
+Naoružani ste sa palicom, i vaš cilj je da uradite lopticu i usmerite njeno
+divlje kretanje ka dobro osmišljenoj taktici uništenja objekata.
 
-Namun bisakah Anda berpikir jauh ke depan ketika cangkir, piring, lemari, dan
-televisi berserakan di sekitar Anda?
+Ali da li zaista možete da mislite unapred dok se šolje, tanjiri, ormari i
+televizori uništavaju oko vas?
 
-Pantulan bola yang tidak dapat diprediksi dapat menciptakan reaksi berantai yang
-mendebarkan, membuat Anda tetap tertantang dan gaya bermain Anda terus
-berkembang.
+Nepredvidivi skokovi loptice mogu da izazovu uzbudljive nizove reakcija, što će
+vam konstantno donositi nove izazove i razvijati vaš stil igre.
 
-Ball bouncer menawarkan kemungkinan untuk menciptakan strategi penilaian Anda
-sendiri. Dengan beragam keterampilan, fitur, dan peningkatan yang dapat dibuka
-dan dimaksimalkan di toko, dapatkah Anda mengalahkan skor sebelumnya? Di akhir
-sesi permainan, poin diubah menjadi koin. Habiskan dengan bijak!
+Ball bouncer vam nudi mogućnost kreiranja vaše sopstvene strategije zarade. Uz
+raznovrsnost veština, opcija i povećanja koje možete da otključate i dovedete do
+maksimuma u prodavnici, da li možete da nadjačate vaš prethodni rezultat? Na
+kraju igre, poeni se pretvaraju u novčiće. Trošite ih mudro!
 
-Jadi, apakah Anda siap untuk mulai menghancurkan dengan cara yang teratur tapi
-tetap kacau? Ayo mulai!
+Pa, da li ste spremni da se upustite u metodičko, ali haotično uništenje? Onda
+krenite!
 
-### Persyaratan sistem
+### Sistemski zahtevi
 
-windows 10 64 bit atau yang lebih baru.
+windows 10 64 bitni ili noviji.
 
-ubuntu 22 64 bit atau yang lebih baru.
+ubuntu 22 64 bitni ili noviji.
 
-### Langkah pertama
+### Prvi koraci
 
-Ketika permainan dijalankan untuk pertama kalinya, Anda harus memilih bahasa.
-Setelah membuat pilihan, layar sambutan akan muncul. Segera setelah Anda membuat
-pilihan, logo kami akan mulai diputar. Anda bisa melewatinya dengan menekan
-tombol enter. Setelah logo dilewati atau selesai diputar, Anda akan dibawa ke
-menu utama permainan. Kami mendorong Anda untuk mengenal isinya. Jika Anda ingin
-mengetahui suara permainan, Anda perlu memilih 'Pengaturan' di menu utama, lalu
-pada tab 'Umum' klik tombol yang sesuai. Pada tab 'Suara', Anda dapat
-menyesuaikan volume musik dan suara, mengubah mode panning suara, dan
-menonaktifkan beberapa pemberitahuan. Pada tab 'Perilaku', Anda bisa menghapus
-kemajuan Anda dan mengatur ulang pengaturan ke default dengan mengklik tombol
-yang sesuai di tab Umum. Mengatur ulang konfigurasi pintasan keyboard ke default
-juga dilakukan di tab yang sesuai.
+Kada se igra prvi put pokrene moraćete da izaberete jezik. Nakon što ga
+izaberete, pojaviće se ekran dobrodošlice. Čim nastavite reprodukovaće se naš
+logo. Možete da ga preskočite pritiskanjem tastera Enter. Nakon što je logo
+preskočen ili se završi bićete prebačeni u glavni meni igrice. Preporučujemo vam
+da se upoznate sa sadržajem ovog menija. Ako želite da naučite zvukove igrice,
+morate da izaberete opciju “podešavanja” u glavnom meniju, a zatim da na kartici
+“opšta” kliknete na odgovarajuće dugme. Na kartici “zvuk” možete promeniti
+jačinu zvukova i muzike, promeniti režim balansa zvuka i onemogućiti neka
+upozorenja na kartici "ponašanje". Možete obrisati vaš napredak i vratiti
+podešavanja na podrazumevana aktiviranjem odgovarajućih tastera na kartici
+opšta. Vraćanje tasterskih prečica na podrazumevane je takođe moguće na
+odgovarajućoj kartici.
 
-Jika Anda tidak suka suara bola, Anda bisa mengubahnya di pengaturan, pada tab
-'Suara', dengan memilih dari lima opsi yang tersedia. Ini bisa dilakukan
-langsung selama permainan dengan membuka pengaturan dari menu jeda. Suara bola
-akan berubah segera setelah Anda melanjutkan permainan.
+Ako vam se ne sviđa zvuk loptice, možete ga promeniti u podešavanjima, na kartici
+"zvuk", izborom jedne od pet ponuđenih opcija. Ovo se takođe može direktno
+promeniti u toku igre ako posetite podešavanja kada pauzirate igru. Zvuk loptice
+će se promeniti čim nastavite igru.
 
-### Navigasi
+### Navigacija
 
-Bergerak melalui menu dilakukan dengan menggunakan panah atas dan bawah. Enter
-memilih item, sedangkan tombol home dan end melakukan tugasnya masing-masing
-dengan menempatkan Anda pada item menu pertama atau terakhir.
+Kretanje kroz meni je moguće korišćenjem strelica gore i dole. Enter aktivira
+stavku, dok tasteri Home i End rade njihov očekivan posao prebacujući vas na
+prvu i poslednju stavku.
 
-Navigasi layar (pengaturan, toko, profil, dll.),: tab/shift+tab maju/mundur,
-aktifkan kontrol dengan menekan enter atau spasi. Telusuri daftar dengan panah
-atas dan bawah, ubah nilai penggeser dengan panah. Pemilihan tab dilakukan
-dengan menekan tombol panah kiri/kanan.
+Navigacija po ekranima (podešavanja, prodavnica, profil, i tako dalje.),:
+tab/Šift+tab vas pomeraju napred i nazad, aktivirajte kontrole korišćenjem
+Entera ili razmaka. Krećite se kroz liste korišćenjem strelica gore i dole,
+menjajte vrednosti klizača korišćenjem strelica. Izbor kartica se vrši
+strelicama levo i desno.
 
 On the shop screen, pressing Enter on the selected item will open the reference
 information, where the item is described in detail.
@@ -78,12 +77,12 @@ the item into your clipboard.
 On the "Skills" tab, pressing on an item will provide detailed information about
 the skill.
 
-Semua menu dan layar, kecuali menu utama dan menu hasil pertandingan terakhir,
-dapat ditutup dengan tombol escape.
+Svi meniji i ekrani, osim glavnog menija i poslednjeg menija sa rezultatima igre
+se mogu zatvoriti tasterom Escape.
 
-## Proses permainan
+## Proces igranja
 
-### Mode latihan
+### Režim vežbe
 
 The game has a training mode where you can spend unlimited time and where all
 penalties are disabled. In this mode, a sound will be played when you can hit
@@ -105,7 +104,7 @@ recharged and available for use.
 
 These keys can be changed using the controls Configurator.
 
-### Cara bermain
+### Kako igrati
 
 After selecting the "Start Game" option in the main menu, the countdown will
 begin. Then, you will be able to control the character.
@@ -133,24 +132,24 @@ and volume will also change, indicating vertical ball movement. Decreasing
 volume and rising pitch mean that the ball is moving upwards, while increasing
 volume and lowering pitch mean the opposite.
 
-Ada dua jenis lemparan:
+Postoje dve vrste bacanja:
 
-+ Normal. Dilakukan dengan menekan tombol f. Bola mulai terbang membentuk busur
-ke arah yang dihadapi karakter.
-+ Vertikal. Dilakukan dengan menahan tombol alt dan menekan f. Bola mulai terbang
-sepanjang sumbu vertikal, tetapi juga bergerak sedikit sepanjang sumbu
-horizontal ke arah yang dihadapi karakter.
++ Standardno. Izvršava se pritiskanjem tastera F. Loptica počinje da leti u luku
+u pravcu u kojem je karakter okrenut.
++ Vertikalno. Izvršava se držanjem tastera Alt i pritiskanjem tastera F. Loptica
+počinje da leti vertikalno, ali se takođe blago pomera horizontalno u pravcu u
+kojem je karakter okrenut.
 
-Tujuan permainan ini adalah untuk menghancurkan objek sebanyak mungkin dan
-mendapatkan poin di sepanjang permainan. Bola selalu cenderung jatuh, dan Anda
-harus memukulnya kembali dengan tongkat pemukul.
+Cilj igre je da uništite što više objekata možete, što vam donosi poene. Loptica
+uvek pada, i morate ponovo da je udarite palicom.
 
-Bola dapat dipukul dengan dua cara:
+Lopticu možete da udarite na dva načina:
 
-+ Tombol spasi. Dalam hal ini, bola akan menerima dorongan horizontal yang kuat
-ke arah yang dihadapi karakter.
-+ Tahan tombol alt dan tekan spasi. Bola akan menerima dorongan vertikal yang
-kuat, mempertahankan arah terbang horizontal terlepas dari arah lawannya.
++ Tasterom razmak. U tom slučaju, loptica će dobiti jači horizontalni impuls u
+pravcu u kojem je karakter okrenut.
++ Držanjem tastera Alt i pritiskanjem razmaka. Loptica će dobiti jači vertikalni
+impuls, a održavaće horizontalni pravac bez obzira na pravac kretanja
+karaktera.
 
 You can only hit the ball while being near it. After each swing of the bat, the
 character restores the hit strength. Once it is fully restored, you will hear an
@@ -248,7 +247,7 @@ are also mentioned in the controls tables.
 After unlocking all three modes, you will be able to see the requirements for
 unlocking the quest board. A corresponding tab will appear on the profile screen.
 
-### Peta objek
+### Mapa objekata
 
 The object map works in any mode. You can open it by pressing the M key.
 
@@ -260,15 +259,14 @@ type of object will also be announced. You can turn off the announcement of the
 object type using the f1 key. Using the f2 key you can switch between movement
 modes.
 
-Ada dua mode pergerakan kursor:
+Postoje dva režima pomeranja kursora:
 
-- Gerakan bebas. Kursor dapat dipindahkan pada peta ke segala arah dengan satu
-sel. Saat berpindah dalam mode bebas, sel kosong juga akan terlihat di bawah
-kursor, yang ditandai dengan suaranya sendiri.
-- Bergerak melalui objek. Kursor hanya bergerak di atas objek; bergerak ke kanan
-atau ke kiri akan berpindah melalui objek pada baris yang sama secara
-horizontal. Bergerak ke atas atau ke bawah akan memindahkan kursor ke objek
-terdekat secara vertikal dan melewati baris kosong.
+- Slobodno kretanje. Kursor se može kretati po mapi u bilo kom pravcu po jedan
+korak. Kada se krećete u slobodnom režimu, prazna polja će takođe biti
+vidljiva kursorom, za koja postoji poseban zvuk.
+- Kretanje kroz objekte. Kursor se kreće samo po objektima; pomeranje desno i
+levo se kreće kroz objekte u istom redu horizontalno. Kretanje gore ili dole
+će pomerati kursor do najbližeg objekta vertikalno i preskočiće prazne redove.
 
 In addition to the cursor, the map features an observation point located at the
 center of the horizontal axis, which can move vertically. All object sounds are
@@ -278,21 +276,20 @@ You can move the observation point using the keys w - up, s - down. In this case
 a sound will be played that changes its pitch depending on the position, so that
 it is easier for you to understand where the point is located along the axis.
 
-Anda juga dapat mengetahui berapa banyak objek yang ada di lapangan saat ini.
-Untuk melakukannya, tekan tombol o.
+Možete takođe saznati koliko je objekata trenutno na terenu. Da biste ovo
+uradili, pritisnite taster O.
 
 All of the listed keys can be changed using the controls configurator.
 
-### Rekaman permainan
+### Snimanje igre
 
 You can record your gameplay and then play the resulting recordings in any media
 player.
 
-Penting: rekaman tidak dapat dilakukan selama mode latihan.
+Važno: Snimci se ne čuvaju tokom režima vežbanja.
 
-Untuk mulai merekam, pastikan kotak centang "Rekam permainan" pada layar
-pemilihan mode permainan dicentang. Perekaman dimulai setelah hitungan mundur
-permainan dimulai.
+Da biste započeli snimanje, uverite se da je izborno polje "Snimi igru" na ekranu
+izbora režima igre označeno. Snimak počinje nakon odbrojavanja pre početka igre.
 
 In the settings, on the "Recording" tab, you can determine whether to cancel or
 save the recording when aborting the game from the pause menu.
@@ -312,19 +309,16 @@ press enter.
 
 After loading the recording, you will enter the player.
 
-Tombol kontrol pemutar rekaman:
+Prečice reproduktora:
 
-- Untuk memulai, menjeda, dan membatalkan jeda pemutaran, tekan spasi.
-- Untuk mengatur volume, gunakan tombol panah atas untuk memperbesar volume, dan
-tombol panah bawah untuk memperkecil volume. Volume perekaman dapat
-ditingkatkan hingga maksimum dua ratus persen.
-- untuk rewind perekaman selama 5 detik, gunakan tombol panah kanan - untuk maju,
-dan panah kiri - mundur. Rewind selama 30 detik dilakukan dengan menahan
-tombol ctrl.
-- Anda dapat mengetahui seberapa banyak Anda mendengarkan, serta durasi rekaman,
-dengan menekan tombol t.
-- Anda dapat menghentikan pemutaran dan kembali ke menu perekaman menggunakan
-tombol escape.
+- Da započnete, pauzirate i nastavite reprodukciju, pritisnite razmak.
+- Da menjate jačinu, koristite strelicu gore da pojačate, ili strelicu dole da
+smanjite. Jačina snimka se može povećati najviše do 200 posto.
+- Da biste premotavali snimak za 5 sekundi, koristite strelicu desno -
+premotavanje napred, levo - premotavanje nazad. Premotavanje za 30 sekundi se
+vrši uz držanje tastera Kontrol.
+- Možete saznati koliko ste čuli, kao i trajanje snimka pritiskanjem tastera T.
+- Možete zaustaviti reprodukciju i vratiti se na meni sa snimcima tasterom Escape.
 
 The old format recordings are located at the path userData/recordings.
 
@@ -339,49 +333,49 @@ version 1.5.0!
 All keys in this section can be redefined by customizing the controls
 configuration.
 
-### Dasar
+### Osnovne
 
-| Tindakan | Kunci/tombol |
+| Radnja | Taster/tasteri |
 | :-- | :-- |
-| Atur karakter menghadap kanan/kiri | Panah Kanan/Kiri atau tombol d/a |
+| Pomeranje karaktera levo ili desno | Strelice desno i levo ili tasteri d/a |
 | Play the sound at the character's position or at the center of the field (depending on the view). | c |
-| Atur karakter menghadap kanan/kiri | shift kanan/shift kiri |
-| Mengayunkan pemukul (memukul bola dengan dorongan mendatar yang kuat) | Spasi atau tombol e |
-| Mengayunkan pemukul (memukul bola dengan dorongan vertikal yang kuat) | alt+spasi atau r |
-| Lemparkan bola secara melengkung | f |
-| Lemparkan bola secara vertikal | alt+f |
-| Alihkan kamera ke mode menonton bola | Tahan tombol g |
-| Alihkan kamera ke mode normal | Lepaskan tombol g |
-| Beralih mode kamera antara mode orang pertama dan mode tampilan terpusat di lapangan | v |
-| Jump (if the ability is unlocked) | Panah atas atau tombol w |
-| Catch the ball (if the ability is unlocked) | kontrol kiri atau kanan |
-| Pilih slot keterampilan dari 1 hingga 10 (jika keterampilan diatur) | tombol 1 hingga 0/numpad1 hingga numpad0 |
-| Batalkan pemilihan slot keterampilan | Grave / numpad enter |
+| Podesi pravac karaktera desno ili levo | Desni/levi Šift |
+| Zamahni palicom (udari lopticu dajući joj jak horizontalni impuls) | Razmak, tasteri s ili e |
+| Zamahni palicom (udari lopticu dajući joj jak vertikalni impuls) | alt+razmak, alt+s ili r |
+| Baci lopticu u luku | f |
+| Baci lopticu vertikalno | alt+f |
+| Prebaci kameru u režim gledanja loptice | Držite taster G |
+| Prebaci kameru u standardni režim | Otpustite taster G |
+| Prebaci kameru između gledanja terena i karaktera | v |
+| Jump (if the ability is unlocked) | Strelica gore ili taster w |
+| Catch the ball (if the ability is unlocked) | Levi ili desni Kontrol |
+| Izaberi slot veštine od 1 do 10 (ako je veština podešena) | Tasteri 1 do 0/numeričko1 do numeričko0 |
+| Otkaži izbor slota veštine | Akcenat/ numerički Enter |
 | Activate/deactivate the star module set in slot 1 to 4 (if the module is set). | alt + keys 1 to 4/numpad1 to numpad4 |
 | Activate the item (if allowed in the current game mode). | x |
 | Check the amount of available star energy (if you have at least one star module and module usage is allowed in the current game mode) | y |
-| Buka peta objek | m |
-| Cari tahu waktu hingga akhir sesi permainan | t |
-| Cari tahu jumlah poin yang dihasilkan saat ini | p |
-| Jeda permainan | tombol escape |
+| Otvori mapu objekata | m |
+| Saznaj vreme do kraja igre | t |
+| Saznaj broj osvojenih poena | p |
+| Pauziraj igru | escape |
 
-### Mode latihan
+### Režim vežbe
 
-| Tindakan | Kunci/tombol |
+| Radnja | Taster/tasteri |
 | :-- | :-- |
 | Instantly recharge all skills | f1 |
-| Tetapkan tingkat keterampilan | f2 |
+| Podesi nivoe veština | f2 |
 
-### Peta objek
+### Mapa objekata
 
-| Tindakan | Kunci/tombol |
+| Radnja | Taster/tasteri |
 | :-- | :-- |
-| Pindahkan kursor | Tombol panah |
-| Pindahkan titik pengamatan lebih rendah | s |
-| Pindahkan titik pengamatan lebih tinggi | w |
-| Alihkan status pengumuman jenis objek | f1 |
-| Alihkan mode pergerakan kursor | f2 |
-| Cari tahu jumlah objek di peta | o |
+| Pomeri kursor | Strelice |
+| Pomeri tačku gledišta dole | s |
+| Pomeri tačku gledišta gore | w |
+| Promeni status izgovora imena objekta | f1 |
+| Promeni režim pomeranja kursora | f2 |
+| Saznaj broj objekata na mapi | o |
 
 ### Configuring controls
 
@@ -413,36 +407,35 @@ configuration is located in the user data folder (userData) and is named
 located in the same location, with the one you passed on. Despite the fact that
 the configuration is stored in open form, it is not intended for manual editing.
 
-## Terjemahan permainan ke bahasa lain
+## Prevod igre na druge jezike
 
-Jika Anda ingin menerjemahkan ball bouncer ke dalam bahasa negara Anda, silakan
-kunjungi [repositori terjemahan sooslandia-games di
-github](https://github.com/sooslandia/translations)
+Ako želite da prevedete ball bouncer na vaš maternji jezik, molimo podesite
+[sooslandia-games repozitorijum prevoda na
+githubu](https://github.com/sooslandia/translations)
 
-Github dipilih karena memungkinkan kami memusatkan semua terjemahan di satu
-tempat, secara otomatis mengonfirmasi bahwa game dengan terjemahan baru akan
-diluncurkan tanpa kesalahan, mengonversi format terjemahan berbeda menggunakan
-skrip, dan menjaga struktur data yang disimpan tetap rapi.
+Github je izabran zato što nam dozvoljava da objedinimo sve prevode na jednom
+mestu, automatski potvrdimo da će se igra sa novim prevodom pokrenuti bez
+grešaka, pretvorimo različite formate prevoda korišćenjem skripti, i održavamo
+strukturu sačuvanih podataka urednom.
 
-Jika Anda mengalami kesulitan, hubungi kami untuk bantuan di grup telegram,
-discord atau email. Cari tautan ke atas di bagian “Kesimpulan”.
+Ako imate bilo kakvih poteškoća, kontaktirajte nas radi pomoći u telegram grupi,
+na diskordu ili putem elektronske pošte. Pogledajte linkove za opisane načine u
+sekciji “zaključak”.
 
-## Kesimpulan
+## Zaključak
 
-Kami senang Anda tertarik dengan proyek ini dan kami berharap Anda menyukainya.
-Selamat bermain dan bersenang-senanglah!
+Drago nam je da vas je zainteresovao ovaj projekat i nadamo se da će vam se
+svideti. Uništite i zabavite se!
 
-Berlangganan ke [saluran kami](https://t.me/sooslandia) di telegram, atau
-bergabunglah dengan kami [server discord](https://discord.gg/8xcKB7dsDR), untuk
-menerima berita terkini tentang update game ini, serta tentang proyek menarik
-lainnya.
+Prijavite se na naš [kanal](https://t.me/sooslandia) na Telegramu, ili se
+pridružite našem [Diskord serveru](https://discord.gg/8xcKB7dsDR), da biste
+dobili novosti o ažuriranjima ove igre, kao i o drugim interesantnim projektima.
 
-Bergabunglah dengan [grup chat](https://t.me/sooslandiadiscussion), tempat Anda
-dapat membagikan pendapat Anda tentang game, melaporkan bug apa pun, atau
-menyarankan ide Anda, seperti di discord.
+Pridružite se [kanalu za ćaskanje](https://t.me/sooslandiadiscussion), gde možete
+da podelite vaše mišljenje o igri, prijavite bilo koje greške, ili predložite
+vašu ideju, kao i na Diskordu.
 
-Jika Anda tidak menggunakan telegram dan discord, Anda dapat menulis ke [email
-kami](mailto://contact@sooslandia.ru), namun tidak ada jaminan untuk respon
-cepat.
+Ako ne koristite Telegram i Diskord, možete nam pisati putem [elektronske
+pošte](mailto://contact@sooslandia.ru), ali brz odgovor nije zagarantovan.
 
-All the best, Sooslandia-games.
+Sve najbolje, Sooslandia-games.

@@ -1,72 +1,69 @@
-% Dokumentasi "Ball bouncer"
+% Ball Bouncer - dokumentace
 
-File bantuan ini menjelaskan cara menavigasi menu dan layar aplikasi, dan juga
-menjelaskan gameplay secara detail dengan sebagian besar nuansanya. Jika Anda
-ingin mengetahuinya sendiri, kami sarankan Anda segera membuka dan membiasakan
-diri dengan tabel tombol kontrol.
+V této nápovědě se dozvíš, jak se ovládají všechna menu a obrazovky hry, a také
+do detailu, jak se Ball Bouncer hraje. Pokud na to chceš přijít bez pomoci,
+doporučujeme rovnou se podívat do tabulky klávesových zkratek.
 
-## Jeda permainan
+## O hře
 
-### Deskripsi singkat
+### Stručný popis
 
-BallBouncer adalah gim arkade sederhana namun sulit dikuasai yang akan menguji
-refleks dan kesabaran Anda.
+Ball Bouncer je jednoduchá arkádová hra, kterou je ale těžké zvládnout a která
+prověří tvoje reflexy a trpělivost.
 
-Dilengkapi dengan tongkat berat namun keren, pukul bola pada momen yang tepat
-untuk mengubah trajektorinya yang liar menjadi taktik penghancuran objek yang
-matang.
+Jsi vyzbrojen/a pořádnou pálkou a tvým úkolem je trefovat se v těch správných
+chvílích do míče a udělat tak z jeho bláznivého poletování promyšlenou taktiku
+ničení předmětů.
 
-Namun bisakah Anda berpikir jauh ke depan ketika cangkir, piring, lemari, dan
-televisi berserakan di sekitar Anda?
+Dokážeš ale opravdu uvažovat dopředu, když se všude kolem tebe rozbíjejí hrnky,
+misky, skříně a televize?
 
-Pantulan bola yang tidak dapat diprediksi dapat menciptakan reaksi berantai yang
-mendebarkan, membuat Anda tetap tertantang dan gaya bermain Anda terus
-berkembang.
+Nepředvídatelné odrazy míče dokážou vyvolat vzrušující řetězové reakce, takže
+před sebou budeš mít stále nějakou výzvu a tvůj styl hraní se bude neustále
+měnit.
 
-Ball bouncer menawarkan kemungkinan untuk menciptakan strategi penilaian Anda
-sendiri. Dengan beragam keterampilan, fitur, dan peningkatan yang dapat dibuka
-dan dimaksimalkan di toko, dapatkah Anda mengalahkan skor sebelumnya? Di akhir
-sesi permainan, poin diubah menjadi koin. Habiskan dengan bijak!
+Ball Bouncer ti dává svobodu najít si vlastní strategii pro dosažení co
+nejvyššího skóre s pomocí nejrůznějších schopností, funkcí a vylepšení, která si
+můžeš odemknout a potom postupně vylepšovat v obchodě. Dokážeš překonat svoje
+předchozí skóre? Na konci každé hry se získané body převedou na mince. Utrácej
+je s rozvahou!
 
-Jadi, apakah Anda siap untuk mulai menghancurkan dengan cara yang teratur tapi
-tetap kacau? Ayo mulai!
+Jsi připraven/a vydat se cestou metodického, a přitom chaotického ničení? Pusť se
+do toho!
 
-### Persyaratan sistem
+### Systémové požadavky
 
-windows 10 64 bit atau yang lebih baru.
+64-bitová Windows 10 nebo novější.
 
-ubuntu 22 64 bit atau yang lebih baru.
+64-bitové Ubuntu 22 nebo novější.
 
-### Langkah pertama
+### První kroky
 
-Ketika permainan dijalankan untuk pertama kalinya, Anda harus memilih bahasa.
-Setelah membuat pilihan, layar sambutan akan muncul. Segera setelah Anda membuat
-pilihan, logo kami akan mulai diputar. Anda bisa melewatinya dengan menekan
-tombol enter. Setelah logo dilewati atau selesai diputar, Anda akan dibawa ke
-menu utama permainan. Kami mendorong Anda untuk mengenal isinya. Jika Anda ingin
-mengetahui suara permainan, Anda perlu memilih 'Pengaturan' di menu utama, lalu
-pada tab 'Umum' klik tombol yang sesuai. Pada tab 'Suara', Anda dapat
-menyesuaikan volume musik dan suara, mengubah mode panning suara, dan
-menonaktifkan beberapa pemberitahuan. Pada tab 'Perilaku', Anda bisa menghapus
-kemajuan Anda dan mengatur ulang pengaturan ke default dengan mengklik tombol
-yang sesuai di tab Umum. Mengatur ulang konfigurasi pintasan keyboard ke default
-juga dilakukan di tab yang sesuai.
+Při prvním spuštění hry si musíš vybrat jazyk. Poté se zobrazí uvítací obrazovka.
+Až si vybereš jazyk, začne hrát naše logo. To můžeš přeskočit klávesou enter. Až
+ho přeskočíš nebo až dozní, dostaneš se do hlavního menu hry. Doporučujeme dobře
+se s ním obeznámit. Pokud se chceš seznámit s jednotlivými zvuky hry a zjistit,
+co znamenají, musíš v hlavním menu vybrat položku "Nastavení" a poté na kartě
+"Obecné" kliknout na příslušné tlačítko. Na kartě "Zvuk" si můžeš upravit
+hlasitost hudby a zvuků nebo změnit režim přehrávání zvuků ve stereu. Na kartě
+"Chování" můžeš mimo jiné vypnout některá zvuková upozornění. Příslušnými
+tlačítky na kartě "Obecné" můžeš smazat veškerý dosavadní postup hrou nebo
+obnovit výchozí nastavení. Na příslušné kartě si můžeš také nastavit vlastní
+klávesové zkratky nebo obnovit ty výchozí.
 
-Jika Anda tidak suka suara bola, Anda bisa mengubahnya di pengaturan, pada tab
-'Suara', dengan memilih dari lima opsi yang tersedia. Ini bisa dilakukan
-langsung selama permainan dengan membuka pengaturan dari menu jeda. Suara bola
-akan berubah segera setelah Anda melanjutkan permainan.
+Pokud se ti nelíbí zvuk míče, dá se změnit v nastavení na kartě "Zvuk". Máš na
+výběr z pěti možností. Můžeš to udělat i přímo během hry tak, že otevřeš
+nastavení z menu Pauza. Zvuk míče se změní, jakmile hru zase odpauzuješ.
 
-### Navigasi
+### Navigace
 
-Bergerak melalui menu dilakukan dengan menggunakan panah atas dan bawah. Enter
-memilih item, sedangkan tombol home dan end melakukan tugasnya masing-masing
-dengan menempatkan Anda pada item menu pertama atau terakhir.
+Ve všech menu se pohybuješ šipkami nahoru a dolů. Enterem potvrzuješ vybranou
+položku. Klávesami Home a End přeskočíš na první nebo poslední položku menu.
 
-Navigasi layar (pengaturan, toko, profil, dll.),: tab/shift+tab maju/mundur,
-aktifkan kontrol dengan menekan enter atau spasi. Telusuri daftar dengan panah
-atas dan bawah, ubah nilai penggeser dengan panah. Pemilihan tab dilakukan
-dengan menekan tombol panah kiri/kanan.
+Na obrazovkách Nastavení, Obchod, Profil a dalších se pohybuješ klávesami tab a
+shift+tab dopředu a dozadu. Enterem nebo mezerníkem aktivuješ vybraný prvek. V
+seznamech se pohybuješ šipkami nahoru a dolů. Šipkami měníš i hodnoty posuvníků.
+Z jedné karty na druhou se přepneš šipkou doleva nebo doprava.
 
 On the shop screen, pressing Enter on the selected item will open the reference
 information, where the item is described in detail.
@@ -78,12 +75,12 @@ the item into your clipboard.
 On the "Skills" tab, pressing on an item will provide detailed information about
 the skill.
 
-Semua menu dan layar, kecuali menu utama dan menu hasil pertandingan terakhir,
-dapat ditutup dengan tombol escape.
+Všechna menu a obrazovky kromě hlavního menu a menu s výsledky poslední hry se
+dají zavřít klávesou escape.
 
-## Proses permainan
+## Průběh hry
 
-### Mode latihan
+### Režim Tréninku
 
 The game has a training mode where you can spend unlimited time and where all
 penalties are disabled. In this mode, a sound will be played when you can hit
@@ -105,7 +102,7 @@ recharged and available for use.
 
 These keys can be changed using the controls Configurator.
 
-### Cara bermain
+### Jak hrát
 
 After selecting the "Start Game" option in the main menu, the countdown will
 begin. Then, you will be able to control the character.
@@ -133,24 +130,24 @@ and volume will also change, indicating vertical ball movement. Decreasing
 volume and rising pitch mean that the ball is moving upwards, while increasing
 volume and lowering pitch mean the opposite.
 
-Ada dua jenis lemparan:
+Existují dva typy hodu:
 
-+ Normal. Dilakukan dengan menekan tombol f. Bola mulai terbang membentuk busur
-ke arah yang dihadapi karakter.
-+ Vertikal. Dilakukan dengan menahan tombol alt dan menekan f. Bola mulai terbang
-sepanjang sumbu vertikal, tetapi juga bergerak sedikit sepanjang sumbu
-horizontal ke arah yang dihadapi karakter.
++ Normální: Provedeš ho klávesou F. Míč začne létat obloukem ve směru, kterým je
+postava otočená.
++ Hod přímo nahoru: Provedeš ho podržením klávesy alt a současným stisknutím
+klávesy F. Míč začne létat podél svislé osy, ale zároveň se bude mírně
+pohybovat i podél vodorovné osy ve směru, kterým je postava otočená.
 
-Tujuan permainan ini adalah untuk menghancurkan objek sebanyak mungkin dan
-mendapatkan poin di sepanjang permainan. Bola selalu cenderung jatuh, dan Anda
-harus memukulnya kembali dengan tongkat pemukul.
+Cílem hry je zničit co nejvíc předmětů a získat za ně body. Míč má vždy tendenci
+padat a ty ho musíš pálkou odpálit zpátky nahoru.
 
-Bola dapat dipukul dengan dua cara:
+Míč můžeš odpálit dvěma způsoby:
 
-+ Tombol spasi. Dalam hal ini, bola akan menerima dorongan horizontal yang kuat
-ke arah yang dihadapi karakter.
-+ Tahan tombol alt dan tekan spasi. Bola akan menerima dorongan vertikal yang
-kuat, mempertahankan arah terbang horizontal terlepas dari arah lawannya.
++ Samotným mezerníkem: Tímto úderem dáš míči silný horizontální impuls ve směru,
+kterým je otočená postava.
++ Podržením altu a současným stisknutím mezerníku: Tímto úderem dáš míči silný
+vertikální impuls, takže si udrží vodorovný směr letu bez ohledu na to, kterým
+směrem je právě otočená postava.
 
 You can only hit the ball while being near it. After each swing of the bat, the
 character restores the hit strength. Once it is fully restored, you will hear an
@@ -248,7 +245,7 @@ are also mentioned in the controls tables.
 After unlocking all three modes, you will be able to see the requirements for
 unlocking the quest board. A corresponding tab will appear on the profile screen.
 
-### Peta objek
+### Mapa předmětů
 
 The object map works in any mode. You can open it by pressing the M key.
 
@@ -260,15 +257,15 @@ type of object will also be announced. You can turn off the announcement of the
 object type using the f1 key. Using the f2 key you can switch between movement
 modes.
 
-Ada dua mode pergerakan kursor:
+Existují dva režimy pohybu kurzoru:
 
-- Gerakan bebas. Kursor dapat dipindahkan pada peta ke segala arah dengan satu
-sel. Saat berpindah dalam mode bebas, sel kosong juga akan terlihat di bawah
-kursor, yang ditandai dengan suaranya sendiri.
-- Bergerak melalui objek. Kursor hanya bergerak di atas objek; bergerak ke kanan
-atau ke kiri akan berpindah melalui objek pada baris yang sama secara
-horizontal. Bergerak ke atas atau ke bawah akan memindahkan kursor ke objek
-terdekat secara vertikal dan melewati baris kosong.
+- Volný pohyb: Kurzor se bude po mapě pohybovat libovolným směrem, vždy o jedno
+políčko. Při volném pohybu bude kurzor procházet i přes prázdná políčka, která
+jsou indikována vlastním zvukem.
+- Pohyb po předmětech: Kurzor se bude pohybovat pouze z jednoho předmětu na
+druhý. Pohybem doprava nebo doleva se přesouváš po předmětech ve stejném řádku
+ve vodorovném směru. Pohybem nahoru nebo dolů se kurzor přesune na nejbližší
+předmět ve svislém směru a přeskočí prázdné řádky.
 
 In addition to the cursor, the map features an observation point located at the
 center of the horizontal axis, which can move vertically. All object sounds are
@@ -278,21 +275,19 @@ You can move the observation point using the keys w - up, s - down. In this case
 a sound will be played that changes its pitch depending on the position, so that
 it is easier for you to understand where the point is located along the axis.
 
-Anda juga dapat mengetahui berapa banyak objek yang ada di lapangan saat ini.
-Untuk melakukannya, tekan tombol o.
+Stiskem klávesy O zjistíš, kolik předmětů je v daném okamžiku na ploše.
 
 All of the listed keys can be changed using the controls configurator.
 
-### Rekaman permainan
+### Nahrávání hry
 
 You can record your gameplay and then play the resulting recordings in any media
 player.
 
-Penting: rekaman tidak dapat dilakukan selama mode latihan.
+Důležité: V režimu tréninku nahrávání nefunguje.
 
-Untuk mulai merekam, pastikan kotak centang "Rekam permainan" pada layar
-pemilihan mode permainan dicentang. Perekaman dimulai setelah hitungan mundur
-permainan dimulai.
+Chceš-li začít nahrávat, ujisti se, že je zaškrtnuté políčko "Nahrávat hru" na
+obrazovce výběru režimu hry. Nahrávání se spustí hned po úvodním odpočítávání.
 
 In the settings, on the "Recording" tab, you can determine whether to cancel or
 save the recording when aborting the game from the pause menu.
@@ -312,19 +307,15 @@ press enter.
 
 After loading the recording, you will enter the player.
 
-Tombol kontrol pemutar rekaman:
+Ovládání přehrávače:
 
-- Untuk memulai, menjeda, dan membatalkan jeda pemutaran, tekan spasi.
-- Untuk mengatur volume, gunakan tombol panah atas untuk memperbesar volume, dan
-tombol panah bawah untuk memperkecil volume. Volume perekaman dapat
-ditingkatkan hingga maksimum dua ratus persen.
-- untuk rewind perekaman selama 5 detik, gunakan tombol panah kanan - untuk maju,
-dan panah kiri - mundur. Rewind selama 30 detik dilakukan dengan menahan
-tombol ctrl.
-- Anda dapat mengetahui seberapa banyak Anda mendengarkan, serta durasi rekaman,
-dengan menekan tombol t.
-- Anda dapat menghentikan pemutaran dan kembali ke menu perekaman menggunakan
-tombol escape.
+- Přehrávání spustíš, zapauzuješ nebo odpauzuješ mezerníkem.
+- Budeš-li chtít upravit hlasitost, šipkou nahoru ji zvýšíš a šipkou dolů snížíš.
+Hlasitost přehrávání nahrávky lze zvýšit až na dvě stě procent.
+- Pro přetočení nahrávky o 5 vteřin stiskni šipku doprava - vpřed - nebo doleva -
+vzad. Pokud zároveň se šipkou podržíš control, přetočíš nahrávku o 30 vteřin.
+- Klávesou T zjistíš, jak je nahrávka dlouhá a jak velká část už se přehrála.
+- Přehrávání můžeš zastavit a vrátit se do menu Nahrávky klávesou escape.
 
 The old format recordings are located at the path userData/recordings.
 
@@ -339,49 +330,49 @@ version 1.5.0!
 All keys in this section can be redefined by customizing the controls
 configuration.
 
-### Dasar
+### Základní
 
-| Tindakan | Kunci/tombol |
+| Akce | Klávesa |
 | :-- | :-- |
-| Atur karakter menghadap kanan/kiri | Panah Kanan/Kiri atau tombol d/a |
-| Play the sound at the character's position or at the center of the field (depending on the view). | c |
-| Atur karakter menghadap kanan/kiri | shift kanan/shift kiri |
-| Mengayunkan pemukul (memukul bola dengan dorongan mendatar yang kuat) | Spasi atau tombol e |
-| Mengayunkan pemukul (memukul bola dengan dorongan vertikal yang kuat) | alt+spasi atau r |
-| Lemparkan bola secara melengkung | f |
-| Lemparkan bola secara vertikal | alt+f |
-| Alihkan kamera ke mode menonton bola | Tahan tombol g |
-| Alihkan kamera ke mode normal | Lepaskan tombol g |
-| Beralih mode kamera antara mode orang pertama dan mode tampilan terpusat di lapangan | v |
-| Jump (if the ability is unlocked) | Panah atas atau tombol w |
-| Catch the ball (if the ability is unlocked) | kontrol kiri atau kanan |
-| Pilih slot keterampilan dari 1 hingga 10 (jika keterampilan diatur) | tombol 1 hingga 0/numpad1 hingga numpad0 |
-| Batalkan pemilihan slot keterampilan | Grave / numpad enter |
+| Pohyb postavy doprava / doleva | Šipka doprava / doleva nebo klávesa D / A |
+| Play the sound at the character's position or at the center of the field (depending on the view). | C |
+| Otočení postavy doprava / doleva | Pravý / levý shift |
+| Máchnutí pálkou (odpálí míč se silným horizontálním impulsem) | Mezerník, S nebo E |
+| Máchnutí pálkou (odpálí míč se silným vertikálním impulsem) | Alt+mezerník, alt+S nebo R |
+| Hození míče obloukem | F |
+| Hození míče přímo nahoru | alt+F |
+| Přepnutí kamery do režimu sledování míče | Podrž G |
+| Přepnutí kamery do normálního režimu | Pusť G |
+| Přepnutí kamery mezi pohledem z pozice postavy a pohledem ze středu hrací plochy | V |
+| Jump (if the ability is unlocked) | Šipka nahoru nebo W |
+| Catch the ball (if the ability is unlocked) | Levý nebo pravý control |
+| Výběr schopnosti v určitém slotu od 1 do 10 (pokud je v daném slotu nějaká schopnost uložena) | Klávesy 1 až 0 / numerická 1 až numerická 0 |
+| Zrušení výběru schopnosti v daném slotu | Středník / numerický enter |
 | Activate/deactivate the star module set in slot 1 to 4 (if the module is set). | alt + keys 1 to 4/numpad1 to numpad4 |
 | Activate the item (if allowed in the current game mode). | x |
 | Check the amount of available star energy (if you have at least one star module and module usage is allowed in the current game mode) | y |
-| Buka peta objek | m |
-| Cari tahu waktu hingga akhir sesi permainan | t |
-| Cari tahu jumlah poin yang dihasilkan saat ini | p |
-| Jeda permainan | tombol escape |
+| Otevření mapy předmětů | M |
+| Zjištění zbývajícího času do konce hry | T |
+| Zjištění aktuálního skóre | P |
+| Zapauzování hry | Escape |
 
-### Mode latihan
+### Režim Tréninku
 
-| Tindakan | Kunci/tombol |
+| Akce | Klávesa |
 | :-- | :-- |
-| Instantly recharge all skills | f1 |
-| Tetapkan tingkat keterampilan | f2 |
+| Instantly recharge all skills | F1 |
+| Nastavení úrovně schopností | F2 |
 
-### Peta objek
+### Mapa předmětů
 
-| Tindakan | Kunci/tombol |
+| Akce | Klávesa |
 | :-- | :-- |
-| Pindahkan kursor | Tombol panah |
-| Pindahkan titik pengamatan lebih rendah | s |
-| Pindahkan titik pengamatan lebih tinggi | w |
-| Alihkan status pengumuman jenis objek | f1 |
-| Alihkan mode pergerakan kursor | f2 |
-| Cari tahu jumlah objek di peta | o |
+| Pohyb kurzoru | Kurzorové šipky |
+| Posunutí pozorovacího bodu níž | S |
+| Posunutí pozorovacího bodu výš | W |
+| Přepnutí oznamování typu předmětů | F1 |
+| Přepnutí režimu pohybu kurzoru | F2 |
+| Oznámení počtu předmětů na mapě | O |
 
 ### Configuring controls
 
@@ -413,36 +404,36 @@ configuration is located in the user data folder (userData) and is named
 located in the same location, with the one you passed on. Despite the fact that
 the configuration is stored in open form, it is not intended for manual editing.
 
-## Terjemahan permainan ke bahasa lain
+## Překlad hry do jiných jazyků
 
-Jika Anda ingin menerjemahkan ball bouncer ke dalam bahasa negara Anda, silakan
-kunjungi [repositori terjemahan sooslandia-games di
-github](https://github.com/sooslandia/translations)
+Pokud bys chtěl/a přeložit Ball Bouncera do svého rodného jazyka, navštiv prosím
+[repozitář překladů sooslandia-games na
+Githubu](https://github.com/sooslandia/translations)
 
-Github dipilih karena memungkinkan kami memusatkan semua terjemahan di satu
-tempat, secara otomatis mengonfirmasi bahwa game dengan terjemahan baru akan
-diluncurkan tanpa kesalahan, mengonversi format terjemahan berbeda menggunakan
-skrip, dan menjaga struktur data yang disimpan tetap rapi.
+Github jsme si vybrali proto, že nám umožňuje centralizovat všechny překlady na
+jednom místě, automaticky ověřovat, že se hra s novým překladem spustí bez chyb,
+konvertovat různé formáty překladů pomocí skriptů a udržovat strukturu uložených
+dat v pořádku.
 
-Jika Anda mengalami kesulitan, hubungi kami untuk bantuan di grup telegram,
-discord atau email. Cari tautan ke atas di bagian “Kesimpulan”.
+Pokud máš jakékoli potíže, kontaktuj nás a požádej o pomoc v Telegramové skupině,
+na Discordu nebo e-mailem. Odkazy na výše uvedené hledej v sekci "Závěrem".
 
-## Kesimpulan
+## Závěrem
 
-Kami senang Anda tertarik dengan proyek ini dan kami berharap Anda menyukainya.
-Selamat bermain dan bersenang-senanglah!
+Jsme rádi, že tě tento projekt zaujal, a doufáme, že se ti bude líbit. Nič a bav
+se!
 
-Berlangganan ke [saluran kami](https://t.me/sooslandia) di telegram, atau
-bergabunglah dengan kami [server discord](https://discord.gg/8xcKB7dsDR), untuk
-menerima berita terkini tentang update game ini, serta tentang proyek menarik
-lainnya.
+Přihlas se k odběru našeho [kanálu na Telegramu](https://t.me/sooslandia) nebo se
+připoj k našemu [serveru na Discordu](https://discord.gg/8xcKB7dsDR), aby ti
+chodily nejnovější zprávy o aktualizacích této hry i dalších zajímavých
+projektech.
 
-Bergabunglah dengan [grup chat](https://t.me/sooslandiadiscussion), tempat Anda
-dapat membagikan pendapat Anda tentang game, melaporkan bug apa pun, atau
-menyarankan ide Anda, seperti di discord.
+Připoj se ke [kanálu Chat](https://t.me/sooslandiadiscussion), kde se můžeš
+podělit o svůj názor na hru, nahlašovat chyby nebo sdílet svoje nápady, stejně
+jako na Discordu.
 
-Jika Anda tidak menggunakan telegram dan discord, Anda dapat menulis ke [email
-kami](mailto://contact@sooslandia.ru), namun tidak ada jaminan untuk respon
-cepat.
+Pokud nepoužíváš Telegram ani Discord, můžeš nám [napsat
+e-mail](mailto://contact@sooslandia.ru), ale nedokážeme zaručit, že ti odpovíme
+rychle.
 
-All the best, Sooslandia-games.
+Měj se krásně! Sooslandia-games
