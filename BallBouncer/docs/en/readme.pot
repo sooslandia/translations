@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2025-03-06 16:21+0000\n"
+"POT-Creation-Date: 2025-03-08 20:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -460,21 +460,28 @@ msgid ""
 "and are also mentioned in the controls tables."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 68 (header)
-msgid "The object map"
+#: BallBouncer/docs/en/readme.md:block 68 (paragraph)
+msgid ""
+"After unlocking all three modes, you will be able to see the requirements "
+"for unlocking the quest board. A corresponding tab will appear on the "
+"profile screen."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 69 (paragraph)
-msgid ""
-"The object map works in any mode. You can open it by pressing the M key."
+#: BallBouncer/docs/en/readme.md:block 69 (header)
+msgid "The object map"
 msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 70 (paragraph)
 msgid ""
-"The map displays all the objects that were on the field when it was opened."
+"The object map works in any mode. You can open it by pressing the M key."
 msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 71 (paragraph)
+msgid ""
+"The map displays all the objects that were on the field when it was opened."
+msgstr ""
+
+#: BallBouncer/docs/en/readme.md:block 72 (paragraph)
 msgid ""
 "Using the arrow keys, you can move the cursor around the map, which will "
 "play a short sound of the object in the place where this object is located, "
@@ -483,18 +490,18 @@ msgid ""
 "switch between movement modes."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 72 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 73 (paragraph)
 msgid "There are two cursor movement modes:"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 73 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 74 (unordered list)
 msgid ""
 "Free movement. The cursor can be moved on the map in any direction by one "
 "cell. When moving in free mode, empty cells will also be visible under the "
 "cursor, which are indicated by their own sound."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 73 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 74 (unordered list)
 msgid ""
 "Moving through objects. The cursor moves only over objects; moving to the "
 "right or left will move through objects in the same row horizontally. Moving "
@@ -502,14 +509,14 @@ msgid ""
 "empty rows."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 74 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 75 (paragraph)
 msgid ""
 "In addition to the cursor, the map features an observation point located at "
 "the center of the horizontal axis, which can move vertically. All object "
 "sounds are played relative to this point."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 75 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 76 (paragraph)
 msgid ""
 "You can move the observation point using the keys w - up, s - down. In this "
 "case, a sound will be played that changes its pitch depending on the "
@@ -517,407 +524,407 @@ msgid ""
 "located along the axis."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 76 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 77 (paragraph)
 msgid ""
 "You can also find out how many objects are on the field at the moment. To do "
 "this, press the o key."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 77 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 78 (paragraph)
 msgid "All of the listed keys can be changed using the controls configurator."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 78 (header)
+#: BallBouncer/docs/en/readme.md:block 79 (header)
 msgid "Gameplay recording"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 79 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 80 (paragraph)
 msgid ""
 "You can record your gameplay and then play the resulting recordings in any "
 "media player."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 80 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 81 (paragraph)
 msgid "Important: recordings are not made during training mode."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 81 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 82 (paragraph)
 msgid ""
 "To start recording, make sure the \"Record game\" checkbox on the game mode "
 "selection screen is checked. Recording begins after the game start countdown."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 82 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 83 (paragraph)
 msgid ""
 "In the settings, on the \"Recording\" tab, you can determine whether to "
 "cancel or save the recording when aborting the game from the pause menu."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 83 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 84 (paragraph)
 msgid ""
 "Your recordings are located in the mp3recordings folder, which is inside the "
 "userData folder, and have the .mp3 extension."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 84 (header)
+#: BallBouncer/docs/en/readme.md:block 85 (header)
 msgid "Old format recordings"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 85 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 86 (paragraph)
 msgid ""
 "Before version 1.3.0, the game used an internal recording format, with files "
 "in this format having the extension .sgr, and they could only be played in "
 "the built-in game player."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 86 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 87 (paragraph)
 msgid ""
 "To listen to recordings of the old format, select the corresponding item in "
 "the main menu of the game. Then, in the recordings menu, select the one you "
 "want and press enter."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 87 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 88 (paragraph)
 msgid "After loading the recording, you will enter the player."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 88 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 89 (paragraph)
 msgid "Player control keys:"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 89 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
 msgid "To start, pause and unpause playback, press spacebar."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 89 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
 msgid ""
 "To adjust the volume, use the up arrow keys to make it louder, down arrow "
 "keys to make it quieter. The recording volume can be increased to a maximum "
 "of two hundred percent."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 89 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
 msgid ""
 "to rewind the recording by 5 seconds, use the arrow keys right - forward, "
 "left - backward. Rewinding by 30 seconds is done with the ctrl key held down."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 89 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
 msgid ""
 "You can find out how much you listened to, as well as the duration of the "
 "recording, by pressing the t key."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 89 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
 msgid ""
 "You can stop playback and return to the recording menu using the escape key."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 90 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 91 (paragraph)
 msgid "The old format recordings are located at the path userData/recordings."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 91 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 92 (paragraph)
 msgid ""
 "If you want to play a recording in the old format, place it in the "
 "\"recordings\" folder. It will then appear in the recordings menu."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 92 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 93 (paragraph)
 msgid ""
 "Attention! The ability to play recordings in the old format will be removed "
 "in version 1.5.0!"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 93 (header)
+#: BallBouncer/docs/en/readme.md:block 94 (header)
 msgid "controls"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 94 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 95 (paragraph)
 msgid ""
 "All keys in this section can be redefined by customizing the controls "
 "configuration."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 95 (header)
+#: BallBouncer/docs/en/readme.md:block 96 (header)
 msgid "Basic"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Action"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Key/keys"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Move the character right/left"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Right/Left arrows or d/a keys"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid ""
 "Play the sound at the character's position or at the center of the field "
 "(depending on the view)."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "c"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Set character facing right/left"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "right/left shift"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Swing the bat (hit the ball with a strong horizontal impulse)"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Spacebar, s or e key"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Swing the bat (hit the ball with strong vertical impulse)"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "alt+space, alt+s or r"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Throw the ball in an arc"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "f"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Throw the ball vertically"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "alt+f"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Switch the camera to ball watch mode"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Hold down the g key"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Switch the camera to normal mode"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Release the g key"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid ""
 "Switch camera mode between first person mode and field-centered view mode"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "v"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Jump (if the ability is unlocked)"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Up arrow or w key"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Catch the ball (if the ability is unlocked)"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "left or right control"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Select a skill slot from 1 to 10 (if the skill is set)"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "keys 1 to 0/numpad1 to numpad0"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Cancel skill slot selection"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Grave / numpad enter"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid ""
 "Activate/deactivate the star module set in slot 1 to 4 (if the module is "
 "set)."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "alt + keys 1 to 4/numpad1 to numpad4"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Activate the item (if allowed in the current game mode)."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "x"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid ""
 "Check the amount of available star energy (if you have at least one star "
 "module and module usage is allowed in the current game mode)"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "y"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Open the object map"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "m"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Find out the time until the end of the gaming session"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "t"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Find out the current number of points scored"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "p"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Pause the game"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 96 (table)
+#: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "escape"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 98 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Instantly recharge all skills"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 98 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "f1"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 98 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Set skill levels"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 98 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "f2"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 100 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "Move cursor"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 100 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "Arrow keys"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 100 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "Move observation point lower"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 100 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "s"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 100 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "Move observation point higher"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 100 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "w"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 100 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "Toggle object type announcement status"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 100 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "Toggle cursor movement mode"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 100 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "Find out the number of objects on the map"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 100 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "o"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 101 (header)
+#: BallBouncer/docs/en/readme.md:block 102 (header)
 msgid "Configuring controls"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 102 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 103 (paragraph)
 msgid ""
 "In the settings, on the \"controls\" tab, you can customize the control keys "
 "to your personal preference by pressing the corresponding button."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 103 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 104 (paragraph)
 msgid ""
 "On the configuration screen, there is a tree where the first level displays "
 "individual blocks, which, in turn, contain actions."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 104 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 105 (paragraph)
 msgid ""
 "Each action has a list of assigned key combinations. You can add or remove "
 "combinations from this list using the corresponding buttons."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 105 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 106 (paragraph)
 msgid ""
 "After pressing the add combination button, a new screen will open, "
 "containing four lists, a field to assign the main key, and the \"Add\" and "
 "\"Cancel\" buttons."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 106 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 107 (paragraph)
 msgid ""
 "Each list corresponds to its modifier key (alt, windows, control, shift) and "
 "contains 4 options for using the modifier key (none, left, right, any)."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 107 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 108 (paragraph)
 msgid ""
 "To set the primary key, follow the instructions in the key-assignment field, "
 "which comes immediately after the list for the shift modifier key. If you "
@@ -925,14 +932,14 @@ msgid ""
 "unassigned."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 108 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 109 (paragraph)
 msgid ""
 "After you have set all the necessary parameters, click the \"Add\" button. "
 "However, keep in mind that duplicates within a single action block are not "
 "allowed."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 109 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 110 (paragraph)
 msgid ""
 "If required, you can share your controls configuration with other people. "
 "The configuration is located in the user data folder (userData) and is named "
@@ -942,18 +949,18 @@ msgid ""
 "intended for manual editing."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 110 (header)
+#: BallBouncer/docs/en/readme.md:block 111 (header)
 msgid "Translation of the game into other languages"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 111 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 112 (paragraph)
 msgid ""
 "If you would like to translate ball bouncer into your native language, "
 "please visit [sooslandia-games translation repository on github](https://"
 "github.com/sooslandia/translations)"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 112 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 113 (paragraph)
 msgid ""
 "Github was chosen because it allows us to centralize all translations in one "
 "place, automatically confirm that the game with a new translation will "
@@ -961,42 +968,42 @@ msgid ""
 "and maintain the structure of the stored data in order."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 113 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 114 (paragraph)
 msgid ""
 "If you have any difficulties, contact us for help in the telegram group, "
 "discord or email. Look for links to the above in the “Conclusion” section."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 114 (header)
+#: BallBouncer/docs/en/readme.md:block 115 (header)
 msgid "Conclusion"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 115 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 116 (paragraph)
 msgid ""
 "We are glad that you got interested in this project and we hope that you "
 "will like it. Destroy and have fun!"
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 116 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 117 (paragraph)
 msgid ""
 "Subscribe to our [channel](https://t.me/sooslandia) on telegram, or join our "
 "[discord server](https://discord.gg/8xcKB7dsDR), to receive the latest news "
 "about updates to this game, as well as about other interesting projects."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 117 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 118 (paragraph)
 msgid ""
 "Join the [channel chat](https://t.me/sooslandiadiscussion), where you can "
 "share your opinion about the game, report any bugs, or suggest your idea, "
 "just like in discord."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 118 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 119 (paragraph)
 msgid ""
 "If you don't use telegram and discord, you can write to [our email](mailto://"
 "contact@sooslandia.ru), but a quick response is not guaranteed."
 msgstr ""
 
-#: BallBouncer/docs/en/readme.md:block 119 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 120 (paragraph)
 msgid "All the best, Sooslandia-games."
 msgstr ""

@@ -136,6 +136,8 @@ To learn detailed information about any mode, select the mode from the list on t
 
 All additional keys for a specific mode are listed in the mode description and are also mentioned in the controls tables.
 
+After unlocking all three modes, you will be able to see the requirements for unlocking the quest board. A corresponding tab will appear on the profile screen.
+
 ### The object map
 
 The object map works in any mode. You can open it by pressing the M key.
