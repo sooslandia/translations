@@ -1,0 +1,1318 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the BallBouncer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: BallBouncer\n"
+"Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
+"POT-Creation-Date: 2025-03-08 20:12+0000\n"
+"PO-Revision-Date: 2025-03-11 10:21+0000\n"
+"Last-Translator: Oriol Gomez <ogomez.s92@gmail.com>\n"
+"Language-Team: Spanish <http://weblate.oriolgomez.com/projects/bb/readme/es/>"
+"\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
+
+#: BallBouncer/docs/en/readme.md:block 1 (paragraph)
+msgid "% \"Ball bouncer\" documentation"
+msgstr "% \"Ball bouncer\" Manual"
+
+#: BallBouncer/docs/en/readme.md:block 2 (paragraph)
+msgid ""
+"This help file explains how to navigate the menus and screens of the "
+"application, and also describes the gameplay in detail with most of the "
+"nuances. If you want to figure it out yourself, we recommend that you "
+"immediately go and familiarize yourself with the table of control keys."
+msgstr ""
+"Este archivo de ayuda explica cómo navegar por los menús y pantallas de la "
+"aplicación, y también describe el juego en detalle con la mayoría de los "
+"matices. Si quieres descubrirlo por tu cuenta, te recomendamos que vayas de "
+"inmediato y te familiarices con la tabla de teclas de control."
+
+#: BallBouncer/docs/en/readme.md:block 3 (header)
+msgid "About the game"
+msgstr "Sobre el juego"
+
+#: BallBouncer/docs/en/readme.md:block 4 (header)
+msgid "Brief description"
+msgstr "Descripción breve"
+
+#: BallBouncer/docs/en/readme.md:block 5 (paragraph)
+msgid ""
+"BallBouncer is a simple, yet hard to master arcade game which will put your "
+"reflexes and patience to the test."
+msgstr ""
+"BallBouncer es un juego arcade simple, pero difícil de dominar, que pondrá a "
+"prueba tus reflejos y paciencia."
+
+#: BallBouncer/docs/en/readme.md:block 6 (paragraph)
+msgid ""
+"Armed with a hefty bat, hit the ball at the right moments to turn it's wild "
+"trajectory into a well thought out tactic of object destruction."
+msgstr ""
+"Armado con un bate contundente, golpea la bola en los momentos adecuados "
+"para convertir su trayectoria salvaje en una táctica bien pensada de "
+"destrucción de objetos."
+
+#: BallBouncer/docs/en/readme.md:block 7 (paragraph)
+msgid ""
+"But can you really think ahead when cups, dishes, closets and tvs crash "
+"around you?"
+msgstr ""
+"¿Pero realmente puedes pensar con claridad cuando tazas, platos, armarios y "
+"televisores se estrellan a tu alrededor?"
+
+#: BallBouncer/docs/en/readme.md:block 8 (paragraph)
+msgid ""
+"The ball's unpredictable bounces can create thrilling chain reactions, "
+"keeping you challenged and your playstyle evolving."
+msgstr ""
+"Los rebotes impredecibles de la bola pueden crear emocionantes reacciones en "
+"cadena, manteniéndote desafiado y haciendo que tu estilo de juego evolucione."
+
+#: BallBouncer/docs/en/readme.md:block 9 (paragraph)
+msgid ""
+"Ball bouncer offers the possibility of creating your own scoring strategy. "
+"With a variety of skills, features and upgrades to unlock and max out in the "
+"store, can you beat your previous score? At the end of the gaming session, "
+"points are converted to coins. Spend them wisely!"
+msgstr ""
+"Ball Bouncer ofrece la posibilidad de crear tu propia estrategia de "
+"puntuación. Con una variedad de habilidades, características y mejoras para "
+"desbloquear y maximizar en la tienda, ¿puedes superar tu puntuación "
+"anterior? Al final de la sesión de juego, los puntos se convierten en "
+"monedas. ¡Gástalas sabiamente!"
+
+#: BallBouncer/docs/en/readme.md:block 10 (paragraph)
+msgid ""
+"So, are you ready to embark on a path of methodical, but chaotic "
+"destruction? Then go ahead!"
+msgstr ""
+"¿Estás a tope para embarcarte en un camino de destrucción metódica, pero "
+"caótica? ¡Entonces adelante!"
+
+#: BallBouncer/docs/en/readme.md:block 11 (header)
+msgid "System requirements"
+msgstr "Requisitos del sistema"
+
+#: BallBouncer/docs/en/readme.md:block 12 (paragraph)
+msgid "windows 10 64 bit or later."
+msgstr "Windows 10 de 64 bits o posterior."
+
+#: BallBouncer/docs/en/readme.md:block 13 (paragraph)
+msgid "ubuntu 22 64 bit or later."
+msgstr "ubuntu 22 de 64 bits o posterior."
+
+#: BallBouncer/docs/en/readme.md:block 14 (header)
+msgid "First steps"
+msgstr "Primeros pasos"
+
+#: BallBouncer/docs/en/readme.md:block 15 (paragraph)
+msgid ""
+"When the game runs for the first time you will have to select a language. "
+"After making your selection, a welcome screen will appear. As soon as you "
+"make your selection our logo will start playing. You can skip it by pressing "
+"the enter key. After the logo is skipped or finishes playing you will be "
+"taken to the main menu of the game. We encourage you to familiarize yourself "
+"with its contents. If you want to learn the game sounds, you need to select "
+"“Settings” in the main menu, then on the “General” tab click on the "
+"corresponding button. On the “Sound” tab you can adjust the volume of music "
+"and sounds, change the sound panning mode And disable some alerts. on the "
+"\"Behavior\" tab. You can delete your progress and reset your settings to "
+"default by clicking the corresponding buttons on the General tab. Resetting "
+"the keyboard shortcut configuration to the default one is done on the "
+"corresponding tab as well."
+msgstr ""
+"Cuando el juego se ejecuta por primera vez, tendrás que seleccionar un "
+"idioma. Después de hacer tu selección, aparecerá una pantalla de bienvenida. "
+"Tan pronto como hagas tu selección, nuestro logo comenzará a reproducirse. "
+"Puedes saltarlo presionando la tecla enter. Después de que el logo se salte "
+"o termine de reproducirse, serás llevado al menú principal del juego. Te "
+"animamos a que te familiarices con su contenido. Si quieres aprender los "
+"sonidos del juego, necesitas seleccionar \"Ajustes\" en el menú principal, "
+"luego en la pestaña \"General\" haz clic en el botón correspondiente. En la "
+"pestaña \"Sonido\" puedes ajustar el volumen de la música y los sonidos, "
+"cambiar el modo de paneo de sonido y desactivar algunas alertas. En la "
+"pestaña \"Comportamiento\" puedes eliminar tu progreso y restablecer tus "
+"ajustes a los valores predeterminados haciendo clic en los botones "
+"correspondientes en la pestaña General. Restablecer la configuración de "
+"atajos de teclado a la predeterminada se hace en la pestaña correspondiente "
+"también."
+
+#: BallBouncer/docs/en/readme.md:block 16 (paragraph)
+msgid ""
+"If you don't like the sound of the ball, you can change it in the settings, "
+"on the \"Sound\" tab, choosing from five proposed options. This can be done "
+"directly during the game by going to the settings from the pause menu. The "
+"ball sound will change as soon as you unpause the game."
+msgstr ""
+"Si no te gusta el sonido de la pelota, puedes cambiarlo en la configuración, "
+"en la pestaña \"Sonido\", eligiendo entre cinco opciones propuestas. Esto se "
+"puede hacer directamente durante el juego yendo a la configuración desde el "
+"menú de pausa. El sonido de la pelota cambiará tan pronto como reanudes el "
+"juego."
+
+#: BallBouncer/docs/en/readme.md:block 17 (header)
+msgid "Navigation"
+msgstr "Navegación"
+
+#: BallBouncer/docs/en/readme.md:block 18 (paragraph)
+msgid ""
+"Moving through menus is done by using the up and down arrows. Enter selects "
+"an item, while home and end keys do their respective job by setting you on "
+"the first or last menu item."
+msgstr ""
+"Moverse por los menús se hace usando las flechas arriba y abajo. Enter "
+"selecciona un elemento, mientras que las teclas de inicio y fin hacen su "
+"trabajo respectivo al llevarte al primer o último elemento del menú."
+
+#: BallBouncer/docs/en/readme.md:block 19 (paragraph)
+msgid ""
+"Screen navigation(settings, shop, profile, etc.),: tab/shift+tab forward/"
+"back, activate controls by pressing enter or spacebar. Move through the "
+"lists with up and down arrows, change the value of the sliders with arrows. "
+"Tab selection is done by pressing left/right arrow keys."
+msgstr ""
+"Navegación de pantalla (ajustes, tienda, perfil, etc.): tab/shift+tab "
+"adelante/atrás, activa controles presionando enter o barra espaciadora. "
+"Muévete por las listas con las flechas arriba y abajo, cambia el valor de "
+"los deslizadores con las flechas. La selección de pestañas se hace "
+"presionando las flechas izquierda/derecha."
+
+#: BallBouncer/docs/en/readme.md:block 20 (paragraph)
+msgid ""
+"On the shop screen, pressing Enter on the selected item will open the "
+"reference information, where the item is described in detail."
+msgstr ""
+"En la pantalla de la tienda, al pulsar Enter sobre el objeto seleccionado se "
+"abrirá la información de referencia, donde se describe el objeto en detalle."
+
+#: BallBouncer/docs/en/readme.md:block 21 (paragraph)
+msgid ""
+"In the profile, on the \"Statistics\" tab, by pressing enter on a list item "
+"you can claim a reward, if available. By pressing ctrl+c you can copy the "
+"contents of the item into your clipboard."
+msgstr ""
+"En el perfil, en la pestaña \"Estadísticas\", al pulsar enter en un elemento "
+"de la lista puedes reclamar una recompensa, si está disponible. Al pulsar "
+"ctrl+c puedes copiar el contenido del elemento en tu portapapeles."
+
+#: BallBouncer/docs/en/readme.md:block 22 (paragraph)
+msgid ""
+"On the \"Skills\" tab, pressing on an item will provide detailed information "
+"about the skill."
+msgstr ""
+"En la pestaña \"Habilidades\", al pulsar sobre un elemento se mostrará "
+"información detallada sobre la habilidad."
+
+#: BallBouncer/docs/en/readme.md:block 23 (paragraph)
+msgid ""
+"All menus and screens, excluding the main menu and the last game results "
+"menu, can be closed with the escape key."
+msgstr ""
+"Todos los menús y pantallas, excepto el menú principal y el menú de "
+"resultados finales del juego, se pueden cerrar con la tecla de escape."
+
+#: BallBouncer/docs/en/readme.md:block 24 (header)
+msgid "Game process"
+msgstr "Proceso del juego"
+
+#: BallBouncer/docs/en/readme.md:block 25 (header)
+msgid "Training mode"
+msgstr "Modo de entrenamiento"
+
+#: BallBouncer/docs/en/readme.md:block 26 (paragraph)
+msgid ""
+"The game has a training mode where you can spend unlimited time and where "
+"all penalties are disabled. In this mode, a sound will be played when you "
+"can hit the ball, which you can listen to in the learn sounds menu. The "
+"sound will play when the ball has bounced at least once off the floor to "
+"teach you to sense the moment for the perfect strike. In training mode, game "
+"statistics are not collected, and points are not scored."
+msgstr ""
+"El juego tiene un modo de entrenamiento donde puedes pasar tiempo ilimitado "
+"y donde todas las penalizaciones están desactivadas. En este modo, se "
+"reproducirá un sonido cuando puedas golpear la pelota, el cual puedes "
+"escuchar en el menú de aprender sonidos. El sonido se reproducirá cuando la "
+"pelota haya rebotado al menos una vez en el suelo para enseñarte a percibir "
+"el momento perfecto para el golpe. En el modo de entrenamiento, no se "
+"recopilan estadísticas del juego y no se anotan puntos."
+
+#: BallBouncer/docs/en/readme.md:block 27 (paragraph)
+msgid ""
+"During training, you can press the F2 key, and a screen will open where you "
+"can set the level of the hit strength recovery rate upgrade, ranging from "
+"the first to the maximum level."
+msgstr ""
+"Durante el entrenamiento, puedes pulsar la tecla F2 y se abrirá una pantalla "
+"donde puedes establecer el nivel de mejora de la tasa de recuperación de la "
+"fuerza de golpe, desde el primer nivel hasta el máximo."
+
+#: BallBouncer/docs/en/readme.md:block 28 (paragraph)
+msgid ""
+"Also, in the future, when you acquire your first skills, you will be able to "
+"set their levels on this screen, if they are set in one of the slots, "
+"following the same principle as the hit strength recovery rate upgrade."
+msgstr ""
+"Además, en el futuro, cuando adquieras tus primeras habilidades, podrás "
+"establecer sus niveles en esta pantalla, si están colocadas en uno de los "
+"espacios, siguiendo el mismo principio que la mejora de la tasa de "
+"recuperación de la fuerza de golpe."
+
+#: BallBouncer/docs/en/readme.md:block 29 (paragraph)
+msgid ""
+"When you press the F1 key, your skills set in the slots will be instantly "
+"recharged and available for use."
+msgstr ""
+"Cuando presionas la tecla F1, las habilidades en las ranuras se recargarán "
+"al instante y estarán disponibles para usar."
+
+#: BallBouncer/docs/en/readme.md:block 30 (paragraph)
+msgid "These keys can be changed using the controls Configurator."
+msgstr "Estas teclas se pueden cambiar usando el Configurador de controles."
+
+#: BallBouncer/docs/en/readme.md:block 31 (header)
+msgid "How to play"
+msgstr "Cómo jugar"
+
+#: BallBouncer/docs/en/readme.md:block 32 (paragraph)
+msgid ""
+"After selecting the \"Start Game\" option in the main menu, the countdown "
+"will begin. Then, you will be able to control the character."
+msgstr ""
+"Después de seleccionar la opción \"Iniciar Juego\" en el menú principal, "
+"comenzará la cuenta atrás. Luego, podrás controlar al personaje."
+
+#: BallBouncer/docs/en/readme.md:block 33 (paragraph)
+msgid ""
+"At the beginning of the game, the character is located in the center of the "
+"field. You can move them using the left and right arrow keys. The camera is "
+"initially set to a center-field view, but you can switch to a first-person "
+"view by pressing the \"v\" key."
+msgstr ""
+"Al comienzo del juego, el personaje está ubicado en el centro del campo. "
+"Puedes moverlo usando las teclas de flecha izquierda y derecha. La cámara "
+"está inicialmente configurada para una vista del centro del campo, pero "
+"puedes cambiar a una vista en primera persona presionando la tecla \"v\"."
+
+#: BallBouncer/docs/en/readme.md:block 34 (paragraph)
+msgid ""
+"By pressing the \"C\" key in the field center view, you will hear a sound "
+"positioned at the character's location. In the first-person view, the sound "
+"will play from the center of the field, unless you are observing the ball. "
+"In that case, the sound will be played at the character's position. This "
+"will help you better feel the character when attempting to hit the ball."
+msgstr ""
+"Al presionar la tecla \"C\" en la vista del centro del campo, escucharás un "
+"sonido posicionado en la ubicación del personaje. En la vista en primera "
+"persona, el sonido se reproducirá desde el centro del campo, a menos que "
+"estés observando la pelota. En ese caso, el sonido se reproducirá en la "
+"posición del personaje. Esto te ayudará a sentir mejor al personaje al "
+"intentar golpear la pelota."
+
+#: BallBouncer/docs/en/readme.md:block 35 (paragraph)
+msgid ""
+"By pressing the left or right shift key, you can set the character's facing "
+"direction. When moving, the direction is set automatically."
+msgstr ""
+"Al presionar la tecla de mayúsculas izquierda o derecha, puedes establecer "
+"la dirección en la que mira el personaje. Al moverte, la dirección se "
+"establece automáticamente."
+
+#: BallBouncer/docs/en/readme.md:block 36 (paragraph)
+msgid ""
+"First, you need to throw the ball to make it appear on the game field. You "
+"can do this by pressing the \"f\" key."
+msgstr ""
+"Primero, necesitas lanzar la pelota para que aparezca en el campo de juego. "
+"Puedes hacerlo presionando la tecla \"f\"."
+
+#: BallBouncer/docs/en/readme.md:block 37 (paragraph)
+msgid ""
+"After the ball is on the field, you will hear a tone which will move left "
+"and right, indicating movement of the ball in the horizontal plane. The "
+"tone's pitch and volume will also change, indicating vertical ball movement. "
+"Decreasing volume and rising pitch mean that the ball is moving upwards, "
+"while increasing volume and lowering pitch mean the opposite."
+msgstr ""
+"Después de que la pelota esté en el campo, escucharás un tono que se moverá "
+"de izquierda a derecha, indicando el movimiento de la pelota en el plano "
+"horizontal. El tono también cambiará de tono y volumen, indicando el "
+"movimiento vertical de la pelota. Disminuir el volumen y aumentar el tono "
+"significa que la pelota se está moviendo hacia arriba, mientras que aumentar "
+"el volumen y bajar el tono significa lo contrario."
+
+#: BallBouncer/docs/en/readme.md:block 38 (paragraph)
+msgid "There are two types of throw:"
+msgstr "Hay dos tipos de lanzamiento:"
+
+#: BallBouncer/docs/en/readme.md:block 39 (unordered list)
+msgid ""
+"Normal. Performed by pressing the f key. The ball begins to fly in an arc in "
+"the direction the character is facing."
+msgstr ""
+"Normal. Se realiza pulsando la tecla f. La pelota comienza a volar en un "
+"arco en la dirección en la que el personaje está mirando."
+
+#: BallBouncer/docs/en/readme.md:block 39 (unordered list)
+msgid ""
+"Vertical. Performed by holding down the alt key and pressing f. The ball "
+"starts flying along the vertical axis, but also moves slightly along the "
+"horizontal axis in the direction the character is facing."
+msgstr ""
+"Vertical. Se realiza manteniendo presionada la tecla alt y pulsando f. La "
+"bola comienza a volar a lo largo del eje vertical, pero también se mueve "
+"ligeramente a lo largo del eje horizontal en la dirección en la que el "
+"personaje está mirando."
+
+#: BallBouncer/docs/en/readme.md:block 40 (paragraph)
+msgid ""
+"The goal of the game is to destroy as many objects as possible, gaining "
+"points along the way. The ball always tends to fall down, and you need to "
+"hit it back with a bat."
+msgstr ""
+"El objetivo del juego es destruir tantos objetos como sea posible, ganando "
+"puntos en el camino. La bola siempre tiende a caer, y necesitas devolverla "
+"con una pala."
+
+#: BallBouncer/docs/en/readme.md:block 41 (paragraph)
+msgid "The ball can be hit in two ways:"
+msgstr "La pelota se puede golpear de dos maneras:"
+
+#: BallBouncer/docs/en/readme.md:block 42 (unordered list)
+msgid ""
+"Spacebar key. In this case, the ball will receive a strong horizontal "
+"impulse in the direction the character is facing."
+msgstr ""
+"Tecla de espacio. En este caso, la bola recibirá un fuerte impulso "
+"horizontal en la dirección en la que el personaje esté mirando."
+
+#: BallBouncer/docs/en/readme.md:block 42 (unordered list)
+msgid ""
+"Hold down the alt key and press spacebar. The ball will receive a strong "
+"vertical impulse, maintaining a horizontal flight direction regardless of "
+"the character's facing."
+msgstr ""
+"Mantén pulsada la tecla alt y presiona la barra espaciadora. La bola "
+"recibirá un fuerte impulso vertical, manteniendo una dirección de vuelo "
+"horizontal sin importar hacia dónde mire el personaje."
+
+#: BallBouncer/docs/en/readme.md:block 43 (paragraph)
+msgid ""
+"You can only hit the ball while being near it. After each swing of the bat, "
+"the character restores the hit strength. Once it is fully restored, you will "
+"hear an alert, the sound of which can be heard in the learn sounds menu. You "
+"can also toggle the sound of successful bat hits in the options on the "
+"behavior tab."
+msgstr ""
+"Solo puedes golpear la pelota cuando estás cerca de ella. Después de cada "
+"golpe del bate, el personaje restaura la fuerza del golpe. Una vez que se "
+"restaura por completo, escucharás una alerta, cuyo sonido se puede escuchar "
+"en el menú de aprender sonidos. También puedes activar o desactivar el "
+"sonido de los golpes exitosos del bate en las opciones de la pestaña de "
+"comportamiento."
+
+#: BallBouncer/docs/en/readme.md:block 44 (paragraph)
+msgid ""
+"You should always aim to make perfect strikes, as they reward you with bonus "
+"points. A perfect strike occurs when the ball bounces off the floor only "
+"once. For the second and any additional bounces, you'll lose points. The "
+"more times the ball bounces on the ground, the more points you lose. So, try "
+"to hit the ball upwards as quickly as possible."
+msgstr ""
+"Siempre debes intentar hacer golpes perfectos, ya que te recompensan con "
+"puntos extra. Un golpe perfecto ocurre cuando la pelota rebota en el suelo "
+"solo una vez. Por el segundo y cualquier rebote adicional, perderás puntos. "
+"Cuantas más veces rebote la pelota en el suelo, más puntos perderás. Así que "
+"intenta golpear la pelota hacia arriba lo más rápido posible."
+
+#: BallBouncer/docs/en/readme.md:block 45 (paragraph)
+msgid ""
+"It's also not a good idea to stay in one place for too long, as you'll lose "
+"points for being stationary for ten seconds or more."
+msgstr ""
+"Tampoco es buena idea quedarse en un solo lugar demasiado tiempo, ya que "
+"perderás puntos si estás quieto durante diez segundos o más."
+
+#: BallBouncer/docs/en/readme.md:block 46 (paragraph)
+msgid ""
+"At the beginning of the game, avoid holding the ball for too long, as each "
+"second the ball is held adds an increasing penalty. The same applies to a "
+"caught ball."
+msgstr ""
+"Al principio del juego, evita mantener la pelota demasiado tiempo, ya que "
+"cada segundo que la sostienes añade una penalización creciente. Lo mismo se "
+"aplica a una pelota atrapada."
+
+#: BallBouncer/docs/en/readme.md:block 47 (paragraph)
+msgid "A penalty is applied for the fifth and subsequent misses."
+msgstr "Se aplica una penalización a partir del quinto fallo y los siguientes."
+
+#: BallBouncer/docs/en/readme.md:block 48 (paragraph)
+msgid ""
+"You earn points for the ball colliding with an object, as well as for "
+"destroying an object. If the ball bounces off the ceiling, you will also "
+"receive bonus points."
+msgstr ""
+"Ganas puntos cuando la bola choca con un objeto, así como por destruir un "
+"objeto. Si la bola rebota en el techo, también recibirás puntos extra."
+
+#: BallBouncer/docs/en/readme.md:block 49 (paragraph)
+msgid ""
+"After colliding with an object or destroying it, a streak begins. Each "
+"subsequent collision or destruction brings more points. However, if the "
+"streak was not continued for more than six seconds, it is reset. The same "
+"applies to the ball's bounces off the ceiling."
+msgstr ""
+"Después de chocar con un objeto o destruirlo, comienza una racha. Cada "
+"colisión o destrucción posterior aporta más puntos. Sin embargo, si la racha "
+"no se continúa durante más de seis segundos, se reinicia. Lo mismo se aplica "
+"a los rebotes de la bola en el techo."
+
+#: BallBouncer/docs/en/readme.md:block 50 (paragraph)
+msgid ""
+"After making a perfect strike, a separate streak begins. For each new "
+"perfect strike, you earn significantly more points than the previous one. If "
+"the ball bounces more than once off the floor, the streak ends, and you’ll "
+"have to start over."
+msgstr ""
+"Después de hacer un strike perfecto, comienza una racha aparte. Por cada "
+"nuevo strike perfecto, ganas significativamente más puntos que el anterior. "
+"Si la bola rebota más de una vez en el suelo, la racha termina y tendrás que "
+"empezar de nuevo."
+
+#: BallBouncer/docs/en/readme.md:block 51 (paragraph)
+msgid ""
+"After being destroyed, objects will fall to the ground, creating noise and "
+"adding chaos to what’s happening."
+msgstr ""
+"Después de ser destruidos, los objetos caerán al suelo, creando ruido y "
+"añadiendo caos a lo que está ocurriendo."
+
+#: BallBouncer/docs/en/readme.md:block 52 (paragraph)
+msgid ""
+"During the game, you can not only observe the entire field but also switch "
+"to the ball watch mode. To activate this mode, hold the G key. The ball "
+"watch mode will stay active as long as you hold G, and will deactivate as "
+"soon as you release it."
+msgstr ""
+"Durante el juego, no solo puedes observar todo el campo, sino también "
+"cambiar al modo de seguimiento del balón. Para activar este modo, mantén "
+"presionada la tecla G. El modo de seguimiento del balón permanecerá activo "
+"mientras mantengas presionada la G y se desactivará tan pronto como la "
+"sueltes."
+
+#: BallBouncer/docs/en/readme.md:block 53 (paragraph)
+msgid ""
+"You can pause the game by pressing the escape key. After pressing it, you "
+"will enter the pause menu, where you can view the time remaining in the "
+"session, the score, and other information. From the pause menu, you can also "
+"access the settings or abort the game."
+msgstr ""
+"Puedes pausar el juego pulsando la tecla de escape. Al hacerlo, entrarás en "
+"el menú de pausa, donde podrás ver el tiempo restante de la sesión, la "
+"puntuación y otra información. Desde el menú de pausa, también puedes "
+"acceder a los ajustes o abortar el juego."
+
+#: BallBouncer/docs/en/readme.md:block 54 (paragraph)
+msgid ""
+"However, you can check the remaining time and current score not only in the "
+"pause menu. Press the T key to check the time, and the P key to see your "
+"score."
+msgstr ""
+"Sin embargo, puedes consultar el tiempo restante y la puntuación actual no "
+"solo en el menú de pausa. Pulsa la tecla T para ver el tiempo y la tecla P "
+"para ver tu puntuación."
+
+#: BallBouncer/docs/en/readme.md:block 55 (paragraph)
+msgid ""
+"If your score drops to minus one thousand, the game session will end "
+"prematurely. No coins will be awarded, but you won't lose anything else."
+msgstr ""
+"Si tu puntuación baja a menos mil, la sesión de juego terminará antes de "
+"tiempo. No se otorgarán monedas, pero no perderás nada más."
+
+#: BallBouncer/docs/en/readme.md:block 56 (paragraph)
+msgid ""
+"The game session lasts five minutes. This time can be extended by upgrading "
+"the Time Aura in the profile."
+msgstr ""
+"La sesión de juego dura cinco minutos. Este tiempo se puede ampliar "
+"mejorando el Aura de Tiempo en el perfil."
+
+#: BallBouncer/docs/en/readme.md:block 57 (paragraph)
+msgid ""
+"After the game session ends, a sound animation of coin awarding will play, "
+"which can be skipped by pressing the Enter key."
+msgstr ""
+"Después de que termine la sesión de juego, se reproducirá una animación de "
+"sonido de entrega de monedas, que se puede omitir pulsando la tecla Enter."
+
+#: BallBouncer/docs/en/readme.md:block 58 (paragraph)
+msgid ""
+"Then, the last game results menu will open, where you can find out how many "
+"points were ultimately scored and coins received. After closing the menu by "
+"pressing enter, you may be shown a notification about an available reward "
+"for reaching a statistic milestone. The display of the results menu for the "
+"last game and notifications about available rewards can be disabled in the "
+"settings, on the “Behavior” tab."
+msgstr ""
+"Luego, se abrirá el menú de resultados del último juego, donde puedes ver "
+"cuántos puntos se anotaron finalmente y las monedas recibidas. Al cerrar el "
+"menú presionando enter, puede que se te muestre una notificación sobre una "
+"recompensa disponible por alcanzar un hito estadístico. La visualización del "
+"menú de resultados del último juego y las notificaciones sobre recompensas "
+"disponibles se pueden desactivar en la configuración, en la pestaña "
+"\"Comportamiento\"."
+
+#: BallBouncer/docs/en/readme.md:block 59 (paragraph)
+msgid ""
+"The game also has skills that are fully described in the game. To use a "
+"skill during the game, you need to set it in one of ten slots. Assigning is "
+"done in your profile, on the “Skills” tab. Slots are accessed using keys "
+"from 1 (first slot) to 0 (tenth slot)."
+msgstr ""
+"El juego también tiene habilidades que están completamente descritas en el "
+"juego. Para usar una habilidad durante el juego, necesitas asignarla en uno "
+"de los diez espacios. La asignación se realiza en tu perfil, en la pestaña "
+"\"Habilidades\". Los espacios se acceden usando las teclas del 1 (primer "
+"espacio) al 0 (décimo espacio)."
+
+#: BallBouncer/docs/en/readme.md:block 60 (paragraph)
+msgid ""
+"In the store you can unlock the abilities to jump and catch the ball. These "
+"two abilities are also fully described in the game, including the keys to "
+"use. They are also present in the table of controls."
+msgstr ""
+"En la tienda puedes desbloquear las habilidades de saltar y atrapar la "
+"pelota. Estas dos habilidades también están completamente descritas en el "
+"juego, incluyendo las teclas para usarlas. También están presentes en la "
+"tabla de controles."
+
+#: BallBouncer/docs/en/readme.md:block 61 (header)
+msgid "Other game modes"
+msgstr "Otros modos de juego"
+
+#: BallBouncer/docs/en/readme.md:block 62 (paragraph)
+msgid ""
+"In addition to the normal and training modes, there are three other modes in "
+"the game, but they are not unlocked immediately."
+msgstr ""
+"Además de los modos normal y de entrenamiento, hay otros tres modos en el "
+"juego, pero no se desbloquean de inmediato."
+
+#: BallBouncer/docs/en/readme.md:block 63 (paragraph)
+msgid "To unlock new modes, earn rewards for reaching statistical milestones."
+msgstr ""
+"Para desbloquear nuevos modos, gana recompensas al alcanzar hitos "
+"estadísticos."
+
+#: BallBouncer/docs/en/readme.md:block 64 (paragraph)
+msgid ""
+"In the profile, on the statistics tab, you can see how many rewards you need "
+"to unlock the next mode."
+msgstr ""
+"En el perfil, en la pestaña de estadísticas, puedes ver cuántas recompensas "
+"necesitas para desbloquear el siguiente modo."
+
+#: BallBouncer/docs/en/readme.md:block 65 (paragraph)
+msgid ""
+"When you receive the required number of rewards, an informational menu will "
+"appear, briefly describing what has become available to you."
+msgstr ""
+"Cuando recibas el número necesario de recompensas, aparecerá un menú "
+"informativo que describirá brevemente lo que tienes disponible."
+
+#: BallBouncer/docs/en/readme.md:block 66 (paragraph)
+msgid ""
+"To learn detailed information about any mode, select the mode from the list "
+"on the new game start screen and press the D key, or click the \"Open mode "
+"description\" button."
+msgstr ""
+"Para obtener información detallada sobre cualquier modo, selecciona el modo "
+"de la lista en la pantalla de inicio de un nuevo juego y pulsa la tecla D, o "
+"haz clic en el botón \"Abrir descripción del modo\"."
+
+#: BallBouncer/docs/en/readme.md:block 67 (paragraph)
+msgid ""
+"All additional keys for a specific mode are listed in the mode description "
+"and are also mentioned in the controls tables."
+msgstr ""
+"Todas las teclas adicionales para un modo específico están listadas en la "
+"descripción del modo y también se mencionan en las tablas de controles."
+
+#: BallBouncer/docs/en/readme.md:block 68 (paragraph)
+msgid ""
+"After unlocking all three modes, you will be able to see the requirements "
+"for unlocking the quest board. A corresponding tab will appear on the "
+"profile screen."
+msgstr ""
+"Después de desbloquear los tres modos, podrás ver los requisitos para "
+"desbloquear el tablón de misiones. Una pestaña correspondiente aparecerá en "
+"la pantalla de perfil."
+
+#: BallBouncer/docs/en/readme.md:block 69 (header)
+msgid "The object map"
+msgstr "El mapa de objetos"
+
+#: BallBouncer/docs/en/readme.md:block 70 (paragraph)
+msgid ""
+"The object map works in any mode. You can open it by pressing the M key."
+msgstr ""
+"El mapa de objetos funciona en cualquier modo. Puedes abrirlo pulsando la "
+"tecla M."
+
+#: BallBouncer/docs/en/readme.md:block 71 (paragraph)
+msgid ""
+"The map displays all the objects that were on the field when it was opened."
+msgstr ""
+"El mapa muestra todos los objetos que había en el campo cuando se abrió."
+
+#: BallBouncer/docs/en/readme.md:block 72 (paragraph)
+msgid ""
+"Using the arrow keys, you can move the cursor around the map, which will "
+"play a short sound of the object in the place where this object is located, "
+"and the type of object will also be announced. You can turn off the "
+"announcement of the object type using the f1 key. Using the f2 key you can "
+"switch between movement modes."
+msgstr ""
+"Usando las teclas de flecha, puedes mover el cursor por el mapa, lo que "
+"reproducirá un sonido corto del objeto en el lugar donde se encuentra, y "
+"también se anunciará el tipo de objeto. Puedes desactivar el anuncio del "
+"tipo de objeto usando la tecla f1. Usando la tecla f2 puedes cambiar entre "
+"modos de movimiento."
+
+#: BallBouncer/docs/en/readme.md:block 73 (paragraph)
+msgid "There are two cursor movement modes:"
+msgstr "Hay dos modos de movimiento del cursor:"
+
+#: BallBouncer/docs/en/readme.md:block 74 (unordered list)
+msgid ""
+"Free movement. The cursor can be moved on the map in any direction by one "
+"cell. When moving in free mode, empty cells will also be visible under the "
+"cursor, which are indicated by their own sound."
+msgstr ""
+"Movimiento libre. El cursor se puede mover en el mapa en cualquier dirección "
+"por una celda. Al moverse en modo libre, las celdas vacías también serán "
+"visibles bajo el cursor, las cuales están indicadas por su propio sonido."
+
+#: BallBouncer/docs/en/readme.md:block 74 (unordered list)
+msgid ""
+"Moving through objects. The cursor moves only over objects; moving to the "
+"right or left will move through objects in the same row horizontally. Moving "
+"up or down will move the cursor to the nearest object vertically and skip "
+"empty rows."
+msgstr ""
+"Moverse a través de objetos. El cursor se mueve solo sobre objetos; moverse "
+"a la derecha o a la izquierda hará que se desplace a través de objetos en la "
+"misma fila horizontalmente. Moverse hacia arriba o hacia abajo llevará el "
+"cursor al objeto más cercano verticalmente y saltará filas vacías."
+
+#: BallBouncer/docs/en/readme.md:block 75 (paragraph)
+msgid ""
+"In addition to the cursor, the map features an observation point located at "
+"the center of the horizontal axis, which can move vertically. All object "
+"sounds are played relative to this point."
+msgstr ""
+"Además del cursor, el mapa cuenta con un punto de observación ubicado en el "
+"centro del eje horizontal, que puede moverse verticalmente. Todos los "
+"sonidos de los objetos se reproducen en relación con este punto."
+
+#: BallBouncer/docs/en/readme.md:block 76 (paragraph)
+msgid ""
+"You can move the observation point using the keys w - up, s - down. In this "
+"case, a sound will be played that changes its pitch depending on the "
+"position, so that it is easier for you to understand where the point is "
+"located along the axis."
+msgstr ""
+"Puedes mover el punto de observación usando las teclas w - arriba, s - "
+"abajo. En este caso, se reproducirá un sonido que cambia su tono dependiendo "
+"de la posición, para que te sea más fácil entender dónde se encuentra el "
+"punto a lo largo del eje."
+
+#: BallBouncer/docs/en/readme.md:block 77 (paragraph)
+msgid ""
+"You can also find out how many objects are on the field at the moment. To do "
+"this, press the o key."
+msgstr ""
+"También puedes averiguar cuántos objetos hay en el campo en este momento. "
+"Para hacerlo, pulsa la tecla o."
+
+#: BallBouncer/docs/en/readme.md:block 78 (paragraph)
+msgid "All of the listed keys can be changed using the controls configurator."
+msgstr ""
+"Todas las teclas enumeradas se pueden cambiar usando el configurador de "
+"controles."
+
+#: BallBouncer/docs/en/readme.md:block 79 (header)
+msgid "Gameplay recording"
+msgstr "Grabación de partida"
+
+#: BallBouncer/docs/en/readme.md:block 80 (paragraph)
+msgid ""
+"You can record your gameplay and then play the resulting recordings in any "
+"media player."
+msgstr ""
+"Puedes grabar tu partida y luego reproducir las grabaciones resultantes en "
+"cualquier reproductor multimedia."
+
+#: BallBouncer/docs/en/readme.md:block 81 (paragraph)
+msgid "Important: recordings are not made during training mode."
+msgstr ""
+"Importante: no se realizan grabaciones durante el modo de entrenamiento."
+
+#: BallBouncer/docs/en/readme.md:block 82 (paragraph)
+msgid ""
+"To start recording, make sure the \"Record game\" checkbox on the game mode "
+"selection screen is checked. Recording begins after the game start countdown."
+msgstr ""
+"Para empezar a grabar, asegúrate de que la casilla \"Grabar juego\" en la "
+"pantalla de selección de modo de juego esté marcada. La grabación comienza "
+"después de la cuenta atrás para el inicio del juego."
+
+#: BallBouncer/docs/en/readme.md:block 83 (paragraph)
+msgid ""
+"In the settings, on the \"Recording\" tab, you can determine whether to "
+"cancel or save the recording when aborting the game from the pause menu."
+msgstr ""
+"En la configuración, en la pestaña \"Grabación\", puedes decidir si cancelar "
+"o guardar la grabación al abortar el juego desde el menú de pausa."
+
+#: BallBouncer/docs/en/readme.md:block 84 (paragraph)
+msgid ""
+"Your recordings are located in the mp3recordings folder, which is inside the "
+"userData folder, and have the .mp3 extension."
+msgstr ""
+"Tus grabaciones están en la carpeta mp3recordings, que se encuentra dentro "
+"de la carpeta userData, y tienen la extensión .mp3."
+
+#: BallBouncer/docs/en/readme.md:block 85 (header)
+msgid "Old format recordings"
+msgstr "Grabaciones en formato antiguo"
+
+#: BallBouncer/docs/en/readme.md:block 86 (paragraph)
+msgid ""
+"Before version 1.3.0, the game used an internal recording format, with files "
+"in this format having the extension .sgr, and they could only be played in "
+"the built-in game player."
+msgstr ""
+"Antes de la versión 1.3.0, el juego utilizaba un formato de grabación "
+"interno, con archivos en este formato con la extensión .sgr, y solo se "
+"podían reproducir en el reproductor del juego integrado."
+
+#: BallBouncer/docs/en/readme.md:block 87 (paragraph)
+msgid ""
+"To listen to recordings of the old format, select the corresponding item in "
+"the main menu of the game. Then, in the recordings menu, select the one you "
+"want and press enter."
+msgstr ""
+"Para escuchar grabaciones del formato antiguo, selecciona el elemento "
+"correspondiente en el menú principal del juego. Luego, en el menú de "
+"grabaciones, elige la que quieras y pulsa enter."
+
+#: BallBouncer/docs/en/readme.md:block 88 (paragraph)
+msgid "After loading the recording, you will enter the player."
+msgstr "Después de cargar la grabación, entrarás en el reproductor."
+
+#: BallBouncer/docs/en/readme.md:block 89 (paragraph)
+msgid "Player control keys:"
+msgstr "Teclas de control del reproductor:"
+
+#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+msgid "To start, pause and unpause playback, press spacebar."
+msgstr ""
+"Para iniciar, pausar y reanudar la reproducción, pulsa la barra espaciadora."
+
+#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+msgid ""
+"To adjust the volume, use the up arrow keys to make it louder, down arrow "
+"keys to make it quieter. The recording volume can be increased to a maximum "
+"of two hundred percent."
+msgstr ""
+"Para ajustar el volumen, usa las flechas hacia arriba para subirlo y las "
+"flechas hacia abajo para bajarlo. El volumen de grabación se puede aumentar "
+"hasta un máximo del doscientos por ciento."
+
+#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+msgid ""
+"to rewind the recording by 5 seconds, use the arrow keys right - forward, "
+"left - backward. Rewinding by 30 seconds is done with the ctrl key held down."
+msgstr ""
+"para rebobinar la grabación 5 segundos, usa las flechas: derecha - adelante, "
+"izquierda - atrás. Rebobinar 30 segundos se hace manteniendo presionada la "
+"tecla ctrl."
+
+#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+msgid ""
+"You can find out how much you listened to, as well as the duration of the "
+"recording, by pressing the t key."
+msgstr ""
+"Puedes averiguar cuánto has escuchado, así como la duración de la grabación, "
+"pulsando la tecla t."
+
+#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+msgid ""
+"You can stop playback and return to the recording menu using the escape key."
+msgstr ""
+"Puedes detener la reproducción y volver al menú de grabación usando la tecla "
+"escape."
+
+#: BallBouncer/docs/en/readme.md:block 91 (paragraph)
+msgid "The old format recordings are located at the path userData/recordings."
+msgstr ""
+"Las grabaciones en el formato antiguo están ubicadas en la ruta userData/"
+"recordings."
+
+#: BallBouncer/docs/en/readme.md:block 92 (paragraph)
+msgid ""
+"If you want to play a recording in the old format, place it in the "
+"\"recordings\" folder. It will then appear in the recordings menu."
+msgstr ""
+"Si quieres reproducir una grabación en el formato antiguo, colócala en la "
+"carpeta \"grabaciones\". Luego aparecerá en el menú de grabaciones."
+
+#: BallBouncer/docs/en/readme.md:block 93 (paragraph)
+msgid ""
+"Attention! The ability to play recordings in the old format will be removed "
+"in version 1.5.0!"
+msgstr ""
+"¡Atención! ¡La capacidad de reproducir grabaciones en el formato antiguo se "
+"eliminará en la versión 1.5.0!"
+
+#: BallBouncer/docs/en/readme.md:block 94 (header)
+msgid "controls"
+msgstr "controles"
+
+#: BallBouncer/docs/en/readme.md:block 95 (paragraph)
+msgid ""
+"All keys in this section can be redefined by customizing the controls "
+"configuration."
+msgstr ""
+"Todas las teclas de esta sección se pueden redefinir personalizando la "
+"configuración de controles."
+
+#: BallBouncer/docs/en/readme.md:block 96 (header)
+msgid "Basic"
+msgstr "Básico"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Action"
+msgstr "Acción"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Key/keys"
+msgstr "Teclas"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Move the character right/left"
+msgstr "Mueve el personaje a la derecha/izquierda"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Right/Left arrows or d/a keys"
+msgstr "Flechas derecha/izquierda o teclas d/a"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid ""
+"Play the sound at the character's position or at the center of the field "
+"(depending on the view)."
+msgstr ""
+"Reproduce el sonido en la posición del personaje o en el centro del campo ("
+"dependiendo de la vista)."
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "c"
+msgstr "c"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Set character facing right/left"
+msgstr "Hacer que el personaje mire a la derecha/izquierda"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "right/left shift"
+msgstr "mayúsculas derecha/izquierda"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Swing the bat (hit the ball with a strong horizontal impulse)"
+msgstr "Balancea el bate (golpea la bola con un fuerte impulso horizontal)"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Spacebar, s or e key"
+msgstr "Barra espaciadora, tecla s o e"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Swing the bat (hit the ball with strong vertical impulse)"
+msgstr "Balancea el bate (golpea la bola con un fuerte impulso vertical)"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "alt+space, alt+s or r"
+msgstr "alt+espacio, alt+s o r"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Throw the ball in an arc"
+msgstr "Lanza la pelota en un arco"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "f"
+msgstr "f"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Throw the ball vertically"
+msgstr "Lanzar la pelota verticalmente"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "alt+f"
+msgstr "alt+f"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Switch the camera to ball watch mode"
+msgstr "Cambia la cámara al modo seguimiento de balón."
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Hold down the g key"
+msgstr "Mantén pulsada la tecla g"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Switch the camera to normal mode"
+msgstr "Cambia la cámara al modo normal."
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Release the g key"
+msgstr "Suelta la tecla g"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid ""
+"Switch camera mode between first person mode and field-centered view mode"
+msgstr ""
+"Cambia el modo de cámara entre vista en primera persona y vista centrada en "
+"el campo."
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "v"
+msgstr "v"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Jump (if the ability is unlocked)"
+msgstr "Saltar (si la habilidad está desbloqueada)"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Up arrow or w key"
+msgstr "Flecha arriba o tecla w"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Catch the ball (if the ability is unlocked)"
+msgstr "Atrapa la pelota (si la habilidad está desbloqueada)"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "left or right control"
+msgstr "control izquierdo o derecho"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Select a skill slot from 1 to 10 (if the skill is set)"
+msgstr ""
+"Selecciona una ranura de habilidad del 1 al 10 (si la habilidad está "
+"asignada)"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "keys 1 to 0/numpad1 to numpad0"
+msgstr "teclas 1 a 0/teclado numérico 1 a 0"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Cancel skill slot selection"
+msgstr "Cancelar selección de ranura de habilidad"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Grave / numpad enter"
+msgstr "Grave / intro del teclado numérico"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid ""
+"Activate/deactivate the star module set in slot 1 to 4 (if the module is "
+"set)."
+msgstr ""
+"Activa/desactiva el conjunto de módulos estrella en la ranura 1 a 4 (si el "
+"módulo está configurado)."
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "alt + keys 1 to 4/numpad1 to numpad4"
+msgstr "alt + teclas 1 a 4/teclado numérico 1 a 4"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Activate the item (if allowed in the current game mode)."
+msgstr "Activa el objeto (si está permitido en el modo de juego actual)."
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "x"
+msgstr "x"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid ""
+"Check the amount of available star energy (if you have at least one star "
+"module and module usage is allowed in the current game mode)"
+msgstr ""
+"Comprueba la cantidad de energía estelar disponible (si tienes al menos un "
+"módulo estelar y el uso de módulos está permitido en el modo de juego actual)"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "y"
+msgstr "y"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Open the object map"
+msgstr "Abre el mapa de objetos"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "m"
+msgstr "m"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Find out the time until the end of the gaming session"
+msgstr "Averigua cuánto tiempo queda hasta el final de la sesión de juego."
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "t"
+msgstr "t"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Find out the current number of points scored"
+msgstr "Descubre el número actual de puntos anotados."
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "p"
+msgstr "p"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "Pause the game"
+msgstr "pausar el juego"
+
+#: BallBouncer/docs/en/readme.md:block 97 (table)
+msgid "escape"
+msgstr "escape"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Instantly recharge all skills"
+msgstr "Recargar todas las habilidades inmediatamente"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "f1"
+msgstr "f1"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Set skill levels"
+msgstr "Establecer niveles de habilidad"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "f2"
+msgstr "f2"
+
+#: BallBouncer/docs/en/readme.md:block 101 (table)
+msgid "Move cursor"
+msgstr "Mover cursor"
+
+#: BallBouncer/docs/en/readme.md:block 101 (table)
+msgid "Arrow keys"
+msgstr "Teclas de flecha"
+
+#: BallBouncer/docs/en/readme.md:block 101 (table)
+msgid "Move observation point lower"
+msgstr "Mover el punto de observación hacia abajo"
+
+#: BallBouncer/docs/en/readme.md:block 101 (table)
+msgid "s"
+msgstr "s"
+
+#: BallBouncer/docs/en/readme.md:block 101 (table)
+msgid "Move observation point higher"
+msgstr "Eleva el punto de observación"
+
+#: BallBouncer/docs/en/readme.md:block 101 (table)
+msgid "w"
+msgstr "w"
+
+#: BallBouncer/docs/en/readme.md:block 101 (table)
+msgid "Toggle object type announcement status"
+msgstr "Alternar el estado de anuncio del tipo de objeto"
+
+#: BallBouncer/docs/en/readme.md:block 101 (table)
+msgid "Toggle cursor movement mode"
+msgstr "Alternar modo de movimiento del cursor"
+
+#: BallBouncer/docs/en/readme.md:block 101 (table)
+msgid "Find out the number of objects on the map"
+msgstr "Descubre la cantidad de objetos en el mapa"
+
+#: BallBouncer/docs/en/readme.md:block 101 (table)
+msgid "o"
+msgstr "o"
+
+#: BallBouncer/docs/en/readme.md:block 102 (header)
+msgid "Configuring controls"
+msgstr "Configurando controles"
+
+#: BallBouncer/docs/en/readme.md:block 103 (paragraph)
+msgid ""
+"In the settings, on the \"controls\" tab, you can customize the control keys "
+"to your personal preference by pressing the corresponding button."
+msgstr ""
+"En la configuración, en la pestaña de \"controles\", puedes personalizar las "
+"teclas de control a tu gusto pulsando el botón correspondiente."
+
+#: BallBouncer/docs/en/readme.md:block 104 (paragraph)
+msgid ""
+"On the configuration screen, there is a tree where the first level displays "
+"individual blocks, which, in turn, contain actions."
+msgstr ""
+"En la pantalla de configuración, hay un árbol donde el primer nivel muestra "
+"bloques individuales, que, a su vez, contienen acciones."
+
+#: BallBouncer/docs/en/readme.md:block 105 (paragraph)
+msgid ""
+"Each action has a list of assigned key combinations. You can add or remove "
+"combinations from this list using the corresponding buttons."
+msgstr ""
+"Cada acción tiene una lista de combinaciones de teclas asignadas. Puedes "
+"añadir o eliminar combinaciones de esta lista usando los botones "
+"correspondientes."
+
+#: BallBouncer/docs/en/readme.md:block 106 (paragraph)
+msgid ""
+"After pressing the add combination button, a new screen will open, "
+"containing four lists, a field to assign the main key, and the \"Add\" and "
+"\"Cancel\" buttons."
+msgstr ""
+"Después de pulsar el botón de añadir combinación, se abrirá una nueva "
+"pantalla que contiene cuatro listas, un campo para asignar la tecla "
+"principal y los botones \"Añadir\" y \"Cancelar\"."
+
+#: BallBouncer/docs/en/readme.md:block 107 (paragraph)
+msgid ""
+"Each list corresponds to its modifier key (alt, windows, control, shift) and "
+"contains 4 options for using the modifier key (none, left, right, any)."
+msgstr ""
+"Cada lista corresponde a su tecla modificadora (alt, windows, control, shift)"
+" y contiene 4 opciones para usar la tecla modificadora (ninguna, izquierda, "
+"derecha, cualquiera)."
+
+#: BallBouncer/docs/en/readme.md:block 108 (paragraph)
+msgid ""
+"To set the primary key, follow the instructions in the key-assignment field, "
+"which comes immediately after the list for the shift modifier key. If you "
+"want to use only modifier keys in your combination, leave the field "
+"unassigned."
+msgstr ""
+"Para establecer la clave primaria, sigue las instrucciones en el campo de "
+"asignación de clave, que aparece inmediatamente después de la lista para la "
+"tecla modificadora de mayúsculas. Si quieres usar solo teclas modificadoras "
+"en tu combinación, deja el campo sin asignar."
+
+#: BallBouncer/docs/en/readme.md:block 109 (paragraph)
+msgid ""
+"After you have set all the necessary parameters, click the \"Add\" button. "
+"However, keep in mind that duplicates within a single action block are not "
+"allowed."
+msgstr ""
+"Después de establecer todos los parámetros necesarios, haz clic en el botón "
+"\"Añadir\". Sin embargo, ten en cuenta que no se permiten duplicados dentro "
+"de un mismo bloque de acción."
+
+#: BallBouncer/docs/en/readme.md:block 110 (paragraph)
+msgid ""
+"If required, you can share your controls configuration with other people. "
+"The configuration is located in the user data folder (userData) and is named "
+"\"keyConfig.json\". The other person will have to replace their "
+"configuration, located in the same location, with the one you passed on. "
+"Despite the fact that the configuration is stored in open form, it is not "
+"intended for manual editing."
+msgstr ""
+"Si es necesario, puedes compartir tu configuración de controles con otras "
+"personas. La configuración se encuentra en la carpeta de datos del usuario "
+"(userData) y se llama \"keyConfig.json\". La otra persona tendrá que "
+"reemplazar su configuración, ubicada en el mismo lugar, con la que le "
+"pasaste. A pesar de que la configuración se almacena en forma abierta, no "
+"está destinada a ser editada manualmente."
+
+#: BallBouncer/docs/en/readme.md:block 111 (header)
+msgid "Translation of the game into other languages"
+msgstr "Traducción del juego a otros idiomas"
+
+#: BallBouncer/docs/en/readme.md:block 112 (paragraph)
+msgid ""
+"If you would like to translate ball bouncer into your native language, "
+"please visit [sooslandia-games translation repository on github](https://"
+"github.com/sooslandia/translations)"
+msgstr ""
+"Si quieres traducir ball bouncer a tu idioma, por favor visita el "
+"[repositorio de traducciones de sooslandia-games en github](https://"
+"github.com/sooslandia/translations)"
+
+#: BallBouncer/docs/en/readme.md:block 113 (paragraph)
+msgid ""
+"Github was chosen because it allows us to centralize all translations in one "
+"place, automatically confirm that the game with a new translation will "
+"launch without errors, convert different translation formats using scripts, "
+"and maintain the structure of the stored data in order."
+msgstr ""
+"Se ha elegido Github porque nos permite centralizar todas las traducciones "
+"en un solo lugar, confirmar automáticamente que el juego con una nueva "
+"traducción se lanzará sin errores, convertir diferentes formatos de "
+"traducción usando scripts y mantener la estructura de los datos almacenados "
+"en orden."
+
+#: BallBouncer/docs/en/readme.md:block 114 (paragraph)
+msgid ""
+"If you have any difficulties, contact us for help in the telegram group, "
+"discord or email. Look for links to the above in the “Conclusion” section."
+msgstr ""
+"Si tienes alguna dificultad, contáctanos para obtener ayuda en el grupo de "
+"telegram, discord o correo electrónico. Busca los enlaces a lo anterior en "
+"la sección \"Conclusión\"."
+
+#: BallBouncer/docs/en/readme.md:block 115 (header)
+msgid "Conclusion"
+msgstr "Conclusión"
+
+#: BallBouncer/docs/en/readme.md:block 116 (paragraph)
+msgid ""
+"We are glad that you got interested in this project and we hope that you "
+"will like it. Destroy and have fun!"
+msgstr ""
+"Nos alegra que te hayas interesado en este proyecto y esperamos que te "
+"guste. ¡Destruye y diviértete!"
+
+#: BallBouncer/docs/en/readme.md:block 117 (paragraph)
+msgid ""
+"Subscribe to our [channel](https://t.me/sooslandia) on telegram, or join our "
+"[discord server](https://discord.gg/8xcKB7dsDR), to receive the latest news "
+"about updates to this game, as well as about other interesting projects."
+msgstr ""
+"Suscríbete a nuestro [canal](https://t.me/sooslandia) en Telegram, o únete a "
+"nuestro [servidor de Discord](https://discord.gg/8xcKB7dsDR), para recibir "
+"las últimas noticias sobre actualizaciones de este juego, así como de otros "
+"proyectos interesantes."
+
+#: BallBouncer/docs/en/readme.md:block 118 (paragraph)
+msgid ""
+"Join the [channel chat](https://t.me/sooslandiadiscussion), where you can "
+"share your opinion about the game, report any bugs, or suggest your idea, "
+"just like in discord."
+msgstr ""
+"Únete al [chat del canal](https://t.me/sooslandiadiscussion), donde puedes "
+"compartir tu opinión sobre el juego, reportar cualquier error o sugerir tus "
+"ideas, igual que en Discord."
+
+#: BallBouncer/docs/en/readme.md:block 119 (paragraph)
+msgid ""
+"If you don't use telegram and discord, you can write to [our email](mailto://"
+"contact@sooslandia.ru), but a quick response is not guaranteed."
+msgstr ""
+"Si no usas Telegram o Discord, puedes escribir a [nuestro correo]"
+"(mailto://contact@sooslandia.ru), pero no se garantiza una respuesta rápida."
+
+#: BallBouncer/docs/en/readme.md:block 120 (paragraph)
+msgid "All the best, Sooslandia-games."
+msgstr "Con nuestros mejores deseos, Sooslandia-games."
