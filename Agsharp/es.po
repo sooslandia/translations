@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Agsharp\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2025-03-06 16:21+0000\n"
-"PO-Revision-Date: 2025-03-11 15:17+0000\n"
+"PO-Revision-Date: 2025-03-11 15:22+0000\n"
 "Last-Translator: Oriol Gomez <ogomez.s92@gmail.com>\n"
 "Language-Team: Spanish <http://weblate.oriolgomez.com/projects/agsharp/"
 "potfile/es/>\n"
@@ -55,7 +55,6 @@ msgctxt "AudioForms_EditBoxControlEmpty"
 msgid "empty"
 msgstr "vacío"
 
-#, fuzzy
 msgctxt "AudioForms_EditBoxControlName"
 msgid "edit"
 msgstr "editar"
@@ -64,52 +63,45 @@ msgctxt "AudioForms_EditBoxControlNoSelection"
 msgid "no selection"
 msgstr "sin selección"
 
-#, fuzzy
 msgctxt "AudioForms_EditBoxControlPasted"
 msgid "pasted"
 msgstr "pegado"
 
-#, fuzzy
 msgctxt "AudioForms_EditBoxControlSelect"
 msgid "selected"
 msgstr "seleccionado"
 
-#, fuzzy
 msgctxt "AudioForms_EditBoxControlSelectionRemoved"
 msgid "selection removed"
 msgstr "selección eliminada"
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgctxt "AudioForms_EditBoxControlSpeakSelected"
 msgid "{0} characters selected"
 msgstr "{0} caracteres seleccionados"
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgctxt "AudioForms_EditBoxControlSpeakUnselected"
 msgid "{0} characters unselected"
 msgstr "{0} caracteres no seleccionados"
 
-#, fuzzy
 msgctxt "AudioForms_EditBoxControlUnselect"
 msgid "unselected"
 msgstr "no seleccionado"
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgctxt "AudioForms_ItemsCount"
 msgid "{0} of {1}"
 msgstr "{0} de {1}"
 
-#, fuzzy
 msgctxt "AudioForms_ListControlName"
 msgid "list"
 msgstr "lista"
 
-#, fuzzy
 msgctxt "AudioForms_SliderControlName"
 msgid "slider"
 msgstr "deslizador"
 
-#, fuzzy
 msgctxt "AudioForms_TabControlName"
 msgid "tab panel"
 msgstr "panel de pestañas"
@@ -122,37 +114,31 @@ msgctxt "AudioForms_TreeControlCollapsed"
 msgid "collapsed"
 msgstr "contraído"
 
-#, fuzzy
 msgctxt "AudioForms_TreeControlExpanded"
 msgid "expanded"
 msgstr "expandido"
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgctxt "AudioForms_TreeControlLevel"
 msgid "level {0}"
 msgstr "nivel {0}"
 
-#, fuzzy
 msgctxt "AudioForms_TreeControlName"
 msgid "tree"
 msgstr "árbol"
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_ActionsTreeText"
 msgid "Actions"
 msgstr "Acciones"
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_AddButtonText"
 msgid "Add"
 msgstr "Añadir"
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutButtonText"
 msgid "Add control"
 msgstr "Añadir control"
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutError"
 msgid ""
 "Failed to add a control. You may be trying to add a duplicate to the "
@@ -161,27 +147,22 @@ msgstr ""
 "No se pudo añadir un control. Puede que estés intentando añadir un duplicado "
 "a la configuración."
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutSuccess"
 msgid "Control added."
 msgstr "Control añadido."
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_CancelButtonText"
 msgid "Cancel"
 msgstr "Cancelar"
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_CloseButtonText"
 msgid "Close"
 msgstr "Cerrar."
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_DeleteKeyShortcutButtonText"
 msgid "Delete control"
 msgstr "Eliminar control"
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlCatching"
 msgid "Press the key you want to add to the control."
 msgstr "Pulsa la tecla que quieres añadir al control."
@@ -190,12 +171,11 @@ msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeyReset"
 msgid "Key reset"
 msgstr "Tecla reiniciada"
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeySet"
 msgid "Key {0} set."
 msgstr "Tecla {0} configurada."
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlName"
 msgid "Press enter here to set the key."
 msgstr "Pulsa enter aquí para asignar la tecla."
@@ -206,12 +186,10 @@ msgid "Key {0} set. Press Enter to change or del to reset."
 msgstr ""
 "Tecla {0} establecida. Pulsa Enter para cambiar o suprimir para reiniciar."
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitle"
 msgid "Controls configurator."
 msgstr "Configurador de controles."
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitleWithHint"
 msgid ""
 "Controls configurator. Use tab and shift+tab to move forwards and backwards "
@@ -226,7 +204,6 @@ msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitle"
 msgid "Add control."
 msgstr "Añadir Control"
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitleWithHint"
 msgid ""
 "Add control. Use tab and shift+tab to move forwards and backwards on the "
@@ -238,12 +215,10 @@ msgstr ""
 "desplazarte por las listas. Para activar el elemento seleccionado, pulsa "
 "enter."
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_ModifierListAlt"
 msgid "alt key"
 msgstr "tecla alt"
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_ModifierListAny"
 msgid "Any"
 msgstr "Cualquiera"
@@ -252,17 +227,14 @@ msgctxt "KeyMapConfiguratorInterface_ModifierListCtrl"
 msgid "Ctrl key"
 msgstr "tecla Control"
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_ModifierListLeft"
 msgid "Left"
 msgstr "Izquierda"
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_ModifierListRight"
 msgid "Right"
 msgstr "derecha"
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_ModifierListShift"
 msgid "Shift key"
 msgstr "tecla Shift"
@@ -271,17 +243,14 @@ msgctxt "KeyMapConfiguratorInterface_ModifierListUnused"
 msgid "Not used"
 msgstr "No usada"
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_ModifierListWin"
 msgid "Windows key"
 msgstr "tecla de Windows"
 
-#, fuzzy
 msgctxt "KeyMapConfiguratorInterface_ShortcutsListText"
 msgid "Controls"
 msgstr "Controles"
 
-#, fuzzy
 msgctxt "Keys_APOSTROPHE"
 msgid "aphostrophe"
 msgstr "apóstrofe"
@@ -290,17 +259,14 @@ msgctxt "Keys_APPLICATION"
 msgid "application"
 msgstr "aplicaciones"
 
-#, fuzzy
 msgctxt "Keys_BACKSLASH"
 msgid "backslash"
 msgstr "barra invertida"
 
-#, fuzzy
 msgctxt "Keys_BACKSPACE"
 msgid "backspace"
 msgstr "retroceso"
 
-#, fuzzy
 msgctxt "Keys_CAPSLOCK"
 msgid "capslock"
 msgstr "bloq mayús"
@@ -309,7 +275,6 @@ msgctxt "Keys_COMMA"
 msgid "comma"
 msgstr "coma"
 
-#, fuzzy
 msgctxt "Keys_D0"
 msgid "0"
 msgstr "0"
@@ -514,32 +479,26 @@ msgctxt "Keys_SPACE"
 msgid "space"
 msgstr "espacio"
 
-#, fuzzy
 msgctxt "Keys_TAB"
 msgid "tab"
 msgstr "tabulador"
 
-#, fuzzy
 msgctxt "Keys_UP"
 msgid "up"
 msgstr "arriba"
 
-#, fuzzy
 msgctxt "Keys_VOLUMEDOWN"
 msgid "volume down"
 msgstr "bajar volumen"
 
-#, fuzzy
 msgctxt "Keys_VOLUMEUP"
 msgid "volume up"
 msgstr "subir volumen"
 
-#, fuzzy
 msgctxt "RecordingPlayerScreenInterface_Loaded"
 msgid "Ready."
 msgstr "Listo."
 
-#, fuzzy
 msgctxt "RecordingPlayerScreenInterface_LoadedWithHint"
 msgid ""
 "Ready. To start playback, press Spacebar. Press spacebar to pause and "
@@ -553,12 +512,10 @@ msgstr ""
 "las flechas mientras mantienes presionada la tecla ctrl. Para salir del "
 "reproductor, pulsa escape."
 
-#, fuzzy
 msgctxt "RecordingPlayerScreenInterface_Loading"
 msgid "Loading..."
 msgstr "Cargando..."
 
-#, fuzzy
 msgctxt "RecordingPlayerScreenInterface_LoadingError"
 msgid ""
 "An error occurred while loading the recording. This recording may be "
@@ -567,22 +524,18 @@ msgstr ""
 "Se produjo un error al cargar la grabación. Esta grabación puede estar "
 "dañada."
 
-#, fuzzy
 msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuBack"
 msgid "Go back"
 msgstr "Volver"
 
-#, fuzzy
 msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuNoRecordings"
 msgid "No recordings."
 msgstr "No hay grabaciones."
 
-#, fuzzy
 msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuTitle"
 msgid "Your recordings."
 msgstr "Tus grabaciones."
 
-#, fuzzy
 msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuTitleWithHint"
 msgid ""
 "Your recordings. Use up and down arrows to move through the menu. Press "
@@ -591,12 +544,12 @@ msgstr ""
 "Tus grabaciones. Usa las flechas arriba y abajo para moverte por el menú. "
 "Pulsa enter para activar un elemento"
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgctxt "RecordingPlayerScreenInterface_Time"
 msgid "{0} / {1}"
 msgstr "{0} / {1}"
 
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgctxt "RecordingPlayerScreenInterface_Volume"
 msgid "Volume {0}%"
 msgstr "Volumen {0}%"
