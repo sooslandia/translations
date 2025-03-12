@@ -74,7 +74,7 @@
     <value>nezaškrtnuto</value>
   </data>
   <data name="EditBoxControlCapLetter" xml:space="preserve">
-    <value>Zapsán maximální počet znaků</value>
+    <value>Příliš dlouhé</value>
   </data>
   <data name="EditBoxControlCopied" xml:space="preserve">
     <value>zkopírováno</value>
@@ -98,16 +98,16 @@
     <value>vybráno</value>
   </data>
   <data name="EditBoxControlSelectionRemoved" xml:space="preserve">
-    <value>výběr odstraněn</value>
+    <value>výběr smazán</value>
   </data>
   <data name="EditBoxControlSpeakSelected" xml:space="preserve">
-    <value>vybráno {0} znaků</value>
+    <value>{0} znaků vybráno</value>
   </data>
   <data name="EditBoxControlSpeakUnselected" xml:space="preserve">
-    <value>nevybráno {0} znaků</value>
+    <value>{0} znaků nevybráno</value>
   </data>
   <data name="EditBoxControlUnselect" xml:space="preserve">
-    <value>výběr zrušen</value>
+    <value>nevybráno</value>
   </data>
   <data name="ItemsCount" xml:space="preserve">
     <value>{0} z {1}</value>
