@@ -1,0 +1,555 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Agsharp package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Agsharp\n"
+"Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
+"POT-Creation-Date: 2025-03-06 16:21+0000\n"
+"PO-Revision-Date: 2025-03-11 15:22+0000\n"
+"Last-Translator: Oriol Gomez <ogomez.s92@gmail.com>\n"
+"Language-Team: Spanish <http://weblate.oriolgomez.com/projects/agsharp/"
+"potfile/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
+
+msgctxt "AudioForms_ButtonControlName"
+msgid "button"
+msgstr "botón"
+
+msgctxt "AudioForms_ButtonControlUnavailable"
+msgid " unavailable"
+msgstr " no disponible"
+
+msgctxt "AudioForms_CheckboxControlName"
+msgid "checkbox"
+msgstr "casilla de verificación"
+
+msgctxt "AudioForms_CheckboxStateChecked"
+msgid "checked"
+msgstr "marcado"
+
+msgctxt "AudioForms_CheckboxStateUnchecked"
+msgid "unchecked"
+msgstr "no marcado"
+
+msgctxt "AudioForms_EditBoxControlCapLetter"
+msgid "Cap"
+msgstr "Mayúscula"
+
+msgctxt "AudioForms_EditBoxControlCopied"
+msgid "copied"
+msgstr "copiado"
+
+msgctxt "AudioForms_EditBoxControlCut"
+msgid "cut"
+msgstr "cortar"
+
+msgctxt "AudioForms_EditBoxControlEmpty"
+msgid "empty"
+msgstr "vacío"
+
+msgctxt "AudioForms_EditBoxControlName"
+msgid "edit"
+msgstr "editar"
+
+msgctxt "AudioForms_EditBoxControlNoSelection"
+msgid "no selection"
+msgstr "sin selección"
+
+msgctxt "AudioForms_EditBoxControlPasted"
+msgid "pasted"
+msgstr "pegado"
+
+msgctxt "AudioForms_EditBoxControlSelect"
+msgid "selected"
+msgstr "seleccionado"
+
+msgctxt "AudioForms_EditBoxControlSelectionRemoved"
+msgid "selection removed"
+msgstr "selección eliminada"
+
+#, python-brace-format
+msgctxt "AudioForms_EditBoxControlSpeakSelected"
+msgid "{0} characters selected"
+msgstr "{0} caracteres seleccionados"
+
+#, python-brace-format
+msgctxt "AudioForms_EditBoxControlSpeakUnselected"
+msgid "{0} characters unselected"
+msgstr "{0} caracteres no seleccionados"
+
+msgctxt "AudioForms_EditBoxControlUnselect"
+msgid "unselected"
+msgstr "no seleccionado"
+
+#, python-brace-format
+msgctxt "AudioForms_ItemsCount"
+msgid "{0} of {1}"
+msgstr "{0} de {1}"
+
+msgctxt "AudioForms_ListControlName"
+msgid "list"
+msgstr "lista"
+
+msgctxt "AudioForms_SliderControlName"
+msgid "slider"
+msgstr "deslizador"
+
+msgctxt "AudioForms_TabControlName"
+msgid "tab panel"
+msgstr "panel de pestañas"
+
+msgctxt "AudioForms_TabPageName"
+msgid "tab"
+msgstr "pestaña"
+
+msgctxt "AudioForms_TreeControlCollapsed"
+msgid "collapsed"
+msgstr "contraído"
+
+msgctxt "AudioForms_TreeControlExpanded"
+msgid "expanded"
+msgstr "expandido"
+
+#, python-brace-format
+msgctxt "AudioForms_TreeControlLevel"
+msgid "level {0}"
+msgstr "nivel {0}"
+
+msgctxt "AudioForms_TreeControlName"
+msgid "tree"
+msgstr "árbol"
+
+msgctxt "KeyMapConfiguratorInterface_ActionsTreeText"
+msgid "Actions"
+msgstr "Acciones"
+
+msgctxt "KeyMapConfiguratorInterface_AddButtonText"
+msgid "Add"
+msgstr "Añadir"
+
+msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutButtonText"
+msgid "Add control"
+msgstr "Añadir control"
+
+msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutError"
+msgid ""
+"Failed to add a control. You may be trying to add a duplicate to the "
+"configuration."
+msgstr ""
+"No se pudo añadir un control. Puede que estés intentando añadir un duplicado "
+"a la configuración."
+
+msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutSuccess"
+msgid "Control added."
+msgstr "Control añadido."
+
+msgctxt "KeyMapConfiguratorInterface_CancelButtonText"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "KeyMapConfiguratorInterface_CloseButtonText"
+msgid "Close"
+msgstr "Cerrar."
+
+msgctxt "KeyMapConfiguratorInterface_DeleteKeyShortcutButtonText"
+msgid "Delete control"
+msgstr "Eliminar control"
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlCatching"
+msgid "Press the key you want to add to the control."
+msgstr "Pulsa la tecla que quieres añadir al control."
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeyReset"
+msgid "Key reset"
+msgstr "Tecla reiniciada"
+
+#, python-brace-format
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeySet"
+msgid "Key {0} set."
+msgstr "Tecla {0} configurada."
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlName"
+msgid "Press enter here to set the key."
+msgstr "Pulsa enter aquí para asignar la tecla."
+
+#, python-brace-format
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlNameChange"
+msgid "Key {0} set. Press Enter to change or del to reset."
+msgstr ""
+"Tecla {0} establecida. Pulsa Enter para cambiar o suprimir para reiniciar."
+
+msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitle"
+msgid "Controls configurator."
+msgstr "Configurador de controles."
+
+msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitleWithHint"
+msgid ""
+"Controls configurator. Use tab and shift+tab to move forwards and backwards "
+"on the screen. Use the up and down arrows to move through lists and trees. "
+"To activate the selected item, press enter."
+msgstr ""
+"Configurador de controles. Usa tab y shift+tab para avanzar y retroceder en "
+"la pantalla. Usa las flechas arriba y abajo para navegar por listas y "
+"árboles. Para activar el elemento seleccionado, pulsa enter."
+
+msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitle"
+msgid "Add control."
+msgstr "Añadir Control"
+
+msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitleWithHint"
+msgid ""
+"Add control. Use tab and shift+tab to move forwards and backwards on the "
+"screen. Use the up and down arrows to move through the lists. To activate "
+"the selected item, press enter."
+msgstr ""
+"Añadir control. Usa tabulador y shift+tabulador para moverte hacia adelante "
+"y hacia atrás en la pantalla. Usa las flechas arriba y abajo para "
+"desplazarte por las listas. Para activar el elemento seleccionado, pulsa "
+"enter."
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListAlt"
+msgid "alt key"
+msgstr "tecla alt"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListAny"
+msgid "Any"
+msgstr "Cualquiera"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListCtrl"
+msgid "Ctrl key"
+msgstr "tecla Control"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListLeft"
+msgid "Left"
+msgstr "Izquierda"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListRight"
+msgid "Right"
+msgstr "derecha"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListShift"
+msgid "Shift key"
+msgstr "tecla Shift"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListUnused"
+msgid "Not used"
+msgstr "No usada"
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListWin"
+msgid "Windows key"
+msgstr "tecla de Windows"
+
+msgctxt "KeyMapConfiguratorInterface_ShortcutsListText"
+msgid "Controls"
+msgstr "Controles"
+
+msgctxt "Keys_APOSTROPHE"
+msgid "aphostrophe"
+msgstr "apóstrofe"
+
+msgctxt "Keys_APPLICATION"
+msgid "application"
+msgstr "aplicaciones"
+
+msgctxt "Keys_BACKSLASH"
+msgid "backslash"
+msgstr "barra invertida"
+
+msgctxt "Keys_BACKSPACE"
+msgid "backspace"
+msgstr "retroceso"
+
+msgctxt "Keys_CAPSLOCK"
+msgid "capslock"
+msgstr "bloq mayús"
+
+msgctxt "Keys_COMMA"
+msgid "comma"
+msgstr "coma"
+
+msgctxt "Keys_D0"
+msgid "0"
+msgstr "0"
+
+msgctxt "Keys_D1"
+msgid "1"
+msgstr "1"
+
+msgctxt "Keys_D2"
+msgid "2"
+msgstr "2"
+
+msgctxt "Keys_D3"
+msgid "3"
+msgstr "3"
+
+msgctxt "Keys_D4"
+msgid "4"
+msgstr "4"
+
+msgctxt "Keys_D5"
+msgid "5"
+msgstr "5"
+
+msgctxt "Keys_D6"
+msgid "6"
+msgstr "6"
+
+msgctxt "Keys_D7"
+msgid "7"
+msgstr "7"
+
+msgctxt "Keys_D8"
+msgid "8"
+msgstr "8"
+
+msgctxt "Keys_D9"
+msgid "9"
+msgstr "9"
+
+msgctxt "Keys_DELETE"
+msgid "delete"
+msgstr "suprimir"
+
+msgctxt "Keys_DOWN"
+msgid "down"
+msgstr "abajo"
+
+msgctxt "Keys_END"
+msgid "end"
+msgstr "fin"
+
+msgctxt "Keys_EQUALS"
+msgid "equals"
+msgstr "igual"
+
+msgctxt "Keys_ESCAPE"
+msgid "escape"
+msgstr "escape"
+
+msgctxt "Keys_GRAVE"
+msgid "grave"
+msgstr "acento grave"
+
+msgctxt "Keys_HOME"
+msgid "home"
+msgstr "inicio"
+
+msgctxt "Keys_INSERT"
+msgid "insert"
+msgstr "insertar"
+
+msgctxt "Keys_KP_0"
+msgid "numpad 0"
+msgstr "teclado numérico 0"
+
+msgctxt "Keys_KP_1"
+msgid "numpad 1"
+msgstr "teclado numérico 1"
+
+msgctxt "Keys_KP_2"
+msgid "numpad 2"
+msgstr "teclado numérico 2"
+
+msgctxt "Keys_KP_3"
+msgid "numpad 3"
+msgstr "teclado numérico 3"
+
+msgctxt "Keys_KP_4"
+msgid "numpad 4"
+msgstr "teclado numérico 4"
+
+msgctxt "Keys_KP_5"
+msgid "numpad 5"
+msgstr "teclado numérico 5"
+
+msgctxt "Keys_KP_6"
+msgid "numpad 6"
+msgstr "teclado numérico 6"
+
+msgctxt "Keys_KP_7"
+msgid "numpad 7"
+msgstr "teclado numérico 7"
+
+msgctxt "Keys_KP_8"
+msgid "numpad 8"
+msgstr "teclado numérico 8"
+
+msgctxt "Keys_KP_9"
+msgid "numpad 9"
+msgstr "teclado numérico 9"
+
+msgctxt "Keys_KP_DELETE"
+msgid "numpad delete"
+msgstr "teclado numérico suprimir"
+
+msgctxt "Keys_KP_DIVIDE"
+msgid "numpad divide"
+msgstr "dividir del teclado numérico"
+
+msgctxt "Keys_KP_ENTER"
+msgid "numpad enter"
+msgstr "intro del teclado numérico"
+
+msgctxt "Keys_KP_MINUS"
+msgid "numpad minus"
+msgstr "teclado numérico menos"
+
+msgctxt "Keys_KP_MULTIPLY"
+msgid "numpad multiply"
+msgstr "teclado numérico multiplicar"
+
+msgctxt "Keys_KP_PERIOD"
+msgid "numpad period"
+msgstr "punto del teclado numérico"
+
+msgctxt "Keys_KP_PLUS"
+msgid "numpad plus"
+msgstr "teclado numérico más"
+
+msgctxt "Keys_LEFT"
+msgid "left"
+msgstr "izquierda"
+
+msgctxt "Keys_LEFTBRACKET"
+msgid "left bracket"
+msgstr "corchete izquierdo"
+
+msgctxt "Keys_MINUS"
+msgid "dash"
+msgstr "guion"
+
+msgctxt "Keys_MUTE"
+msgid "mute"
+msgstr "silenciar"
+
+msgctxt "Keys_PAGEDOWN"
+msgid "page down"
+msgstr "avanzar página"
+
+msgctxt "Keys_PAGEUP"
+msgid "page up"
+msgstr "retroceder página"
+
+msgctxt "Keys_PAUSE"
+msgid "pause"
+msgstr "pausa"
+
+msgctxt "Keys_PERIOD"
+msgid "period"
+msgstr "punto"
+
+msgctxt "Keys_PRINTSCREEN"
+msgid "printscreen"
+msgstr "imprimir pantalla"
+
+msgctxt "Keys_RETURN"
+msgid "enter"
+msgstr "enter"
+
+msgctxt "Keys_RIGHT"
+msgid "right"
+msgstr "derecha"
+
+msgctxt "Keys_RIGHTBRACKET"
+msgid "right bracket"
+msgstr "corchete derecho"
+
+msgctxt "Keys_SCROLLLOCK"
+msgid "scroll lock"
+msgstr "bloqueo de desplazamiento"
+
+msgctxt "Keys_SEMICOLON"
+msgid "semicolon"
+msgstr "punto y coma"
+
+msgctxt "Keys_SLASH"
+msgid "slash"
+msgstr "barra"
+
+msgctxt "Keys_SPACE"
+msgid "space"
+msgstr "espacio"
+
+msgctxt "Keys_TAB"
+msgid "tab"
+msgstr "tabulador"
+
+msgctxt "Keys_UP"
+msgid "up"
+msgstr "arriba"
+
+msgctxt "Keys_VOLUMEDOWN"
+msgid "volume down"
+msgstr "bajar volumen"
+
+msgctxt "Keys_VOLUMEUP"
+msgid "volume up"
+msgstr "subir volumen"
+
+msgctxt "RecordingPlayerScreenInterface_Loaded"
+msgid "Ready."
+msgstr "Listo."
+
+msgctxt "RecordingPlayerScreenInterface_LoadedWithHint"
+msgid ""
+"Ready. To start playback, press Spacebar. Press spacebar to pause and "
+"unpause playback. To rewind by 5 seconds, use the left and right arrow keys. "
+"Rewind by 30 seconds using the arrow keys while holding down the ctrl key. "
+"To exit the player, press escape."
+msgstr ""
+"Listo. Para iniciar la reproducción, pulsa la barra espaciadora. Pulsa la "
+"barra espaciadora para pausar y reanudar la reproducción. Para retroceder 5 "
+"segundos, usa las flechas izquierda y derecha. Retrocede 30 segundos usando "
+"las flechas mientras mantienes presionada la tecla ctrl. Para salir del "
+"reproductor, pulsa escape."
+
+msgctxt "RecordingPlayerScreenInterface_Loading"
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgctxt "RecordingPlayerScreenInterface_LoadingError"
+msgid ""
+"An error occurred while loading the recording. This recording may be "
+"corrupted."
+msgstr ""
+"Se produjo un error al cargar la grabación. Esta grabación puede estar "
+"dañada."
+
+msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuBack"
+msgid "Go back"
+msgstr "Volver"
+
+msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuNoRecordings"
+msgid "No recordings."
+msgstr "No hay grabaciones."
+
+msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuTitle"
+msgid "Your recordings."
+msgstr "Tus grabaciones."
+
+msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuTitleWithHint"
+msgid ""
+"Your recordings. Use up and down arrows to move through the menu. Press "
+"enter to activate an item"
+msgstr ""
+"Tus grabaciones. Usa las flechas arriba y abajo para moverte por el menú. "
+"Pulsa enter para activar un elemento"
+
+#, python-brace-format
+msgctxt "RecordingPlayerScreenInterface_Time"
+msgid "{0} / {1}"
+msgstr "{0} / {1}"
+
+#, python-brace-format
+msgctxt "RecordingPlayerScreenInterface_Volume"
+msgid "Volume {0}%"
+msgstr "Volumen {0}%"
