@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2024-12-04 15:35+0000\n"
-"PO-Revision-Date: 2024-12-06 16:51+0100\n"
+"POT-Creation-Date: 2025-03-08 20:12+0000\n"
+"PO-Revision-Date: 2025-03-12 10:44+0100\n"
 "Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
 "Language-Team: 4Sense Gaming\n"
 "Language: cs\n"
@@ -23,63 +23,460 @@ msgid "% changelog"
 msgstr "% Historie změn"
 
 #: BallBouncer/docs/en/changelog.md:block 2 (header)
-msgid "1.2.3"
-msgstr "1.2.3"
+msgid "1.3.2"
+msgstr "1.3.2"
 
 #: BallBouncer/docs/en/changelog.md:block 3 (header)
-msgid "New features"
-msgstr "Nové funkce"
-
-#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
-msgid "New translations added."
-msgstr "Přidány nové překlady."
-
-#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
-msgid "Serbian. Translator [nidza07](https://github.com/nidza07)."
-msgstr "Srbština. Překladatel [nidza07](https://github.com/nidza07)."
-
-#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
-msgid "Czech. Translator [4sensegaming](https://github.com/4sensegaming)."
-msgstr "Čeština. Překladatel [4sensegaming](https://github.com/4sensegaming)."
-
-#: BallBouncer/docs/en/changelog.md:block 5 (header)
 msgid "Fixes"
 msgstr "Opravy"
 
-#: BallBouncer/docs/en/changelog.md:block 6 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"Successful bat hit sound has been fixed and now plays in all intended "
+"situations."
+msgstr ""
+"Opraven zvuk trefy pálkou do míče, takže se teď přehrává ve všech "
+"zamýšlených situacích."
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"Information on how to activate items has been added to the descriptions of "
+"trial of will and trial of mastery modes."
+msgstr ""
+"Do popisu režimů Zkouška vůle a Mistrovská zkouška byly doplněny informace o "
+"tom, jak aktivovat předměty."
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"Fixed a game crash that occurred when a screen reader other than NVDA was "
+"active."
+msgstr "Opraven pád hry při používání jiného odečítače než NVDA."
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid "Issues with mp3 recordings have been fixed."
+msgstr "Opraveny problémy s nahrávkami ve formátu MP3."
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"Potentially fixed a game crash that occurred when playing with recording "
+"enabled."
+msgstr "Snad opraven pád hry, ke kterému docházelo při zapnutém nahrávání."
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"A special VBR header is now added to recordings. Previously, its absence "
+"could cause some players to incorrectly display the recording's duration and "
+"experience issues with seeking."
+msgstr ""
+"K nahrávkám se nyní přidává speciální VBR hlavička. Její absence mohla před "
+"touto verzí způsobovat v některých přehrávačích nesprávné zobrazování délky "
+"nahrávky a problémy při přetáčení."
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"MP3 encoding parameters have been adjusted to reduce file size without "
+"noticeable quality loss.-"
+msgstr ""
+"Byly upraveny parametry MP3 enkodéru, aby se snížila velikost souborů bez "
+"znatelné ztráty kvality."
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"A line has been added to the documentation explaining how to unlock the "
+"quest board (in the \"Other Game Modes\" section)."
+msgstr ""
+"Do dokumentace byl doplněn řádek, který vysvětluje, jak je možné odemknout "
+"cestu výzev (v části Další režimy hry)."
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"Fixed a critical error that occurred when many sounds were playing "
+"simultaneously."
+msgstr ""
+"Opravena kritická chyba, ke které docházelo, když se ozývalo mnoho zvuků "
+"zároveň."
+
+#: BallBouncer/docs/en/changelog.md:block 5 (header)
+msgid "1.3.1"
+msgstr "1.3.1"
+
+#: BallBouncer/docs/en/changelog.md:block 6 (paragraph)
+msgid "Fixed a bug with objects sound panning."
+msgstr "Opravena chyba při přehrávání zvuků předmětů ve stereu."
+
+#: BallBouncer/docs/en/changelog.md:block 7 (header)
+msgid "1.3.0"
+msgstr "1.3.0"
+
+#: BallBouncer/docs/en/changelog.md:block 8 (paragraph)
+msgid "This is the largest update, adding a lot of new content to the game."
+msgstr ""
+"Tohle je zatím největší aktualizace, která do hry přidává obrovské množství "
+"nového obsahu."
+
+#: BallBouncer/docs/en/changelog.md:block 9 (paragraph)
+msgid ""
+"Three new modes await you, each of which can be upgraded, along with the "
+"quest board content featuring dozens of diverse quests. By completing these "
+"quests, you can earn stars, which can then be spent on various upgrades."
+msgstr ""
+"Čekají na tebe tři nové režimy hry, z nichž každý se dá vylepšovat, spolu s "
+"cestou výzev, na které narazíš na desítky rozmanitých úkolů. Plněním těchto "
+"výzev můžeš získávat hvězdy, které se poté dají utrácet za nejrůznější "
+"vylepšení."
+
+#: BallBouncer/docs/en/changelog.md:block 10 (paragraph)
+msgid ""
+"New objects will help you score even more points than you could have ever "
+"imagined."
+msgstr ""
+"Nové předměty ti pomůžou dosahovat mnohem větších skóre, než by se ti kdy "
+"zdálo možné."
+
+#: BallBouncer/docs/en/changelog.md:block 11 (paragraph)
+msgid ""
+"New auras will breathe new life into your skills, while the new skills will "
+"open up even more strategies for object destruction."
+msgstr ""
+"Nové aury vdechnou nový život tvým schopnostem, zatímco nové schopnosti ti "
+"otevřou ještě více strategií, jak efektivně ničit předměty."
+
+#: BallBouncer/docs/en/changelog.md:block 12 (paragraph)
+msgid ""
+"And of course, there are the upgrades that affect the entire gameplay, "
+"allowing you to rack up points to unprecedented levels and create even more "
+"destruction on the playing field."
+msgstr ""
+"A pak jsou tu samozřejmě ještě další vylepšení ovlivňující celkovou "
+"hratelnost, která ti umožní vyhnat skóre až do nepředstavitelných výšin a "
+"rozpoutat na hrací ploše ještě zběsilejší destrukci."
+
+#: BallBouncer/docs/en/changelog.md:block 13 (paragraph)
+msgid ""
+"To reach the true heights, you’ll have to spend dozens of hours, but don’t "
+"be scared — those hours will be filled with unrestrained chaos of "
+"destruction and the sweetness of well-deserved rewards!"
+msgstr ""
+"Pokud chceš dosáhnout skutečného vrcholu, budeš muset ve hře strávit desítky "
+"hodin, ale ničeho se neboj — tento čas bude vrchovatě naplněný nespoutaným "
+"chaosem ničení a sladkou chutí bohatě zasloužených odměn!"
+
+#: BallBouncer/docs/en/changelog.md:block 14 (header)
+msgid "New features"
+msgstr "Nové funkce"
+
+#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#| msgid "New translations added."
+msgid "New content added."
+msgstr "Přidán nový obsah."
+
+#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+msgid "Three new modes, each with its own currency."
+msgstr "Tři nové režimy hry, každý se svou vlastní měnou."
+
+#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+msgid "A quest board."
+msgstr "Cesta výzev."
+
+#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+msgid "New statistics items."
+msgstr "Nové statistické milníky."
+
+#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+msgid ""
+"New objects, skills, and auras, unlocked with the currencies of the new "
+"modes."
+msgstr ""
+"Nové předměty, schopnosti a aury, které se odemykají pomocí měn z nových "
+"herních režimů."
+
+#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+msgid ""
+"As well as many different upgrades that affect both the new modes and the "
+"normal game."
+msgstr ""
+"Stejně jako spousta různých vylepšení, která mají vliv jak na nové režimy, "
+"tak na normální hru."
+
+#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+msgid "The ability to view the descriptions of game modes has been added."
+msgstr "Přidána možnost zobrazit si popis jednotlivých režimů hry."
+
+#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+msgid ""
+"To open the description, select a mode from the list on the new game start "
+"screen and press the D key, or click the \"Open Mode Description\" button."
+msgstr ""
+"Chceš-li si zobrazit popis některého režimu, vyber ho v seznamu na nové "
+"obrazovce spuštění hry a stiskni klávesu D, případně klikni na tlačítko "
+"\"Otevřít popis režimu\"."
+
+#: BallBouncer/docs/en/changelog.md:block 16 (header)
+msgid "Changes"
+msgstr "Změny"
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid "Now auras can be active or inactive."
+msgstr "Aury teď můžou být aktivní nebo neaktivní."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"Initially, you can use only two auras at the same time, but in the future, "
+"the number of active auras can be increased, as well as new ones can be "
+"acquired."
+msgstr ""
+"Na začátku můžeš v jednu chvíli používat pouze dvě aury zároveň, ale časem "
+"získáš možnost počet aktivních aur zvýšit, stejně jako odemknout úplně nové "
+"aury."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"You can also open the description of an aura, except for the leader and time "
+"auras, by pressing the corresponding button on the auras tab in the profile."
+msgstr ""
+"Nyní si také můžeš zobrazit popisy jednotlivých aur, s výjimkou aury vítěze "
+"a času, stisknutím příslušného tlačítka na kartě Aury v profilu."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"The \"Furious leap\" ability has been improved. Now the character can dash a "
+"greater distance."
+msgstr ""
+"Vylepšena schopnost titánský skok. Teď postava doskočí na větší vzdálenost."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"The balance of points awarded for high streaks of collisions, object "
+"destructions, and ball bounces off the ceiling has been adjusted."
+msgstr ""
+"Upraveno vyvážení bonusových bodů získaných za dlouhé série nárazů do "
+"předmětů, zničení předmětů a odrazů míče od stropu."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"The upgrade cost for the Leader and Time auras has been increased. If your "
+"aura level is above five, it will be reset to zero, and the achievement "
+"points spent on upgrading it will be returned."
+msgstr ""
+"Cena za vylepšování aury vítěze a aury času byla zvýšena. Pokud máš některou "
+"z těchto aur aktuálně na vyšší než páté úrovni, vynuluje se a úspěchové body "
+"investované do jejího vylepšování se ti vrátí."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"Now you can activate menu items by pressing the Enter key on the numpad, and "
+"also hold Enter on buttons for rapid activations."
+msgstr ""
+"Položky v nabídkách se teď dají potvrzovat také numerickým enterem a je "
+"možné i enter podržet pro rychlou opakovanou aktivaci stejné položky."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"The calculation of the coin reward has been refined for final scores over "
+"two million."
+msgstr ""
+"Výpočet získaných mincí byl upraven pro konečná skóre vyšší než dva miliony."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"The behavior of the sound playback for checking the character's position has "
+"been changed."
+msgstr "Chování přehrávání zvuku při zjišťování pozice postavy se změnilo."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"Previously: The sound played at the character's position in the field center "
+"view, and played at the center of the field in the first-person view."
+msgstr ""
+"Dřív: Zvuk se ozýval z pozice postavy v režimu pohledu ze středu plochy a ze "
+"středu plochy v režimu pohledu z pozice postavy."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"Now: The sound always plays at the character's position, except when the "
+"first-person view is active and ball watch mode is turned off. In this case, "
+"the sound plays at the center of the field."
+msgstr ""
+"Nyní: Zvuk se vždycky ozve z pozice postavy, kromě případu, kdy je aktivní "
+"pohled z pozice postavy a zároveň je vypnutý režim sledování míče. Jedině v "
+"tomto případě se zvuk ozve ze středu plochy."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#| msgid "The game mode selection screen has been changed."
+msgid "The learn sounds screen has been redesigned."
+msgstr "Obrazovka seznámení se zvuky byla přepracována."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid "The menu has been replaced with a virtual form."
+msgstr "Menu nahradil virtuální dialog."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"Sounds, both from the base game and new modes, are now organized into "
+"separate tabs of the form for easier navigation and the ability to listen to "
+"them during gameplay."
+msgstr ""
+"Základní zvuky hry i zvuky jednotlivých nových režimů jsou nyní rozděleny do "
+"příslušných karet dialogu, aby se po nich lépe pohybovalo a daly se "
+"přehrávat i přímo během hry."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#| msgid "The game mode selection screen has been changed."
+msgid "The method of recording gameplay has been changed."
+msgstr "Změnil se způsob nahrávání hry."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid "Now, recordings are saved in MP3 format."
+msgstr "Nahrávky se teď ukládají ve formátu MP3."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"The old recording method has been disabled, but it is still possible to play "
+"previously recorded files."
+msgstr ""
+"Starý způsob nahrávání už nefunguje, ale nahrávky ve starém formátu se pořád "
+"přehrávat dají."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid "New recordings will be located in userData/mp3recordings."
+msgstr "Nové nahrávky budou umístěny ve složce \"userData/mp3recordings\"."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"The ability to play recordings in the old format will be removed in version "
+"1.5.0."
+msgstr ""
+"Možnost přehrávat nahrávky ve starém formátu bude odstraněna ve verzi 1.5.0."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid "Minor changes and inconsistencies fixed in English translation."
+msgstr "Drobné úpravy a opravy nekonzistencí v anglickém překladu."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid "Setting skill levels in training mode has been fixed."
+msgstr "Opraveno nastavování úrovní schopností v režimu tréninku."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid "Now, changing skill levels will have an effect on the game session."
+msgstr "Nastavené úrovně schopností se teď reálně projeví ve hře."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid "Also, now you can set any skill level up to the maximum possible."
+msgstr ""
+"Nyní je také možné nastavit schopnosti na libovolnou úroveň až po dostupné "
+"maximum."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"A critical bug has been fixed when changing controls configuration during "
+"gameplay."
+msgstr "Opravena kritická chyba při změně nastavení ovládání během hry."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"The issue where the camera did not follow the character during a jump or "
+"when using the \"Furious leap\" skill has been fixed."
+msgstr ""
+"Opravena chyba, kdy kamera nesledovala postavu při skákání nebo použití "
+"schopnosti titánský skok."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"The accuracy of the character's hit on the ball when using the \"Furious "
+"leap\" skill has been increased."
+msgstr ""
+"Zvýšena přesnost trefy postavy do míče při použití schopnosti titánský skok."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"Now, when the character jumps, the penalty timer for staying in one place is "
+"reset."
+msgstr ""
+"Když postava vyskočí, vynuluje se teď časovač pro postih za příliš dlouhé "
+"stání na místě bez pohybu."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"The issue that allowed opening the object map and pausing the game "
+"simultaneously, leading to strange and undesirable behavior, has been fixed."
+msgstr ""
+"Opravena chyba, která umožňovala otevření mapy předmětů a zapauzování hry "
+"zároveň, což vedlo ke zvláštnímu a nežádoucímu chování."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"The error in the calculation of points for object destruction has been "
+"fixed. As a result, fewer points are now awarded for this."
+msgstr ""
+"Opravena chyba ve výpočtu bodů získaných za zničení předmětu. V důsledku "
+"této změny za zničení předmětu nyní získáš méně bodů."
+
+#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+msgid ""
+"Incorrect setting of the skill cooldown time after an unsuccessful attempt "
+"has been fixed."
+msgstr ""
+"Opraveno nastavování nesprávných prodlev před dobitím schopností při "
+"neúspěšném pokusu o jejich použití."
+
+#: BallBouncer/docs/en/changelog.md:block 18 (header)
+msgid "1.2.4"
+msgstr "1.2.4"
+
+#: BallBouncer/docs/en/changelog.md:block 20 (unordered list)
+msgid "Updated and corrected translations."
+msgstr "Aktualizovány a opraveny překlady."
+
+#: BallBouncer/docs/en/changelog.md:block 21 (header)
+msgid "1.2.3"
+msgstr "1.2.3"
+
+#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
+msgid "New translations added."
+msgstr "Přidány nové překlady."
+
+#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
+msgid "Serbian. Translator [nidza07](https://github.com/nidza07)."
+msgstr "Srbština. Překladatel [nidza07](https://github.com/nidza07)."
+
+#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
+msgid "Czech. Translator [4sensegaming](https://github.com/4sensegaming)."
+msgstr "Čeština. Překladatel [4sensegaming](https://github.com/4sensegaming)."
+
+#: BallBouncer/docs/en/changelog.md:block 25 (unordered list)
 msgid "Resolved a minor issue in the Turkish translation."
 msgstr "Opravena drobná chyba v tureckém překladu."
 
-#: BallBouncer/docs/en/changelog.md:block 6 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 25 (unordered list)
 msgid "Fixed incorrect display of in-game help."
 msgstr "Opraveno nesprávné zobrazování nápovědy přímo ve hře."
 
-#: BallBouncer/docs/en/changelog.md:block 6 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 25 (unordered list)
 msgid "Fixed a potential critical error when loading a recording."
 msgstr "Opravena potenciální kritická chyba při načítání nahrávky."
 
-#: BallBouncer/docs/en/changelog.md:block 7 (header)
+#: BallBouncer/docs/en/changelog.md:block 26 (header)
 msgid "1.2.2"
 msgstr "1.2.2"
 
-#: BallBouncer/docs/en/changelog.md:block 8 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 27 (paragraph)
 msgid "Updated Turkish and Indonesian translations."
 msgstr "Aktualizován turecký a indonéský překlad."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (header)
+#: BallBouncer/docs/en/changelog.md:block 28 (header)
 msgid "1.2.1"
 msgstr "1.2.1"
 
-#: BallBouncer/docs/en/changelog.md:block 10 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 29 (paragraph)
 msgid "This update fixes several critical bugs for Linux users."
 msgstr ""
 "Tato aktualizace opravuje několik kritických chyb pro uživatele Linuxu."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (header)
+#: BallBouncer/docs/en/changelog.md:block 30 (header)
 msgid "1.2.0"
 msgstr "1.2.0"
 
-#: BallBouncer/docs/en/changelog.md:block 12 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 31 (paragraph)
 msgid ""
 "This version is aimed at further improving the user experience and existing "
 "content polishing. Now you can reassign keyboard shortcuts as you wish. It "
@@ -87,45 +484,45 @@ msgid ""
 "recordings using the built-in player for such recordings. An object map and "
 "several other improvements and fixes are also in place."
 msgstr ""
-"Tato verze se zaměřuje na další vylepšování uživatelského prostředí a "
+"Tato verze se zaměřuje na další vylepšování uživatelského zážitku a "
 "dolaďování stávajícího obsahu. Nyní si můžeš nastavit klávesové zkratky "
 "podle vlastního uvážení. Nyní je možné nahrávat své hraní a přehrávat "
 "výsledné nahrávky pomocí vestavěného přehrávače. K dispozici je také mapa "
 "předmětů a několik dalších vylepšení a oprav."
 
-#: BallBouncer/docs/en/changelog.md:block 13 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 32 (paragraph)
 msgid ""
 "We have opened the official [github translation repository](https://github."
 "com/sooslandia/translations). If you want to translate the game and have the "
 "ability, we will be glad to accept your help."
 msgstr ""
-"Otevřeli jsme oficiální překladový repozitář [github](https://github.com/"
+"Otevřeli jsme oficiální [překladový repozitář na Githubu](https://github.com/"
 "sooslandia/translations). Pokud chceš hru přeložit a máš na to schopnosti, "
 "rádi tvoji pomoc přijmeme."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid "Turkish. Translator [fatihyuksek](https://github.com/fatihyuksek1)."
 msgstr "Turečtina. Překladatel [fatihyuksek](https://github.com/fatihyuksek1)."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "Indonesian. Translator [MuhammadGagah](https://github.com/MuhammadGagah)."
 msgstr ""
 "Indonéština. Překladatel [MuhammadGagah](https://github.com/MuhammadGagah)."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid "You can now change the default keyboard shortcuts."
 msgstr "Nyní můžeš měnit výchozí klávesové zkratky."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "To do that, click the \"Customize Keyboard Shortcuts\" button located on the "
 "\"Keyboard Shortcut Configuration\" tab on the Settings screen."
 msgstr ""
 "To provedeš kliknutím na tlačítko \"Nastavit klávesové zkratky\", které "
-"najdeš na kartě \"Nastavení klávesových zkratek\" na obrazovce Nastavení."
+"najdeš na kartě \"Klávesové zkratky\" na obrazovce Nastavení."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "Your configuration file is located in the user data folder (userData) and is "
 "called keyConfig.json. You can share your configuration with other people. "
@@ -133,12 +530,12 @@ msgid ""
 "replace your configuration file with the one you received from the other "
 "person."
 msgstr ""
-"Konfigurační soubor se nachází ve složce userData a jmenuje se keyConfig."
-"json. Svou konfiguraci můžeš sdílet s ostatními uživateli. Aby ti "
-"konfigurace někoho jiného fungovala, musíš nahradit svůj konfigurační soubor "
-"tím, který dostaneš od něj."
+"Příslušný konfigurační soubor se nachází ve složce s uživatelskými daty hry "
+"(\"userData\") a má název \"keyConfig.json\". Svou konfiguraci můžeš sdílet "
+"s ostatními uživateli. Aby ti konfigurace někoho jiného fungovala, musíš "
+"nahradit svůj konfigurační soubor tím, který dostaneš od něj."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "You can find out more about configuration setting in the corresponding "
 "section of the documentation."
@@ -146,11 +543,11 @@ msgstr ""
 "Více informací o nastavení klávesových zkratek najdeš v příslušné části "
 "dokumentace."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid "You can now record your gameplay."
 msgstr "Nyní můžeš nahrávat své hraní."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "You can check the box that determines whether your gaming session will be "
 "recorded on the updated game mode selection screen. The recording behavior "
@@ -160,7 +557,7 @@ msgstr ""
 "které určuje, jestli se tvoje hraní má nahrávat. Chování nahrávání lze "
 "nakonfigurovat na kartě Nahrávání na obrazovce Nastavení."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "You can play recordings from the recordings menu, which can be accessed by "
 "activating the corresponding item in the main menu."
@@ -168,7 +565,7 @@ msgstr ""
 "Nahrávky můžeš poslouchat v menu Nahrávky, do kterého se dostaneš příslušnou "
 "položkou hlavního menu."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "Recordings are saved in the recordings folder, located in the user data "
 "folder (userData) and have a .sgr extension. The recording file can be "
@@ -176,12 +573,13 @@ msgid ""
 "recording to be detected by the game, it must be placed in the game's "
 "recording folder."
 msgstr ""
-"Nahrávky se ukládají do složky Recordings, která se nachází ve složce "
-"userData, a mají příponu .sgr. Soubor s nahrávkou lze v případě potřeby "
-"přejmenovat a sdílet s ostatními hráči. Aby hra rozpoznala nahrávku někoho "
-"jiného, musí být umístěna v této složce s nahrávkami."
+"Nahrávky se ukládají do složky \"recordings\", která se nachází ve složce s "
+"uživatelskými daty hry (\"userData\"), a mají příponu .sgr. Soubor s "
+"nahrávkou lze v případě potřeby přejmenovat a sdílet s ostatními hráči. Aby "
+"hra rozpoznala nahrávku někoho jiného, musí být umístěna v této složce s "
+"nahrávkami."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "Information about how the recording player works and its control keys can be "
 "found in the corresponding section of the documentation."
@@ -189,15 +587,15 @@ msgstr ""
 "Informace o tom, jak přehrávač nahrávek funguje, a o jeho ovládání najdeš v "
 "příslušné části dokumentace."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid "Added object map."
 msgstr "Přidána mapa předmětů."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid "It can be opened with the m key during a gaming session."
 msgstr "Během hraní ji lze otevřít klávesou M."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "Navigate the map using the arrow keys. You can also find out how many "
 "objects are on the map by pressing the o key."
@@ -205,32 +603,32 @@ msgstr ""
 "Po mapě se pohybuješ šipkami. Klávesou O můžeš také zjistit, kolik předmětů "
 "se na mapě nachází."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "There are two navigation modes, which you can read about in the "
 "corresponding section of the documentation."
 msgstr ""
-"Existují dva režimy pohybu kurzoru, o kterých se dočteš v příslušné části "
-"dokumentace."
+"Existují dva režimy pohybu kurzoru po mapě, o kterých se dočteš v příslušné "
+"části dokumentace."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "All object map hotkeys can be changed in the keyboard shortcut configuration."
 msgstr ""
-"Všechny klávesové zkratky pro mapu předmětů lze změnit v konfigurátoru "
+"Všechny klávesové zkratky pro mapu předmětů lze změnit v nastavení "
 "klávesových zkratek."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid "Training mode is expanded as well."
-msgstr "Režim Trénink se také dočkal vylepšení."
+msgstr "Režim tréninku se také dočkal vylepšení."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid "You can now instantly zero the cooldown of all skills by pressing f1."
 msgstr ""
-"Klávesou F1 nyní můžeš okamžitě vynulovat prodlevu před dalším použitím u "
-"všech schopností najednou."
+"Klávesou F1 nyní můžeš okamžitě vynulovat prodlevu před dobitím u všech "
+"schopností najednou."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "When you press the f2 key, a screen will open where you can change the "
 "levels of your skills and blow force recovery rate. This screen only "
@@ -242,7 +640,7 @@ msgstr ""
 "jen ty schopnosti, které už máš. Jejich úroveň můžeš měnit pouze v rozsahu "
 "od 1 až po aktuálně odemčené maximum."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "In the settings, on the \"Behavior\" tab, a checkbox has been added that "
 "determines whether the first-person view state will be saved between game "
@@ -250,20 +648,20 @@ msgid ""
 msgstr ""
 "V nastavení na kartě \"Chování\" bylo přidáno zaškrtávací políčko, které "
 "určuje, jestli aktuálně zvolený způsob pohledu (z pozice postavy nebo ze "
-"středu hrací plochy) zůstane zachován mezi jednotlivými hrami."
+"středu hrací plochy) zůstane zachován po dohrání hry."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "It is now possible to delete saved game progress and reset settings to "
 "default values."
 msgstr ""
 "Nyní je možné odstranit uložený postup hrou a obnovit výchozí nastavení."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid "This can be done in the settings, on the \"General\" tab."
 msgstr "Můžeš to udělat v nastavení na kartě \"Obecné\"."
 
-#: BallBouncer/docs/en/changelog.md:block 15 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 34 (unordered list)
 msgid ""
 "You will not be able to reset settings or delete your progress if you "
 "accessed settings through the pause menu."
@@ -271,33 +669,29 @@ msgstr ""
 "Pokud jsi do nastavení vstoupil/a z menu Pauza, obnovit nastavení ani "
 "vymazat svůj postup nemůžeš."
 
-#: BallBouncer/docs/en/changelog.md:block 16 (header)
-msgid "Changes"
-msgstr "Změny"
-
-#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
 msgid "The game mode selection screen has been changed."
 msgstr "Změnila se obrazovka pro výběr režimu hry."
 
-#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
 msgid ""
 "the screen is now represented by a virtual form instead of a menu. "
 "Navigation is similar to the settings or profile screen."
 msgstr ""
-"obrazovka se nyní vykresluje ve virtuálním formuláři místo v menu. Navigace "
-"na ní je podobná jako na obrazovce Nastavení nebo Profil."
+"obrazovka se nyní vykresluje ve virtuálním dialogu místo v menu. Navigace na "
+"ní je podobná jako na obrazovce Nastavení nebo Profil."
 
-#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
 msgid ""
 "From the new screen you can determine whether the game session will be "
 "recorded."
 msgstr "Na nové obrazovce si můžeš vybrat, jestli se má hra nahrávat."
 
-#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
 msgid "Improved profile screen interface."
 msgstr "Vylepšeno rozhraní obrazovky Profil."
 
-#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
 msgid ""
 "Now any item from the statistics list can be copied to the clipboard by "
 "pressing ctrl+c."
@@ -305,30 +699,30 @@ msgstr ""
 "Nyní lze libovolnou položku ze seznamu statistik zkopírovat do schránky "
 "stisknutím kláves ctrl+C."
 
-#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
 msgid ""
 "The statistics tab now displays the current number of achievement points."
 msgstr ""
 "Na záložce Statistiky je nyní uvedeno, kolik máš aktuálně úspěchových bodů."
 
-#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
 msgid "Auras now display their bonus as well."
 msgstr "Aury nyní zobrazují i svůj bonus."
 
-#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
 msgid "Slight changes to the game balance."
 msgstr "Mírné změny ve vyvážení hry."
 
-#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
 msgid ""
 "Now for every hundred points up to a thousand, one coin will be awarded. For "
 "example, you scored 678 points, in which case you will receive 7 coins, and "
 "not one as before."
 msgstr ""
-"Za každých sto bodů až do tisíce dostaneš jednu minci. Například jsi získal/"
-"a 678 bodů, v takovém případě dostaneš 7 mincí a ne jednu jako dřív."
+"Za každých sto bodů až do tisíce teď dostaneš jednu minci. Například jsi "
+"získal/a 678 bodů, v takovém případě dostaneš 7 mincí a ne jednu jako dřív."
 
-#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
 msgid ""
 "After a thousand points, everything remains as before, but the 10 coins "
 "received remain with you. For example, you scored 1234 points, in which case "
@@ -338,11 +732,11 @@ msgstr ""
 "mincí, které jsi dostal/a předtím, máš pořád. Například jsi získal/a 1234 "
 "bodů, v takovém případě dostaneš 11 mincí."
 
-#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
 msgid "The maximum number of objects on the field has been increased."
 msgstr "Zvýšen maximální počet předmětů na hrací ploše."
 
-#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
 msgid ""
 "Now the sound played by pressing the c key in first person camera mode will "
 "play in the center of the field."
@@ -350,7 +744,7 @@ msgstr ""
 "Zvuk po stisku klávesy C v režimu pohledu z pozice postavy se nyní přehrává "
 "ze středu hrací plochy."
 
-#: BallBouncer/docs/en/changelog.md:block 17 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
 msgid ""
 "The file name format with critical error data has been changed to (error "
 "yyyy_MM_dd hh-mm-ss.log)"
@@ -358,7 +752,7 @@ msgstr ""
 "Formát názvu souboru s daty kritické chyby byl změněn na (error yyyy_MM_dd "
 "hh-mm-ss.log)"
 
-#: BallBouncer/docs/en/changelog.md:block 19 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 38 (unordered list)
 msgid ""
 "Now, when critical errors are displayed, the sound will be completely muted "
 "instead of looping."
@@ -366,15 +760,15 @@ msgstr ""
 "Nyní se při zobrazení kritické chyby zvuk zcela ztlumí, místo aby hrál ve "
 "smyčce."
 
-#: BallBouncer/docs/en/changelog.md:block 19 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 38 (unordered list)
 msgid "Improved game stability in some cases."
 msgstr "V některých případech se zlepšila stabilita hry."
 
-#: BallBouncer/docs/en/changelog.md:block 20 (header)
+#: BallBouncer/docs/en/changelog.md:block 39 (header)
 msgid "1.1.1"
 msgstr "1.1.1"
 
-#: BallBouncer/docs/en/changelog.md:block 22 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 41 (unordered list)
 msgid ""
 "Fixed a critical bug that occurred when the first person mode and the ball "
 "watch mode were active at the same time."
@@ -382,15 +776,15 @@ msgstr ""
 "Opravena kritická chyba, ke které docházelo, když byl aktivní režim pohledu "
 "z pozice postavy a současně režim sledování míče."
 
-#: BallBouncer/docs/en/changelog.md:block 22 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 41 (unordered list)
 msgid "Fixed some other minor bugs."
 msgstr "Opraveno několik dalších drobných chyb."
 
-#: BallBouncer/docs/en/changelog.md:block 23 (header)
+#: BallBouncer/docs/en/changelog.md:block 42 (header)
 msgid "1.1.0"
 msgstr "1.1.0"
 
-#: BallBouncer/docs/en/changelog.md:block 24 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 43 (paragraph)
 msgid ""
 "This version is focused on improving the user experiance: Successful bat hit "
 "sound, first person camera view, alternative bat swing keys, etc."
@@ -399,7 +793,7 @@ msgstr ""
 "odpálení míče, režim pohledu z pozice postavy, alternativní klávesy pro "
 "máchnutí pálkou atd."
 
-#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 45 (unordered list)
 msgid ""
 "The game now supports translations that are missing one or more strings. If "
 "a string is not found, the game falls back to English localization strings."
@@ -408,7 +802,7 @@ msgstr ""
 "není řetězec nalezen, hra místo něj použije odpovídající anglický "
 "lokalizační řetězec."
 
-#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 45 (unordered list)
 msgid ""
 "In ball watching mode, a background sound has been attached to the ceiling, "
 "which will help make watching more spectacular."
@@ -416,7 +810,7 @@ msgstr ""
 "V režimu sledování míče nyní strop přehrává zvuk na pozadí, takže sledování "
 "teď bude efektnější."
 
-#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 45 (unordered list)
 msgid ""
 "Added a sound to indicate when the bat succesfully hits the ball. By "
 "default, the notification is disabled; it is enabled in the settings, on the "
@@ -426,15 +820,15 @@ msgstr ""
 "je toto upozornění vypnuté; můžeš si ho zapnout v nastavení na kartě "
 "\"Chování\"."
 
-#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 45 (unordered list)
 msgid ""
 "Implemented first-person camera mode. To switch between modes, press v while "
 "playing."
 msgstr ""
-"Implementován režim pohledu z pozice postavy (pohled z první osoby). Chceš-"
-"li režim přepnout, stiskni při hře klávesu V."
+"Implementován režim pohledu z pozice postavy. Chceš-li režim přepnout, "
+"stiskni při hře klávesu V."
 
-#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 45 (unordered list)
 msgid ""
 "Errors during the update are now written to a file that will be located in "
 "the userData/errorLogs folder."
@@ -442,7 +836,7 @@ msgstr ""
 "Chyby při aktualizaci se nyní zapisují do souboru, který se nachází ve "
 "složce userData/errorLogs."
 
-#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 45 (unordered list)
 msgid ""
 "Added temporary alternative keys for making horizontal and vertical bat "
 "swings."
@@ -450,19 +844,20 @@ msgstr ""
 "Přidány dočasné alternativní klávesy pro horizontální a vertikální máchnutí "
 "pálkou."
 
-#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 45 (unordered list)
 msgid ""
 "For a horizontal swing, use the e key, for a vertical swing, use the r key."
-msgstr "Pro vodorovné máchnutí se teď používá klávesa e, pro svislé klávesa r."
+msgstr ""
+"Pro vodorovné máchnutí teď můžeš použít i klávesu e, pro svislé i klávesu r."
 
-#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 45 (unordered list)
 msgid ""
 "This solution is temporary and remains until the key config is implemented."
 msgstr ""
 "Toto řešení je dočasné, jen do doby, než bude implementováno nastavení "
 "vlastních klávesových zkratek."
 
-#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 45 (unordered list)
 msgid ""
 "Now items with an available reward in the statistics list are at the "
 "beginning of the list."
@@ -470,32 +865,32 @@ msgstr ""
 "Položky v seznamu statistik, u kterých je dostupná odměna, jsou nyní na "
 "začátku seznamu."
 
-#: BallBouncer/docs/en/changelog.md:block 28 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 47 (unordered list)
 msgid ""
 "Increased points received for perfect strike streeks, ball bounces off the "
 "ceiling and ball with object collisions streeks."
 msgstr ""
-"Zvýšen počet bodů za dokonalé trefy, odrazy míče od stropu a kolize míče s "
-"předměty."
+"Zvýšen počet bodů za dokonalé trefy, odrazy míče od stropu a nárazy míče do "
+"předmětů."
 
-#: BallBouncer/docs/en/changelog.md:block 28 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 47 (unordered list)
 msgid "Documentation has been updated to take new features into account."
 msgstr "Dokumentace byla aktualizována s ohledem na nové funkce."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 49 (unordered list)
 msgid "Increased the volume of the landing sound after a jump."
 msgstr "Zvýšena hlasitost zvuku při dopadu po výskoku."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 49 (unordered list)
 msgid ""
 "Now the leader's aura does not increase the points lost due to penalties."
 msgstr ""
-"Aura vůdce nyní nezvyšuje počet bodů, o které přicházíš kvůli penalizacím."
+"Aura vítěze nyní nezvyšuje počet bodů, o které přicházíš kvůli penalizacím."
 
-#: BallBouncer/docs/en/changelog.md:block 31 (header)
+#: BallBouncer/docs/en/changelog.md:block 50 (header)
 msgid "1.0.0"
 msgstr "1.0.0"
 
-#: BallBouncer/docs/en/changelog.md:block 32 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 51 (paragraph)
 msgid "Initial release."
 msgstr "První verze."
