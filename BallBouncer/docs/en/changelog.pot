@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2025-03-12 13:08+0000\n"
+"POT-Creation-Date: 2025-03-12 19:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -108,6 +108,10 @@ msgstr ""
 
 #: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
 msgid "It is now possible to play with jaws active."
+msgstr ""
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid "Fixed an issue with launching the game on Windows for some users."
 msgstr ""
 
 #: BallBouncer/docs/en/changelog.md:block 9 (header)

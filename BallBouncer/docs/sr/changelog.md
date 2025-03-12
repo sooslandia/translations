@@ -36,6 +36,7 @@ and properly finalized if it is not checked.
 no longer canceled even if the "Cancel recording when manually aborting the
 game" checkbox is checked.
 - It is now possible to play with jaws active.
+- Fixed an issue with launching the game on Windows for some users.
 
 ## 1.3.2
 
