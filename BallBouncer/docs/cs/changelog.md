@@ -1,5 +1,42 @@
 % Historie změn
 
+## 1.3.3
+
+### Nové funkce
+
+- Spanish translation added. Translators:
+[rayo-alcantar](https://github.com/rayo-alcantar),
+[ogomez92](https://github.com/ogomez92).
+
+### Změny
+
+- Czech translation updated. Translator
+[4sensegaming](https://github.com/4sensegaming).
+
+### Opravy
+
+- Opravena kritická chyba, ke které docházelo, když se ozývalo mnoho zvuků
+zároveň.
+- Fixed issues with star modules.
+   - Additional module information tab now updates when you buy upgrades.
+   - The description of the "ball controller" module's controlled ball speed
+increase no longer includes the information about the twelve percent speed
+increase.
+   - When pressing the key to check the current amount of star energy, the number is
+now announced at the beginning of the message.
+   - Fixed a critical bug when activating the "ball controller" star module and the
+ball was caught during activation.
+- Fixed the completion tracking of the "Magnetism" skill usage quest in training
+mode.
+- Recording issues fixed.
+   - When closing the game using Alt+F4 during gameplay, the recording is canceled
+if the "Cancel recording when manually aborting the game" checkbox is checked
+and properly finalized if it is not checked.
+   - When the game ends prematurely due to reaching -1000 points, the recording is
+no longer canceled even if the "Cancel recording when manually aborting the
+game" checkbox is checked.
+- It is now possible to play with jaws active.
+
 ## 1.3.2
 
 ### Opravy
@@ -66,7 +103,6 @@ obrazovce spuštění hry a stiskni klávesu D, případně klikni na tlačítko
 ### Změny
 
 - Aury teď můžou být aktivní nebo neaktivní.
-
    - Na začátku můžeš v jednu chvíli používat pouze dvě aury zároveň, ale časem
 získáš možnost počet aktivních aur zvýšit, stejně jako odemknout úplně nové
 aury.
@@ -82,20 +118,17 @@ investované do jejího vylepšování se ti vrátí.
 enter podržet pro rychlou opakovanou aktivaci stejné položky.
 - Výpočet získaných mincí byl upraven pro konečná skóre vyšší než dva miliony.
 - Chování přehrávání zvuku při zjišťování pozice postavy se změnilo.
-
    - Dřív: Zvuk se ozýval z pozice postavy v režimu pohledu ze středu plochy a ze
 středu plochy v režimu pohledu z pozice postavy.
    - Nyní: Zvuk se vždycky ozve z pozice postavy, kromě případu, kdy je aktivní
 pohled z pozice postavy a zároveň je vypnutý režim sledování míče. Jedině v
 tomto případě se zvuk ozve ze středu plochy.
 - Obrazovka seznámení se zvuky byla přepracována.
-
    - Menu nahradil virtuální dialog.
    - Základní zvuky hry i zvuky jednotlivých nových režimů jsou nyní rozděleny do
 příslušných karet dialogu, aby se po nich lépe pohybovalo a daly se přehrávat
 i přímo během hry.
 - Změnil se způsob nahrávání hry.
-
    - Nahrávky se teď ukládají ve formátu MP3.
    - Starý způsob nahrávání už nefunguje, ale nahrávky ve starém formátu se pořád
 přehrávat dají.
@@ -103,7 +136,6 @@ přehrávat dají.
    - Možnost přehrávat nahrávky ve starém formátu bude odstraněna ve verzi 1.5.0.
 - Drobné úpravy a opravy nekonzistencí v anglickém překladu.
 - Opraveno nastavování úrovní schopností v režimu tréninku.
-
    - Nastavené úrovně schopností se teď reálně projeví ve hře.
    - Nyní je také možné nastavit schopnosti na libovolnou úroveň až po dostupné
 maximum.
