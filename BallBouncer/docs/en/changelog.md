@@ -23,6 +23,7 @@
    - When closing the game using Alt+F4 during gameplay, the recording is canceled if the "Cancel recording when manually aborting the game" checkbox is checked and properly finalized if it is not checked.
    - When the game ends prematurely due to reaching -1000 points, the recording is no longer canceled even if the "Cancel recording when manually aborting the game" checkbox is checked.
 - It is now possible to play with jaws active.
+- Fixed an issue with launching the game on Windows for some users.
 
 ## 1.3.2
 
