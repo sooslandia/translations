@@ -2674,12 +2674,12 @@ msgstr "Odrazy míče od podlahy: {0}."
 #, python-brace-format
 msgctxt "StatItemBallsCaught"
 msgid "Total balls caught: {0}."
-msgstr "Celkem chyceno míčů: {0}."
+msgstr "Chycené míče: {0}."
 
 #, python-brace-format
 msgctxt "StatItemBarbellEffectsActivated"
 msgid "Effects activated in trial of speed mode: {0}."
-msgstr "Celkem aktivováno efektů v režimu Zkouška rychlosti: {0}."
+msgstr "Aktivované efekty v režimu Zkouška rychlosti: {0}."
 
 #, python-brace-format
 msgctxt "StatItemBatHits"
@@ -2716,7 +2716,7 @@ msgstr "Nejvíc gólů v řadě: {0}."
 #, python-brace-format
 msgctxt "StatItemGatesHits"
 msgid "Total goal hits: {0}."
-msgstr "Góly celkem: {0}."
+msgstr "Gólů celkem: {0}."
 
 #, python-brace-format
 msgctxt "StatItemItemsActivated"
@@ -2768,7 +2768,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "StatItemPerfectHits"
 msgid "Perfect strikes made in total: {0}."
-msgstr "Dokonalé trefy celkem: {0}."
+msgstr "Dokonalých tref celkem: {0}."
 
 #, python-brace-format
 msgctxt "StatItemPerfectHitsStreak"
