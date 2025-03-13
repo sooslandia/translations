@@ -9,9 +9,9 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2025-03-08 20:12+0000\n"
-"PO-Revision-Date: 2025-03-12 10:46+0100\n"
+"PO-Revision-Date: \n"
 "Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
-"Language-Team: 4Sense Gaming\n"
+"Language-Team: \n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -227,7 +227,7 @@ msgstr "Průběh hry"
 
 #: BallBouncer/docs/en/readme.md:block 25 (header)
 msgid "Training mode"
-msgstr "Režim Tréninku"
+msgstr "Režim Trénink"
 
 #: BallBouncer/docs/en/readme.md:block 26 (paragraph)
 #| msgid ""
@@ -254,7 +254,7 @@ msgstr ""
 "je zrovna možné odpálit míč. Ten si můžeš poslechnout na obrazovce "
 "\"Seznámení se zvuky\". Tento zvuk se začne přehrávat, teprve když se míč "
 "alespoň jednou odrazil od podlahy, abys mohl/a lépe odhadnout tu správnou "
-"chvíli pro dokonalou trefu. V režimu tréninku se nepočítají žádné herní "
+"chvíli pro dokonalou trefu. V režimu Trénink se nepočítají žádné herní "
 "statistiky ani nezískáváš body."
 
 #: BallBouncer/docs/en/readme.md:block 27 (paragraph)
@@ -642,7 +642,7 @@ msgid ""
 "In addition to the normal and training modes, there are three other modes in "
 "the game, but they are not unlocked immediately."
 msgstr ""
-"Kromě normálního režimu a režimu tréninku existují ještě tři další režimy "
+"Kromě normálního režimu a režimu Trénink existují ještě tři další režimy "
 "hry, ty ale nejsou dostupné hned od začátku."
 
 #: BallBouncer/docs/en/readme.md:block 63 (paragraph)
@@ -819,7 +819,7 @@ msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 81 (paragraph)
 msgid "Important: recordings are not made during training mode."
-msgstr "Důležité: V režimu tréninku nahrávání nefunguje."
+msgstr "Důležité: V režimu Trénink nahrávání nefunguje."
 
 #: BallBouncer/docs/en/readme.md:block 82 (paragraph)
 msgid ""
@@ -1240,7 +1240,7 @@ msgid ""
 "combinations from this list using the corresponding buttons."
 msgstr ""
 "Každý příkaz má seznam přiřazených klávesových zkratek. Do tohoto seznamu "
-"můžeš přidávat další nové klávesové zkratky nebo z něj odstraňovat stávající "
+"můžeš přidávat nové klávesové zkratky nebo z něj odstraňovat stávající "
 "příslušnými tlačítky."
 
 #: BallBouncer/docs/en/readme.md:block 106 (paragraph)
