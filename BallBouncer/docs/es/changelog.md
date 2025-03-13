@@ -1,5 +1,43 @@
 % registro de cambios
 
+## 1.3.3
+
+### Nuevas características
+
+- Spanish translation added. Translators:
+[rayo-alcantar](https://github.com/rayo-alcantar),
+[ogomez92](https://github.com/ogomez92).
+
+### Cambios
+
+- Czech translation updated. Translator
+[4sensegaming](https://github.com/4sensegaming).
+
+### Arreglos
+
+- Se corrigió un error crítico que ocurría cuando se reproducían muchos sonidos
+simultáneamente.
+- Fixed issues with star modules.
+   - Additional module information tab now updates when you buy upgrades.
+   - The description of the "ball controller" module's controlled ball speed
+increase no longer includes the information about the twelve percent speed
+increase.
+   - When pressing the key to check the current amount of star energy, the number is
+now announced at the beginning of the message.
+   - Fixed a critical bug when activating the "ball controller" star module and the
+ball was caught during activation.
+- Fixed the completion tracking of the "Magnetism" skill usage quest in training
+mode.
+- Recording issues fixed.
+   - When closing the game using Alt+F4 during gameplay, the recording is canceled
+if the "Cancel recording when manually aborting the game" checkbox is checked
+and properly finalized if it is not checked.
+   - When the game ends prematurely due to reaching -1000 points, the recording is
+no longer canceled even if the "Cancel recording when manually aborting the
+game" checkbox is checked.
+- It is now possible to play with jaws active.
+- Fixed an issue with launching the game on Windows for some users.
+
 ## 1.3.2
 
 ### Arreglos
@@ -68,7 +106,6 @@ descripción del modo".
 ### Cambios
 
 - Ahora las auras pueden estar activas o inactivas.
-
    - Inicialmente, puedes usar solo dos auras al mismo tiempo, pero en el futuro, se
 puede aumentar el número de auras activas, así como adquirir nuevas.
    - También puedes abrir la descripción de un aura, excepto las auras de líder y de
@@ -86,7 +123,6 @@ numérico, y también mantener Enter en los botones para activaciones rápidas.
 finales superiores a dos millones.
 - Se ha cambiado el comportamiento de la reproducción de sonido para comprobar la
 posición del personaje.
-
    - Anteriormente: El sonido se reproducía en la posición del personaje en la vista
 del centro del campo, y se reproducía en el centro del campo en la vista en
 primera persona.
@@ -95,13 +131,11 @@ cuando la vista en primera persona está activa y el modo de seguimiento de la
 pelota está desactivado. En este caso, el sonido se reproduce en el centro del
 campo.
 - La pantalla de aprender sonidos ha sido rediseñada.
-
    - El menú ha sido reemplazado por un formulario virtual.
    - Los sonidos, tanto del juego base como de los nuevos modos, ahora están
 organizados en pestañas separadas del formulario para facilitar la navegación
 y la posibilidad de escucharlos durante el juego.
 - El método de grabación de la partida ha cambiado.
-
    - Ahora, las grabaciones se guardan en formato MP3.
    - El método de grabación antiguo ha sido desactivado, pero aún es posible
 reproducir archivos grabados anteriormente.
@@ -110,7 +144,6 @@ reproducir archivos grabados anteriormente.
 versión 1.5.0.
 - Se corrigieron pequeños cambios e inconsistencias en la traducción al español.
 - Se ha solucionado el ajuste de niveles de habilidad en el modo de entrenamiento.
-
    - Ahora, cambiar los niveles de habilidad tendrá un efecto en la sesión de juego.
    - Además, ahora puedes establecer cualquier nivel de habilidad hasta el máximo
 posible.

@@ -65,13 +65,13 @@
     <value>Přidat</value>
   </data>
   <data name="AddKeyShortcutButtonText" xml:space="preserve">
-    <value>Přidat zkratku</value>
+    <value>Přidat klávesovou zkratku</value>
   </data>
   <data name="AddKeyShortcutError" xml:space="preserve">
-    <value>Zkratku se nepodařilo přidat. Možná se pokoušíš vytvořit duplicitní zkratku.</value>
+    <value>Klávesovou zkratku se nepodařilo přidat. Možná se pokoušíš vytvořit duplicitní zkratku.</value>
   </data>
   <data name="AddKeyShortcutSuccess" xml:space="preserve">
-    <value>Zkratka přidána.</value>
+    <value>Klávesová zkratka přidána.</value>
   </data>
   <data name="CancelButtonText" xml:space="preserve">
     <value>Zrušit</value>
@@ -80,7 +80,7 @@
     <value>Zavřít</value>
   </data>
   <data name="DeleteKeyShortcutButtonText" xml:space="preserve">
-    <value>Smazat zkratku</value>
+    <value>Smazat klávesovou zkratku</value>
   </data>
   <data name="KeyCatcherControlCatching" xml:space="preserve">
     <value>Stiskni klávesu, kterou chceš přidat do zkratky.</value>
@@ -98,19 +98,19 @@
     <value>Klávesa {0} nastavena. Stiskni enter pro změnu nebo delete pro odstranění.</value>
   </data>
   <data name="KeyConfigureTitle" xml:space="preserve">
-    <value>Konfigurátor klávesových zkratek.</value>
+    <value>Nastavení ovládání.</value>
   </data>
   <data name="KeyConfigureTitleWithHint" xml:space="preserve">
-    <value>Konfigurátor klávesových zkratek: Klávesami tab a shift+tab se pohybuješ po obrazovce dopředu a dozadu. Šipkami nahoru a dolů se pohybuješ po seznamech a stromových seznamech. Enterem potvrdíš vybranou položku.</value>
+    <value>Obrazovka nastavení ovládání: Klávesami tab a shift+tab se pohybuješ po obrazovce dopředu a dozadu. Šipkami nahoru a dolů se pohybuješ po seznamech a stromových seznamech. Enterem potvrdíš vybranou položku.</value>
   </data>
   <data name="KeyShortcutAddTitle" xml:space="preserve">
-    <value>Přidání zkratky.</value>
+    <value>Přidání klávesové zkratky.</value>
   </data>
   <data name="KeyShortcutAddTitleWithHint" xml:space="preserve">
-    <value>Přidání zkratky: Klávesami tab a shift+tab se pohybuješ po obrazovce dopředu a dozadu. Šipkami nahoru a dolů se pohybuješ po seznamech. Enterem potvrdíš vybranou položku.</value>
+    <value>Obrazovka přidání klávesové zkratky: Klávesami tab a shift+tab se pohybuješ po obrazovce dopředu a dozadu. Šipkami nahoru a dolů se pohybuješ po seznamech. Enterem potvrdíš vybranou položku.</value>
   </data>
   <data name="ModifierListAlt" xml:space="preserve">
-    <value>Klávesa alt</value>
+    <value>klávesa alt</value>
   </data>
   <data name="ModifierListAny" xml:space="preserve">
     <value>Obě</value>
