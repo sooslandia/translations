@@ -79,14 +79,14 @@ dají zavřít klávesou escape.
 
 ## Průběh hry
 
-### Režim Tréninku
+### Režim Trénink
 
 Hra má tréninkový režim, kde můžeš trávit neomezeně dlouhou dobu a kde jsou
 vypnuté veškeré postihy. V tomto režimu se bude přehrávat zvuk pokaždé, když je
 zrovna možné odpálit míč. Ten si můžeš poslechnout na obrazovce "Seznámení se
 zvuky". Tento zvuk se začne přehrávat, teprve když se míč alespoň jednou odrazil
 od podlahy, abys mohl/a lépe odhadnout tu správnou chvíli pro dokonalou trefu. V
-režimu tréninku se nepočítají žádné herní statistiky ani nezískáváš body.
+režimu Trénink se nepočítají žádné herní statistiky ani nezískáváš body.
 
 Během tréninku klávesou F2 otevřeš obrazovku, kde si můžeš nastavit úroveň
 vylepšení zvýšená rychlost obnovy síly úderu od první až po maximální dostupnou
@@ -223,7 +223,7 @@ jsou uvedeny i v tabulkách klávesových zkratek.
 
 ### Další režimy hry
 
-Kromě normálního režimu a režimu tréninku existují ještě tři další režimy hry, ty
+Kromě normálního režimu a režimu Trénink existují ještě tři další režimy hry, ty
 ale nejsou dostupné hned od začátku.
 
 Nové režimy se odemykají získáváním odměn za dosažení statistických milníků.
@@ -284,7 +284,7 @@ Všechny uvedené klávesové zkratky si můžeš změnit v nastavení ovládán
 Průběh hry si můžeš nahrávat a potom si nahrávku pustit v libovolném
 multimediálním přehrávači.
 
-Důležité: V režimu tréninku nahrávání nefunguje.
+Důležité: V režimu Trénink nahrávání nefunguje.
 
 Chceš-li začít nahrávat, ujisti se, že je zaškrtnuté políčko "Nahrávat hru" na
 obrazovce výběru režimu hry. Nahrávání se spustí hned po úvodním odpočítávání.
@@ -354,7 +354,7 @@ Všechny klávesy uvedené v této části si můžeš upravit v nastavení ovl�
 | Zjištění aktuálního skóre | P |
 | Zapauzování hry | Escape |
 
-### Režim Tréninku
+### Režim Trénink
 
 | Akce | Klávesa |
 | :-- | :-- |
@@ -381,8 +381,8 @@ Na obrazovce nastavení ovládání je stromový seznam, ve kterém jsou na prvn
 úrovni zobrazeny dostupné kategorie příkazů a v nich pak samotné příkazy.
 
 Každý příkaz má seznam přiřazených klávesových zkratek. Do tohoto seznamu můžeš
-přidávat další nové klávesové zkratky nebo z něj odstraňovat stávající
-příslušnými tlačítky.
+přidávat nové klávesové zkratky nebo z něj odstraňovat stávající příslušnými
+tlačítky.
 
 Po stisku tlačítka "Přidat klávesovou zkratku" se otevře nová obrazovka se čtyřmi
 seznamy, políčkem pro přiřazení hlavní klávesy a tlačítky "Přidat" a "Zrušit".

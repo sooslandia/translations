@@ -4,39 +4,38 @@
 
 ### Nové funkce
 
-- Spanish translation added. Translators:
+- Přidán španělský překlad. Překladatelé:
 [rayo-alcantar](https://github.com/rayo-alcantar),
 [ogomez92](https://github.com/ogomez92).
 
 ### Změny
 
-- Czech translation updated. Translator
+- Aktualizován český překlad. Překladatel
 [4sensegaming](https://github.com/4sensegaming).
 
 ### Opravy
 
 - Opravena kritická chyba, ke které docházelo, když se ozývalo mnoho zvuků
 zároveň.
-- Fixed issues with star modules.
-   - Additional module information tab now updates when you buy upgrades.
-   - The description of the "ball controller" module's controlled ball speed
-increase no longer includes the information about the twelve percent speed
-increase.
-   - When pressing the key to check the current amount of star energy, the number is
-now announced at the beginning of the message.
-   - Fixed a critical bug when activating the "ball controller" star module and the
-ball was caught during activation.
-- Fixed the completion tracking of the "Magnetism" skill usage quest in training
-mode.
-- Recording issues fixed.
-   - When closing the game using Alt+F4 during gameplay, the recording is canceled
-if the "Cancel recording when manually aborting the game" checkbox is checked
-and properly finalized if it is not checked.
-   - When the game ends prematurely due to reaching -1000 points, the recording is
-no longer canceled even if the "Cancel recording when manually aborting the
-game" checkbox is checked.
-- It is now possible to play with jaws active.
-- Fixed an issue with launching the game on Windows for some users.
+- Opraveny problémy s hvězdnými moduly.
+   - Karta "Další informace o modulu" se teď aktualizuje při nákupu vylepšení.
+   - U modulu "ovládání míče" už v popisu vylepšení rychlosti ovládaného míče není
+informace o dvanáctiprocentním navýšení rychlosti.
+   - Při stisku klávesy pro zjištění aktuálního množství hvězdné energie je teď
+číslo oznámeno na začátku promluvy.
+   - Opravena kritická chybapři aktivaci hvězdného modulu ovládání míče, pokud byl
+během aktivace zároveň míč chycen.
+- Opraveno sledování postupu při plnění výzvy k používání schopnosti magnetismus
+v režimu Trénink.
+- Opraveny problémy s nahrávkami.
+   - Při zavření hry zkratkou alt+F4 během hry se nahrávka přeruší, pokud je
+zaškrtnuto zaškrtávací políčko "Přestat nahrávat při přerušení hry", nebo se
+správně uzavře, pokud tato volba zaškrtnuta není.
+   - Když hra skončí předčasně, protože skóre kleslo pod minus 1000, nahrávka už se
+automaticky neukončí, ani pokud je zaškrtnuto zaškrtávací políčko "Přestat
+nahrávat při přerušení hry".
+- Nyní je možné hrát se spuštěným JAWSem.
+- Opraven problém na některých systémech při spouštění hry na Windows.
 
 ## 1.3.2
 
@@ -136,7 +135,7 @@ přehrávat dají.
    - Nové nahrávky budou umístěny ve složce "userData/mp3recordings".
    - Možnost přehrávat nahrávky ve starém formátu bude odstraněna ve verzi 1.5.0.
 - Drobné úpravy a opravy nekonzistencí v anglickém překladu.
-- Opraveno nastavování úrovní schopností v režimu tréninku.
+- Opraveno nastavování úrovní schopností v režimu Trénink.
    - Nastavené úrovně schopností se teď reálně projeví ve hře.
    - Nyní je také možné nastavit schopnosti na libovolnou úroveň až po dostupné
 maximum.
@@ -227,7 +226,7 @@ na mapě nachází.
 části dokumentace.
    - Všechny klávesové zkratky pro mapu předmětů lze změnit v nastavení klávesových
 zkratek.
-- Režim tréninku se také dočkal vylepšení.
+- Režim Trénink se také dočkal vylepšení.
    - Klávesou F1 nyní můžeš okamžitě vynulovat prodlevu před dobitím u všech
 schopností najednou.
    - Po stisku klávesy F2 se otevře obrazovka, kde můžeš měnit úrovně svých
