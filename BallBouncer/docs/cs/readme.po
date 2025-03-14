@@ -818,9 +818,9 @@ msgid ""
 "to rewind the recording by 5 seconds, use the arrow keys right - forward, "
 "left - backward. Rewinding by 30 seconds is done with the ctrl key held down."
 msgstr ""
-"Pro přetočení nahrávky o 5 vteřin stiskni šipku doprava - vpřed - nebo "
-"doleva - vzad. Pokud zároveň se šipkou podržíš control, přetočíš nahrávku o "
-"30 vteřin."
+"Pro přetočení nahrávky o 5 vteřin stiskni šipku doprava - dopředu - nebo "
+"doleva - dozadu. Pokud zároveň se šipkou podržíš control, přetočíš nahrávku "
+"o 30 vteřin."
 
 #: BallBouncer/docs/en/readme.md:block 90 (unordered list)
 msgid ""
@@ -1006,7 +1006,7 @@ msgid ""
 "set)."
 msgstr ""
 "Aktivace/deaktivace hvězdného modulu uloženého ve slotu 1 až 4 (pokud je v "
-"daném slotu nějaký modul uložený)."
+"daném slotu nějaký modul uložen)."
 
 #: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "alt + keys 1 to 4/numpad1 to numpad4"
@@ -1187,7 +1187,7 @@ msgid ""
 "allowed."
 msgstr ""
 "Po nastavení všech potřebných parametrů klikni na tlačítko \"Přidat\". Měj "
-"však na paměti, že jsou zakázány duplicitní klávesové zkratky v rámci stejné "
+"ale na paměti, že jsou zakázány duplicitní klávesové zkratky v rámci stejné "
 "kategorie příkazů."
 
 #: BallBouncer/docs/en/readme.md:block 110 (paragraph)
