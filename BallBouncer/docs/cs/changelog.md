@@ -6,20 +6,19 @@
 
 - Aktualizován český překlad. Překladatel
 [4sensegaming](https://github.com/4sensegaming).
-- Spanish translation updated. Translator:
+- Aktualizován španělský překlad. Překladatel:
 [ogomez92](https://github.com/ogomez92).
-- If you are unable to activate an aura, you will now be notified clearly.
-- If you do not have enough energy to activate a star module, you will now be
-notified when attempting to activate it.
+- Pokud není možné aktivovat auru, budeš na to nyní jasně upozorněn/a.
+- Pokud nemáš dost energie na aktivaci hvězdného modulu, budeš na to nyní jasně
+upozorněn/a.
 
 ### Opravy
 
-- Fixed an issue with zdsr.
-- The behavior of the goal in the trial of speed mode has been fixed.
-   - Now the goal lowers back to its original height after the "Elevator" effect
-ends.
-   - The goal will no longer disappear from the object map when rising or lowering.
-- Fixed the completion tracking of certain quests in training mode.
+- Opraven problém s zdsr.
+- Chování branky v režimu Zkouška rychlosti bylo opraveno.
+   - Branka se teď spustí zpátky do svojí původní výšky po vypršení efektu výtahu.
+   - Branka už nemizí z mapy předmětů, když stoupá nebo klesá.
+- Opraveno sledování postupu při plnění určitých výzev v režimu Trénink.
 
 ## 1.3.3
 
