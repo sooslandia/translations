@@ -188,13 +188,6 @@ msgstr ""
 "Na obrazovce obchodu enterem na vybrané položce otevřeš její podrobný popis."
 
 #: BallBouncer/docs/en/readme.md:block 21 (paragraph)
-#| msgid ""
-#| "On the shop screen, by pressing enter on the item you have selected, you "
-#| "can open reference information that describes this item. In your profile, "
-#| "on the \"Statistics\" tab, by pressing enter on a list item you can "
-#| "receive a reward, if available. By pressing ctrl+c you can copy the "
-#| "contents of the item into your clipboard. On the “Skills” tab, by "
-#| "clicking on an item, you can get detailed information about the skill."
 msgid ""
 "In the profile, on the \"Statistics\" tab, by pressing enter on a list item "
 "you can claim a reward, if available. By pressing ctrl+c you can copy the "
@@ -230,17 +223,6 @@ msgid "Training mode"
 msgstr "Režim Trénink"
 
 #: BallBouncer/docs/en/readme.md:block 26 (paragraph)
-#| msgid ""
-#| "The game has a training mode where you can spend unlimited time and where "
-#| "all penalties are disabled. In this mode, a sound will be played when you "
-#| "can hit the ball, which you can listen to in the learn sounds menu. The "
-#| "sound will play when the ball has bounced at least once off the floor to "
-#| "teach you to sense the moment for the perfect strike. In training mode, "
-#| "game statistics are not collected, and points are not scored. During "
-#| "training, you can press f2 in order to open the training mode screen. "
-#| "There you can set your blow force recovery rate and skill (if any) levels "
-#| "to your liking. Levels range is from 1 to your current unlocked level. By "
-#| "pressing f1 you can instantly zero the cooldown of your skills."
 msgid ""
 "The game has a training mode where you can spend unlimited time and where "
 "all penalties are disabled. In this mode, a sound will be played when you "
@@ -286,7 +268,6 @@ msgstr ""
 "okamžitě dobijí a budou dostupné k dalšímu použití."
 
 #: BallBouncer/docs/en/readme.md:block 30 (paragraph)
-#| msgid "These keys can be changed using the Shortcut Key Configurator."
 msgid "These keys can be changed using the controls Configurator."
 msgstr "Tyto klávesy si můžeš změnit v nastavení ovládání."
 
@@ -345,14 +326,6 @@ msgstr ""
 "\"F\"."
 
 #: BallBouncer/docs/en/readme.md:block 37 (paragraph)
-#| msgid ""
-#| "First of all, you need to throw the ball so that it appears on the "
-#| "playing field. You can do this by pressing the f key. After the ball is "
-#| "on the field, you will hear a tone which will move left and right, "
-#| "indicating movement of the ball in the horizontal plane. The tone's pitch "
-#| "and volume will also change, indicating vertical ball movement. "
-#| "Decreasing volume and rising pitch mean that the ball is moving upwards, "
-#| "while increasing volume and lowering pitch mean the opposite."
 msgid ""
 "After the ball is on the field, you will hear a tone which will move left "
 "and right, indicating movement of the ball in the horizontal plane. The "
@@ -419,12 +392,6 @@ msgstr ""
 "kterým směrem je právě otočená postava."
 
 #: BallBouncer/docs/en/readme.md:block 43 (paragraph)
-#| msgid ""
-#| "You can only hit the ball while being near it. After each swing of the "
-#| "bat, the character restores the force of the blow. Once it is fully "
-#| "restored, you will hear an alert, the sound of which can be heard in the "
-#| "learn sounds menu. You can also toggle the sound of successful bat hits "
-#| "in the options on the behavior tab."
 msgid ""
 "You can only hit the ball while being near it. After each swing of the bat, "
 "the character restores the hit strength. Once it is fully restored, you will "
@@ -574,19 +541,6 @@ msgstr ""
 "můžeš přeskočit enterem."
 
 #: BallBouncer/docs/en/readme.md:block 58 (paragraph)
-#| msgid ""
-#| "If you allow your points to drop to minus one thousand, the gaming "
-#| "session will end early. Coins will not be credited, but you do not lose "
-#| "anything else. A gaming session lasts five minutes. This time can be "
-#| "increased by improving the time aura in the profile. After the game "
-#| "session ends, a sound animation of coins being added will begin playing, "
-#| "which can be skipped by pressing the enter key. Then the last game "
-#| "results menu will open, where you can find out how many points were "
-#| "ultimately scored and coins received. After closing the menu by pressing "
-#| "enter, you may be shown a notification about an available reward for "
-#| "reaching a statistic milestone. The display of the results menu for the "
-#| "last game and notifications about available rewards can be disabled in "
-#| "the settings, on the “Behavior” tab."
 msgid ""
 "Then, the last game results menu will open, where you can find out how many "
 "points were ultimately scored and coins received. After closing the menu by "
@@ -602,11 +556,6 @@ msgstr ""
 "vypnout v nastavení na kartě \"Chování\"."
 
 #: BallBouncer/docs/en/readme.md:block 59 (paragraph)
-#| msgid ""
-#| "The game also has skills that are fully described in the game. To use a "
-#| "skill during the game, you need to assign it to one of ten slots. "
-#| "Assigning is done in your profile, on the “Skills” tab. Slots are "
-#| "accessed using keys from 1 (first slot) to 0 (tenth slot)."
 msgid ""
 "The game also has skills that are fully described in the game. To use a "
 "skill during the game, you need to set it in one of ten slots. Assigning is "
@@ -620,10 +569,6 @@ msgstr ""
 "aktivuješ klávesami 1 (první slot) až 0 (desátý slot)."
 
 #: BallBouncer/docs/en/readme.md:block 60 (paragraph)
-#| msgid ""
-#| "In the store you can unlock the mechanics of jumping and catching the "
-#| "ball. These two mechanics are also fully described in the game, including "
-#| "the keys to use. They are also present in the table of controls."
 msgid ""
 "In the store you can unlock the abilities to jump and catch the ball. These "
 "two abilities are also fully described in the game, including the keys to "
@@ -711,14 +656,6 @@ msgstr ""
 "chvíli, kdy se mapa otevřela."
 
 #: BallBouncer/docs/en/readme.md:block 72 (paragraph)
-#| msgid ""
-#| "The object map works in any mode. You can open it with the m key. The map "
-#| "displays all objects that were on the field when it was opened. Using the "
-#| "arrow keys, you can move the cursor around the map, which will play a "
-#| "short sound of the object in the place where this object is located, and "
-#| "the type of object will also be announced. You can turn off the "
-#| "pronunciation of the object type using the f1 key. Using the f2 key you "
-#| "can switch between movement modes."
 msgid ""
 "Using the arrow keys, you can move the cursor around the map, which will "
 "play a short sound of the object in the place where this object is located, "
@@ -768,14 +705,6 @@ msgstr ""
 "předmětů se přehrávají vzhledem k tomuto bodu."
 
 #: BallBouncer/docs/en/readme.md:block 76 (paragraph)
-#| msgid ""
-#| "In addition to the cursor, the map indicates an observation point, which "
-#| "is located in the center of the horizontal axis and can be moved "
-#| "vertically. All object sounds are played relative to this point. You can "
-#| "move the observation point using the keys w - up, s - down. In this case, "
-#| "a sound will be played that changes its pitch depending on the position, "
-#| "so that it is easier for you to understand where the point is located "
-#| "along the axis."
 msgid ""
 "You can move the observation point using the keys w - up, s - down. In this "
 "case, a sound will be played that changes its pitch depending on the "
@@ -795,9 +724,6 @@ msgstr ""
 "Stiskem klávesy \"O\" zjistíš, kolik předmětů je v daném okamžiku na ploše."
 
 #: BallBouncer/docs/en/readme.md:block 78 (paragraph)
-#| msgid ""
-#| "All of the listed keys can be changed using the keyboard shortcut "
-#| "configurator."
 msgid "All of the listed keys can be changed using the controls configurator."
 msgstr ""
 "Všechny uvedené klávesové zkratky si můžeš změnit v nastavení ovládání."
@@ -807,9 +733,6 @@ msgid "Gameplay recording"
 msgstr "Nahrávání hry"
 
 #: BallBouncer/docs/en/readme.md:block 80 (paragraph)
-#| msgid ""
-#| "You can record your gameplay and then play the resulting recordings in "
-#| "the game's built-in player."
 msgid ""
 "You can record your gameplay and then play the resulting recordings in any "
 "media player."
@@ -831,10 +754,6 @@ msgstr ""
 "odpočítávání."
 
 #: BallBouncer/docs/en/readme.md:block 83 (paragraph)
-#| msgid ""
-#| "In the settings, on the \"Recording\" tab, you can determine whether a "
-#| "recording will be saved every 30 seconds, as well as whether to cancel or "
-#| "save the recording when pausing the game from the pause menu."
 msgid ""
 "In the settings, on the \"Recording\" tab, you can determine whether to "
 "cancel or save the recording when aborting the game from the pause menu."
@@ -851,7 +770,6 @@ msgstr ""
 "(\"userData\") a podsložce \"mp3recordings\" a mají příponu \".mp3\"."
 
 #: BallBouncer/docs/en/readme.md:block 85 (header)
-#| msgid "Gameplay recording"
 msgid "Old format recordings"
 msgstr "Nahrávky ve starém formátu"
 
@@ -866,10 +784,6 @@ msgstr ""
 "přehrávači přímo ve hře."
 
 #: BallBouncer/docs/en/readme.md:block 87 (paragraph)
-#| msgid ""
-#| "To listen to recordings, select the corresponding item in the main menu "
-#| "of the game. Then, in the recordings menu, select the one you want and "
-#| "press enter. After loading the recording, you will be taken to the player."
 msgid ""
 "To listen to recordings of the old format, select the corresponding item in "
 "the main menu of the game. Then, in the recordings menu, select the one you "
@@ -904,9 +818,9 @@ msgid ""
 "to rewind the recording by 5 seconds, use the arrow keys right - forward, "
 "left - backward. Rewinding by 30 seconds is done with the ctrl key held down."
 msgstr ""
-"Pro přetočení nahrávky o 5 vteřin stiskni šipku doprava - vpřed - nebo "
-"doleva - vzad. Pokud zároveň se šipkou podržíš control, přetočíš nahrávku o "
-"30 vteřin."
+"Pro přetočení nahrávky o 5 vteřin stiskni šipku doprava - dopředu - nebo "
+"doleva - dozadu. Pokud zároveň se šipkou podržíš control, přetočíš nahrávku "
+"o 30 vteřin."
 
 #: BallBouncer/docs/en/readme.md:block 90 (unordered list)
 msgid ""
@@ -943,14 +857,10 @@ msgstr ""
 "1.5.0!"
 
 #: BallBouncer/docs/en/readme.md:block 94 (header)
-#| msgid "control keys"
 msgid "controls"
 msgstr "Ovládání"
 
 #: BallBouncer/docs/en/readme.md:block 95 (paragraph)
-#| msgid ""
-#| "All keys in this section can be redefined by customizing the keyboard "
-#| "shortcut configuration."
 msgid ""
 "All keys in this section can be redefined by customizing the controls "
 "configuration."
@@ -1057,7 +967,6 @@ msgid "v"
 msgstr "V"
 
 #: BallBouncer/docs/en/readme.md:block 97 (table)
-#| msgid "Jump (if the mechanic is unlocked)"
 msgid "Jump (if the ability is unlocked)"
 msgstr "Skok (pokud je tato funkce odemčena)"
 
@@ -1066,7 +975,6 @@ msgid "Up arrow or w key"
 msgstr "Šipka nahoru nebo W"
 
 #: BallBouncer/docs/en/readme.md:block 97 (table)
-#| msgid "Catch the ball (if the mechanic is unlocked)"
 msgid "Catch the ball (if the ability is unlocked)"
 msgstr "Chycení míče (pokud je tato funkce odemčena)"
 
@@ -1098,16 +1006,15 @@ msgid ""
 "set)."
 msgstr ""
 "Aktivace/deaktivace hvězdného modulu uloženého ve slotu 1 až 4 (pokud je v "
-"daném slotu nějaký modul uložený)."
+"daném slotu nějaký modul uložen)."
 
 #: BallBouncer/docs/en/readme.md:block 97 (table)
-#| msgid "keys 1 to 0/numpad1 to numpad0"
 msgid "alt + keys 1 to 4/numpad1 to numpad4"
 msgstr "Alt + klávesy 1 až 4 / numerická 1 až numerická 4"
 
 #: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "Activate the item (if allowed in the current game mode)."
-msgstr "Aktivace předmětu (je-li to v daném režimu možné)."
+msgstr "Aktivace speciálního předmětu (je-li to v daném režimu možné)."
 
 #: BallBouncer/docs/en/readme.md:block 97 (table)
 msgid "x"
@@ -1214,7 +1121,6 @@ msgid "o"
 msgstr "O"
 
 #: BallBouncer/docs/en/readme.md:block 102 (header)
-#| msgid "Configuring keyboard shortcuts"
 msgid "Configuring controls"
 msgstr "Nastavení ovládání"
 
@@ -1281,7 +1187,7 @@ msgid ""
 "allowed."
 msgstr ""
 "Po nastavení všech potřebných parametrů klikni na tlačítko \"Přidat\". Měj "
-"však na paměti, že jsou zakázány duplicitní klávesové zkratky v rámci stejné "
+"ale na paměti, že jsou zakázány duplicitní klávesové zkratky v rámci stejné "
 "kategorie příkazů."
 
 #: BallBouncer/docs/en/readme.md:block 110 (paragraph)
