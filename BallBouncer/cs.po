@@ -203,7 +203,7 @@ msgstr "Odemknout {0}krát za {1} mincí"
 #, python-brace-format
 msgctxt "ChestOfLuckOpenedChests"
 msgid "Chests opened: {0}/{1}. Until reset: {2}."
-msgstr "Odemčeno truhel: {0}/{1}. Do vynulování zbývá: {2}."
+msgstr "Odemčené truhly: {0} z {1}. Do vynulování zbývá: {2}."
 
 #, python-brace-format
 msgctxt "ChestOfLuckRewardDialog"
