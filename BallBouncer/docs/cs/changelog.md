@@ -44,7 +44,7 @@ nahrávat při přerušení hry".
 - Opraven zvuk trefy pálkou do míče, takže se teď přehrává ve všech zamýšlených
 situacích.
 - Do popisu režimů Zkouška vůle a Mistrovská zkouška byly doplněny informace o
-tom, jak aktivovat předměty.
+tom, jak aktivovat speciální předměty.
 - Opraven pád hry při používání jiného odečítače než NVDA.
 - Opraveny problémy s nahrávkami ve formátu MP3.
    - Snad opraven pád hry, ke kterému docházelo při zapnutém nahrávání.
@@ -109,8 +109,8 @@ aury.
    - Nyní si také můžeš zobrazit popisy jednotlivých aur, s výjimkou aury vítěze a
 času, stisknutím příslušného tlačítka na kartě Aury v profilu.
 - Vylepšena schopnost titánský skok. Teď postava doskočí na větší vzdálenost.
-- Upraveno vyvážení bonusových bodů získaných za dlouhé série nárazů do předmětů,
-zničení předmětů a odrazů míče od stropu.
+- Upraveno vyvážení bonusových bodů získaných za dlouhé série nárazů míče do
+předmětů, zničení předmětů a odrazů míče od stropu.
 - Cena za vylepšování aury vítěze a aury času byla zvýšena. Pokud máš některou z
 těchto aur aktuálně na vyšší než páté úrovni, vynuluje se a úspěchové body
 investované do jejího vylepšování se ti vrátí.
@@ -297,8 +297,7 @@ toto upozornění vypnuté; můžeš si ho zapnout v nastavení na kartě "Chov�
 při hře klávesu V.
 - Chyby při aktualizaci se nyní zapisují do souboru, který se nachází ve složce
 userData/errorLogs.
-- Přidány dočasné alternativní klávesy pro horizontální a vertikální máchnutí
-pálkou.
+- Přidány dočasné alternativní klávesy pro vodorovné a svislé máchnutí pálkou.
    - Pro vodorovné máchnutí teď můžeš použít i klávesu e, pro svislé i klávesu r.
    - Toto řešení je dočasné, jen do doby, než bude implementováno nastavení
 vlastních klávesových zkratek.

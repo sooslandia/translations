@@ -311,8 +311,9 @@ Ovládání přehrávače:
 - Přehrávání spustíš, zapauzuješ nebo odpauzuješ mezerníkem.
 - Budeš-li chtít upravit hlasitost, šipkou nahoru ji zvýšíš a šipkou dolů snížíš.
 Hlasitost přehrávání nahrávky lze zvýšit až na dvě stě procent.
-- Pro přetočení nahrávky o 5 vteřin stiskni šipku doprava - vpřed - nebo doleva -
-vzad. Pokud zároveň se šipkou podržíš control, přetočíš nahrávku o 30 vteřin.
+- Pro přetočení nahrávky o 5 vteřin stiskni šipku doprava - dopředu - nebo
+doleva - dozadu. Pokud zároveň se šipkou podržíš control, přetočíš nahrávku o
+30 vteřin.
 - Klávesou "T" zjistíš, jak je nahrávka dlouhá a jak velká část už se přehrála.
 - Přehrávání zastavíš a do menu Nahrávky se vrátíš escapem.
 
@@ -346,8 +347,8 @@ Všechny klávesy uvedené v této části si můžeš upravit v nastavení ovl�
 | Chycení míče (pokud je tato funkce odemčena) | Levý nebo pravý control |
 | Výběr schopnosti ve slotu od 1 do 10 (pokud je v daném slotu nějaká schopnost uložena) | 1 až 0 / numerická 1 až numerická 0 |
 | Zrušení výběru schopnosti ve slotu | Středník / numerický enter |
-| Aktivace/deaktivace hvězdného modulu uloženého ve slotu 1 až 4 (pokud je v daném slotu nějaký modul uložený). | Alt + klávesy 1 až 4 / numerická 1 až numerická 4 |
-| Aktivace předmětu (je-li to v daném režimu možné). | X |
+| Aktivace/deaktivace hvězdného modulu uloženého ve slotu 1 až 4 (pokud je v daném slotu nějaký modul uložen). | Alt + klávesy 1 až 4 / numerická 1 až numerická 4 |
+| Aktivace speciálního předmětu (je-li to v daném režimu možné). | X |
 | Zjištění množství dostupné hvězdné energie (pokud máš alespoň jeden hvězdný modul a používání modulů je v daném režimu povoleno) | Y |
 | Otevření mapy předmětů | M |
 | Zjištění zbývajícího času do konce hry | T |
@@ -396,7 +397,7 @@ klávesy, které následuje hned za seznamem pro modifikační klávesu shift. P
 chceš v dané klávesové zkratce používat pouze samotné modifikační klávesy, nech
 hlavní klávesu nepřiřazenou.
 
-Po nastavení všech potřebných parametrů klikni na tlačítko "Přidat". Měj však na
+Po nastavení všech potřebných parametrů klikni na tlačítko "Přidat". Měj ale na
 paměti, že jsou zakázány duplicitní klávesové zkratky v rámci stejné kategorie
 příkazů.
 
