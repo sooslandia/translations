@@ -1,5 +1,26 @@
 % Historie změn
 
+## 1.3.4
+
+### Změny
+
+- Aktualizován český překlad. Překladatel
+[4sensegaming](https://github.com/4sensegaming).
+- Spanish translation updated. Translator:
+[ogomez92](https://github.com/ogomez92).
+- If you are unable to activate an aura, you will now be notified clearly.
+- If you do not have enough energy to activate a star module, you will now be
+notified when attempting to activate it.
+
+### Opravy
+
+- Fixed an issue with zdsr.
+- The behavior of the goal in the trial of speed mode has been fixed.
+   - Now the goal lowers back to its original height after the "Elevator" effect
+ends.
+   - The goal will no longer disappear from the object map when rising or lowering.
+- Fixed the completion tracking of certain quests in training mode.
+
 ## 1.3.3
 
 ### Nové funkce
