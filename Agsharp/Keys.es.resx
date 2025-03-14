@@ -59,22 +59,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="APOSTROPHE" xml:space="preserve">
-    <value>apostrof</value>
+    <value>apóstrofe</value>
   </data>
   <data name="APPLICATION" xml:space="preserve">
-    <value>kontextové menu</value>
+    <value>aplicaciones</value>
   </data>
   <data name="BACKSLASH" xml:space="preserve">
-    <value>obrácené lomítko</value>
+    <value>barra invertida</value>
   </data>
   <data name="BACKSPACE" xml:space="preserve">
-    <value>backspace</value>
+    <value>retroceso</value>
   </data>
   <data name="CAPSLOCK" xml:space="preserve">
-    <value>capslock</value>
+    <value>bloq mayús</value>
   </data>
   <data name="COMMA" xml:space="preserve">
-    <value>čárka</value>
+    <value>coma</value>
   </data>
   <data name="D0" xml:space="preserve">
     <value>0</value>
@@ -107,138 +107,138 @@
     <value>9</value>
   </data>
   <data name="DELETE" xml:space="preserve">
-    <value>delete</value>
+    <value>suprimir</value>
   </data>
   <data name="DOWN" xml:space="preserve">
-    <value>šipka dolů</value>
+    <value>abajo</value>
   </data>
   <data name="END" xml:space="preserve">
-    <value>end</value>
+    <value>fin</value>
   </data>
   <data name="EQUALS" xml:space="preserve">
-    <value>rovná se</value>
+    <value>igual</value>
   </data>
   <data name="ESCAPE" xml:space="preserve">
     <value>escape</value>
   </data>
   <data name="GRAVE" xml:space="preserve">
-    <value>středník</value>
+    <value>acento grave</value>
   </data>
   <data name="HOME" xml:space="preserve">
-    <value>home</value>
+    <value>inicio</value>
   </data>
   <data name="INSERT" xml:space="preserve">
-    <value>insert</value>
+    <value>insertar</value>
   </data>
   <data name="KP_0" xml:space="preserve">
-    <value>numerická 0</value>
+    <value>teclado numérico 0</value>
   </data>
   <data name="KP_1" xml:space="preserve">
-    <value>numerická 1</value>
+    <value>teclado numérico 1</value>
   </data>
   <data name="KP_2" xml:space="preserve">
-    <value>numerická 2</value>
+    <value>teclado numérico 2</value>
   </data>
   <data name="KP_3" xml:space="preserve">
-    <value>numerická 3</value>
+    <value>teclado numérico 3</value>
   </data>
   <data name="KP_4" xml:space="preserve">
-    <value>numerická 4</value>
+    <value>teclado numérico 4</value>
   </data>
   <data name="KP_5" xml:space="preserve">
-    <value>numerická 5</value>
+    <value>teclado numérico 5</value>
   </data>
   <data name="KP_6" xml:space="preserve">
-    <value>numerická 6</value>
+    <value>teclado numérico 6</value>
   </data>
   <data name="KP_7" xml:space="preserve">
-    <value>numerická 7</value>
+    <value>teclado numérico 7</value>
   </data>
   <data name="KP_8" xml:space="preserve">
-    <value>numerická 8</value>
+    <value>teclado numérico 8</value>
   </data>
   <data name="KP_9" xml:space="preserve">
-    <value>numerická 9</value>
+    <value>teclado numérico 9</value>
   </data>
   <data name="KP_DELETE" xml:space="preserve">
-    <value>numerický delete</value>
+    <value>teclado numérico suprimir</value>
   </data>
   <data name="KP_DIVIDE" xml:space="preserve">
-    <value>numerické lomítko</value>
+    <value>dividir del teclado numérico</value>
   </data>
   <data name="KP_ENTER" xml:space="preserve">
-    <value>numerický enter</value>
+    <value>intro del teclado numérico</value>
   </data>
   <data name="KP_MINUS" xml:space="preserve">
-    <value>numerické minus</value>
+    <value>teclado numérico menos</value>
   </data>
   <data name="KP_MULTIPLY" xml:space="preserve">
-    <value>numerická hvězdička</value>
+    <value>teclado numérico multiplicar</value>
   </data>
   <data name="KP_PERIOD" xml:space="preserve">
-    <value>numerická desetinná čárka</value>
+    <value>punto del teclado numérico</value>
   </data>
   <data name="KP_PLUS" xml:space="preserve">
-    <value>numerické plus</value>
+    <value>teclado numérico más</value>
   </data>
   <data name="LEFT" xml:space="preserve">
-    <value>šipka doleva</value>
+    <value>izquierda</value>
   </data>
   <data name="LEFTBRACKET" xml:space="preserve">
-    <value>levá závorka</value>
+    <value>corchete izquierdo</value>
   </data>
   <data name="MINUS" xml:space="preserve">
-    <value>pomlčka</value>
+    <value>guion</value>
   </data>
   <data name="MUTE" xml:space="preserve">
-    <value>ztlumit</value>
+    <value>silenciar</value>
   </data>
   <data name="PAGEDOWN" xml:space="preserve">
-    <value>page down</value>
+    <value>avanzar página</value>
   </data>
   <data name="PAGEUP" xml:space="preserve">
-    <value>page up</value>
+    <value>retroceder página</value>
   </data>
   <data name="PAUSE" xml:space="preserve">
-    <value>break</value>
+    <value>pausa</value>
   </data>
   <data name="PERIOD" xml:space="preserve">
-    <value>tečka</value>
+    <value>punto</value>
   </data>
   <data name="PRINTSCREEN" xml:space="preserve">
-    <value>print screen</value>
+    <value>imprimir pantalla</value>
   </data>
   <data name="RETURN" xml:space="preserve">
     <value>enter</value>
   </data>
   <data name="RIGHT" xml:space="preserve">
-    <value>šipka doprava</value>
+    <value>derecha</value>
   </data>
   <data name="RIGHTBRACKET" xml:space="preserve">
-    <value>pravá závorka</value>
+    <value>corchete derecho</value>
   </data>
   <data name="SCROLLLOCK" xml:space="preserve">
-    <value>scroll lock</value>
+    <value>bloqueo de desplazamiento</value>
   </data>
   <data name="SEMICOLON" xml:space="preserve">
-    <value>u s kroužkem</value>
+    <value>punto y coma</value>
   </data>
   <data name="SLASH" xml:space="preserve">
-    <value>lomítko</value>
+    <value>barra</value>
   </data>
   <data name="SPACE" xml:space="preserve">
-    <value>mezerník</value>
+    <value>espacio</value>
   </data>
   <data name="TAB" xml:space="preserve">
-    <value>tab</value>
+    <value>tabulador</value>
   </data>
   <data name="UP" xml:space="preserve">
-    <value>šipka nahoru</value>
+    <value>arriba</value>
   </data>
   <data name="VOLUMEDOWN" xml:space="preserve">
-    <value>hlasitost zeslabit</value>
+    <value>bajar volumen</value>
   </data>
   <data name="VOLUMEUP" xml:space="preserve">
-    <value>hlasitost zesílit</value>
+    <value>subir volumen</value>
   </data>
 </root>
