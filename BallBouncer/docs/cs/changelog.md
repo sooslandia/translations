@@ -1,5 +1,26 @@
 % Historie změn
 
+## 1.3.4
+
+### Změny
+
+- Aktualizován český překlad. Překladatel
+[4sensegaming](https://github.com/4sensegaming).
+- Spanish translation updated. Translator:
+[ogomez92](https://github.com/ogomez92).
+- If you are unable to activate an aura, you will now be notified clearly.
+- If you do not have enough energy to activate a star module, you will now be
+notified when attempting to activate it.
+
+### Opravy
+
+- Fixed an issue with zdsr.
+- The behavior of the goal in the trial of speed mode has been fixed.
+   - Now the goal lowers back to its original height after the "Elevator" effect
+ends.
+   - The goal will no longer disappear from the object map when rising or lowering.
+- Fixed the completion tracking of certain quests in training mode.
+
 ## 1.3.3
 
 ### Nové funkce
@@ -44,7 +65,7 @@ nahrávat při přerušení hry".
 - Opraven zvuk trefy pálkou do míče, takže se teď přehrává ve všech zamýšlených
 situacích.
 - Do popisu režimů Zkouška vůle a Mistrovská zkouška byly doplněny informace o
-tom, jak aktivovat předměty.
+tom, jak aktivovat speciální předměty.
 - Opraven pád hry při používání jiného odečítače než NVDA.
 - Opraveny problémy s nahrávkami ve formátu MP3.
    - Snad opraven pád hry, ke kterému docházelo při zapnutém nahrávání.
@@ -109,8 +130,8 @@ aury.
    - Nyní si také můžeš zobrazit popisy jednotlivých aur, s výjimkou aury vítěze a
 času, stisknutím příslušného tlačítka na kartě Aury v profilu.
 - Vylepšena schopnost titánský skok. Teď postava doskočí na větší vzdálenost.
-- Upraveno vyvážení bonusových bodů získaných za dlouhé série nárazů do předmětů,
-zničení předmětů a odrazů míče od stropu.
+- Upraveno vyvážení bonusových bodů získaných za dlouhé série nárazů míče do
+předmětů, zničení předmětů a odrazů míče od stropu.
 - Cena za vylepšování aury vítěze a aury času byla zvýšena. Pokud máš některou z
 těchto aur aktuálně na vyšší než páté úrovni, vynuluje se a úspěchové body
 investované do jejího vylepšování se ti vrátí.
@@ -297,8 +318,7 @@ toto upozornění vypnuté; můžeš si ho zapnout v nastavení na kartě "Chov�
 při hře klávesu V.
 - Chyby při aktualizaci se nyní zapisují do souboru, který se nachází ve složce
 userData/errorLogs.
-- Přidány dočasné alternativní klávesy pro horizontální a vertikální máchnutí
-pálkou.
+- Přidány dočasné alternativní klávesy pro vodorovné a svislé máchnutí pálkou.
    - Pro vodorovné máchnutí teď můžeš použít i klávesu e, pro svislé i klávesu r.
    - Toto řešení je dočasné, jen do doby, než bude implementováno nastavení
 vlastních klávesových zkratek.
