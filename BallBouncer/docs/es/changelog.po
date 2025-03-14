@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2025-03-08 20:12+0000\n"
-"PO-Revision-Date: 2025-03-11 10:21+0000\n"
+"PO-Revision-Date: 2025-03-14 10:20+0000\n"
 "Last-Translator: Oriol Gomez <ogomez.s92@gmail.com>\n"
 "Language-Team: Spanish <http://weblate.oriolgomez.com/projects/bb/changelog/"
 "es/>\n"
@@ -32,7 +32,6 @@ msgid "Fixes"
 msgstr "Arreglos"
 
 #: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
-#, fuzzy
 msgid ""
 "Successful bat hit sound has been fixed and now plays in all intended "
 "situations."
@@ -773,7 +772,6 @@ msgstr ""
 "cámara en primera persona se reproducirá en el centro del campo."
 
 #: BallBouncer/docs/en/changelog.md:block 36 (unordered list)
-#, fuzzy
 msgid ""
 "The file name format with critical error data has been changed to (error "
 "yyyy_MM_dd hh-mm-ss.log)"
@@ -925,3 +923,100 @@ msgstr "1.0.0"
 #: BallBouncer/docs/en/changelog.md:block 51 (paragraph)
 msgid "Initial release."
 msgstr "Lanzamiento inicial."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"The description of the \"ball controller\" module's controlled ball speed "
+"increase no longer includes the information about the twelve percent speed "
+"increase."
+msgstr ""
+"La descripción del módulo \"controlador de bola\" ya no incluye la "
+"información sobre el aumento de velocidad del doce por ciento."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"When pressing the key to check the current amount of star energy, the number "
+"is now announced at the beginning of the message."
+msgstr ""
+"Al presionar la tecla para comprobar la cantidad actual de energía estelar, "
+"el número ahora se anuncia al principio del mensaje."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"Fixed a critical bug when activating the \"ball controller\" star module and "
+"the ball was caught during activation."
+msgstr ""
+"Se corrigió un error crítico al activar el módulo estelar "
+"\"controlador de bola\" y la bola era atrapada durante la activación."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"When closing the game using Alt+F4 during gameplay, the recording is "
+"canceled if the \"Cancel recording when manually aborting the game\" "
+"checkbox is checked and properly finalized if it is not checked."
+msgstr ""
+"Al cerrar el juego usando Alt+F4 durante la partida, la grabación se cancela "
+"si la casilla \"Cancelar grabación al abortar el juego manualmente\" está "
+"marcada y se finaliza correctamente si no lo está."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid "Fixed an issue with launching the game on Windows for some users."
+msgstr ""
+"Se solucionó un problema al iniciar el juego en Windows para algunos "
+"usuarios."
+
+#: BallBouncer/docs/en/changelog.md:block 6 (unordered list)
+msgid ""
+"Czech translation updated. Translator [4sensegaming](https://github."
+"com/4sensegaming)."
+msgstr ""
+"Traducción al checo actualizada. Traductor [4sensegaming](https://github.com/"
+"4sensegaming)."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid "Fixed issues with star modules."
+msgstr "Se solucionaron problemas con los módulos estrella."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid "Additional module information tab now updates when you buy upgrades."
+msgstr ""
+"La pestaña de información adicional del módulo ahora se actualiza cuando "
+"compras mejoras."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid "Recording issues fixed."
+msgstr "Problemas de grabación solucionados."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid "It is now possible to play with jaws active."
+msgstr "Ahora es posible jugar con mandíbulas activas."
+
+#: BallBouncer/docs/en/changelog.md:block 2 (header)
+msgid "1.3.3"
+msgstr "1.3.3"
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid ""
+"Spanish translation added. Translators: [rayo-alcantar](https://github.com/"
+"rayo-alcantar), [ogomez92](https://github.com/ogomez92)."
+msgstr ""
+"Traducción al español añadida. Traductores: [rayo-alcantar](https://"
+"github.com/rayo-alcantar), [ogomez92](https://github.com/ogomez92)."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"Fixed the completion tracking of the \"Magnetism\" skill usage quest in "
+"training mode."
+msgstr ""
+"Se ha corregido el seguimiento de la finalización de la misión de uso de la "
+"habilidad \"Magnetismo\" en el modo de entrenamiento."
+
+#: BallBouncer/docs/en/changelog.md:block 8 (unordered list)
+msgid ""
+"When the game ends prematurely due to reaching -1000 points, the recording "
+"is no longer canceled even if the \"Cancel recording when manually aborting "
+"the game\" checkbox is checked."
+msgstr ""
+"Cuando el juego termina prematuramente al alcanzar -1000 puntos, la "
+"grabación ya no se cancela incluso si la casilla "
+"\"Cancelar grabación al abortar el juego manualmente\" está marcada."
