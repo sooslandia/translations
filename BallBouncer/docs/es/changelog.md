@@ -4,39 +4,39 @@
 
 ### Nuevas características
 
-- Spanish translation added. Translators:
+- Traducción al español añadida. Traductores:
 [rayo-alcantar](https://github.com/rayo-alcantar),
 [ogomez92](https://github.com/ogomez92).
 
 ### Cambios
 
-- Czech translation updated. Translator
+- Traducción al checo actualizada. Traductor
 [4sensegaming](https://github.com/4sensegaming).
 
 ### Arreglos
 
 - Se corrigió un error crítico que ocurría cuando se reproducían muchos sonidos
 simultáneamente.
-- Fixed issues with star modules.
-   - Additional module information tab now updates when you buy upgrades.
-   - The description of the "ball controller" module's controlled ball speed
-increase no longer includes the information about the twelve percent speed
-increase.
-   - When pressing the key to check the current amount of star energy, the number is
-now announced at the beginning of the message.
-   - Fixed a critical bug when activating the "ball controller" star module and the
-ball was caught during activation.
-- Fixed the completion tracking of the "Magnetism" skill usage quest in training
-mode.
-- Recording issues fixed.
-   - When closing the game using Alt+F4 during gameplay, the recording is canceled
-if the "Cancel recording when manually aborting the game" checkbox is checked
-and properly finalized if it is not checked.
-   - When the game ends prematurely due to reaching -1000 points, the recording is
-no longer canceled even if the "Cancel recording when manually aborting the
-game" checkbox is checked.
-- It is now possible to play with jaws active.
-- Fixed an issue with launching the game on Windows for some users.
+- Se solucionaron problemas con los módulos estrella.
+   - La pestaña de información adicional del módulo ahora se actualiza cuando
+compras mejoras.
+   - La descripción del módulo "controlador de bola" ya no incluye la información
+sobre el aumento de velocidad del doce por ciento.
+   - Al presionar la tecla para comprobar la cantidad actual de energía estelar, el
+número ahora se anuncia al principio del mensaje.
+   - Se corrigió un error crítico al activar el módulo estelar "controlador de bola"
+y la bola era atrapada durante la activación.
+- Se ha corregido el seguimiento de la finalización de la misión de uso de la
+habilidad "Magnetismo" en el modo de entrenamiento.
+- Problemas de grabación solucionados.
+   - Al cerrar el juego usando Alt+F4 durante la partida, la grabación se cancela si
+la casilla "Cancelar grabación al abortar el juego manualmente" está marcada y
+se finaliza correctamente si no lo está.
+   - Cuando el juego termina prematuramente al alcanzar -1000 puntos, la grabación
+ya no se cancela incluso si la casilla "Cancelar grabación al abortar el juego
+manualmente" está marcada.
+- Ahora es posible jugar con mandíbulas activas.
+- Se solucionó un problema al iniciar el juego en Windows para algunos usuarios.
 
 ## 1.3.2
 
