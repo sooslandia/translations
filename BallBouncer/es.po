@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2025-03-07 12:58+0000\n"
-"PO-Revision-Date: 2025-03-11 07:08+0000\n"
+"PO-Revision-Date: 2025-03-14 09:41+0000\n"
 "Last-Translator: Oriol Gomez <ogomez.s92@gmail.com>\n"
 "Language-Team: Spanish <http://weblate.oriolgomez.com/projects/bb/"
 "ballbouncer/es/>\n"
@@ -2966,12 +2966,12 @@ msgstr "Mejora por {0} monedas"
 #, python-brace-format
 msgctxt "StoreButtonUpgradeBlueOrbs"
 msgid "Upgrade for {0} blue orbs"
-msgstr "Mejorar por {0} monedas"
+msgstr "Mejorar por {0} orbes azules"
 
 #, python-brace-format
 msgctxt "StoreButtonUpgradeGreenOrbs"
 msgid "Upgrade for {0} green orbs"
-msgstr "Mejorar por {0} monedas"
+msgstr "Mejorar por {0} orbes verdes"
 
 msgctxt "StoreButtonUpgradeMaxed"
 msgid "Maxed out"
