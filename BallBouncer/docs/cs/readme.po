@@ -31,7 +31,7 @@ msgid ""
 msgstr ""
 "V této nápovědě se dozvíš, jak se ovládají všechna menu a obrazovky hry, a "
 "také do detailu, jak se Ball Bouncer hraje. Pokud na to chceš přijít bez "
-"pomoci, doporučujeme rovnou se podívat do tabulky klávesových zkratek."
+"pomoci, doporučujeme rovnou se podívat do tabulek klávesových zkratek."
 
 #: BallBouncer/docs/en/readme.md:block 3 (header)
 msgid "About the game"
