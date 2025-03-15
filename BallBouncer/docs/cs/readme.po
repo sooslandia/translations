@@ -64,7 +64,7 @@ msgid ""
 "around you?"
 msgstr ""
 "Dokážeš ale opravdu uvažovat dopředu, když se všude kolem tebe rozbíjejí "
-"hrnky, misky, skříně a televize?"
+"hrnky, misky, skříňky a televize?"
 
 #: BallBouncer/docs/en/readme.md:block 8 (paragraph)
 msgid ""
