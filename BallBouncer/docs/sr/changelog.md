@@ -1,5 +1,64 @@
 % Lista promena
 
+## 1.3.4
+
+### Promene
+
+- Czech translation updated. Translator
+[4sensegaming](https://github.com/4sensegaming).
+- Spanish translation updated. Translator:
+[ogomez92](https://github.com/ogomez92).
+- If you are unable to activate an aura, you will now be notified clearly.
+- If you do not have enough energy to activate a star module, you will now be
+notified when attempting to activate it.
+
+### Ispravke
+
+- Fixed an issue with zdsr.
+- The behavior of the goal in the trial of speed mode has been fixed.
+   - Now the goal lowers back to its original height after the "Elevator" effect
+ends.
+   - The goal will no longer disappear from the object map when rising or lowering.
+- Fixed the completion tracking of certain quests in training mode.
+
+## 1.3.3
+
+### Nove funkcije
+
+- Spanish translation added. Translators:
+[rayo-alcantar](https://github.com/rayo-alcantar),
+[ogomez92](https://github.com/ogomez92).
+
+### Promene
+
+- Czech translation updated. Translator
+[4sensegaming](https://github.com/4sensegaming).
+
+### Ispravke
+
+- Fixed a critical error that occurred when many sounds were playing
+simultaneously.
+- Fixed issues with star modules.
+   - Additional module information tab now updates when you buy upgrades.
+   - The description of the "ball controller" module's controlled ball speed
+increase no longer includes the information about the twelve percent speed
+increase.
+   - When pressing the key to check the current amount of star energy, the number is
+now announced at the beginning of the message.
+   - Fixed a critical bug when activating the "ball controller" star module and the
+ball was caught during activation.
+- Fixed the completion tracking of the "Magnetism" skill usage quest in training
+mode.
+- Recording issues fixed.
+   - When closing the game using Alt+F4 during gameplay, the recording is canceled
+if the "Cancel recording when manually aborting the game" checkbox is checked
+and properly finalized if it is not checked.
+   - When the game ends prematurely due to reaching -1000 points, the recording is
+no longer canceled even if the "Cancel recording when manually aborting the
+game" checkbox is checked.
+- It is now possible to play with jaws active.
+- Fixed an issue with launching the game on Windows for some users.
+
 ## 1.3.2
 
 ### Ispravke
@@ -8,10 +67,20 @@
 situations.
 - Information on how to activate items has been added to the descriptions of
 trial of will and trial of mastery modes.
-- Fixed game crashes that occurred when a screen reader other than NVDA was
+- Fixed a game crash that occurred when a screen reader other than NVDA was
 active.
-- Potentially fixed a game crash that occurred when playing with recording
+- Issues with mp3 recordings have been fixed.
+   - Potentially fixed a game crash that occurred when playing with recording
 enabled.
+   - A special VBR header is now added to recordings. Previously, its absence could
+cause some players to incorrectly display the recording's duration and
+experience issues with seeking.
+   - MP3 encoding parameters have been adjusted to reduce file size without
+noticeable quality loss.-
+- A line has been added to the documentation explaining how to unlock the quest
+board (in the "Other Game Modes" section).
+- Fixed a critical error that occurred when many sounds were playing
+simultaneously.
 
 ## 1.3.1
 
@@ -55,7 +124,6 @@ screen and press the D key, or click the "Open Mode Description" button.
 ### Promene
 
 - Now auras can be active or inactive.
-
    - Initially, you can use only two auras at the same time, but in the future, the
 number of active auras can be increased, as well as new ones can be acquired.
    - You can also open the description of an aura, except for the leader and time
@@ -73,20 +141,17 @@ also hold Enter on buttons for rapid activations.
 million.
 - The behavior of the sound playback for checking the character's position has
 been changed.
-
    - Previously: The sound played at the character's position in the field center
 view, and played at the center of the field in the first-person view.
    - Now: The sound always plays at the character's position, except when the
 first-person view is active and ball watch mode is turned off. In this case,
 the sound plays at the center of the field.
 - The learn sounds screen has been redesigned.
-
    - The menu has been replaced with a virtual form.
    - Sounds, both from the base game and new modes, are now organized into separate
 tabs of the form for easier navigation and the ability to listen to them
 during gameplay.
 - The method of recording gameplay has been changed.
-
    - Now, recordings are saved in MP3 format.
    - The old recording method has been disabled, but it is still possible to play
 previously recorded files.
@@ -95,7 +160,6 @@ previously recorded files.
 1.5.0.
 - Minor changes and inconsistencies fixed in English translation.
 - Setting skill levels in training mode has been fixed.
-
    - Now, changing skill levels will have an effect on the game session.
    - Also, now you can set any skill level up to the maximum possible.
 - A critical bug has been fixed when changing controls configuration during

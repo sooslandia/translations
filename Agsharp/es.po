@@ -3,191 +3,192 @@
 # This file is distributed under the same license as the Agsharp package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Agsharp\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2025-03-06 16:21+0000\n"
-"PO-Revision-Date: 2025-03-12 09:18+0100\n"
-"Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
-"Language-Team: 4Sense Gaming\n"
-"Language: cs\n"
+"PO-Revision-Date: 2025-03-11 15:22+0000\n"
+"Last-Translator: Oriol Gomez <ogomez.s92@gmail.com>\n"
+"Language-Team: Spanish <http://weblate.oriolgomez.com/projects/agsharp/"
+"potfile/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
 
 msgctxt "AudioForms_ButtonControlName"
 msgid "button"
-msgstr "tlačítko"
+msgstr "botón"
 
 msgctxt "AudioForms_ButtonControlUnavailable"
 msgid " unavailable"
-msgstr " nedostupné"
+msgstr " no disponible"
 
 msgctxt "AudioForms_CheckboxControlName"
 msgid "checkbox"
-msgstr "zaškrtávací políčko"
+msgstr "casilla de verificación"
 
 msgctxt "AudioForms_CheckboxStateChecked"
 msgid "checked"
-msgstr "zaškrtnuto"
+msgstr "marcado"
 
 msgctxt "AudioForms_CheckboxStateUnchecked"
 msgid "unchecked"
-msgstr "nezaškrtnuto"
+msgstr "no marcado"
 
 msgctxt "AudioForms_EditBoxControlCapLetter"
 msgid "Cap"
-msgstr "Příliš dlouhé"
+msgstr "Mayúscula"
 
 msgctxt "AudioForms_EditBoxControlCopied"
 msgid "copied"
-msgstr "zkopírováno"
+msgstr "copiado"
 
 msgctxt "AudioForms_EditBoxControlCut"
 msgid "cut"
-msgstr "vyjmout"
+msgstr "cortar"
 
 msgctxt "AudioForms_EditBoxControlEmpty"
 msgid "empty"
-msgstr "prázdné"
+msgstr "vacío"
 
 msgctxt "AudioForms_EditBoxControlName"
 msgid "edit"
-msgstr "upravit"
+msgstr "editar"
 
 msgctxt "AudioForms_EditBoxControlNoSelection"
 msgid "no selection"
-msgstr "žádný výběr"
+msgstr "sin selección"
 
 msgctxt "AudioForms_EditBoxControlPasted"
 msgid "pasted"
-msgstr "vloženo"
+msgstr "pegado"
 
 msgctxt "AudioForms_EditBoxControlSelect"
 msgid "selected"
-msgstr "vybráno"
+msgstr "seleccionado"
 
 msgctxt "AudioForms_EditBoxControlSelectionRemoved"
 msgid "selection removed"
-msgstr "výběr smazán"
+msgstr "selección eliminada"
 
 #, python-brace-format
 msgctxt "AudioForms_EditBoxControlSpeakSelected"
 msgid "{0} characters selected"
-msgstr "{0} znaků vybráno"
+msgstr "{0} caracteres seleccionados"
 
 #, python-brace-format
 msgctxt "AudioForms_EditBoxControlSpeakUnselected"
 msgid "{0} characters unselected"
-msgstr "{0} znaků nevybráno"
+msgstr "{0} caracteres no seleccionados"
 
 msgctxt "AudioForms_EditBoxControlUnselect"
 msgid "unselected"
-msgstr "nevybráno"
+msgstr "no seleccionado"
 
 #, python-brace-format
 msgctxt "AudioForms_ItemsCount"
 msgid "{0} of {1}"
-msgstr "{0} z {1}"
+msgstr "{0} de {1}"
 
 msgctxt "AudioForms_ListControlName"
 msgid "list"
-msgstr "seznam"
+msgstr "lista"
 
 msgctxt "AudioForms_SliderControlName"
 msgid "slider"
-msgstr "posuvník"
+msgstr "deslizador"
 
 msgctxt "AudioForms_TabControlName"
 msgid "tab panel"
-msgstr "panel karet"
+msgstr "panel de pestañas"
 
 msgctxt "AudioForms_TabPageName"
 msgid "tab"
-msgstr "karta"
+msgstr "pestaña"
 
 msgctxt "AudioForms_TreeControlCollapsed"
 msgid "collapsed"
-msgstr "sbaleno"
+msgstr "contraído"
 
 msgctxt "AudioForms_TreeControlExpanded"
 msgid "expanded"
-msgstr "rozbaleno"
+msgstr "expandido"
 
 #, python-brace-format
 msgctxt "AudioForms_TreeControlLevel"
 msgid "level {0}"
-msgstr "úroveň {0}"
+msgstr "nivel {0}"
 
 msgctxt "AudioForms_TreeControlName"
 msgid "tree"
-msgstr "stromový seznam"
+msgstr "árbol"
 
 msgctxt "KeyMapConfiguratorInterface_ActionsTreeText"
 msgid "Actions"
-msgstr "Akce"
+msgstr "Acciones"
 
 msgctxt "KeyMapConfiguratorInterface_AddButtonText"
 msgid "Add"
-msgstr "Přidat"
+msgstr "Añadir"
 
 msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutButtonText"
 msgid "Add control"
-msgstr "Přidat klávesovou zkratku"
+msgstr "Añadir control"
 
 msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutError"
 msgid ""
 "Failed to add a control. You may be trying to add a duplicate to the "
 "configuration."
 msgstr ""
-"Klávesovou zkratku se nepodařilo přidat. Možná se pokoušíš vytvořit "
-"duplicitní zkratku."
+"No se pudo añadir un control. Puede que estés intentando añadir un duplicado "
+"a la configuración."
 
 msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutSuccess"
 msgid "Control added."
-msgstr "Klávesová zkratka přidána."
+msgstr "Control añadido."
 
 msgctxt "KeyMapConfiguratorInterface_CancelButtonText"
 msgid "Cancel"
-msgstr "Zrušit"
+msgstr "Cancelar"
 
 msgctxt "KeyMapConfiguratorInterface_CloseButtonText"
 msgid "Close"
-msgstr "Zavřít"
+msgstr "Cerrar."
 
 msgctxt "KeyMapConfiguratorInterface_DeleteKeyShortcutButtonText"
 msgid "Delete control"
-msgstr "Smazat klávesovou zkratku"
+msgstr "Eliminar control"
 
 msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlCatching"
 msgid "Press the key you want to add to the control."
-msgstr "Stiskni klávesu, kterou chceš přidat do zkratky."
+msgstr "Pulsa la tecla que quieres añadir al control."
 
 msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeyReset"
 msgid "Key reset"
-msgstr "Klávesa odstraněna"
+msgstr "Tecla reiniciada"
 
 #, python-brace-format
 msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeySet"
 msgid "Key {0} set."
-msgstr "Klávesa {0} nastavena."
+msgstr "Tecla {0} configurada."
 
 msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlName"
 msgid "Press enter here to set the key."
-msgstr "Enterem na tomto místě nastavíš klávesu."
+msgstr "Pulsa enter aquí para asignar la tecla."
 
 #, python-brace-format
 msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlNameChange"
 msgid "Key {0} set. Press Enter to change or del to reset."
 msgstr ""
-"Klávesa {0} nastavena. Stiskni enter pro změnu nebo delete pro odstranění."
+"Tecla {0} establecida. Pulsa Enter para cambiar o suprimir para reiniciar."
 
 msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitle"
 msgid "Controls configurator."
-msgstr "Nastavení ovládání."
+msgstr "Configurador de controles."
 
 msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitleWithHint"
 msgid ""
@@ -195,13 +196,13 @@ msgid ""
 "on the screen. Use the up and down arrows to move through lists and trees. "
 "To activate the selected item, press enter."
 msgstr ""
-"Obrazovka nastavení ovládání: Klávesami tab a shift+tab se pohybuješ po "
-"obrazovce dopředu a dozadu. Šipkami nahoru a dolů se pohybuješ po seznamech "
-"a stromových seznamech. Enterem potvrdíš vybranou položku."
+"Configurador de controles. Usa tab y shift+tab para avanzar y retroceder en "
+"la pantalla. Usa las flechas arriba y abajo para navegar por listas y "
+"árboles. Para activar el elemento seleccionado, pulsa enter."
 
 msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitle"
 msgid "Add control."
-msgstr "Přidání klávesové zkratky."
+msgstr "Añadir Control"
 
 msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitleWithHint"
 msgid ""
@@ -209,69 +210,70 @@ msgid ""
 "screen. Use the up and down arrows to move through the lists. To activate "
 "the selected item, press enter."
 msgstr ""
-"Obrazovka přidání klávesové zkratky: Klávesami tab a shift+tab se pohybuješ "
-"po obrazovce dopředu a dozadu. Šipkami nahoru a dolů se pohybuješ po "
-"seznamech. Enterem potvrdíš vybranou položku."
+"Añadir control. Usa tabulador y shift+tabulador para moverte hacia adelante "
+"y hacia atrás en la pantalla. Usa las flechas arriba y abajo para "
+"desplazarte por las listas. Para activar el elemento seleccionado, pulsa "
+"enter."
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListAlt"
 msgid "alt key"
-msgstr "klávesa alt"
+msgstr "tecla alt"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListAny"
 msgid "Any"
-msgstr "Obě"
+msgstr "Cualquiera"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListCtrl"
 msgid "Ctrl key"
-msgstr "Klávesa control"
+msgstr "tecla Control"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListLeft"
 msgid "Left"
-msgstr "Levá"
+msgstr "Izquierda"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListRight"
 msgid "Right"
-msgstr "Pravá"
+msgstr "derecha"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListShift"
 msgid "Shift key"
-msgstr "Klávesa shift"
+msgstr "tecla Shift"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListUnused"
 msgid "Not used"
-msgstr "Nepoužívat"
+msgstr "No usada"
 
 msgctxt "KeyMapConfiguratorInterface_ModifierListWin"
 msgid "Windows key"
-msgstr "Klávesa Windows"
+msgstr "tecla de Windows"
 
 msgctxt "KeyMapConfiguratorInterface_ShortcutsListText"
 msgid "Controls"
-msgstr "Klávesové zkratky"
+msgstr "Controles"
 
 msgctxt "Keys_APOSTROPHE"
 msgid "aphostrophe"
-msgstr "apostrof"
+msgstr "apóstrofe"
 
 msgctxt "Keys_APPLICATION"
 msgid "application"
-msgstr "kontextové menu"
+msgstr "aplicaciones"
 
 msgctxt "Keys_BACKSLASH"
 msgid "backslash"
-msgstr "obrácené lomítko"
+msgstr "barra invertida"
 
 msgctxt "Keys_BACKSPACE"
 msgid "backspace"
-msgstr "backspace"
+msgstr "retroceso"
 
 msgctxt "Keys_CAPSLOCK"
 msgid "capslock"
-msgstr "capslock"
+msgstr "bloq mayús"
 
 msgctxt "Keys_COMMA"
 msgid "comma"
-msgstr "čárka"
+msgstr "coma"
 
 msgctxt "Keys_D0"
 msgid "0"
@@ -315,19 +317,19 @@ msgstr "9"
 
 msgctxt "Keys_DELETE"
 msgid "delete"
-msgstr "delete"
+msgstr "suprimir"
 
 msgctxt "Keys_DOWN"
 msgid "down"
-msgstr "šipka dolů"
+msgstr "abajo"
 
 msgctxt "Keys_END"
 msgid "end"
-msgstr "end"
+msgstr "fin"
 
 msgctxt "Keys_EQUALS"
 msgid "equals"
-msgstr "rovná se"
+msgstr "igual"
 
 msgctxt "Keys_ESCAPE"
 msgid "escape"
@@ -335,119 +337,119 @@ msgstr "escape"
 
 msgctxt "Keys_GRAVE"
 msgid "grave"
-msgstr "středník"
+msgstr "acento grave"
 
 msgctxt "Keys_HOME"
 msgid "home"
-msgstr "home"
+msgstr "inicio"
 
 msgctxt "Keys_INSERT"
 msgid "insert"
-msgstr "insert"
+msgstr "insertar"
 
 msgctxt "Keys_KP_0"
 msgid "numpad 0"
-msgstr "numerická 0"
+msgstr "teclado numérico 0"
 
 msgctxt "Keys_KP_1"
 msgid "numpad 1"
-msgstr "numerická 1"
+msgstr "teclado numérico 1"
 
 msgctxt "Keys_KP_2"
 msgid "numpad 2"
-msgstr "numerická 2"
+msgstr "teclado numérico 2"
 
 msgctxt "Keys_KP_3"
 msgid "numpad 3"
-msgstr "numerická 3"
+msgstr "teclado numérico 3"
 
 msgctxt "Keys_KP_4"
 msgid "numpad 4"
-msgstr "numerická 4"
+msgstr "teclado numérico 4"
 
 msgctxt "Keys_KP_5"
 msgid "numpad 5"
-msgstr "numerická 5"
+msgstr "teclado numérico 5"
 
 msgctxt "Keys_KP_6"
 msgid "numpad 6"
-msgstr "numerická 6"
+msgstr "teclado numérico 6"
 
 msgctxt "Keys_KP_7"
 msgid "numpad 7"
-msgstr "numerická 7"
+msgstr "teclado numérico 7"
 
 msgctxt "Keys_KP_8"
 msgid "numpad 8"
-msgstr "numerická 8"
+msgstr "teclado numérico 8"
 
 msgctxt "Keys_KP_9"
 msgid "numpad 9"
-msgstr "numerická 9"
+msgstr "teclado numérico 9"
 
 msgctxt "Keys_KP_DELETE"
 msgid "numpad delete"
-msgstr "numerický delete"
+msgstr "teclado numérico suprimir"
 
 msgctxt "Keys_KP_DIVIDE"
 msgid "numpad divide"
-msgstr "numerické lomítko"
+msgstr "dividir del teclado numérico"
 
 msgctxt "Keys_KP_ENTER"
 msgid "numpad enter"
-msgstr "numerický enter"
+msgstr "intro del teclado numérico"
 
 msgctxt "Keys_KP_MINUS"
 msgid "numpad minus"
-msgstr "numerické minus"
+msgstr "teclado numérico menos"
 
 msgctxt "Keys_KP_MULTIPLY"
 msgid "numpad multiply"
-msgstr "numerická hvězdička"
+msgstr "teclado numérico multiplicar"
 
 msgctxt "Keys_KP_PERIOD"
 msgid "numpad period"
-msgstr "numerická desetinná čárka"
+msgstr "punto del teclado numérico"
 
 msgctxt "Keys_KP_PLUS"
 msgid "numpad plus"
-msgstr "numerické plus"
+msgstr "teclado numérico más"
 
 msgctxt "Keys_LEFT"
 msgid "left"
-msgstr "šipka doleva"
+msgstr "izquierda"
 
 msgctxt "Keys_LEFTBRACKET"
 msgid "left bracket"
-msgstr "levá závorka"
+msgstr "corchete izquierdo"
 
 msgctxt "Keys_MINUS"
 msgid "dash"
-msgstr "pomlčka"
+msgstr "guion"
 
 msgctxt "Keys_MUTE"
 msgid "mute"
-msgstr "ztlumit"
+msgstr "silenciar"
 
 msgctxt "Keys_PAGEDOWN"
 msgid "page down"
-msgstr "page down"
+msgstr "avanzar página"
 
 msgctxt "Keys_PAGEUP"
 msgid "page up"
-msgstr "page up"
+msgstr "retroceder página"
 
 msgctxt "Keys_PAUSE"
 msgid "pause"
-msgstr "break"
+msgstr "pausa"
 
 msgctxt "Keys_PERIOD"
 msgid "period"
-msgstr "tečka"
+msgstr "punto"
 
 msgctxt "Keys_PRINTSCREEN"
 msgid "printscreen"
-msgstr "print screen"
+msgstr "imprimir pantalla"
 
 msgctxt "Keys_RETURN"
 msgid "enter"
@@ -455,47 +457,47 @@ msgstr "enter"
 
 msgctxt "Keys_RIGHT"
 msgid "right"
-msgstr "šipka doprava"
+msgstr "derecha"
 
 msgctxt "Keys_RIGHTBRACKET"
 msgid "right bracket"
-msgstr "pravá závorka"
+msgstr "corchete derecho"
 
 msgctxt "Keys_SCROLLLOCK"
 msgid "scroll lock"
-msgstr "scroll lock"
+msgstr "bloqueo de desplazamiento"
 
 msgctxt "Keys_SEMICOLON"
 msgid "semicolon"
-msgstr "u s kroužkem"
+msgstr "punto y coma"
 
 msgctxt "Keys_SLASH"
 msgid "slash"
-msgstr "lomítko"
+msgstr "barra"
 
 msgctxt "Keys_SPACE"
 msgid "space"
-msgstr "mezerník"
+msgstr "espacio"
 
 msgctxt "Keys_TAB"
 msgid "tab"
-msgstr "tab"
+msgstr "tabulador"
 
 msgctxt "Keys_UP"
 msgid "up"
-msgstr "šipka nahoru"
+msgstr "arriba"
 
 msgctxt "Keys_VOLUMEDOWN"
 msgid "volume down"
-msgstr "hlasitost zeslabit"
+msgstr "bajar volumen"
 
 msgctxt "Keys_VOLUMEUP"
 msgid "volume up"
-msgstr "hlasitost zesílit"
+msgstr "subir volumen"
 
 msgctxt "RecordingPlayerScreenInterface_Loaded"
 msgid "Ready."
-msgstr "Načteno."
+msgstr "Listo."
 
 msgctxt "RecordingPlayerScreenInterface_LoadedWithHint"
 msgid ""
@@ -504,63 +506,50 @@ msgid ""
 "Rewind by 30 seconds using the arrow keys while holding down the ctrl key. "
 "To exit the player, press escape."
 msgstr ""
-"Obrazovka přehrávače. Přehrávání spustíš mezerníkem. Dalším stiskem "
-"mezerníku ho pozastavíš a znovu spustíš. Levou a pravou šipkou přetáčíš o "
-"pět vteřin. O třicet vteřin přetáčíš šipkami společně s controlem. Přehrávač "
-"zavřeš escapem."
+"Listo. Para iniciar la reproducción, pulsa la barra espaciadora. Pulsa la "
+"barra espaciadora para pausar y reanudar la reproducción. Para retroceder 5 "
+"segundos, usa las flechas izquierda y derecha. Retrocede 30 segundos usando "
+"las flechas mientras mantienes presionada la tecla ctrl. Para salir del "
+"reproductor, pulsa escape."
 
 msgctxt "RecordingPlayerScreenInterface_Loading"
 msgid "Loading..."
-msgstr "Načítá se..."
+msgstr "Cargando..."
 
 msgctxt "RecordingPlayerScreenInterface_LoadingError"
 msgid ""
 "An error occurred while loading the recording. This recording may be "
 "corrupted."
-msgstr "Při načítání nahrávky došlo k chybě. Tato nahrávka je možná poškozená."
+msgstr ""
+"Se produjo un error al cargar la grabación. Esta grabación puede estar "
+"dañada."
 
 msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuBack"
 msgid "Go back"
-msgstr "Zpět"
+msgstr "Volver"
 
 msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuNoRecordings"
 msgid "No recordings."
-msgstr "Žádné nahrávky."
+msgstr "No hay grabaciones."
 
 msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuTitle"
 msgid "Your recordings."
-msgstr "Tvoje nahrávky."
+msgstr "Tus grabaciones."
 
 msgctxt "RecordingPlayerScreenInterface_RecordingSelectionMenuTitleWithHint"
 msgid ""
 "Your recordings. Use up and down arrows to move through the menu. Press "
 "enter to activate an item"
 msgstr ""
-"Obrazovka tvoje nahrávky: Šipkami nahoru a dolů se pohybuješ po menu. "
-"Enterem potvrdíš vybranou položku"
+"Tus grabaciones. Usa las flechas arriba y abajo para moverte por el menú. "
+"Pulsa enter para activar un elemento"
 
 #, python-brace-format
 msgctxt "RecordingPlayerScreenInterface_Time"
 msgid "{0} / {1}"
-msgstr "{0} z {1}"
+msgstr "{0} / {1}"
 
 #, python-brace-format
 msgctxt "RecordingPlayerScreenInterface_Volume"
 msgid "Volume {0}%"
-msgstr "Hlasitost {0} procent"
-
-#~ msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutButtonText"
-#~ msgid "Add shortcut"
-#~ msgstr "Přidat zkratku"
-
-#~ msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitle"
-#~ msgid "Add shortcut."
-#~ msgstr "Přidání zkratky."
-
-#~ msgctxt "KeyMapConfiguratorInterface_ShortcutsListText"
-#~ msgid "Shortcuts"
-#~ msgstr "Klávesové zkratky"
-
-#~ msgctxt "RecordingPlayerScreenInterface_Loading"
-#~ msgid "Загрузка..."
-#~ msgstr "Načítá se..."
+msgstr "Volumen {0}%"
