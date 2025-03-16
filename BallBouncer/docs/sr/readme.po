@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2024-09-16 17:04+0000\n"
-"PO-Revision-Date: 2024-12-02 17:39+0100\n"
+"PO-Revision-Date: 2025-03-16 16:54+0100\n"
 "Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
 "Language-Team: \n"
 "Language: sr\n"
@@ -611,7 +611,7 @@ msgid ""
 "to rewind the recording by 5 seconds, use the arrow keys right - forward, "
 "left - backward. Rewinding by 30 seconds is done with the ctrl key held down."
 msgstr ""
-"Da biste premotavali snimak za 5 sekundi, koristite strelicu desno - "
+"da biste premotavali snimak za 5 sekundi, koristite strelicu desno - "
 "premotavanje napred, levo - premotavanje nazad. Premotavanje za 30 sekundi "
 "se vrši uz držanje tastera Kontrol."
 
@@ -645,7 +645,7 @@ msgstr ""
 
 #: BallBouncer/docs/en/readme.md:block 56 (header)
 msgid "control keys"
-msgstr "Prečice"
+msgstr "prečice"
 
 #: BallBouncer/docs/en/readme.md:block 57 (paragraph)
 msgid ""
@@ -689,7 +689,7 @@ msgstr "Podesi pravac karaktera desno ili levo"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "right/left shift"
-msgstr "Desni/levi Šift"
+msgstr "desni/levi Šift"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Swing the bat (hit the ball with a strong horizontal impulse)"
@@ -762,7 +762,7 @@ msgstr "Uhvati lopticu (ako je funkcija otključana)"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "left or right control"
-msgstr "Levi ili desni Kontrol"
+msgstr "levi ili desni Kontrol"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Select a skill slot from 1 to 10 (if the skill is set)"
@@ -770,7 +770,7 @@ msgstr "Izaberi slot veštine od 1 do 10 (ako je veština podešena)"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "keys 1 to 0/numpad1 to numpad0"
-msgstr "Tasteri 1 do 0/numeričko1 do numeričko0"
+msgstr "tasteri 1 do 0/numeričko1 do numeričko0"
 
 #: BallBouncer/docs/en/readme.md:block 59 (table)
 msgid "Cancel skill slot selection"
