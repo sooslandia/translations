@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2025-03-14 12:34+0000\n"
-"PO-Revision-Date: 2025-03-16 16:42+0100\n"
+"PO-Revision-Date: 2025-03-24 15:06+0100\n"
 "Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
 "Language-Team: \n"
 "Language: sr\n"
@@ -1631,7 +1631,7 @@ msgstr "Zvezdani moduli"
 
 msgctxt "ProfileModulesUpgrades"
 msgid "Module upgrades"
-msgstr "Pojačanja režima"
+msgstr "Pojačanja modula"
 
 #, python-brace-format
 msgctxt "ProfileQuestBoardBuyQuestSlot"
