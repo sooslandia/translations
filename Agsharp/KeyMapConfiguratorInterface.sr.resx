@@ -65,13 +65,13 @@
     <value>Dodaj</value>
   </data>
   <data name="AddKeyShortcutButtonText" xml:space="preserve">
-    <value>Dodaj prečicu</value>
+    <value>Dodaj kontrolu</value>
   </data>
   <data name="AddKeyShortcutError" xml:space="preserve">
-    <value>Dodavanje prečice nije uspelo. Možda pokušavate da dodate duplikat u konfiguraciju.</value>
+    <value>Dodavanje kontrole nije uspelo. Možda pokušavate da dodate duplikat u konfiguraciju.</value>
   </data>
   <data name="AddKeyShortcutSuccess" xml:space="preserve">
-    <value>Prečica dodata.</value>
+    <value>Kontrola dodata.</value>
   </data>
   <data name="CancelButtonText" xml:space="preserve">
     <value>Otkaži</value>
@@ -80,10 +80,10 @@
     <value>Zatvori</value>
   </data>
   <data name="DeleteKeyShortcutButtonText" xml:space="preserve">
-    <value>Obriši prečicu</value>
+    <value>Obriši kontrolu</value>
   </data>
   <data name="KeyCatcherControlCatching" xml:space="preserve">
-    <value>Pritisnite taster koji želite da dodate u prečicu.</value>
+    <value>Pritisnite taster koji želite da dodate u kontrolu.</value>
   </data>
   <data name="KeyCatcherControlKeyReset" xml:space="preserve">
     <value>Taster resetovan</value>
@@ -98,16 +98,16 @@
     <value>Taster {0} podešen. Pritisnite Enter da promenite ili Delete da resetujete.</value>
   </data>
   <data name="KeyConfigureTitle" xml:space="preserve">
-    <value>Podešavanje tastera.</value>
+    <value>Podešavanje kontrola.</value>
   </data>
   <data name="KeyConfigureTitleWithHint" xml:space="preserve">
-    <value>Podešavanje tastera. Koristite Tab i Šift+Tab da se krećete napred i nazad po ekranu. Koristite strelice gore i dole da se krećete kroz liste i stabla. Da aktivirate izabranu stavku, pritisnite Enter.</value>
+    <value>Podešavanje kontrola. Koristite Tab i Šift+Tab da se krećete napred i nazad po ekranu. Koristite strelice gore i dole da se krećete kroz liste i stabla. Da aktivirate izabranu stavku, pritisnite Enter.</value>
   </data>
   <data name="KeyShortcutAddTitle" xml:space="preserve">
-    <value>Dodaj prečicu.</value>
+    <value>Dodaj kontrolu.</value>
   </data>
   <data name="KeyShortcutAddTitleWithHint" xml:space="preserve">
-    <value>Dodaj prečicu. Koristite Tab i Šift+Tab da se krećete napred i nazad po ekranu. Koristite strelice gore i dole da se krećete kroz liste. Da aktivirate izabranu stavku, pritisnite Enter.</value>
+    <value>Dodaj kontrolu. Koristite Tab i Šift+Tab da se krećete napred i nazad po ekranu. Koristite strelice gore i dole da se krećete kroz liste. Da aktivirate izabranu stavku, pritisnite Enter.</value>
   </data>
   <data name="ModifierListAlt" xml:space="preserve">
     <value>taster Alt</value>
@@ -134,6 +134,6 @@
     <value>Taster Windows</value>
   </data>
   <data name="ShortcutsListText" xml:space="preserve">
-    <value>Prečice</value>
+    <value>Kontrole</value>
   </data>
 </root>
