@@ -1,187 +1,205 @@
 % Lista promena
 
+## 1.3.5
+
+### Promene
+
+- Updated translations.
+   - Srpski. Prevodilac [nidza07](https://github.com/nidza07).
+   - Turski. Prevodilac [fatihyuksek](https://github.com/fatihyuksek1).
+- Changed the completion criteria for some quests.
+- Now, if the ball watch mode is enabled, the penalty for the character staying
+in one place is not applied.
+
+### Ispravke
+
+- Fixed the ability to use certain auras if they are not active.
+- Otherworldly aura has been changed in such a way as to make it easier to hit
+the ball with the bat.
+- Fixed the behavior of the electric charge in trial of speed mode, where it
+could hit the character and be counted as hitting the ground at the same time.
+- Fixed a critical error when using the "Magnetism" and "Rocket Salvo" skills
+simultaneously.
+- Fixed a critical error when using the "Catcher's Soul" and "Furious Leap"
+skills simultaneously.
+- Likely fixed a critical error occurring when restarting the game after an
+update.
+- Fixed the sound playback for the object collision streak notification.
+
 ## 1.3.4
 
 ### Promene
 
-- Czech translation updated. Translator
-[4sensegaming](https://github.com/4sensegaming).
-- Spanish translation updated. Translator:
-[ogomez92](https://github.com/ogomez92).
-- If you are unable to activate an aura, you will now be notified clearly.
-- If you do not have enough energy to activate a star module, you will now be
-notified when attempting to activate it.
+- Ažuriran češki prevod.
+Prevodilac[4sensegaming](https://github.com/4sensegaming).
+- Ažuriran španski prevod. Prevodilac: [ogomez92](https://github.com/ogomez92).
+- Ako ne možete da aktivirate auru, dobićete jasno obaveštenje.
+- Ako nemate dovoljno energije da aktivirate zvezdani modul, dobićete obaveštenje
+kada pokušate da ga aktivirate.
 
 ### Ispravke
 
-- Fixed an issue with zdsr.
-- The behavior of the goal in the trial of speed mode has been fixed.
-   - Now the goal lowers back to its original height after the "Elevator" effect
-ends.
-   - The goal will no longer disappear from the object map when rising or lowering.
-- Fixed the completion tracking of certain quests in training mode.
+- Ispravljen problem uz zdsr.
+- Ponašanje gola u režimu probe brzine je ispravljeno.
+   - Sada se gol spušta nazad na originalnu visinu nakon što se završi efekat lifta.
+   - Gol više neće nestajati sa mape objekata kada se podiže ili spušta.
+- Ispravljeno praćenje završetka određenih misija u režimu vežbanja.
 
 ## 1.3.3
 
 ### Nove funkcije
 
-- Spanish translation added. Translators:
+- Dodat španski prevod. Prevodioci:
 [rayo-alcantar](https://github.com/rayo-alcantar),
 [ogomez92](https://github.com/ogomez92).
 
 ### Promene
 
-- Czech translation updated. Translator
-[4sensegaming](https://github.com/4sensegaming).
+- Ažuriran češki prevod.
+Prevodilac[4sensegaming](https://github.com/4sensegaming).
 
 ### Ispravke
 
-- Fixed a critical error that occurred when many sounds were playing
-simultaneously.
-- Fixed issues with star modules.
-   - Additional module information tab now updates when you buy upgrades.
-   - The description of the "ball controller" module's controlled ball speed
-increase no longer includes the information about the twelve percent speed
-increase.
-   - When pressing the key to check the current amount of star energy, the number is
-now announced at the beginning of the message.
-   - Fixed a critical bug when activating the "ball controller" star module and the
-ball was caught during activation.
-- Fixed the completion tracking of the "Magnetism" skill usage quest in training
-mode.
-- Recording issues fixed.
-   - When closing the game using Alt+F4 during gameplay, the recording is canceled
-if the "Cancel recording when manually aborting the game" checkbox is checked
-and properly finalized if it is not checked.
-   - When the game ends prematurely due to reaching -1000 points, the recording is
-no longer canceled even if the "Cancel recording when manually aborting the
-game" checkbox is checked.
-- It is now possible to play with jaws active.
-- Fixed an issue with launching the game on Windows for some users.
+- Ispravljena kritična greška do koje je dolazilo kada se puno zvukova
+reprodukovalo u isto vreme.
+- Ispravljeni problemi sa zvezdanim modulima.
+   - Kartica dodatnih informacija modula se sada ažurira kada kupujete pojačanja.
+   - Opis pojačanja povećanja brzine modula kontrolera loptice više ne uključuje
+informacije o povećanju brzine od dvanaest posto.
+   - Kada se pritisne taster za proveru trenutne zvezdane energije, broj se sada
+izgovara na početku poruke.
+   - Ispravljena kritična greška kada se aktivira zvezdani modul "kontroler loptice"
+i loptica uhvati u toku aktivacije.
+- Ispravljeno praćenje završetka misije korišćenja veštine magnetizma u režimu
+vežbanja.
+- Ispravljeni problemi sa snimanjem.
+   - Kada se igra zatvori prečicom Alt+F4 u toku igre, snimanje se prekida ako se
+označi opcija "Otkaži snimak pri ručnom prekidanju igre" i uspešno završava
+ako ova opcija nije označena.
+   - Kada se igra završi pre vremena zbog rezultata od -1000 poena, snimanje se više
+ne prekida čak i kada je opcija "Otkaži snimak pri ručnom prekidanju igre"
+označena.
+- Sada je moguće igrati uz JAWS.
+- Ispravljena greška pri pokretanju igre na Windowsu za neke korisnike.
 
 ## 1.3.2
 
 ### Ispravke
 
-- Successful bat hit sound has been fixed and now plays in all intended
-situations.
-- Information on how to activate items has been added to the descriptions of
-trial of will and trial of mastery modes.
-- Fixed a game crash that occurred when a screen reader other than NVDA was
-active.
-- Issues with mp3 recordings have been fixed.
-   - Potentially fixed a game crash that occurred when playing with recording
-enabled.
-   - A special VBR header is now added to recordings. Previously, its absence could
-cause some players to incorrectly display the recording's duration and
-experience issues with seeking.
-   - MP3 encoding parameters have been adjusted to reduce file size without
-noticeable quality loss.-
-- A line has been added to the documentation explaining how to unlock the quest
-board (in the "Other Game Modes" section).
-- Fixed a critical error that occurred when many sounds were playing
-simultaneously.
+- Zvuk za uspešan udarac palicom je ispravljen i sada se reprodukuje u svim
+željenim situacijama.
+- Informacije kako se predmeti aktiviraju su dodate u opise režima probe volje i
+probe majstora.
+- Ispravljeno rušenje igre do kog je dolazilo kada je neki drugi čitač ekrana
+koji nije NVDA aktivan.
+- Problemi sa MP3 snimcima su ispravljeni.
+   - Potencijalno ispravljeno rušenje igrice do kojeg je dolazilo prilikom igranja
+uz omogućeno snimanje.
+   - Posebno VBR zaglavlje je dodato u snimke. Ranije, odsustvo ovog zaglavlja je
+izazvalo da neki reproduktori neispravno prikazuju trajanje snimka i imaju
+probleme sa premotavanjem.
+   - MP3 parametri kodiranja su promenjeni kako bi se smanjila veličina datoteke bez
+značajnog gubitka kvaliteta.-
+- Dodat je red u dokumentaciju koji objašnjava kako se otključava tabla misija (u
+sekciji "Drugi režimi igre").
+- Ispravljena kritična greška do koje je dolazilo kada se puno zvukova
+reprodukovalo u isto vreme.
 
 ## 1.3.1
 
-Fixed a bug with objects sound panning.
+Ispravljena greška sa pozicioniranjem zvukova objekata.
 
 ## 1.3.0
 
-This is the largest update, adding a lot of new content to the game.
+Ovo je najveće ažuriranje, dodajući puno novog sadržaja u igricu.
 
-Three new modes await you, each of which can be upgraded, along with the quest
-board content featuring dozens of diverse quests. By completing these quests,
-you can earn stars, which can then be spent on various upgrades.
+Tri nova režima vas čekaju, svaki od njih se može pojačati, uz tablu misija koja
+sadrži desetine raznovrsnih misija. Završavanjem ovih misija, možete da zaradite
+zvezde, koje se zatim mogu potrošiti na različita pojačanja.
 
-New objects will help you score even more points than you could have ever
-imagined.
+Novi objekti će vam pomoći da dobijete čak i više poena nego što ste ikada
+zamislili.
 
-New auras will breathe new life into your skills, while the new skills will open
-up even more strategies for object destruction.
+Nove aure će oživeti vaše veštine, dok će nove veštine otvoriti još više
+strategija za uništavanje objekata.
 
-And of course, there are the upgrades that affect the entire gameplay, allowing
-you to rack up points to unprecedented levels and create even more destruction
-on the playing field.
+I naravno, tu su pojačanja koja utiču na celu igru, dozvoljavajući vam da
+povećate poene na do sad neviđene nivoe i pravite još veću destruktivnost na
+terenu.
 
-To reach the true heights, you’ll have to spend dozens of hours, but don’t be
-scared — those hours will be filled with unrestrained chaos of destruction and
-the sweetness of well-deserved rewards!
+Da dostignete istinske visine, moraćete da provedete desetine sati, ali ne
+plašite se — ti sati će biti popunjeni neograničenim haosom uništenja i
+slatkoćom dobro zasluženih nagrada!
 
 ### Nove funkcije
 
-- New content added.
-   - Three new modes, each with its own currency.
-   - A quest board.
-   - New statistics items.
-   - New objects, skills, and auras, unlocked with the currencies of the new modes.
-   - As well as many different upgrades that affect both the new modes and the
-normal game.
-- The ability to view the descriptions of game modes has been added.
-   - To open the description, select a mode from the list on the new game start
-screen and press the D key, or click the "Open Mode Description" button.
+- Dodat novi sadržaj.Dodati novi prevodi.
+   - Tri nova režima, svaki sa svojom sopstvenom valutom.
+   - Tabla misija.
+   - Nove stavke statistika.
+   - Novi objekti, veštine i aure, otključavaju se valutama novih režima.
+   - Kao i puno različitih pojačanja koja utiču i na nove režime i na standardnu
+igru.
+- Dodata je mogućnost gledanja opisa režima igre.
+   - Da otvorite opis, izaberite režim iz liste na novom ekranu za početak igre i
+pritisnite taster D, ili aktivirajte dugme "Otvori opis režima".
 
 ### Promene
 
-- Now auras can be active or inactive.
-   - Initially, you can use only two auras at the same time, but in the future, the
-number of active auras can be increased, as well as new ones can be acquired.
-   - You can also open the description of an aura, except for the leader and time
-auras, by pressing the corresponding button on the auras tab in the profile.
-- The "Furious leap" ability has been improved. Now the character can dash a
-greater distance.
-- The balance of points awarded for high streaks of collisions, object
-destructions, and ball bounces off the ceiling has been adjusted.
-- The upgrade cost for the Leader and Time auras has been increased. If your aura
-level is above five, it will be reset to zero, and the achievement points
-spent on upgrading it will be returned.
-- Now you can activate menu items by pressing the Enter key on the numpad, and
-also hold Enter on buttons for rapid activations.
-- The calculation of the coin reward has been refined for final scores over two
-million.
-- The behavior of the sound playback for checking the character's position has
-been changed.
-   - Previously: The sound played at the character's position in the field center
-view, and played at the center of the field in the first-person view.
-   - Now: The sound always plays at the character's position, except when the
-first-person view is active and ball watch mode is turned off. In this case,
-the sound plays at the center of the field.
-- The learn sounds screen has been redesigned.
-   - The menu has been replaced with a virtual form.
-   - Sounds, both from the base game and new modes, are now organized into separate
-tabs of the form for easier navigation and the ability to listen to them
-during gameplay.
-- The method of recording gameplay has been changed.
-   - Now, recordings are saved in MP3 format.
-   - The old recording method has been disabled, but it is still possible to play
-previously recorded files.
-   - New recordings will be located in userData/mp3recordings.
-   - The ability to play recordings in the old format will be removed in version
+- Aure sada mogu biti aktivne i neaktivne.
+   - Na početku, možete koristiti samo dve aure u isto vreme, ali u budućnosti, broj
+aktivnih aura se može povećati, a nove se mogu nabaviti.
+   - Možete takođe otvoriti opis aure, osim za auru vođe i vremensku auru,
+aktiviranjem odgovarajućeg dugmeta na kartici aura na profilu.
+- Veština "besni skok" je poboljšana. Sada karakter može da se zaleti i kada je
+udaljenost veća.
+- Balans poena koji se dobijaju za veće nizove sudara, uništenja objekata, i
+odskakanja loptice sa plafona je promenjen.
+- Cena pojačanja za vremensku auru i auru vođe je povećana. Ako je vaš nivo aure
+iznad pet, biće vraćen na nulu, a poeni dostignuća koje ste potrošili da je
+pojačate će biti vraćeni.
+- Sada možete da aktivirate stavke menija pritiskanjem numeričkog tastera Enter,
+i takođe da držite Enter na dugmićima za bržu aktivaciju.
+- Računanje nagrade novčića je poboljšano za konačne rezultate iznad dva miliona.
+- Ponašanje reprodukcije zvuka za proveru pozicije karaktera je promenjeno.
+   - Ranije: Zvuk se reprodukovao na poziciji karaktera sa kamerom fokusiranom na
+teren, a reprodukovao se na centru terena sa kamerom fokusiranom na karaktera.
+   - Sada: Zvuk se uvek reprodukuje na poziciji karaktera, osim kada je perspektiva
+fokusirana na karaktera aktivna a režim gledanja loptice je onemogućen. In
+this case, the sound plays at the center of the field.
+- Ekran učenja zvukova je redizajniran.
+   - Meni je zamenjen virtuelnom formom.
+   - Zvukovi iz standardne igre ali i iz drugih režima su sada organizovani po
+odvojenim karticama forme radi lakše navigacije i kako biste mogli da ih
+čujete u toku igre.
+- The Metod snimanja igre je promenjen.
+   - Snimci se sada čuvaju u MP3 formatu.
+   - Stari način snimanja je onemogućen, ali je reprodukovanje prethodno snimljenih
+datoteka još uvek moguće.
+   - Novi snimci će se nalaziti u folderu userData/mp3recordings.
+   - Mogućnost reprodukcije snimaka u starom formatu će biti uklonjena u verziji
 1.5.0.
-- Minor changes and inconsistencies fixed in English translation.
-- Setting skill levels in training mode has been fixed.
-   - Now, changing skill levels will have an effect on the game session.
-   - Also, now you can set any skill level up to the maximum possible.
-- A critical bug has been fixed when changing controls configuration during
-gameplay.
-- The issue where the camera did not follow the character during a jump or when
-using the "Furious leap" skill has been fixed.
-- The accuracy of the character's hit on the ball when using the "Furious leap"
-skill has been increased.
-- Now, when the character jumps, the penalty timer for staying in one place is
-reset.
-- The issue that allowed opening the object map and pausing the game
-simultaneously, leading to strange and undesirable behavior, has been fixed.
-- The error in the calculation of points for object destruction has been fixed.
-As a result, fewer points are now awarded for this.
-- Incorrect setting of the skill cooldown time after an unsuccessful attempt has
-been fixed.
+- Sitnije promene i ispravke nedoslednosti u engleskom prevodu.
+- Podešavanje nivoa veština u režimu vežbanja je ispravljeno.
+   - Sada, menjanje nivoa veština će imati uticaj na trenutnu igru.
+   - Takođe, sada možete da podesite nivo bilo koje veštine na maksimalan.
+- Ispravljena je kritična greška kada se menjaju podešavanja kontrola u toku igre.
+- Ispravljena je greška zbog koje kamera nije pratila karaktera tokom skoka ili
+kada se koristi veština "besni skok".
+- Preciznost udarca loptice kada se koristi veština "besni skok" je povećana.
+- Sada, kada karakter skoči, vreme za kaznu stajanja u mestu se resetuje.
+- Greška koja je dozvoljavala otvaranje mape objekata i u isto vreme pauziranje
+igre, a nakon toga čudno i neželjeno ponašanje, je ispravljena.
+- Greška pri računanju poena za uništenje objekata je ispravljena. Kao rezultat
+toga, za ovo se sada dobija manje poena.
+- Neispravno postavljanje vremena oporavka veštine nakon neuspešnog korišćenja je
+ispravljeno.
 
 ## 1.2.4
 
 ### Ispravke
 
-- Updated and corrected translations.
+- Ažurirani i ispravljeni prevodi.
 
 ## 1.2.3
 
@@ -264,7 +282,7 @@ pristupili iz menija pauze.
 ### Promene
 
 - Ekran izbora režima igre je promenjen.
-   - Ekran se sada prikazuje u obliku virtuelne forme umesto menija. Navigacija je
+   - ekran se sada prikazuje u obliku virtuelne forme umesto menija. Navigacija je
 slična ekranima podešavanja i profila.
    - Sa novog ekrana možete odlučiti da li će igra biti snimljena.
 - Poboljšan interfejs ekrana profila.

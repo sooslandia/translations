@@ -1,5 +1,31 @@
 % Historie změn
 
+## 1.3.5
+
+### Změny
+
+- Updated translations.
+   - Srbština. Překladatel [nidza07](https://github.com/nidza07).
+   - Turečtina. Překladatel [fatihyuksek](https://github.com/fatihyuksek1).
+- Changed the completion criteria for some quests.
+- Now, if the ball watch mode is enabled, the penalty for the character staying
+in one place is not applied.
+
+### Opravy
+
+- Fixed the ability to use certain auras if they are not active.
+- Otherworldly aura has been changed in such a way as to make it easier to hit
+the ball with the bat.
+- Fixed the behavior of the electric charge in trial of speed mode, where it
+could hit the character and be counted as hitting the ground at the same time.
+- Fixed a critical error when using the "Magnetism" and "Rocket Salvo" skills
+simultaneously.
+- Fixed a critical error when using the "Catcher's Soul" and "Furious Leap"
+skills simultaneously.
+- Likely fixed a critical error occurring when restarting the game after an
+update.
+- Fixed the sound playback for the object collision streak notification.
+
 ## 1.3.4
 
 ### Změny
