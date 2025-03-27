@@ -67,15 +67,14 @@ Entera ili razmaka. Krećite se kroz liste korišćenjem strelica gore i dole,
 menjajte vrednosti klizača korišćenjem strelica. Izbor kartica se vrši
 strelicama levo i desno.
 
-On the shop screen, pressing Enter on the selected item will open the reference
-information, where the item is described in detail.
+Na ekranu prodavnice, pritiskanje Entera na izabranom predmetu će otvoriti
+informacije o korišćenju, gde je predmet detaljno opisan.
 
-In the profile, on the "Statistics" tab, by pressing enter on a list item you can
-claim a reward, if available. By pressing ctrl+c you can copy the contents of
-the item into your clipboard.
+Na profilu, na kartici "statistike", pritiskanjem entera u listi možete dobiti
+nagradu, ako je dostupna. Pritiskanjem prečice ctrl+c možete kopirati sadržaj
+stavke u vašu privremenu memoriju.
 
-On the "Skills" tab, pressing on an item will provide detailed information about
-the skill.
+Na kartici veština, aktiviranje veštine će pružiti detaljne informacije o njoj.
 
 Svi meniji i ekrani, osim glavnog menija i poslednjeg menija sa rezultatima igre
 se mogu zatvoriti tasterom Escape.
@@ -84,53 +83,50 @@ se mogu zatvoriti tasterom Escape.
 
 ### Režim vežbe
 
-The game has a training mode where you can spend unlimited time and where all
-penalties are disabled. In this mode, a sound will be played when you can hit
-the ball, which you can listen to in the learn sounds menu. The sound will play
-when the ball has bounced at least once off the floor to teach you to sense the
-moment for the perfect strike. In training mode, game statistics are not
-collected, and points are not scored.
+Igrica sadrži režim vežbanja u kojem imate neograničeno vreme a sve kazne su
+onemogućene. U ovom režimu, čućete zvuk kada možete da udarite lopticu, koji
+možete da čujete u meniju učenja zvukova. Zvuk će se reprodukovati kada je
+loptica bar jednom odskočila sa poda kako biste naučili trenutak savršenog
+udarca. U režimu vežbe, statistike igre se ne beleže, i poeni se ne osvajaju.
 
-During training, you can press the F2 key, and a screen will open where you can
-set the level of the hit strength recovery rate upgrade, ranging from the first
-to the maximum level.
+U toku vežbanja, možete pritisnuti taster F2, što će otvoriti ekran na kojem
+možete podesiti nivo oporavka snage udarca, od prvog do maksimalnog nivoa.
 
-Also, in the future, when you acquire your first skills, you will be able to set
-their levels on this screen, if they are set in one of the slots, following the
-same principle as the hit strength recovery rate upgrade.
+Takođe, u budućnosti, kada otključate vaše prve veštine, moćićete da podesite
+nivoe veština na ovom ekranu, ako ste ih podesili na jedno od dostupnih mesta,
+prateći isti princip kao i podešavanje oporavka snage udarca.
 
-When you press the F1 key, your skills set in the slots will be instantly
-recharged and available for use.
+Kada pritisnete taster F1, vaše veštine koje ste podesili na dostupna mesta će se
+odmah oporaviti i biti dostupne za korišćenje.
 
-These keys can be changed using the controls Configurator.
+Ovi tasteri se mogu promeniti korišćenjem podešavanja kontrola.
 
 ### Kako igrati
 
-After selecting the "Start Game" option in the main menu, the countdown will
-begin. Then, you will be able to control the character.
+Nakon što izaberete "započni igru" u glavnom meniju, počeće odbrojavanje. Zatim,
+moćićete da kontrolišete karaktera.
 
-At the beginning of the game, the character is located in the center of the
-field. You can move them using the left and right arrow keys. The camera is
-initially set to a center-field view, but you can switch to a first-person view
-by pressing the "v" key.
+Na početku igre, karakter se nalazi na centru terena. Možete da ga pomerate
+strelicama levo i desno. Kamera podrazumevano prati centar terena, ali je možete
+promeniti tako da prati karaktera pritiskanjem tastera "V".
 
-By pressing the "C" key in the field center view, you will hear a sound
-positioned at the character's location. In the first-person view, the sound will
-play from the center of the field, unless you are observing the ball. In that
-case, the sound will be played at the character's position. This will help you
-better feel the character when attempting to hit the ball.
+Pritiskanjem tastera "C" kada je kamera fokusirana na centar, čućete zvuk na
+poziciji lokacije karaktera. Kada je fokusirana na karaktera, zvuk će se
+reprodukovati sa centra terena, osim ako gledate lopticu. U tom slučaju, zvuk će
+se čuti na poziciji karaktera. Ovo će vam pomoći da bolje osetite gde je
+karakter kada pokušavate da udarite lopticu.
 
-By pressing the left or right shift key, you can set the character's facing
-direction. When moving, the direction is set automatically.
+Pritiskanjem levog ili desnog Šifta, možete podesiti pravac kretanja karaktera.
+Kada se krećete, pravac se menja automatski.
 
-First, you need to throw the ball to make it appear on the game field. You can do
-this by pressing the "f" key.
+Na početku, morate da bacite lopticu kako bi se ona pojavila na terenu. Ovo
+možete uraditi pritiskanjem tastera "F".
 
-After the ball is on the field, you will hear a tone which will move left and
-right, indicating movement of the ball in the horizontal plane. The tone's pitch
-and volume will also change, indicating vertical ball movement. Decreasing
-volume and rising pitch mean that the ball is moving upwards, while increasing
-volume and lowering pitch mean the opposite.
+Nakon što je loptica na terenu, čućete ton koji će se pomerati levo desno, što
+označava horizontalno kretanje loptice. Visina i jačina tona će se takođe
+menjati, što označava vertikalno kretanje loptice. Utišavanje tona i povećavanje
+visine znače da se loptica kreće gore, dok pojačanje tona i povećavanje visine
+znače suprotno.
 
 Postoje dve vrste bacanja:
 
@@ -151,113 +147,109 @@ pravcu u kojem je karakter okrenut.
 impuls, a održavaće horizontalni pravac bez obzira na pravac kretanja
 karaktera.
 
-You can only hit the ball while being near it. After each swing of the bat, the
-character restores the hit strength. Once it is fully restored, you will hear an
-alert, the sound of which can be heard in the learn sounds menu. You can also
-toggle the sound of successful bat hits in the options on the behavior tab.
+Možete da udarite lopticu samo ako ste blizu nje. Nakon svakog udarca palicom,
+karakter mora da vrati snagu udarca. Nakon što se u potpunosti vrati, čućete
+upozorenje, zvuk ovog upozorenja se može čuti u meniju učenja zvukova. Možete
+takođe uključiti ili isključiti zvuk uspešnog udarca palicom u podešavanjima na
+kartici ponašanje.
 
-You should always aim to make perfect strikes, as they reward you with bonus
-points. A perfect strike occurs when the ball bounces off the floor only once.
-For the second and any additional bounces, you'll lose points. The more times
-the ball bounces on the ground, the more points you lose. So, try to hit the
-ball upwards as quickly as possible.
+Uvek biste trebali da pokušate savršene udarce, budući da vam oni donose bonus
+poene. Savršen udarac se događa kada loptica odskoči sa poda samo jednom. Za
+drugo i svako naredno odskakanje, gubite poene. Što više puta loptica odskoči od
+poda, više poena gubite. Dakle, pokušajte da udarite lopticu gore što brže
+možete.
 
-It's also not a good idea to stay in one place for too long, as you'll lose
-points for being stationary for ten seconds or more.
+Takođe nije dobra ideja da predugo stojite na istom mestu, zato što ćete izgubiti
+poene ako se ne krećete deset sekundi ili duže.
 
-At the beginning of the game, avoid holding the ball for too long, as each second
-the ball is held adds an increasing penalty. The same applies to a caught ball.
+Na početku igre, izbegavajte da predugo držite lopticu, zato što svaka sekunda
+tokom koje držite lopticu povećava kaznene poene. Isto važi kada se loptica
+uhvati.
 
-A penalty is applied for the fifth and subsequent misses.
+Kazna se primenjuje za peti i svaki naredni promašaj.
 
-You earn points for the ball colliding with an object, as well as for destroying
-an object. If the ball bounces off the ceiling, you will also receive bonus
-points.
+Zarađujete poene kada se loptica sudari sa objektom, kao i kada uništi objekat.
+Ako loptica odskoči sa plafona, takođe ćete dobiti bonus poene.
 
-After colliding with an object or destroying it, a streak begins. Each subsequent
-collision or destruction brings more points. However, if the streak was not
-continued for more than six seconds, it is reset. The same applies to the ball's
-bounces off the ceiling.
+Nakon što se sudari sa objektom ili ga uništi, počinje niz. Svako dodatno
+sudaranje ili uništenje donosi više poena. Ali, ako se niz ne nastavi duže od
+šest sekundi, resetuje se. Isto važi za odskakanje loptice sa plafona.
 
-After making a perfect strike, a separate streak begins. For each new perfect
-strike, you earn significantly more points than the previous one. If the ball
-bounces more than once off the floor, the streak ends, and you’ll have to start
-over.
+Nakon što izvršite savršen udarac, odvojeni niz počinje. Za svaki novi savršen
+udarac, dobijate znatno više poena od prethodnog. Ako loptica odskoči sa poda
+više od jednog puta, niz se završava, i morate da počnete iz početka.
 
-After being destroyed, objects will fall to the ground, creating noise and adding
-chaos to what’s happening.
+Nakon što se unište, objekti će pasti na zemlju, i praviti buku dodavanjem haosa.
 
-During the game, you can not only observe the entire field but also switch to the
-ball watch mode. To activate this mode, hold the G key. The ball watch mode will
-stay active as long as you hold G, and will deactivate as soon as you release it.
+Tokom igre, ne samo da možete pratiti ceo teren već i da se prebacite u režim
+gledanja loptice. Da aktivirate ovaj režim, držite taster G. Režim gledanja
+loptice ostaje aktivan dokle god držite G, i deaktiviraće se čim ga odpustite.
 
-You can pause the game by pressing the escape key. After pressing it, you will
-enter the pause menu, where you can view the time remaining in the session, the
-score, and other information. From the pause menu, you can also access the
-settings or abort the game.
+Možete pauzirati igricu pritiskanjem tastera Escape. Nakon što ga pritisnete,
+ućićete u meni pauze, gde možete videti preostalo vreme do kraja igre, rezultat
+i druge informacije. Iz menija pauze, takođe možete pristupiti podešavanjima ili
+prekinuti igru.
 
-However, you can check the remaining time and current score not only in the pause
-menu. Press the T key to check the time, and the P key to see your score.
+Ali, možete proveriti preostalo vreme i trenutni rezultat i van menija pauze.
+Pritisnite taster T da proverite vreme, i taster P da vidite vaš rezultat.
 
-If your score drops to minus one thousand, the game session will end prematurely.
-No coins will be awarded, but you won't lose anything else.
+Ako vaš rezultat padne na minus hiljadu, igra će se završiti. Nećete dobiti
+novčiće, ali nećete ni izgubiti ništa više.
 
-The game session lasts five minutes. This time can be extended by upgrading the
-Time Aura in the profile.
+Igra traje pet minuta. Ovo vreme se može produžiti pojačanjem vremenske aure na
+profilu.
 
-After the game session ends, a sound animation of coin awarding will play, which
-can be skipped by pressing the Enter key.
+Nakon što se igra završi, reprodukovaće se zvučna animacija dobijanja novčića,
+koja se može preskočiti tasterom Enter.
 
-Then, the last game results menu will open, where you can find out how many
-points were ultimately scored and coins received. After closing the menu by
-pressing enter, you may be shown a notification about an available reward for
-reaching a statistic milestone. The display of the results menu for the last
-game and notifications about available rewards can be disabled in the settings,
-on the “Behavior” tab.
+Zatim, otvoriće se meni rezultata poslednje igre, gde možete videti koliko poena
+i novčića ste dobili na kraju. Nakon što zatvorite meni pritiskanjem Entera,
+možda ćete dobiti obaveštenje o dostupnoj nagradi za dostizanje statističkog
+jubileja. Prikazivanje menija rezultata poslednje igre i obaveštenje o dostupnoj
+nagradi se mogu onemogućiti u podešavanjima, na kartici “ponašanje”.
 
-The game also has skills that are fully described in the game. To use a skill
-during the game, you need to set it in one of ten slots. Assigning is done in
-your profile, on the “Skills” tab. Slots are accessed using keys from 1 (first
-slot) to 0 (tenth slot).
+Igrica takođe ima veštine koje su u potpunosti opisane u igrici. Kako biste
+koristili veštinu tokom igre, morate je podesiti na jedno od deset mesta.
+Podešavanje se vrši na vašem profilu, na kartici “Veštine”. Mestima pristupate
+korišćenjem brojeva od 1 (prvo mesto) do 0 (deseto mesto).
 
-In the store you can unlock the abilities to jump and catch the ball. These two
-abilities are also fully described in the game, including the keys to use. They
-are also present in the table of controls.
+U prodavnici možete otključati sposobnosti skakanja i hvatanja loptice. Ove dve
+sposobnosti su takođe u potpunosti opisane u igrici, uz tastere za njihovo
+korišćenje. Takođe su prisutne u tabeli kontrola.
 
-### Other game modes
+### Drugi režimi igre
 
-In addition to the normal and training modes, there are three other modes in the
-game, but they are not unlocked immediately.
+Uz standardni i režim vežbanja, u igrici postoje tri dodatna režima, ali oni nisu
+odmah otključani.
 
-To unlock new modes, earn rewards for reaching statistical milestones.
+Da otključate nove režime, prikupljajte nagrade dostizanjem statističkih jubileja.
 
-In the profile, on the statistics tab, you can see how many rewards you need to
-unlock the next mode.
+Na profilu, na kartici statistika, možete videti koliko nagrada morate da
+dobijete da otključate sledeći režim.
 
-When you receive the required number of rewards, an informational menu will
-appear, briefly describing what has become available to you.
+Kada dobijete neophodan broj nagrada, pojaviće se meni informacija, koji će
+ukratko opisati šta vam je postalo dostupno.
 
-To learn detailed information about any mode, select the mode from the list on
-the new game start screen and press the D key, or click the "Open mode
-description" button.
+Da biste dobili detaljne informacije o bilo kom režimu, izaberite režim iz liste
+na ekranu početka nove igre i pritisnite taster D, ili aktivirajte dugme "otvori
+opis režima".
 
-All additional keys for a specific mode are listed in the mode description and
-are also mentioned in the controls tables.
+Svi dodatni tasteri za određen režim su označeni u opisu režima i takođe su
+prikazani u tabelama kontrola.
 
-After unlocking all three modes, you will be able to see the requirements for
-unlocking the quest board. A corresponding tab will appear on the profile screen.
+Nakon što otključate sva tri režima, moćićete da vidite zahteve za otključavanje
+table misija. Odgovarajuća kartica će se pojaviti na ekranu profila.
 
 ### Mapa objekata
 
-The object map works in any mode. You can open it by pressing the M key.
+Mapa objekata radi u bilo kom režimu. Možete je otvoriti tasterom M.
 
-The map displays all the objects that were on the field when it was opened.
+Mapa prikazuje sve objekte koji su bili na terenu kada je otvorena.
 
-Using the arrow keys, you can move the cursor around the map, which will play a
-short sound of the object in the place where this object is located, and the
-type of object will also be announced. You can turn off the announcement of the
-object type using the f1 key. Using the f2 key you can switch between movement
-modes.
+Korišćenjem strelica, možete pomerati kursor po mapi, što će reprodukovati kratak
+zvuk objekta na mestu na kom se ovaj objekat nalazi, a vrsta objekta će takođe
+biti izgovorena. Možete isključiti izgovor vrste objekta tasterom F1. Tasterom
+F2 možete se prebacivati između režima kretanja.
 
 Postoje dva režima pomeranja kursora:
 
@@ -268,78 +260,77 @@ vidljiva kursorom, za koja postoji poseban zvuk.
 levo se kreće kroz objekte u istom redu horizontalno. Kretanje gore ili dole
 će pomerati kursor do najbližeg objekta vertikalno i preskočiće prazne redove.
 
-In addition to the cursor, the map features an observation point located at the
-center of the horizontal axis, which can move vertically. All object sounds are
-played relative to this point.
+Uz kursor, mapa sadrži tačku gledišta koja se nalazi na centru horizontalne ose,
+i može se pomerati vertikalno. Svi zvukovi objekata se reprodukuju na osnovu ove
+tačke.
 
-You can move the observation point using the keys w - up, s - down. In this case,
-a sound will be played that changes its pitch depending on the position, so that
-it is easier for you to understand where the point is located along the axis.
+Možete pomerati tačku gledišta korišćenjem tastera w - gore, s - dole. U tom
+slučaju, reprodukovaće se zvuk koji menja visinu u zavisnosti od pozicije, kako
+bi vam bilo lakše da razumete gde se tačka nalazi po liniji.
 
 Možete takođe saznati koliko je objekata trenutno na terenu. Da biste ovo
 uradili, pritisnite taster O.
 
-All of the listed keys can be changed using the controls configurator.
+Sve opisane prečice se mogu promeniti u podešavanjima kontrola.
 
 ### Snimanje igre
 
-You can record your gameplay and then play the resulting recordings in any media
-player.
+Možete snimiti vašu igru a nakon toga reprodukovati snimak u bilo kom
+reproduktoru medija.
 
 Važno: Snimci se ne čuvaju tokom režima vežbanja.
 
 Da biste započeli snimanje, uverite se da je izborno polje "Snimi igru" na ekranu
 izbora režima igre označeno. Snimak počinje nakon odbrojavanja pre početka igre.
 
-In the settings, on the "Recording" tab, you can determine whether to cancel or
-save the recording when aborting the game from the pause menu.
+U podešavanjima, na kartici "snimanje", možete odrediti da li će se snimak
+poništiti ili sačuvati kada prekinete igru iz menija pauze.
 
-Your recordings are located in the mp3recordings folder, which is inside the
-userData folder, and have the .mp3 extension.
+Vaši snimci se nalaze u mp3recordings folderu, koji je u userData folderu, i
+imaju .mp3 ekstenziju.
 
-#### Old format recordings
+#### Snimci starog formata
 
-Before version 1.3.0, the game used an internal recording format, with files in
-this format having the extension .sgr, and they could only be played in the
-built-in game player.
+Pre verzije 1.3.0, igrica je koristila interni format snimanja, a datoteke ovog
+formata su imale ekstenziju .sgr, mogle su da se reprodukuju samo u ugrađenom
+reproduktoru.
 
-To listen to recordings of the old format, select the corresponding item in the
-main menu of the game. Then, in the recordings menu, select the one you want and
-press enter.
+Da biste slušali snimke starog formata, izaberite odgovarajuću stavku iz glavnog
+menija igre. Zatim, u meniju sa snimcima, izaberite željeni snimak i pritisnite
+Enter.
 
-After loading the recording, you will enter the player.
+Nakon što učitate snimak, ućićete u reproduktor.
 
 Prečice reproduktora:
 
 - Da započnete, pauzirate i nastavite reprodukciju, pritisnite razmak.
 - Da menjate jačinu, koristite strelicu gore da pojačate, ili strelicu dole da
 smanjite. Jačina snimka se može povećati najviše do 200 posto.
-- Da biste premotavali snimak za 5 sekundi, koristite strelicu desno -
+- da biste premotavali snimak za 5 sekundi, koristite strelicu desno -
 premotavanje napred, levo - premotavanje nazad. Premotavanje za 30 sekundi se
 vrši uz držanje tastera Kontrol.
 - Možete saznati koliko ste čuli, kao i trajanje snimka pritiskanjem tastera T.
 - Možete zaustaviti reprodukciju i vratiti se na meni sa snimcima tasterom Escape.
 
-The old format recordings are located at the path userData/recordings.
+Snimci starog formata se nalaze na putanji userData/recordings.
 
-If you want to play a recording in the old format, place it in the "recordings"
-folder. It will then appear in the recordings menu.
+Ako želite da reprodukujete snimag starog formata, prebacite ga u "recordings"
+folder. Snimak će se zatim pojaviti u meniju snimaka.
 
-Attention! The ability to play recordings in the old format will be removed in
-version 1.5.0!
+Pažnja! Mogućnost reprodukovanja snimaka starog formata će biti uklonjena u
+verziji 1.5.0!
 
-## controls
+## kontrole
 
-All keys in this section can be redefined by customizing the controls
-configuration.
+Sve prečice u ovoj sekciji se mogu promeniti menjanjem podešavanja kontrola.
 
 ### Osnovne
 
 | Radnja | Taster/tasteri |
 | :-- | :-- |
 | Pomeranje karaktera levo ili desno | Strelice desno i levo ili tasteri d/a |
-| Play the sound at the character's position or at the center of the field (depending on the view). | c |
-| Podesi pravac karaktera desno ili levo | Desni/levi Šift |
+| Reprodukuje zvuk na poziciji karaktera ili na centru terena (u zavisnosti od prikaza). | c |
+| Podesi pravac karaktera desno ili levo | desni/levi Šift |
 | Zamahni palicom (udari lopticu dajući joj jak horizontalni impuls) | Razmak, tasteri s ili e |
 | Zamahni palicom (udari lopticu dajući joj jak vertikalni impuls) | alt+razmak, alt+s ili r |
 | Baci lopticu u luku | f |
@@ -347,13 +338,13 @@ configuration.
 | Prebaci kameru u režim gledanja loptice | Držite taster G |
 | Prebaci kameru u standardni režim | Otpustite taster G |
 | Prebaci kameru između gledanja terena i karaktera | v |
-| Jump (if the ability is unlocked) | Strelica gore ili taster w |
-| Catch the ball (if the ability is unlocked) | Levi ili desni Kontrol |
-| Izaberi slot veštine od 1 do 10 (ako je veština podešena) | Tasteri 1 do 0/numeričko1 do numeričko0 |
-| Otkaži izbor slota veštine | Akcenat/ numerički Enter |
-| Activate/deactivate the star module set in slot 1 to 4 (if the module is set). | alt + keys 1 to 4/numpad1 to numpad4 |
-| Activate the item (if allowed in the current game mode). | x |
-| Check the amount of available star energy (if you have at least one star module and module usage is allowed in the current game mode) | y |
+| Skoči (ako je sposobnost otključana) | Strelica gore ili taster w |
+| Uhvati lopticu (ako je sposobnost otključana) | levi ili desni Kontrol |
+| Izaberi mesto veštine od 1 do 10 (ako je veština podešena) | tasteri 1 do 0/numeričko1 do numeričko0 |
+| Otkaži izbor mesta veštine | Akcenat/ numerički Enter |
+| Aktivira ili deaktivira zvezdani modul podešen na mesta od 1 do 4 (ako je neki modul podešen). | alt + tasteri 1 do 4/numeričko 1 do numeričko 4 |
+| Aktivira predmet (ako je ovo dozvoljeno u trenutnom režimu igre). | x |
+| Proveri količinu dostupne zvezdane energije (ako imate bar jedan zvezdani modul i ako je korišćenje modula dozvoljeno u trenutnom režimu igre) | y |
 | Otvori mapu objekata | m |
 | Saznaj vreme do kraja igre | t |
 | Saznaj broj osvojenih poena | p |
@@ -363,7 +354,7 @@ configuration.
 
 | Radnja | Taster/tasteri |
 | :-- | :-- |
-| Instantly recharge all skills | f1 |
+| Odmah oporavlja sve veštine | f1 |
 | Podesi nivoe veština | f2 |
 
 ### Mapa objekata
@@ -377,35 +368,37 @@ configuration.
 | Promeni režim pomeranja kursora | f2 |
 | Saznaj broj objekata na mapi | o |
 
-### Configuring controls
+### Podešavanje kontrola
 
-In the settings, on the "controls" tab, you can customize the control keys to
-your personal preference by pressing the corresponding button.
+U podešavanjima, na kartici "kontrole", možete prilagoditi kontrole prema vašim
+potrebama aktiviranjem odgovarajućeg dugmeta.
 
-On the configuration screen, there is a tree where the first level displays
-individual blocks, which, in turn, contain actions.
+Na ekranu podešavanja, nalazi se stablo u kom prvi nivo prikazuje individualne
+kategorije, koje sadrže radnje.
 
-Each action has a list of assigned key combinations. You can add or remove
-combinations from this list using the corresponding buttons.
+Svaka radnja ima listu dodeljenih tasterskih prečica. Možete dodati ili ukloniti
+prečice iz ove liste korišćenjem odgovarajućih dugmića.
 
-After pressing the add combination button, a new screen will open, containing
-four lists, a field to assign the main key, and the "Add" and "Cancel" buttons.
+Nakon što pritisnete dugme za dodavanje prečice, otvoriće se novi ekran, koji
+sadrži četiri liste, polje za dodeljivanje glavnog tastera, kao i dugmiće
+"dodaj" i "otkaži".
 
-Each list corresponds to its modifier key (alt, windows, control, shift) and
-contains 4 options for using the modifier key (none, left, right, any).
+Svakoj listi odgovara jedan modifikatorski taster (alt, windows, kontrol, šift) i
+sadrži četiri opcije za korišćenje tog modifikatorskog tastera (Nijedan, Levi,
+Desni, Bilo koji).
 
-To set the primary key, follow the instructions in the key-assignment field,
-which comes immediately after the list for the shift modifier key. If you want
-to use only modifier keys in your combination, leave the field unassigned.
+Da podesite primarni taster, pratite uputstva u polju dodeljivanja prečice, koje
+dolazi odmah nakon liste za taster Šift. Ako želite da koristite samo
+modifikatorske tastere u vašoj kombinaciji, ostavite ovo polje prazno.
 
-After you have set all the necessary parameters, click the "Add" button. However,
-keep in mind that duplicates within a single action block are not allowed.
+Nakon što podesite sve neophodne parametre, aktivirajte dugme "dodaj". Ali,
+imajte na umu da duplikati u jednoj kategoriji nisu dozvoljeni.
 
-If required, you can share your controls configuration with other people. The
-configuration is located in the user data folder (userData) and is named
-"keyConfig.json". The other person will have to replace their configuration,
-located in the same location, with the one you passed on. Despite the fact that
-the configuration is stored in open form, it is not intended for manual editing.
+Ako je neophodno, možete podeliti podešavanja vaših kontrola sa drugim ljudima.
+Podešavanja se nalaze u folderu korisničkih podataka (userData) i sadrže naziv
+"keyConfig.json". Druga osoba će morati da zameni svoja podešavanja, koja su na
+istoj lokaciji sa onima koja ste vi prosledili. Iako je datoteka sa
+podešavanjima u otvorenoj formi, ne treba je ručno uređivati.
 
 ## Prevod igre na druge jezike
 

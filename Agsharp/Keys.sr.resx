@@ -71,7 +71,7 @@
     <value>backspace</value>
   </data>
   <data name="CAPSLOCK" xml:space="preserve">
-    <value>CapsLock</value>
+    <value>capsLock</value>
   </data>
   <data name="COMMA" xml:space="preserve">
     <value>zarez</value>
@@ -134,7 +134,7 @@
     <value>numeričko0</value>
   </data>
   <data name="KP_1" xml:space="preserve">
-    <value>Numeričko1</value>
+    <value>numeričko1</value>
   </data>
   <data name="KP_2" xml:space="preserve">
     <value>numeričko2</value>
