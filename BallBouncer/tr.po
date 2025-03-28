@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2025-03-14 12:34+0000\n"
-"PO-Revision-Date: 2025-03-23 18:42+0300\n"
+"POT-Creation-Date: 2025-03-28 10:22+0000\n"
+"PO-Revision-Date: 2025-03-28 14:10+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -297,12 +297,12 @@ msgstr "Alet kutusu."
 #, python-brace-format
 msgctxt "GamePlanks"
 msgid "Planks: {0}."
-msgstr "Tahtalar: {0}."
+msgstr "{0} Tahta."
 
 #, python-brace-format
 msgctxt "GamePoints"
 msgid "{0} points scored in this game."
-msgstr "{0} Bu oyunda puan alındı."
+msgstr "{0} puan alındı."
 
 msgctxt "GamePracticeInstantSkillRecharge"
 msgid "All skills are ready to use."
@@ -1583,7 +1583,7 @@ msgstr "Antrenman modu etkin."
 #, python-brace-format
 msgctxt "PauseMenuTimeToEnd"
 msgid "The game will end in {0} seconds."
-msgstr "Oyun {0} saniye içinde bitecek."
+msgstr "{0} saniye içinde oyun bitecek."
 
 msgctxt "PauseMenuTitle"
 msgid "Pause menu."
@@ -4098,14 +4098,14 @@ msgstr ""
 "Yerden Top Sekme Cezası Azaltma.\n"
 "Bu yükseltme, yerden seken top cezasını seviye başına yüzde iki azaltır."
 
-#, python-format, python-brace-format
+#, python-brace-format
 msgctxt "StoreItemTestOfSkillFloorBounceFineUpgradeText"
 msgid ""
 "Reduction of Ball Bounce off the Floor Penalty: level {0}/10. Current value: "
 "{1}% of full penalty"
 msgstr ""
-"Reduction of Ball Bounce off the Floor Penalty: level {0}/10. Current value: "
-"{1}% of full penalty"
+"Topun yerden sekme cezasını azaltma: Seviye {0} / 10. Mevcut değer: Tam "
+"cezanın \\%{1}"
 
 msgctxt "StoreItemTestOfSkillPlanksUpgradeInfo"
 msgid ""
