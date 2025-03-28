@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2025-03-14 12:34+0000\n"
+"POT-Creation-Date: 2025-03-28 10:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3325,7 +3325,7 @@ msgid ""
 "percent per level."
 msgstr ""
 
-#, python-format, python-brace-format
+#, python-brace-format
 msgctxt "StoreItemTestOfSkillFloorBounceFineUpgradeText"
 msgid ""
 "Reduction of Ball Bounce off the Floor Penalty: level {0}/10. Current value: "
