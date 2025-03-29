@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2025-03-28 10:22+0000\n"
-"PO-Revision-Date: 2025-03-29 17:56+0300\n"
+"PO-Revision-Date: 2025-03-29 20:13+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -1644,7 +1644,7 @@ msgstr "Yıldız al"
 
 msgctxt "ProfileQuestBoardPageTitle"
 msgid "Quest board"
-msgstr "Görev tahtası"
+msgstr "Görev panosu"
 
 msgctxt "ProfileQuestBoardQuests"
 msgid "Quests"
@@ -2698,7 +2698,7 @@ msgstr "Toplam vurulan top sayısı: {0}."
 #, python-brace-format
 msgctxt "StatItemCouchesDestroyed"
 msgid "Destroyed couches: {0}."
-msgstr "Yok edilen kanepeler: {0}"
+msgstr "Yok edilen kanepeler: {0}."
 
 #, python-brace-format
 msgctxt "StatItemDestroyedObjects"
@@ -2821,7 +2821,7 @@ msgstr "Uygulamada toplam geçirilen zaman: {0}."
 #, python-brace-format
 msgctxt "StatRewardAvailable"
 msgid "Reward is available. Rewards claimed: {0}."
-msgstr "Ödül var. Alınan ödüller: {0}."
+msgstr "Ödül var. Alınan ödül: {0}."
 
 msgctxt "StatRewardError"
 msgid "The reward is not yet available."
@@ -2830,7 +2830,7 @@ msgstr "Ödül henüz mevcut değil."
 #, python-brace-format
 msgctxt "StatRewardRequirements"
 msgid "Until reward: {0}. Rewards claimed: {1}."
-msgstr "Ödüle kadar: {0}. Alınan ödüller: {1}."
+msgstr "Ödüle kadar: {0}. Alınan ödül: {1}."
 
 #, python-brace-format
 msgctxt "StatRewardsTotal"
@@ -3010,7 +3010,7 @@ msgstr "Ustalık denemesi yükseltmeleri"
 
 msgctxt "StoreCatigoriesTestOfSpeed"
 msgid "Trial of speed upgrades"
-msgstr "Ustalık denemesi yükseltmeleri"
+msgstr "Hız denemesi yükseltmeleri"
 
 msgctxt "StoreCatigoriesTestOfWill"
 msgid "Trial of will upgrades"
@@ -4104,7 +4104,7 @@ msgid ""
 "{1}% of full penalty"
 msgstr ""
 "Topun yerden sekme cezasını azaltma: Seviye {0}/10. Mevcut değer: Tam "
-"cezanın \\%{1}"
+"cezanın %{1}"
 
 msgctxt "StoreItemTestOfSkillPlanksUpgradeInfo"
 msgid ""
