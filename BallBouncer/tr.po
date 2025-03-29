@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2025-03-14 12:34+0000\n"
-"PO-Revision-Date: 2025-03-23 18:42+0300\n"
+"POT-Creation-Date: 2025-03-28 10:22+0000\n"
+"PO-Revision-Date: 2025-03-29 20:13+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -297,12 +297,12 @@ msgstr "Alet kutusu."
 #, python-brace-format
 msgctxt "GamePlanks"
 msgid "Planks: {0}."
-msgstr "Tahtalar: {0}."
+msgstr "{0} Tahta."
 
 #, python-brace-format
 msgctxt "GamePoints"
 msgid "{0} points scored in this game."
-msgstr "{0} Bu oyunda puan alındı."
+msgstr "{0} puan alındı."
 
 msgctxt "GamePracticeInstantSkillRecharge"
 msgid "All skills are ready to use."
@@ -1219,7 +1219,7 @@ msgstr "Ek mod seslerini öğren."
 
 msgctxt "ModeSelectionFormTitle"
 msgid "Select a game mode."
-msgstr "Bir oyun modu seçin."
+msgstr "Oyun modu seçin."
 
 msgctxt "ModeSelectionFormTitleWithHint"
 msgid ""
@@ -1227,10 +1227,9 @@ msgid ""
 "the screen. Use the up and down arrows to move through the list. To confirm "
 "your selection, press enter or click the \"Start\" button."
 msgstr ""
-"Bir oyun modu seçin. Ekranda gezinmek için tab ve shift+tab tuşlarını "
-"kullanın. Listede gezinmek için yukarı ve aşağı yön tuşlarını kullanın. "
-"Seçiminizi onaylamak için enter tuşuna basın veya \"başlat\" düğmesine "
-"tıklayın."
+"Oyun modu seçin. Ekranda gezinmek için tab ve shift+tab tuşlarını kullanın. "
+"Listede gezinmek için yukarı ve aşağı yön tuşlarını kullanın. Seçiminizi "
+"onaylamak için enter tuşuna basın veya \"başlat\" düğmesine tıklayın."
 
 msgctxt "ModeUnlockTestOfSkill"
 msgid ""
@@ -1583,7 +1582,7 @@ msgstr "Antrenman modu etkin."
 #, python-brace-format
 msgctxt "PauseMenuTimeToEnd"
 msgid "The game will end in {0} seconds."
-msgstr "Oyun {0} saniye içinde bitecek."
+msgstr "{0} saniye içinde oyun bitecek."
 
 msgctxt "PauseMenuTitle"
 msgid "Pause menu."
@@ -1645,7 +1644,7 @@ msgstr "Yıldız al"
 
 msgctxt "ProfileQuestBoardPageTitle"
 msgid "Quest board"
-msgstr "Görev tahtası"
+msgstr "Görev panosu"
 
 msgctxt "ProfileQuestBoardQuests"
 msgid "Quests"
@@ -2699,7 +2698,7 @@ msgstr "Toplam vurulan top sayısı: {0}."
 #, python-brace-format
 msgctxt "StatItemCouchesDestroyed"
 msgid "Destroyed couches: {0}."
-msgstr "Yok edilen kanepeler: {0}"
+msgstr "Yok edilen kanepeler: {0}."
 
 #, python-brace-format
 msgctxt "StatItemDestroyedObjects"
@@ -2822,7 +2821,7 @@ msgstr "Uygulamada toplam geçirilen zaman: {0}."
 #, python-brace-format
 msgctxt "StatRewardAvailable"
 msgid "Reward is available. Rewards claimed: {0}."
-msgstr "Ödül var. Alınan ödüller: {0}."
+msgstr "Ödül var. Alınan ödül: {0}."
 
 msgctxt "StatRewardError"
 msgid "The reward is not yet available."
@@ -2831,7 +2830,7 @@ msgstr "Ödül henüz mevcut değil."
 #, python-brace-format
 msgctxt "StatRewardRequirements"
 msgid "Until reward: {0}. Rewards claimed: {1}."
-msgstr "Ödüle kadar: {0}. Alınan ödüller: {1}."
+msgstr "Ödüle kadar: {0}. Alınan ödül: {1}."
 
 #, python-brace-format
 msgctxt "StatRewardsTotal"
@@ -3011,7 +3010,7 @@ msgstr "Ustalık denemesi yükseltmeleri"
 
 msgctxt "StoreCatigoriesTestOfSpeed"
 msgid "Trial of speed upgrades"
-msgstr "Ustalık denemesi yükseltmeleri"
+msgstr "Hız denemesi yükseltmeleri"
 
 msgctxt "StoreCatigoriesTestOfWill"
 msgid "Trial of will upgrades"
@@ -4098,14 +4097,14 @@ msgstr ""
 "Yerden Top Sekme Cezası Azaltma.\n"
 "Bu yükseltme, yerden seken top cezasını seviye başına yüzde iki azaltır."
 
-#, python-format, python-brace-format
+#, python-brace-format
 msgctxt "StoreItemTestOfSkillFloorBounceFineUpgradeText"
 msgid ""
 "Reduction of Ball Bounce off the Floor Penalty: level {0}/10. Current value: "
 "{1}% of full penalty"
 msgstr ""
-"Reduction of Ball Bounce off the Floor Penalty: level {0}/10. Current value: "
-"{1}% of full penalty"
+"Topun yerden sekme cezasını azaltma: Seviye {0}/10. Mevcut değer: Tam "
+"cezanın %{1}"
 
 msgctxt "StoreItemTestOfSkillPlanksUpgradeInfo"
 msgid ""
