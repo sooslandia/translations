@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2025-03-28 10:22+0000\n"
-"PO-Revision-Date: 2025-04-17 21:11+0300\n"
+"PO-Revision-Date: 2025-04-28 17:59+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -1145,7 +1145,7 @@ msgstr ""
 "dinlenebilir.\n"
 "Arka arkaya üç etkiyi etkinleştirme fırsatını kaçırırsanız, mevcut "
 "puanınızın yüzde yirmi beşi kadar ceza alırsınız.\n"
-"Duraklatma menüsünde kaç tane aktivasyon kaçırdığınızı kontrol "
+"Duraklatma menüsünde kaç tane etkinleştirme kaçırdığınızı kontrol "
 "edebilirsiniz.\n"
 "Oyunun sonunda, para değil, yeni bir para birimi olan mavi küre "
 "alacaksınız.\n"
@@ -1600,7 +1600,7 @@ msgctxt "ProfileAurasActivationError"
 msgid ""
 "Aura activation is impossible: the maximum number of active auras has "
 "already been reached."
-msgstr "Aura etkinleştirilemez: Maksimum etkin aura sayısına aten ulaşılmış."
+msgstr "Aura etkinleştirilemez: Maksimum etkin aura sayısına zaten ulaşılmış."
 
 #, python-brace-format
 msgctxt "ProfileAurasActive"
@@ -2480,7 +2480,7 @@ msgstr "Yükseltmeler"
 #, python-brace-format
 msgctxt "StarModuleInfoBallEnslaverBallSpeed"
 msgid "Ball speed: {0} cells per second."
-msgstr "Top hızı: Saniyede {0} hücre."
+msgstr "Top hızı: saniye başına {0} hücre."
 
 #, python-brace-format
 msgctxt "StarModuleInfoDestroyerOverdriveProtection"
@@ -2510,7 +2510,7 @@ msgstr "Vuruş başına enerji tüketimi: {0}."
 #, python-brace-format
 msgctxt "StarModuleInfoIdleCost"
 msgid "Energy consumption per second: {0}."
-msgstr "Saniyede enerji tüketimi: {0}."
+msgstr "Saniye başına enerji tüketimi: {0}."
 
 #, python-brace-format
 msgctxt "StarModuleInfoStarStormEnergyBoltCost"
@@ -2525,7 +2525,7 @@ msgstr "Enerji patlaması oluşturma hızı: Dakikada {0}."
 #, python-brace-format
 msgctxt "StarModuleInfoStartCost"
 msgid "Energy consumed per activation: {0}."
-msgstr "Aktivasyon başına tüketilen enerji: {0}."
+msgstr "Etkinleştirme başına tüketilen enerji: {0}."
 
 #, python-brace-format
 msgctxt "StarModuleInfoTimeShifterShiftChance"
