@@ -1,5 +1,156 @@
 % Historie změn
 
+## 1.4.0
+
+This release addresses numerous existing issues, such as the overly complex trial
+of mastery mode, difficulties in identifying and activating items, the lack of
+stat tracking for completed quests and opened chests, the inability to determine
+when the "Furious leap" skill can be activated, and more.
+
+New upgrades have also been added, and statistics milestone reward balancing has
+been carried out.
+
+High load on the audio system was resolved, which led to an increase in the
+points scored.
+
+### Nové funkce
+
+- Reward for completed quests can now be increased.
+   - To access the new screen, click the "Increase reward for completed quests"
+button located on the quest board tab in your profile.
+   - The increase is made using coins, green, blue, and red orbs.
+   - Each of the listed currencies has its own separate enhancement, but they all
+collectively affect a single parameter: the chance to get an additional star.
+   - If the chance to get an additional star reaches 100%, you will be guaranteed to
+receive one extra star as a reward, and the chance counter will reset.
+- The trial of mastery mode has been slightly reworked.
+   - Balls can no longer collide with one another.
+   - The minimum number of objects on the field has been increased.
+   - Ball bounces off the ceiling now start a streak and grant a certain number of
+points.
+   - Perfect strikes have been added.
+      - To perform a perfect strike in trial of mastery mode, strike the ball with the
+bat when your hit strength is fully restored.
+      - If you miss or land a hit without full power, the streak will be reset.
+      - The streak and perfect strikes are recorded in the stats.
+   - The bonus from the bounce penalty reduction upgrade has been changed from 2% to
+5% per level.
+   - The mode’s reference information has been updated to reflect the changes made.
+- The main menu music has been updated.
+   - You can now safely share video or audio playthroughs of the game without
+turning off the music.
+   - Huge thanks to [Nikita K](https://t.me/NikitaKOfficial) for his hard work!
+- A sound has been added to notify you when a quest is completed.
+- A new upgrade has been added that increases the bonus for dodging electric
+discharges in trial of speed mode.
+- New star upgrades added.
+   - Duration of Destruction, Collision, and Ceiling Bounce Streaks increase.
+   - Indulgence of Inaction.
+- You can now find out how high the ball is.
+   - The default key for the function is B.
+   - When used, you will hear information about how high the ball is, along with a
+special sound played in the ball’s current pitch.
+   - In trial of mastery mode, the positions of all balls on the field will be
+announced in order, and the sound will be played in the pitch of the ball that
+is the lowest.
+- New statistics items added.
+   - Total luck chests opened.
+   - Total quests completed.
+- Sound panning customization has been added.
+   - To access this screen, press the corresponding button on the settings screen,
+on the "Sound" tab.
+   - To get help information about the function, press the "Help" button on the
+sound panning settings screen.
+- You can now disable the generation of mines, couches, and toolboxes on the game
+field.
+   - A list of checkboxes has been added to the mode selection screen, allowing you
+to toggle the generation of specific objects on or off.
+   - The list will be hidden if the mode selection cursor is set to any mode other
+than Normal or Training.
+- A feature has been added that allows you to switch between ready to use skills.
+   - Switch to the next ready to use skill: Equals (=) key or Numpad Minus (-).
+   - Switch to the previous ready to use skill: Hyphen (-) key or Numpad Multiply
+(*).
+   - The keys apply to the default controls configuration.
+- A new setting has been added that allows you to disable the countdown at the
+start of the game.
+- A feature has been added that allows you to change the ball's sound on the fly.
+   - To change the sound, enter Ball watch mode during a game session, then press
+the L key to cycle through sounds.
+   - In trial of mastery mode, this feature works similarly. Use the J key to select
+the ball whose sound you want to change, then press the L key.
+   - By pressing the F1 key during a trial of mastery game session, you'll open the
+ball sound customization screen, where you can adjust the sounds in a calm
+environment.
+      - The screen contains four elements: three lists, each corresponding to a
+specific ball, and a button to close the screen.
+      - To preview a ball sound, press the Enter or Space key on the selected item in
+any of the lists.
+      - You can interrupt the playing sound by navigating through the list or screen.
+   - The selected sounds are saved between game sessions.
+- A new setting has been added that allows you to normalize the pitch of all ball
+sounds to approximately the same level.
+   - When previewing sounds in the ball sound selection menu, they play in the same
+pitch. However, during gameplay, sounds other than the first one still don’t
+fully match its pitch.
+   - Despite this, the feature can be useful for those who use ball sounds other
+than the first and have trouble distinguishing sounds in noisy environments,
+as raising the pitch also increases audibility.
+- A new setting has been added that allows you to switch to Ball watch mode with
+a key press instead of holding the key down.
+- The pause menu now includes the option to view the skills assigned to slots
+(under "Active Skills").
+
+### Změny
+
+- Now, in trial of will and Mastery modes, if you are near an item and can
+activate it, the item's sound pitch is slightly increased.
+- The penalty for the ball bouncing off the floor has been adjusted.
+   - if the ball bounces off the floor 40 times in a row, the penalty for subsequent
+bounces will increase very rapidly.
+   - This change is offset by the new upgrade "Indulgence of Inaction".
+- The reward for opening Luck Chests has been increased.
+- Some changes have been made to the rewards for reaching stat milestones. If any
+discrepancies are detected when the game starts, previously allocated
+achievement points will be reset and rewards will be recalculated.
+- In trial of will and trial of mastery modes, the same type of item can no
+longer appear more than twice in a row.
+- In trial of speed mode, the same effect can no longer appear twice in a row.
+- Store changes: the Time Aura and Leader Aura upgrades have been moved to the
+"Auras" tab; the "Increased Chance of Special Object Spawns" upgrade has been
+moved to the "Objects" tab.
+- Rewards for low scores in trial modes have been increased.
+- The effect of the upgrade that increases the number of red orbs received has
+been improved.
+- Coin reward calculation has been improved for final scores over 100 million.
+- If you’ve purchased the maximum number of quest slots, the purchase button will
+now be hidden from the screen.
+- Vylepšena schopnost titánský skok. Teď postava doskočí na větší vzdálenost.
+- The display of the rewards list shown when opening multiple Luck Chests at once
+has been updated.
+
+### Opravy
+
+- Handling of a large number of simultaneously playing sounds has been improved.
+   - As a result of this optimization, the total number of sounds during the
+destruction of many objects has been reduced. However, the audio environment
+can still become overloaded.
+   - You may also notice that you're scoring significantly more points during Normal
+mode gameplay. This is expected and happens because a major overload in the
+audio system—previously causing overall game slowdown—has been resolved.
+- Fixed a rare freeze and crash that could occur right after starting a game
+session when gameplay recording was enabled.
+- Fixed an issue where receiving a bonus for destroying a puppet or dodging an
+electric discharge could increase a negative score.
+- Fixed incorrect behavior that occurred when using the "Furious leap" skill.
+- The progress for the quest "Hit the ceiling with the ball while the
+immateriality effect is active" now also counts when using the "ball
+controller" star module.
+- Improved the handling of chest and quest reset time updates.
+- Descriptions of some upgrades in the store have been expanded.
+- You can now skip the coin and other currency gain animation by pressing the
+Enter key on the numpad.
+
 ## 1.3.5
 
 ### Změny

@@ -52,6 +52,9 @@ değiştirebilirsiniz. Sunulan beş seçenekten birini seçebilirsiniz. Bu işle
 oyunda doğrudan duraklama menüsünden ayarlara giderek de yapılabilir. Oyuna
 devam eder etmez topun sesi değişecektir.
 
+You can also change the ball sound during gameplay. To do this, enter Ball watch
+mode by holding the G key, then press L to change the sound.
+
 ### Dolaşım
 
 Menülerde dolaşım yukarı ve aşağı ok tuşlarıyla yapılır. Enter bir öğeyi seçer,
@@ -95,6 +98,10 @@ ayarlayabilirsiniz.
 
 F1 tuşuna bastığınızda, yuvalardaki becerileriniz anında dolacak ve kullanıma
 hazır hale gelecektir.
+
+If you press the B key and the ball is on the field, you will hear an audio cue
+indicating how high the ball is, along with a sound played in the ball’s pitch.
+This feature works in all modes.
 
 Bu tuşlar, kısayol tuşu ayarları kullanılarak değiştirilebilir.
 
@@ -333,6 +340,7 @@ Bu bölümdeki tüm tuşlar, kısayol tuşlarını özelleştirerek yeniden ayar
 | Sopayı savur (topa güçlü dikey ivme ile vur) | alt+boşluk, alt+s veya r |
 | Topu yatay olarak fırlat | f |
 | Topu dikey olarak fırlat | alt+f |
+| Switch ball sound | l (only when Ball watch mode is active) |
 | Kamerayı topu izleme moduna geçir | G tuşunu basılı tut |
 | Kamerayı normal moda geçir | G tuşunu bırak |
 | Kamera modunu birinci şahıs modu ile sahanın ortası modu arasında değiştir | v |
@@ -340,12 +348,15 @@ Bu bölümdeki tüm tuşlar, kısayol tuşlarını özelleştirerek yeniden ayar
 | Topu yakala (yeteneğin kilidi açılmış ise) | sağ veya sol ctrl |
 | 1 ve 10 arasında beceri yuvası seç (beceri ayarlanmış ise) | 1 ile 0 arası tuşlar/numaratör1 ve numaratör0 |
 | Beceri yuvası seçimini iptal et | Tırnak/ numaratör enter |
+| Switch to the previous ready to use skill | Minus (-) / Numpad Minus (-) |
+| Switch to the next ready to use skill | Equals (=) / Numpad Multiply (*) |
 | 1-4 yuvasına yerleştirilmiş yıldız modülünü etkinleştir/devre dışı bırak (modül ayarlanmışsa) | alt+1-4 tuşları/numaratör1-numaratör4 |
 | Öğeyi etkinleştir (mevcut oyun modunda izin veriliyorsa). | x |
 | Mevcut yıldız enerjisi miktarını kontrol et (en az bir yıldız modülünüz varsa ve modül kullanımına mevcut oyun modunda izin veriliyorsa) | y |
 | Nesne haritasını aç | m |
 | Oyunun sonuna kadar olan zamanı öğren | t |
 | Puanı öğren | p |
+| Find out how high the ball is | b |
 | Oyunu duraklat | escape |
 
 ### Antrenman modu
