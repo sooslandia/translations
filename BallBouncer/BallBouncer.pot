@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2025-03-14 12:34+0000\n"
+"POT-Creation-Date: 2025-06-24 18:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -112,6 +112,10 @@ msgctxt "AuraUpgradeButton"
 msgid "Upgrade for {0} achievement points"
 msgstr ""
 
+msgctxt "BallLoopSelectionMenuDefaultSound"
+msgid "Default sound."
+msgstr ""
+
 #, python-brace-format
 msgctxt "BallLoopSelectionMenuSound"
 msgid "Sound {0}."
@@ -125,6 +129,24 @@ msgctxt "BallLoopSelectionMenuTitleWithHint"
 msgid ""
 "Select the ball sound. Use the up and down arrows to move. To listen to the "
 "sound, press Spacebar. To confirm your selection, press enter."
+msgstr ""
+
+#, python-brace-format
+msgctxt "BallLoopSelectionTestOfSkillFormBall"
+msgid "Ball {0}"
+msgstr ""
+
+msgctxt "BallLoopSelectionTestOfSkillFormTitle"
+msgid "Customize Ball Sounds."
+msgstr ""
+
+msgctxt "BallLoopSelectionTestOfSkillFormTitleWithHint"
+msgid ""
+"Ball sound customization. Use tab and shift+tab to move forwards and "
+"backwards on the screen. Use the up and down arrows to move through the "
+"list. To listen to the sound, press enter or spacebar on the selected item "
+"in any of the lists. To save changes and close this screen, press the close "
+"button or the escape key."
 msgstr ""
 
 msgctxt "CheckUpdatesScreenChecking"
@@ -205,6 +227,11 @@ msgstr ""
 #, python-brace-format
 msgctxt "FileSizeMegabytes"
 msgid "{0} mb"
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameBallControl"
+msgid "{0} cells above the ground"
 msgstr ""
 
 #, python-brace-format
@@ -336,6 +363,10 @@ msgctxt "IncompatableSaveTitle"
 msgid "Incompatible save"
 msgstr ""
 
+msgctxt "KeyConfigurationActionBallControl"
+msgid "Find out how high the ball is"
+msgstr ""
+
 msgctxt "KeyConfigurationActionBallViewSwitch"
 msgid "Switch to the next ball in ball watch mode"
 msgstr ""
@@ -416,6 +447,14 @@ msgctxt "KeyConfigurationActionMoveBallUp"
 msgid "Move ball up"
 msgstr ""
 
+msgctxt "KeyConfigurationActionNextRechargedSkillSlot"
+msgid "Switch to the next ready-to-use skill"
+msgstr ""
+
+msgctxt "KeyConfigurationActionOpenBallSoundSwitcher"
+msgid "Open the ball sound customization screen"
+msgstr ""
+
 msgctxt "KeyConfigurationActionOpenMap"
 msgid "Open map"
 msgstr ""
@@ -454,6 +493,10 @@ msgstr ""
 
 msgctxt "KeyConfigurationActionPracticeSetSkillLevels"
 msgid "Set skill levels"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPreviousRechargedSkillSlot"
+msgid "Switch to the previous ready-to-use skill"
 msgstr ""
 
 msgctxt "KeyConfigurationActionSetPlayerFacingLeft"
@@ -522,6 +565,10 @@ msgstr ""
 
 msgctxt "KeyConfigurationActionStarModuleSlot4"
 msgid "Activate the star module set in slot 4"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSwitchBallSound"
+msgid "Switch ball sound"
 msgstr ""
 
 msgctxt "KeyConfigurationActionSwitchBallViewMode"
@@ -763,6 +810,10 @@ msgctxt "LearnSoundsPuppetPositive"
 msgid "Bonus for Damaged puppet."
 msgstr ""
 
+msgctxt "LearnSoundsQuestCompleted"
+msgid "Quest completed."
+msgstr ""
+
 msgctxt "LearnSoundsScoresUnderNeg500"
 msgid "The points dropped below minus five hundred."
 msgstr ""
@@ -839,6 +890,22 @@ msgctxt "ModeSelectionFormRecord"
 msgid "Record the game"
 msgstr ""
 
+msgctxt "ModeSelectionFormSpecialObjects"
+msgid "Special object generation on the field"
+msgstr ""
+
+msgctxt "ModeSelectionFormSpecialObjectsCouches"
+msgid "Couches"
+msgstr ""
+
+msgctxt "ModeSelectionFormSpecialObjectsMines"
+msgid "Mines"
+msgstr ""
+
+msgctxt "ModeSelectionFormSpecialObjectsToolboxes"
+msgid "Toolboxes"
+msgstr ""
+
 msgctxt "ModeSelectionFormStart"
 msgid "Start"
 msgstr ""
@@ -861,12 +928,25 @@ msgid ""
 "The leader and time auras do not affect this mode.\n"
 "The maximum duration for continuing hit and object destruction streaks is "
 "reduced to two seconds, instead of the usual six.\n"
+"The method of performing perfect strikes has been changed in this mode.\n"
+"To make a perfect strike, strike the ball with the bat when your hit "
+"strength is fully restored.\n"
+"If you miss or hit the ball without full power, the streak will be reset.\n"
 "Instead of one ball, you start with three.\n"
 "They need to be thrown onto the field as quickly as possible, as the penalty "
 "for holding onto the ball works as usual.\n"
+"When using the ball watch mode, you can press the J key to switch to the "
+"next ball being watched.\n"
+"Also, while this mode is active, you can press L, just like in other modes, "
+"to change the sound of the watched ball.\n"
+"An alternative way to change ball sounds is through the ball sound "
+"customization screen, which can be accessed by pressing F1.\n"
+"This screen is only available during an active game session in the trial of "
+"mastery mode.\n"
+"The selected ball sounds are saved between game sessions.\n"
+"The mentioned keys apply only to the default controls configuration.\n"
 "Put all your effort into avoiding frequent bounces of the balls off the "
 "floor, as the penalty will increase rapidly.\n"
-"The balls can also collide with each other, causing complete chaos.\n"
 "It’s also important to note that the more points you accumulate, the higher "
 "the penalty for the balls bouncing off the floor becomes.\n"
 "From time to time, items will appear on the ground that you can activate.\n"
@@ -899,7 +979,7 @@ msgid ""
 "2. If the puppet took significant damage, when it reaches the boundary, you "
 "will receive a bonus to your score proportional to the damage dealt to it, "
 "but not exceeding twenty-five percent. Additionally, an item will appear at "
-"the field boundary, which can be activated to receive some planks.\n"
+"the field boundary, which can be activated to receive some boards.\n"
 "Each event has its own sound, which can be listened to, along with all other "
 "additional sounds of the mode, by selecting the relevant option in the "
 "reference.\n"
@@ -1122,6 +1202,10 @@ msgid ""
 "field"
 msgstr ""
 
+msgctxt "OptionsScreenAllowPressToTurnBallView"
+msgid "Allow tap to toggle ball watch mode"
+msgstr ""
+
 msgctxt "OptionsScreenBatHitSuccessSound"
 msgid "Play a sound when the ball is successfully hit with the bat"
 msgstr ""
@@ -1194,6 +1278,10 @@ msgctxt "OptionsScreenPauseGameWhenWindowLostsFocus"
 msgid "Pause the game when switching to another window"
 msgstr ""
 
+msgctxt "OptionsScreenPitchUpBallSounds"
+msgid "Align the pitch of other ball sounds to match the first ball"
+msgstr ""
+
 msgctxt "OptionsScreenPrefereSapi"
 msgid "Prefer sapi to screen reader"
 msgstr ""
@@ -1250,6 +1338,14 @@ msgctxt "OptionsScreenSoundPanRepresentationModeNormal"
 msgid "Normal"
 msgstr ""
 
+msgctxt "OptionsScreenSoundPanningSettings"
+msgid "Sound panning settings"
+msgstr ""
+
+msgctxt "OptionsScreenStartingCountdownEnabled"
+msgid "Enable game start countdown"
+msgstr ""
+
 msgctxt "OptionsScreenTitle"
 msgid "Settings screen."
 msgstr ""
@@ -1281,6 +1377,10 @@ msgstr ""
 
 msgctxt "PauseMenuActiveQuestsNoQuests"
 msgid "No active quests."
+msgstr ""
+
+msgctxt "PauseMenuActiveSkills"
+msgid "View active skills."
 msgstr ""
 
 msgctxt "PauseMenuBarbellEffect"
@@ -1388,7 +1488,7 @@ msgid ""
 msgstr ""
 
 msgctxt "ProfileQuestBoardGetReward"
-msgid "Claim star"
+msgid "Claim reward"
 msgstr ""
 
 msgctxt "ProfileQuestBoardPageTitle"
@@ -1401,6 +1501,11 @@ msgstr ""
 
 msgctxt "ProfileQuestBoardRecieveAll"
 msgid "Claim all rewards"
+msgstr ""
+
+#, python-brace-format
+msgctxt "ProfileQuestBoardRewardRecieved"
+msgid "Got stars: +{0}."
 msgstr ""
 
 #, python-brace-format
@@ -1445,6 +1550,10 @@ msgid ""
 "Additionally, in the pause menu, you can view all currently active quests."
 msgstr ""
 
+msgctxt "ProfileQuestBoardUpgradeReward"
+msgid "Increase reward for completed quests"
+msgstr ""
+
 #, python-brace-format
 msgctxt "ProfileRewardsForUnlockNextMode"
 msgid "To unlock the next mode, claim {0} more rewards."
@@ -1483,6 +1592,42 @@ msgstr ""
 
 msgctxt "QuestBarbellHits"
 msgid "Collide the ball with the bar in the Trial of Speed mode."
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestBoardRewardUpgradeFormRewardValue"
+msgid "Stars for completed quest: +{0}. Chance to receive an extra star: {1}%."
+msgstr ""
+
+msgctxt "QuestBoardRewardUpgradeFormTitle"
+msgid "Reward for completed quests increase."
+msgstr ""
+
+msgctxt "QuestBoardRewardUpgradeFormTitleWithHint"
+msgid ""
+"Reward for completed quests increase. Use tab and shift+tab to move forwards "
+"and backwards on the screen. To activate the selected item, press enter or "
+"spacebar."
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestBoardRewardUpgradeFormUpgradeBlueOrbs"
+msgid "Plus {0} percent for {1} blue orbs"
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestBoardRewardUpgradeFormUpgradeCoins"
+msgid "Plus {0} percent for {1} coins"
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestBoardRewardUpgradeFormUpgradeGreenOrbs"
+msgid "Plus {0} percent for {1} green orbs"
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestBoardRewardUpgradeFormUpgradeRedOrbs"
+msgid "Plus {0} percent for {1} red orbs"
 msgstr ""
 
 msgctxt "QuestCatchBalls"
@@ -1646,9 +1791,33 @@ msgid ""
 "selected item, press enter or spacebar."
 msgstr ""
 
+msgctxt "SkillSlotObserveMenuNoActiveSkills"
+msgid "No active skills."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillSlotObserveMenuSkillRecharged"
+msgid "Slot {0}: {1}. Skill is ready to use."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillSlotObserveMenuSkillRecharging"
+msgid "Slot {0}: {1}. {2} seconds until skill cooldown."
+msgstr ""
+
+msgctxt "SkillSlotObserveMenuTitle"
+msgid "Active skills."
+msgstr ""
+
+msgctxt "SkillSlotObserveMenuTitleWithHint"
+msgid ""
+"Active skills. Use the up and down arrows to move. To exit the menu, "
+"activate the corresponding menu item or press the escape key."
+msgstr ""
+
 #, python-brace-format
 msgctxt "SkillSlotRecharging"
-msgid "{0} seconds before skill cooldown."
+msgid "{0} seconds until skill cooldown."
 msgstr ""
 
 msgctxt "SkillSlotSelectCanceled"
@@ -1953,6 +2122,70 @@ msgctxt "SkillsSuperElasticityText"
 msgid ""
 "Superelasticity: level {0}/4. For {1} seconds the ball bounces off objects "
 "an order of magnitude stronger, cooldown interval is {2} seconds"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormBallViewPanStep"
+msgid "Pan step in ball watch mode"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormBallViewVolumeStep"
+msgid "Volume step in ball watch mode"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormHelp"
+msgid "Help"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormHelpInfo"
+msgid ""
+"Sound Panning Settings\n"
+"If you’re not satisfied with how sounds are played across the stereo field "
+"during gameplay, you can experiment here by adjusting the values for pan and "
+"volume steps.\n"
+"Each of the two available sound panning modes has its own values and can be "
+"configured separately in its respective tab.\n"
+"You can modify four parameters:\n"
+"1. Panning Step: Controls the overall width of the stereo field, determining "
+"how much the sound shifts per unit of distance.\n"
+"2. Volume Step: Defines how much the sound volume changes per unit of "
+"distance.\n"
+"3. Pan Step in ball watch Mode: Same as Pan Step, but applied when ball "
+"watch Mode is active.\n"
+"4. Volume Step in Ball watch Mode: Same as Volume Step, but applied when "
+"ball watch Mode is active.\n"
+"Each parameter can be set in range from 1 to 15.\n"
+"The default values for each mode are chosen to provide the widest possible "
+"stereo image for an optimal gameplay experience. However, you can adjust "
+"them to your preference for better comfort and accessibility.\n"
+"It’s recommended to fine-tune these settings during a Training session, as "
+"changes are applied immediately after exiting the settings screen."
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormModesPannelTitle"
+msgid "Sound Panning Modes"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormPanStep"
+msgid "Pan step"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormResetToDefaults"
+msgid "Reset mode settings to defaults"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormTitle"
+msgid "Sound Panning settings."
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormTitleWithHint"
+msgid ""
+"Sound panning settings screen. Use tab and shift+tab to move forward and "
+"backward. Use the arrow keys to change the position of the sliders. To "
+"activate the selected item, press enter or spacebar."
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormVolumeStep"
+msgid "Volume step"
 msgstr ""
 
 msgctxt "StarModuleActivationError"
@@ -2347,6 +2580,11 @@ msgid "Toolboxes flipped: {0}."
 msgstr ""
 
 #, python-brace-format
+msgctxt "StatItemTotalChestsOpened"
+msgid "Total luck chests opened: {0}."
+msgstr ""
+
+#, python-brace-format
 msgctxt "StatItemTotalGamingTime"
 msgid "Total time spent on the playing field: {0}."
 msgstr ""
@@ -2354,6 +2592,11 @@ msgstr ""
 #, python-brace-format
 msgctxt "StatItemTotalPoints"
 msgid "Total points scored: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemTotalQuestsCompleted"
+msgid "Total quests completed: {0}."
 msgstr ""
 
 #, python-brace-format
@@ -2793,6 +3036,25 @@ msgctxt "StoreItemDestroyStreakUpgradeText"
 msgid "Points earned for an object destruction streak increase: level {0}/5"
 msgstr ""
 
+msgctxt "StoreItemIndulgenceOfInactionInfo"
+msgid ""
+"Indulgence of Inaction\n"
+"If you purchase this upgrade, the penalty for standing still will no longer "
+"apply to you.\n"
+"You’ll also be able to hold the ball in your hands for up to ten seconds "
+"without incurring any penalty.\n"
+"Moreover, the sharp increase in floor bounce penalties—normally applied "
+"after forty or more consecutive bounces—will be removed.\n"
+"This means that, after scoring at least 6 million points, you could finish a "
+"five-minute game session by simply standing still and doing nothing, losing "
+"only about three or four million in the process.\n"
+"The effects of this upgrade are not limited to any specific game mode."
+msgstr ""
+
+msgctxt "StoreItemIndulgenceOfInactionText"
+msgid "Indulgence of inaction"
+msgstr ""
+
 msgctxt "StoreItemJumpFeatureInfo"
 msgid ""
 "Jump ability.\n"
@@ -2822,13 +3084,29 @@ msgctxt "StoreItemMaxActiveAurasUpgradeText"
 msgid "Maximum number of active auras increase: level {0}/3"
 msgstr ""
 
+msgctxt "StoreItemMaxCommonStreakTimeUpgradeInfo"
+msgid ""
+"Increase Duration of Destruction, Collision, and Ceiling Bounce Streaks\n"
+"This upgrade increases the duration of the listed streaks by one second per "
+"level.\n"
+"It applies to Standard and Training modes, as well as the Trial of Will mode."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemMaxCommonStreakTimeUpgradeText"
+msgid ""
+"Duration of Destruction, Collision, and Ceiling Bounce Streaks increase: "
+"level {0}/4. Current duration: {1} seconds."
+msgstr ""
+
 msgctxt "StoreItemMinObjectIncreaseInfo"
 msgid ""
 "Minimum number of objects on the field increase.\n"
 "Initially, the minimum number of objects is twenty-five.\n"
 "When there are fewer objects on the field than this value, as many new "
 "objects are added as are not enough to equal this number.\n"
-"Each upgrade level increases this value by one."
+"Each upgrade level increases this value by one.\n"
+"This upgrade applies to training and normal game modes."
 msgstr ""
 
 #, python-brace-format
@@ -2947,7 +3225,7 @@ msgid ""
 "Once the target object is reached, the bat automatically returns to the "
 "character's hands.\n"
 "The skill will only activate if the hit strength is fully restored.\n"
-"Otherwise, it will go into cooldown.\n"
+"Otherwise, it will go on cooldown.\n"
 "The skill is considered failed if there are no objects within the bat's "
 "possible flight range."
 msgstr ""
@@ -3015,7 +3293,7 @@ msgid ""
 "Select the slot where this skill is set.\n"
 "Then press the key for a horizontal bat swing.\n"
 "The rocket can only be launched if the hit strength is fully restored. "
-"Otherwise, the ability will go on cooldown.\n"
+"Otherwise, the skill will go on cooldown.\n"
 "Tip: Avoid launching the rocket too close to the edges of the field, as the "
 "explosion may affect fewer objects."
 msgstr ""
@@ -3321,11 +3599,12 @@ msgstr ""
 msgctxt "StoreItemTestOfSkillFloorBounceFineUpgradeInfo"
 msgid ""
 "Reduction of Ball Bounce off the Floor Penalty.\n"
-"This upgrade reduces the penalty for ball bounces off the floor by two "
-"percent per level."
+"This upgrade reduces the penalty for ball bounces off the floor by five "
+"percent per level.\n"
+"This upgrade applies to trial of mastery only!"
 msgstr ""
 
-#, python-format, python-brace-format
+#, python-brace-format
 msgctxt "StoreItemTestOfSkillFloorBounceFineUpgradeText"
 msgid ""
 "Reduction of Ball Bounce off the Floor Penalty: level {0}/10. Current value: "
@@ -3336,7 +3615,8 @@ msgctxt "StoreItemTestOfSkillPlanksUpgradeInfo"
 msgid ""
 "Increased Board Throwing Skill.\n"
 "With each level of this upgrade, the character becomes better at throwing "
-"boards, thereby increasing their effectiveness and destructiveness."
+"boards, thereby increasing their effectiveness and destructiveness.\n"
+"This upgrade applies to trial of mastery only!"
 msgstr ""
 
 #, python-brace-format
@@ -3348,7 +3628,8 @@ msgctxt "StoreItemTestOfSkillRarityUpgradeInfo"
 msgid ""
 "Chance of Special Object Spawn increase.\n"
 "This upgrade increases the chance of special objects, such as mines, "
-"toolboxes, and sofas, appearing on the field."
+"toolboxes, and sofas, appearing on the field.\n"
+"This upgrade applies to training and normal game modes only."
 msgstr ""
 
 #, python-brace-format
@@ -3368,18 +3649,34 @@ msgctxt "StoreItemTestOfSkillRewardIncreaseUpgradeText"
 msgid "Number of Red Orbs Earned increase: level {0}/20"
 msgstr ""
 
+msgctxt "StoreItemTestOfSpeedElectroChargeBonusIncreaseUpgradeInfo"
+msgid ""
+"Reward for dodging electric discharge increase.\n"
+"This upgrade increases the percentage bonus for dodging an electric "
+"discharge by two percent per level.\n"
+"This upgrade applies to trial of speed only!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedElectroChargeBonusIncreaseUpgradeText"
+msgid ""
+"Reward for dodging electric discharge increase: level {0}/10. Current value: "
+"+{1}% to score at the moment of dodge."
+msgstr ""
+
 msgctxt "StoreItemTestOfSpeedHitStreakTimeUpgradeInfo"
 msgid ""
-"Time Before Goal Streak Reset increase.\n"
+"Time until Goal Streak Reset increase.\n"
 "After the last goal hit, there must initially be ten seconds before the "
 "streak is reset.\n"
-"This upgrade increases this value by one second per level."
+"This upgrade increases this value by one second per level.\n"
+"This upgrade applies to trial of speed only!"
 msgstr ""
 
 #, python-brace-format
 msgctxt "StoreItemTestOfSpeedHitStreakTimeUpgradeText"
 msgid ""
-"Time Before Goal Streak Reset increase: level {0}/6. Current value: {1} "
+"Time until Goal Streak Reset increase: level {0}/6. Current value: {1} "
 "seconds until reset"
 msgstr ""
 
@@ -3389,7 +3686,8 @@ msgid ""
 "This upgrade increases the bonus provided by each level of the leader's aura "
 "by 0.1% per level.\n"
 "At the maximum upgrade level, the bonus per level of the leader's aura will "
-"be 3% to the points earned, instead of the initial 1%."
+"be 3% to the points earned, instead of the initial 1%.\n"
+"This upgrade is not tied to any specific mode."
 msgstr ""
 
 #, python-brace-format
@@ -3402,7 +3700,8 @@ msgid ""
 "Maximum value of the goal hit streak increase.\n"
 "After reaching the initial limit of five, the streak stops increasing, and "
 "the same number of points is added for each subsequent hit.\n"
-"This upgrade raises the limit by one hit per level."
+"This upgrade raises the limit by one hit per level.\n"
+"This upgrade applies to trial of speed only!"
 msgstr ""
 
 #, python-brace-format
@@ -3416,7 +3715,8 @@ msgctxt "StoreItemTestOfSpeedPointsMultiplierUpgradeInfo"
 msgid ""
 "Points Multiplier\" bonus upgrade.\n"
 "This upgrade increases the multiplier provided by the \"points Multiplier\" "
-"bonus."
+"bonus.\n"
+"This upgrade applies to trial of speed only!"
 msgstr ""
 
 #, python-brace-format
@@ -3441,7 +3741,8 @@ msgid ""
 "\"Rocket\" bonus multiplier increase.\n"
 "When the rocket hits the goal, it initially grants five times more points "
 "than a regular ball hit.\n"
-"This upgrade increases the multiplier by 1 for each level."
+"This upgrade increases the multiplier by 1 for each level.\n"
+"This upgrade applies to trial of speed only!"
 msgstr ""
 
 #, python-brace-format
@@ -3457,7 +3758,8 @@ msgid ""
 "Then, once per second, with a certain chance, a new item attempts to appear "
 "on the field.\n"
 "This upgrade increases the chance of spawning by 2% per level, allowing you "
-"to activate more items during a game session."
+"to activate more items during a game session.\n"
+"This upgrade applies to trial of will only!"
 msgstr ""
 
 #, python-brace-format
@@ -3470,7 +3772,8 @@ msgid ""
 "Maximum number of objects on the field increase.\n"
 "Initially, in the trial of will mode, the field can hold up to fifteen "
 "objects.\n"
-"This upgrade increases that number by one object per level."
+"This upgrade increases that number by one object per level.\n"
+"This upgrade applies to trial of will only!"
 msgstr ""
 
 #, python-brace-format
@@ -3485,7 +3788,8 @@ msgid ""
 "Mandatory time between item spawns decrease.\n"
 "There is an initial mandatory time of twenty-five seconds between item "
 "spawns.\n"
-"This upgrade reduces this interval by one second per level."
+"This upgrade reduces this interval by one second per level.\n"
+"This upgrade applies to trial of will only!"
 msgstr ""
 
 #, python-brace-format
@@ -3513,7 +3817,8 @@ msgid ""
 "This upgrade increases the bonus provided by the Time Aura by one second per "
 "level.\n"
 "Thus, at the maximum fifth level of this upgrade, the bonus from each Time "
-"Aura level will add not five, but ten seconds to the maximum game time."
+"Aura level will add not five, but ten seconds to the maximum game time.\n"
+"This upgrade is not tied to any specific mode."
 msgstr ""
 
 #, python-brace-format

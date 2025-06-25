@@ -55,6 +55,9 @@ Pokud se ti nelíbí zvuk míče, dá se změnit v nastavení na kartě "Zvuk". 
 výběr z pěti možností. Můžeš to udělat i přímo během hry tak, že otevřeš
 nastavení z menu Pauza. Zvuk míče se změní, jakmile hru zase odpauzuješ.
 
+You can also change the ball sound during gameplay. To do this, enter Ball watch
+mode by holding the G key, then press L to change the sound.
+
 ### Navigace
 
 Ve všech menu se pohybuješ šipkami nahoru a dolů. Enterem potvrzuješ vybranou
@@ -98,6 +101,10 @@ stejného principu jako rychlost obnovy síly úderu.
 
 Když stiskneš F1, všechny schopnosti, které máš uložené ve slotech, se okamžitě
 dobijí a budou dostupné k dalšímu použití.
+
+If you press the B key and the ball is on the field, you will hear an audio cue
+indicating how high the ball is, along with a sound played in the ball’s pitch.
+This feature works in all modes.
 
 Tyto klávesy si můžeš změnit v nastavení ovládání.
 
@@ -340,6 +347,7 @@ Všechny klávesy uvedené v této části si můžeš upravit v nastavení ovl�
 | Máchnutí pálkou (svislý odpal) | Alt+mezerník, alt+S nebo R |
 | Hození míče obloukem | F |
 | Hození míče svisle | alt+F |
+| Switch ball sound | l (only when Ball watch mode is active) |
 | Přepnutí kamery do režimu sledování míče | Podrž G |
 | Přepnutí kamery do normálního režimu | Pusť G |
 | Přepnutí kamery mezi pohledem z pozice postavy a pohledem ze středu hrací plochy | V |
@@ -347,12 +355,15 @@ Všechny klávesy uvedené v této části si můžeš upravit v nastavení ovl�
 | Chycení míče (pokud je tato funkce odemčena) | Levý nebo pravý control |
 | Výběr schopnosti ve slotu od 1 do 10 (pokud je v daném slotu nějaká schopnost uložena) | 1 až 0 / numerická 1 až numerická 0 |
 | Zrušení výběru schopnosti ve slotu | Středník / numerický enter |
+| Switch to the previous ready to use skill | Minus (-) / Numpad Minus (-) |
+| Switch to the next ready to use skill | Equals (=) / Numpad Multiply (*) |
 | Aktivace/deaktivace hvězdného modulu uloženého ve slotu 1 až 4 (pokud je v daném slotu nějaký modul uložen). | Alt + klávesy 1 až 4 / numerická 1 až numerická 4 |
 | Aktivace speciálního předmětu (je-li to v daném režimu možné). | X |
 | Zjištění množství dostupné hvězdné energie (pokud máš alespoň jeden hvězdný modul a používání modulů je v daném režimu povoleno) | Y |
 | Otevření mapy předmětů | M |
 | Zjištění zbývajícího času do konce hry | T |
 | Zjištění aktuálního skóre | P |
+| Find out how high the ball is | b |
 | Zapauzování hry | Escape |
 
 ### Režim Trénink

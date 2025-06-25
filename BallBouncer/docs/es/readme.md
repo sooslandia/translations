@@ -58,6 +58,9 @@ la pestaña "Sonido", eligiendo entre cinco opciones propuestas. Esto se puede
 hacer directamente durante el juego yendo a la configuración desde el menú de
 pausa. El sonido de la pelota cambiará tan pronto como reanudes el juego.
 
+You can also change the ball sound during gameplay. To do this, enter Ball watch
+mode by holding the G key, then press L to change the sound.
+
 ### Navegación
 
 Moverse por los menús se hace usando las flechas arriba y abajo. Enter selecciona
@@ -106,6 +109,10 @@ de la fuerza de golpe.
 
 Cuando presionas la tecla F1, las habilidades en las ranuras se recargarán al
 instante y estarán disponibles para usar.
+
+If you press the B key and the ball is on the field, you will hear an audio cue
+indicating how high the ball is, along with a sound played in the ball’s pitch.
+This feature works in all modes.
 
 Estas teclas se pueden cambiar usando el Configurador de controles.
 
@@ -364,6 +371,7 @@ configuración de controles.
 | Balancea el bate (golpea la bola con un fuerte impulso vertical) | alt+espacio, alt+s o r |
 | Lanza la pelota en un arco | f |
 | Lanzar la pelota verticalmente | alt+f |
+| Switch ball sound | l (only when Ball watch mode is active) |
 | Cambia la cámara al modo seguimiento de balón. | Mantén pulsada la tecla g |
 | Cambia la cámara al modo normal. | Suelta la tecla g |
 | Cambia el modo de cámara entre vista en primera persona y vista centrada en el campo. | v |
@@ -371,12 +379,15 @@ configuración de controles.
 | Atrapa la pelota (si la habilidad está desbloqueada) | control izquierdo o derecho |
 | Selecciona una ranura de habilidad del 1 al 10 (si la habilidad está asignada) | teclas 1 a 0/teclado numérico 1 a 0 |
 | Cancelar selección de ranura de habilidad | Grave / intro del teclado numérico |
+| Switch to the previous ready to use skill | Minus (-) / Numpad Minus (-) |
+| Switch to the next ready to use skill | Equals (=) / Numpad Multiply (*) |
 | Activa/desactiva el conjunto de módulos estrella en la ranura 1 a 4 (si el módulo está configurado). | alt + teclas 1 a 4/teclado numérico 1 a 4 |
 | Activa el objeto (si está permitido en el modo de juego actual). | x |
 | Comprueba la cantidad de energía estelar disponible (si tienes al menos un módulo estelar y el uso de módulos está permitido en el modo de juego actual) | y |
 | Abre el mapa de objetos | m |
 | Averigua cuánto tiempo queda hasta el final de la sesión de juego. | t |
 | Descubre el número actual de puntos anotados. | p |
+| Find out how high the ball is | b |
 | pausar el juego | escape |
 
 ### Modo de entrenamiento

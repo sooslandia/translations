@@ -134,6 +134,9 @@ def generate_pot_file_from_source(source, package_name):
     if process.returncode != 0:
         raise RuntimeError(f"xgettext failed with code {process.returncode}")
     logger.info("Pot generated from source")
+    pot = pot.replace(
+        b"#, python-format, python-brace-format", b"#, python-brace-format"
+    )
     return pot.decode()
 
 
