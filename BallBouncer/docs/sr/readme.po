@@ -8,15 +8,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2025-03-08 20:12+0000\n"
-"PO-Revision-Date: 2025-03-24 15:06+0100\n"
+"POT-Creation-Date: 2025-06-24 18:52+0000\n"
+"PO-Revision-Date: 2025-06-28 15:44+0200\n"
 "Last-Translator: Nikola Jović <wwenikola123@gmail.com>\n"
 "Language-Team: \n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 
 #: BallBouncer/docs/en/readme.md:block 1 (paragraph)
 msgid "% \"Ball bouncer\" documentation"
@@ -151,11 +151,20 @@ msgstr ""
 "direktno promeniti u toku igre ako posetite podešavanja kada pauzirate igru. "
 "Zvuk loptice će se promeniti čim nastavite igru."
 
-#: BallBouncer/docs/en/readme.md:block 17 (header)
+#: BallBouncer/docs/en/readme.md:block 17 (paragraph)
+msgid ""
+"You can also change the ball sound during gameplay. To do this, enter Ball "
+"watch mode by holding the G key, then press L to change the sound."
+msgstr ""
+"Možete takođe da promenite zvuk loptice tokom igranja. To Da biste ovo "
+"uradili, uđite u režim gledanja loptice držanjem tastera G, a zatim "
+"pritisnite L da promenite zvuk."
+
+#: BallBouncer/docs/en/readme.md:block 18 (header)
 msgid "Navigation"
 msgstr "Navigacija"
 
-#: BallBouncer/docs/en/readme.md:block 18 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 19 (paragraph)
 msgid ""
 "Moving through menus is done by using the up and down arrows. Enter selects "
 "an item, while home and end keys do their respective job by setting you on "
@@ -165,7 +174,7 @@ msgstr ""
 "aktivira stavku, dok tasteri Home i End rade njihov očekivan posao "
 "prebacujući vas na prvu i poslednju stavku."
 
-#: BallBouncer/docs/en/readme.md:block 19 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 20 (paragraph)
 msgid ""
 "Screen navigation(settings, shop, profile, etc.),: tab/shift+tab forward/"
 "back, activate controls by pressing enter or spacebar. Move through the "
@@ -178,7 +187,7 @@ msgstr ""
 "menjajte vrednosti klizača korišćenjem strelica. Izbor kartica se vrši "
 "strelicama levo i desno."
 
-#: BallBouncer/docs/en/readme.md:block 20 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 21 (paragraph)
 msgid ""
 "On the shop screen, pressing Enter on the selected item will open the "
 "reference information, where the item is described in detail."
@@ -186,14 +195,7 @@ msgstr ""
 "Na ekranu prodavnice, pritiskanje Entera na izabranom predmetu će otvoriti "
 "informacije o korišćenju, gde je predmet detaljno opisan."
 
-#: BallBouncer/docs/en/readme.md:block 21 (paragraph)
-#| msgid ""
-#| "On the shop screen, by pressing enter on the item you have selected, you "
-#| "can open reference information that describes this item. In your profile, "
-#| "on the \"Statistics\" tab, by pressing enter on a list item you can "
-#| "receive a reward, if available. By pressing ctrl+c you can copy the "
-#| "contents of the item into your clipboard. On the “Skills” tab, by "
-#| "clicking on an item, you can get detailed information about the skill."
+#: BallBouncer/docs/en/readme.md:block 22 (paragraph)
 msgid ""
 "In the profile, on the \"Statistics\" tab, by pressing enter on a list item "
 "you can claim a reward, if available. By pressing ctrl+c you can copy the "
@@ -203,7 +205,7 @@ msgstr ""
 "dobiti nagradu, ako je dostupna. Pritiskanjem prečice ctrl+c možete kopirati "
 "sadržaj stavke u vašu privremenu memoriju."
 
-#: BallBouncer/docs/en/readme.md:block 22 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 23 (paragraph)
 msgid ""
 "On the \"Skills\" tab, pressing on an item will provide detailed information "
 "about the skill."
@@ -211,7 +213,7 @@ msgstr ""
 "Na kartici veština, aktiviranje veštine će pružiti detaljne informacije o "
 "njoj."
 
-#: BallBouncer/docs/en/readme.md:block 23 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 24 (paragraph)
 msgid ""
 "All menus and screens, excluding the main menu and the last game results "
 "menu, can be closed with the escape key."
@@ -219,15 +221,15 @@ msgstr ""
 "Svi meniji i ekrani, osim glavnog menija i poslednjeg menija sa rezultatima "
 "igre se mogu zatvoriti tasterom Escape."
 
-#: BallBouncer/docs/en/readme.md:block 24 (header)
+#: BallBouncer/docs/en/readme.md:block 25 (header)
 msgid "Game process"
 msgstr "Proces igranja"
 
-#: BallBouncer/docs/en/readme.md:block 25 (header)
+#: BallBouncer/docs/en/readme.md:block 26 (header)
 msgid "Training mode"
 msgstr "Režim vežbe"
 
-#: BallBouncer/docs/en/readme.md:block 26 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 27 (paragraph)
 msgid ""
 "The game has a training mode where you can spend unlimited time and where "
 "all penalties are disabled. In this mode, a sound will be played when you "
@@ -242,7 +244,7 @@ msgstr ""
 "loptica bar jednom odskočila sa poda kako biste naučili trenutak savršenog "
 "udarca. U režimu vežbe, statistike igre se ne beleže, i poeni se ne osvajaju."
 
-#: BallBouncer/docs/en/readme.md:block 27 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 28 (paragraph)
 msgid ""
 "During training, you can press the F2 key, and a screen will open where you "
 "can set the level of the hit strength recovery rate upgrade, ranging from "
@@ -251,7 +253,7 @@ msgstr ""
 "U toku vežbanja, možete pritisnuti taster F2, što će otvoriti ekran na kojem "
 "možete podesiti nivo oporavka snage udarca, od prvog do maksimalnog nivoa."
 
-#: BallBouncer/docs/en/readme.md:block 28 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 29 (paragraph)
 msgid ""
 "Also, in the future, when you acquire your first skills, you will be able to "
 "set their levels on this screen, if they are set in one of the slots, "
@@ -262,7 +264,7 @@ msgstr ""
 "dostupnih mesta, prateći isti princip kao i podešavanje oporavka snage "
 "udarca."
 
-#: BallBouncer/docs/en/readme.md:block 29 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 30 (paragraph)
 msgid ""
 "When you press the F1 key, your skills set in the slots will be instantly "
 "recharged and available for use."
@@ -270,15 +272,25 @@ msgstr ""
 "Kada pritisnete taster F1, vaše veštine koje ste podesili na dostupna mesta "
 "će se odmah oporaviti i biti dostupne za korišćenje."
 
-#: BallBouncer/docs/en/readme.md:block 30 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 31 (paragraph)
+msgid ""
+"If you press the B key and the ball is on the field, you will hear an audio "
+"cue indicating how high the ball is, along with a sound played in the ball’s "
+"pitch. This feature works in all modes."
+msgstr ""
+"Ako pritisnete taster B i loptica je na terenu, čućete zvuk koji vam "
+"pokazuje koliko visoko se loptica nalazi, kao i zvuk koji se reprodukuje na "
+"visini loptice. This feature works in all modes."
+
+#: BallBouncer/docs/en/readme.md:block 32 (paragraph)
 msgid "These keys can be changed using the controls Configurator."
 msgstr "Ovi tasteri se mogu promeniti korišćenjem podešavanja kontrola."
 
-#: BallBouncer/docs/en/readme.md:block 31 (header)
+#: BallBouncer/docs/en/readme.md:block 33 (header)
 msgid "How to play"
 msgstr "Kako igrati"
 
-#: BallBouncer/docs/en/readme.md:block 32 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 34 (paragraph)
 msgid ""
 "After selecting the \"Start Game\" option in the main menu, the countdown "
 "will begin. Then, you will be able to control the character."
@@ -286,7 +298,7 @@ msgstr ""
 "Nakon što izaberete \"započni igru\" u glavnom meniju, počeće odbrojavanje. "
 "Zatim, moćićete da kontrolišete karaktera."
 
-#: BallBouncer/docs/en/readme.md:block 33 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 35 (paragraph)
 msgid ""
 "At the beginning of the game, the character is located in the center of the "
 "field. You can move them using the left and right arrow keys. The camera is "
@@ -297,7 +309,7 @@ msgstr ""
 "strelicama levo i desno. Kamera podrazumevano prati centar terena, ali je "
 "možete promeniti tako da prati karaktera pritiskanjem tastera \"V\"."
 
-#: BallBouncer/docs/en/readme.md:block 34 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 36 (paragraph)
 msgid ""
 "By pressing the \"C\" key in the field center view, you will hear a sound "
 "positioned at the character's location. In the first-person view, the sound "
@@ -311,7 +323,7 @@ msgstr ""
 "zvuk će se čuti na poziciji karaktera. Ovo će vam pomoći da bolje osetite "
 "gde je karakter kada pokušavate da udarite lopticu."
 
-#: BallBouncer/docs/en/readme.md:block 35 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 37 (paragraph)
 msgid ""
 "By pressing the left or right shift key, you can set the character's facing "
 "direction. When moving, the direction is set automatically."
@@ -319,7 +331,7 @@ msgstr ""
 "Pritiskanjem levog ili desnog Šifta, možete podesiti pravac kretanja "
 "karaktera. Kada se krećete, pravac se menja automatski."
 
-#: BallBouncer/docs/en/readme.md:block 36 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 38 (paragraph)
 msgid ""
 "First, you need to throw the ball to make it appear on the game field. You "
 "can do this by pressing the \"f\" key."
@@ -327,15 +339,7 @@ msgstr ""
 "Na početku, morate da bacite lopticu kako bi se ona pojavila na terenu. Ovo "
 "možete uraditi pritiskanjem tastera \"F\"."
 
-#: BallBouncer/docs/en/readme.md:block 37 (paragraph)
-#| msgid ""
-#| "First of all, you need to throw the ball so that it appears on the "
-#| "playing field. You can do this by pressing the f key. After the ball is "
-#| "on the field, you will hear a tone which will move left and right, "
-#| "indicating movement of the ball in the horizontal plane. The tone's pitch "
-#| "and volume will also change, indicating vertical ball movement. "
-#| "Decreasing volume and rising pitch mean that the ball is moving upwards, "
-#| "while increasing volume and lowering pitch mean the opposite."
+#: BallBouncer/docs/en/readme.md:block 39 (paragraph)
 msgid ""
 "After the ball is on the field, you will hear a tone which will move left "
 "and right, indicating movement of the ball in the horizontal plane. The "
@@ -349,11 +353,11 @@ msgstr ""
 "povećavanje visine znače da se loptica kreće gore, dok pojačanje tona i "
 "povećavanje visine znače suprotno."
 
-#: BallBouncer/docs/en/readme.md:block 38 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 40 (paragraph)
 msgid "There are two types of throw:"
 msgstr "Postoje dve vrste bacanja:"
 
-#: BallBouncer/docs/en/readme.md:block 39 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 41 (unordered list)
 msgid ""
 "Normal. Performed by pressing the f key. The ball begins to fly in an arc in "
 "the direction the character is facing."
@@ -361,7 +365,7 @@ msgstr ""
 "Standardno. Izvršava se pritiskanjem tastera F. Loptica počinje da leti u "
 "luku u pravcu u kojem je karakter okrenut."
 
-#: BallBouncer/docs/en/readme.md:block 39 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 41 (unordered list)
 msgid ""
 "Vertical. Performed by holding down the alt key and pressing f. The ball "
 "starts flying along the vertical axis, but also moves slightly along the "
@@ -371,7 +375,7 @@ msgstr ""
 "Loptica počinje da leti vertikalno, ali se takođe blago pomera horizontalno "
 "u pravcu u kojem je karakter okrenut."
 
-#: BallBouncer/docs/en/readme.md:block 40 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 42 (paragraph)
 msgid ""
 "The goal of the game is to destroy as many objects as possible, gaining "
 "points along the way. The ball always tends to fall down, and you need to "
@@ -380,11 +384,11 @@ msgstr ""
 "Cilj igre je da uništite što više objekata možete, što vam donosi poene. "
 "Loptica uvek pada, i morate ponovo da je udarite palicom."
 
-#: BallBouncer/docs/en/readme.md:block 41 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 43 (paragraph)
 msgid "The ball can be hit in two ways:"
 msgstr "Lopticu možete da udarite na dva načina:"
 
-#: BallBouncer/docs/en/readme.md:block 42 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 44 (unordered list)
 msgid ""
 "Spacebar key. In this case, the ball will receive a strong horizontal "
 "impulse in the direction the character is facing."
@@ -392,7 +396,7 @@ msgstr ""
 "Tasterom razmak. U tom slučaju, loptica će dobiti jači horizontalni impuls u "
 "pravcu u kojem je karakter okrenut."
 
-#: BallBouncer/docs/en/readme.md:block 42 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 44 (unordered list)
 msgid ""
 "Hold down the alt key and press spacebar. The ball will receive a strong "
 "vertical impulse, maintaining a horizontal flight direction regardless of "
@@ -402,7 +406,7 @@ msgstr ""
 "vertikalni impuls, a održavaće horizontalni pravac bez obzira na pravac "
 "kretanja karaktera."
 
-#: BallBouncer/docs/en/readme.md:block 43 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 45 (paragraph)
 msgid ""
 "You can only hit the ball while being near it. After each swing of the bat, "
 "the character restores the hit strength. Once it is fully restored, you will "
@@ -416,7 +420,7 @@ msgstr ""
 "zvukova. Možete takođe uključiti ili isključiti zvuk uspešnog udarca palicom "
 "u podešavanjima na kartici ponašanje."
 
-#: BallBouncer/docs/en/readme.md:block 44 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 46 (paragraph)
 msgid ""
 "You should always aim to make perfect strikes, as they reward you with bonus "
 "points. A perfect strike occurs when the ball bounces off the floor only "
@@ -430,7 +434,7 @@ msgstr ""
 "loptica odskoči od poda, više poena gubite. Dakle, pokušajte da udarite "
 "lopticu gore što brže možete."
 
-#: BallBouncer/docs/en/readme.md:block 45 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 47 (paragraph)
 msgid ""
 "It's also not a good idea to stay in one place for too long, as you'll lose "
 "points for being stationary for ten seconds or more."
@@ -438,7 +442,7 @@ msgstr ""
 "Takođe nije dobra ideja da predugo stojite na istom mestu, zato što ćete "
 "izgubiti poene ako se ne krećete deset sekundi ili duže."
 
-#: BallBouncer/docs/en/readme.md:block 46 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 48 (paragraph)
 msgid ""
 "At the beginning of the game, avoid holding the ball for too long, as each "
 "second the ball is held adds an increasing penalty. The same applies to a "
@@ -448,11 +452,11 @@ msgstr ""
 "sekunda tokom koje držite lopticu povećava kaznene poene. Isto važi kada se "
 "loptica uhvati."
 
-#: BallBouncer/docs/en/readme.md:block 47 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 49 (paragraph)
 msgid "A penalty is applied for the fifth and subsequent misses."
 msgstr "Kazna se primenjuje za peti i svaki naredni promašaj."
 
-#: BallBouncer/docs/en/readme.md:block 48 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 50 (paragraph)
 msgid ""
 "You earn points for the ball colliding with an object, as well as for "
 "destroying an object. If the ball bounces off the ceiling, you will also "
@@ -461,7 +465,7 @@ msgstr ""
 "Zarađujete poene kada se loptica sudari sa objektom, kao i kada uništi "
 "objekat. Ako loptica odskoči sa plafona, takođe ćete dobiti bonus poene."
 
-#: BallBouncer/docs/en/readme.md:block 49 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 51 (paragraph)
 msgid ""
 "After colliding with an object or destroying it, a streak begins. Each "
 "subsequent collision or destruction brings more points. However, if the "
@@ -472,7 +476,7 @@ msgstr ""
 "sudaranje ili uništenje donosi više poena. Ali, ako se niz ne nastavi duže "
 "od šest sekundi, resetuje se. Isto važi za odskakanje loptice sa plafona."
 
-#: BallBouncer/docs/en/readme.md:block 50 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 52 (paragraph)
 msgid ""
 "After making a perfect strike, a separate streak begins. For each new "
 "perfect strike, you earn significantly more points than the previous one. If "
@@ -484,7 +488,7 @@ msgstr ""
 "odskoči sa poda više od jednog puta, niz se završava, i morate da počnete iz "
 "početka."
 
-#: BallBouncer/docs/en/readme.md:block 51 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 53 (paragraph)
 msgid ""
 "After being destroyed, objects will fall to the ground, creating noise and "
 "adding chaos to what’s happening."
@@ -492,7 +496,7 @@ msgstr ""
 "Nakon što se unište, objekti će pasti na zemlju, i praviti buku dodavanjem "
 "haosa."
 
-#: BallBouncer/docs/en/readme.md:block 52 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 54 (paragraph)
 msgid ""
 "During the game, you can not only observe the entire field but also switch "
 "to the ball watch mode. To activate this mode, hold the G key. The ball "
@@ -504,7 +508,7 @@ msgstr ""
 "gledanja loptice ostaje aktivan dokle god držite G, i deaktiviraće se čim ga "
 "odpustite."
 
-#: BallBouncer/docs/en/readme.md:block 53 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 55 (paragraph)
 msgid ""
 "You can pause the game by pressing the escape key. After pressing it, you "
 "will enter the pause menu, where you can view the time remaining in the "
@@ -516,7 +520,7 @@ msgstr ""
 "igre, rezultat i druge informacije. Iz menija pauze, takođe možete "
 "pristupiti podešavanjima ili prekinuti igru."
 
-#: BallBouncer/docs/en/readme.md:block 54 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 56 (paragraph)
 msgid ""
 "However, you can check the remaining time and current score not only in the "
 "pause menu. Press the T key to check the time, and the P key to see your "
@@ -526,7 +530,7 @@ msgstr ""
 "pauze. Pritisnite taster T da proverite vreme, i taster P da vidite vaš "
 "rezultat."
 
-#: BallBouncer/docs/en/readme.md:block 55 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 57 (paragraph)
 msgid ""
 "If your score drops to minus one thousand, the game session will end "
 "prematurely. No coins will be awarded, but you won't lose anything else."
@@ -534,7 +538,7 @@ msgstr ""
 "Ako vaš rezultat padne na minus hiljadu, igra će se završiti. Nećete dobiti "
 "novčiće, ali nećete ni izgubiti ništa više."
 
-#: BallBouncer/docs/en/readme.md:block 56 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 58 (paragraph)
 msgid ""
 "The game session lasts five minutes. This time can be extended by upgrading "
 "the Time Aura in the profile."
@@ -542,7 +546,7 @@ msgstr ""
 "Igra traje pet minuta. Ovo vreme se može produžiti pojačanjem vremenske aure "
 "na profilu."
 
-#: BallBouncer/docs/en/readme.md:block 57 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 59 (paragraph)
 msgid ""
 "After the game session ends, a sound animation of coin awarding will play, "
 "which can be skipped by pressing the Enter key."
@@ -550,20 +554,7 @@ msgstr ""
 "Nakon što se igra završi, reprodukovaće se zvučna animacija dobijanja "
 "novčića, koja se može preskočiti tasterom Enter."
 
-#: BallBouncer/docs/en/readme.md:block 58 (paragraph)
-#| msgid ""
-#| "If you allow your points to drop to minus one thousand, the gaming "
-#| "session will end early. Coins will not be credited, but you do not lose "
-#| "anything else. A gaming session lasts five minutes. This time can be "
-#| "increased by improving the time aura in the profile. After the game "
-#| "session ends, a sound animation of coins being added will begin playing, "
-#| "which can be skipped by pressing the enter key. Then the last game "
-#| "results menu will open, where you can find out how many points were "
-#| "ultimately scored and coins received. After closing the menu by pressing "
-#| "enter, you may be shown a notification about an available reward for "
-#| "reaching a statistic milestone. The display of the results menu for the "
-#| "last game and notifications about available rewards can be disabled in "
-#| "the settings, on the “Behavior” tab."
+#: BallBouncer/docs/en/readme.md:block 60 (paragraph)
 msgid ""
 "Then, the last game results menu will open, where you can find out how many "
 "points were ultimately scored and coins received. After closing the menu by "
@@ -579,7 +570,7 @@ msgstr ""
 "obaveštenje o dostupnoj nagradi se mogu onemogućiti u podešavanjima, na "
 "kartici “ponašanje”."
 
-#: BallBouncer/docs/en/readme.md:block 59 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 61 (paragraph)
 msgid ""
 "The game also has skills that are fully described in the game. To use a "
 "skill during the game, you need to set it in one of ten slots. Assigning is "
@@ -591,7 +582,7 @@ msgstr ""
 "Podešavanje se vrši na vašem profilu, na kartici “Veštine”. Mestima "
 "pristupate korišćenjem brojeva od 1 (prvo mesto) do 0 (deseto mesto)."
 
-#: BallBouncer/docs/en/readme.md:block 60 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 62 (paragraph)
 msgid ""
 "In the store you can unlock the abilities to jump and catch the ball. These "
 "two abilities are also fully described in the game, including the keys to "
@@ -601,11 +592,11 @@ msgstr ""
 "dve sposobnosti su takođe u potpunosti opisane u igrici, uz tastere za "
 "njihovo korišćenje. Takođe su prisutne u tabeli kontrola."
 
-#: BallBouncer/docs/en/readme.md:block 61 (header)
+#: BallBouncer/docs/en/readme.md:block 63 (header)
 msgid "Other game modes"
 msgstr "Drugi režimi igre"
 
-#: BallBouncer/docs/en/readme.md:block 62 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 64 (paragraph)
 msgid ""
 "In addition to the normal and training modes, there are three other modes in "
 "the game, but they are not unlocked immediately."
@@ -613,13 +604,13 @@ msgstr ""
 "Uz standardni i režim vežbanja, u igrici postoje tri dodatna režima, ali oni "
 "nisu odmah otključani."
 
-#: BallBouncer/docs/en/readme.md:block 63 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 65 (paragraph)
 msgid "To unlock new modes, earn rewards for reaching statistical milestones."
 msgstr ""
 "Da otključate nove režime, prikupljajte nagrade dostizanjem statističkih "
 "jubileja."
 
-#: BallBouncer/docs/en/readme.md:block 64 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 66 (paragraph)
 msgid ""
 "In the profile, on the statistics tab, you can see how many rewards you need "
 "to unlock the next mode."
@@ -627,7 +618,7 @@ msgstr ""
 "Na profilu, na kartici statistika, možete videti koliko nagrada morate da "
 "dobijete da otključate sledeći režim."
 
-#: BallBouncer/docs/en/readme.md:block 65 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 67 (paragraph)
 msgid ""
 "When you receive the required number of rewards, an informational menu will "
 "appear, briefly describing what has become available to you."
@@ -635,7 +626,7 @@ msgstr ""
 "Kada dobijete neophodan broj nagrada, pojaviće se meni informacija, koji će "
 "ukratko opisati šta vam je postalo dostupno."
 
-#: BallBouncer/docs/en/readme.md:block 66 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 68 (paragraph)
 msgid ""
 "To learn detailed information about any mode, select the mode from the list "
 "on the new game start screen and press the D key, or click the \"Open mode "
@@ -645,7 +636,7 @@ msgstr ""
 "liste na ekranu početka nove igre i pritisnite taster D, ili aktivirajte "
 "dugme \"otvori opis režima\"."
 
-#: BallBouncer/docs/en/readme.md:block 67 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 69 (paragraph)
 msgid ""
 "All additional keys for a specific mode are listed in the mode description "
 "and are also mentioned in the controls tables."
@@ -653,7 +644,7 @@ msgstr ""
 "Svi dodatni tasteri za određen režim su označeni u opisu režima i takođe su "
 "prikazani u tabelama kontrola."
 
-#: BallBouncer/docs/en/readme.md:block 68 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 70 (paragraph)
 msgid ""
 "After unlocking all three modes, you will be able to see the requirements "
 "for unlocking the quest board. A corresponding tab will appear on the "
@@ -663,29 +654,21 @@ msgstr ""
 "otključavanje table misija. Odgovarajuća kartica će se pojaviti na ekranu "
 "profila."
 
-#: BallBouncer/docs/en/readme.md:block 69 (header)
+#: BallBouncer/docs/en/readme.md:block 71 (header)
 msgid "The object map"
 msgstr "Mapa objekata"
 
-#: BallBouncer/docs/en/readme.md:block 70 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 72 (paragraph)
 msgid ""
 "The object map works in any mode. You can open it by pressing the M key."
 msgstr "Mapa objekata radi u bilo kom režimu. Možete je otvoriti tasterom M."
 
-#: BallBouncer/docs/en/readme.md:block 71 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 73 (paragraph)
 msgid ""
 "The map displays all the objects that were on the field when it was opened."
 msgstr "Mapa prikazuje sve objekte koji su bili na terenu kada je otvorena."
 
-#: BallBouncer/docs/en/readme.md:block 72 (paragraph)
-#| msgid ""
-#| "The object map works in any mode. You can open it with the m key. The map "
-#| "displays all objects that were on the field when it was opened. Using the "
-#| "arrow keys, you can move the cursor around the map, which will play a "
-#| "short sound of the object in the place where this object is located, and "
-#| "the type of object will also be announced. You can turn off the "
-#| "pronunciation of the object type using the f1 key. Using the f2 key you "
-#| "can switch between movement modes."
+#: BallBouncer/docs/en/readme.md:block 74 (paragraph)
 msgid ""
 "Using the arrow keys, you can move the cursor around the map, which will "
 "play a short sound of the object in the place where this object is located, "
@@ -698,11 +681,11 @@ msgstr ""
 "će takođe biti izgovorena. Možete isključiti izgovor vrste objekta tasterom "
 "F1. Tasterom F2 možete se prebacivati između režima kretanja."
 
-#: BallBouncer/docs/en/readme.md:block 73 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 75 (paragraph)
 msgid "There are two cursor movement modes:"
 msgstr "Postoje dva režima pomeranja kursora:"
 
-#: BallBouncer/docs/en/readme.md:block 74 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 76 (unordered list)
 msgid ""
 "Free movement. The cursor can be moved on the map in any direction by one "
 "cell. When moving in free mode, empty cells will also be visible under the "
@@ -712,7 +695,7 @@ msgstr ""
 "korak. Kada se krećete u slobodnom režimu, prazna polja će takođe biti "
 "vidljiva kursorom, za koja postoji poseban zvuk."
 
-#: BallBouncer/docs/en/readme.md:block 74 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 76 (unordered list)
 msgid ""
 "Moving through objects. The cursor moves only over objects; moving to the "
 "right or left will move through objects in the same row horizontally. Moving "
@@ -724,7 +707,7 @@ msgstr ""
 "će pomerati kursor do najbližeg objekta vertikalno i preskočiće prazne "
 "redove."
 
-#: BallBouncer/docs/en/readme.md:block 75 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 77 (paragraph)
 msgid ""
 "In addition to the cursor, the map features an observation point located at "
 "the center of the horizontal axis, which can move vertically. All object "
@@ -734,7 +717,7 @@ msgstr ""
 "ose, i može se pomerati vertikalno. Svi zvukovi objekata se reprodukuju na "
 "osnovu ove tačke."
 
-#: BallBouncer/docs/en/readme.md:block 76 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 78 (paragraph)
 msgid ""
 "You can move the observation point using the keys w - up, s - down. In this "
 "case, a sound will be played that changes its pitch depending on the "
@@ -745,7 +728,7 @@ msgstr ""
 "slučaju, reprodukovaće se zvuk koji menja visinu u zavisnosti od pozicije, "
 "kako bi vam bilo lakše da razumete gde se tačka nalazi po liniji."
 
-#: BallBouncer/docs/en/readme.md:block 77 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 79 (paragraph)
 msgid ""
 "You can also find out how many objects are on the field at the moment. To do "
 "this, press the o key."
@@ -753,15 +736,15 @@ msgstr ""
 "Možete takođe saznati koliko je objekata trenutno na terenu. Da biste ovo "
 "uradili, pritisnite taster O."
 
-#: BallBouncer/docs/en/readme.md:block 78 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 80 (paragraph)
 msgid "All of the listed keys can be changed using the controls configurator."
 msgstr "Sve opisane prečice se mogu promeniti u podešavanjima kontrola."
 
-#: BallBouncer/docs/en/readme.md:block 79 (header)
+#: BallBouncer/docs/en/readme.md:block 81 (header)
 msgid "Gameplay recording"
 msgstr "Snimanje igre"
 
-#: BallBouncer/docs/en/readme.md:block 80 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 82 (paragraph)
 msgid ""
 "You can record your gameplay and then play the resulting recordings in any "
 "media player."
@@ -769,11 +752,11 @@ msgstr ""
 "Možete snimiti vašu igru a nakon toga reprodukovati snimak u bilo kom "
 "reproduktoru medija."
 
-#: BallBouncer/docs/en/readme.md:block 81 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 83 (paragraph)
 msgid "Important: recordings are not made during training mode."
 msgstr "Važno: Snimci se ne čuvaju tokom režima vežbanja."
 
-#: BallBouncer/docs/en/readme.md:block 82 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 84 (paragraph)
 msgid ""
 "To start recording, make sure the \"Record game\" checkbox on the game mode "
 "selection screen is checked. Recording begins after the game start countdown."
@@ -782,7 +765,7 @@ msgstr ""
 "ekranu izbora režima igre označeno. Snimak počinje nakon odbrojavanja pre "
 "početka igre."
 
-#: BallBouncer/docs/en/readme.md:block 83 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 85 (paragraph)
 msgid ""
 "In the settings, on the \"Recording\" tab, you can determine whether to "
 "cancel or save the recording when aborting the game from the pause menu."
@@ -790,7 +773,7 @@ msgstr ""
 "U podešavanjima, na kartici \"snimanje\", možete odrediti da li će se snimak "
 "poništiti ili sačuvati kada prekinete igru iz menija pauze."
 
-#: BallBouncer/docs/en/readme.md:block 84 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 86 (paragraph)
 msgid ""
 "Your recordings are located in the mp3recordings folder, which is inside the "
 "userData folder, and have the .mp3 extension."
@@ -798,12 +781,11 @@ msgstr ""
 "Vaši snimci se nalaze u mp3recordings folderu, koji je u userData folderu, i "
 "imaju .mp3 ekstenziju."
 
-#: BallBouncer/docs/en/readme.md:block 85 (header)
-#| msgid "Gameplay recording"
+#: BallBouncer/docs/en/readme.md:block 87 (header)
 msgid "Old format recordings"
 msgstr "Snimci starog formata"
 
-#: BallBouncer/docs/en/readme.md:block 86 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 88 (paragraph)
 msgid ""
 "Before version 1.3.0, the game used an internal recording format, with files "
 "in this format having the extension .sgr, and they could only be played in "
@@ -813,7 +795,7 @@ msgstr ""
 "ovog formata su imale ekstenziju .sgr, mogle su da se reprodukuju samo u "
 "ugrađenom reproduktoru."
 
-#: BallBouncer/docs/en/readme.md:block 87 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 89 (paragraph)
 msgid ""
 "To listen to recordings of the old format, select the corresponding item in "
 "the main menu of the game. Then, in the recordings menu, select the one you "
@@ -823,19 +805,19 @@ msgstr ""
 "glavnog menija igre. Zatim, u meniju sa snimcima, izaberite željeni snimak i "
 "pritisnite Enter."
 
-#: BallBouncer/docs/en/readme.md:block 88 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 90 (paragraph)
 msgid "After loading the recording, you will enter the player."
 msgstr "Nakon što učitate snimak, ućićete u reproduktor."
 
-#: BallBouncer/docs/en/readme.md:block 89 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 91 (paragraph)
 msgid "Player control keys:"
 msgstr "Prečice reproduktora:"
 
-#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 92 (unordered list)
 msgid "To start, pause and unpause playback, press spacebar."
 msgstr "Da započnete, pauzirate i nastavite reprodukciju, pritisnite razmak."
 
-#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 92 (unordered list)
 msgid ""
 "To adjust the volume, use the up arrow keys to make it louder, down arrow "
 "keys to make it quieter. The recording volume can be increased to a maximum "
@@ -844,7 +826,7 @@ msgstr ""
 "Da menjate jačinu, koristite strelicu gore da pojačate, ili strelicu dole da "
 "smanjite. Jačina snimka se može povećati najviše do 200 posto."
 
-#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 92 (unordered list)
 msgid ""
 "to rewind the recording by 5 seconds, use the arrow keys right - forward, "
 "left - backward. Rewinding by 30 seconds is done with the ctrl key held down."
@@ -853,25 +835,25 @@ msgstr ""
 "premotavanje napred, levo - premotavanje nazad. Premotavanje za 30 sekundi "
 "se vrši uz držanje tastera Kontrol."
 
-#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 92 (unordered list)
 msgid ""
 "You can find out how much you listened to, as well as the duration of the "
 "recording, by pressing the t key."
 msgstr ""
 "Možete saznati koliko ste čuli, kao i trajanje snimka pritiskanjem tastera T."
 
-#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 92 (unordered list)
 msgid ""
 "You can stop playback and return to the recording menu using the escape key."
 msgstr ""
 "Možete zaustaviti reprodukciju i vratiti se na meni sa snimcima tasterom "
 "Escape."
 
-#: BallBouncer/docs/en/readme.md:block 91 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 93 (paragraph)
 msgid "The old format recordings are located at the path userData/recordings."
 msgstr "Snimci starog formata se nalaze na putanji userData/recordings."
 
-#: BallBouncer/docs/en/readme.md:block 92 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 94 (paragraph)
 msgid ""
 "If you want to play a recording in the old format, place it in the "
 "\"recordings\" folder. It will then appear in the recordings menu."
@@ -879,7 +861,7 @@ msgstr ""
 "Ako želite da reprodukujete snimag starog formata, prebacite ga u "
 "\"recordings\" folder. Snimak će se zatim pojaviti u meniju snimaka."
 
-#: BallBouncer/docs/en/readme.md:block 93 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 95 (paragraph)
 msgid ""
 "Attention! The ability to play recordings in the old format will be removed "
 "in version 1.5.0!"
@@ -887,38 +869,38 @@ msgstr ""
 "Pažnja! Mogućnost reprodukovanja snimaka starog formata će biti uklonjena u "
 "verziji 1.5.0!"
 
-#: BallBouncer/docs/en/readme.md:block 94 (header)
+#: BallBouncer/docs/en/readme.md:block 96 (header)
 msgid "controls"
 msgstr "kontrole"
 
-#: BallBouncer/docs/en/readme.md:block 95 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 97 (paragraph)
 msgid ""
 "All keys in this section can be redefined by customizing the controls "
 "configuration."
 msgstr ""
 "Sve prečice u ovoj sekciji se mogu promeniti menjanjem podešavanja kontrola."
 
-#: BallBouncer/docs/en/readme.md:block 96 (header)
+#: BallBouncer/docs/en/readme.md:block 98 (header)
 msgid "Basic"
 msgstr "Osnovne"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Action"
 msgstr "Radnja"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Key/keys"
 msgstr "Taster/tasteri"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Move the character right/left"
 msgstr "Pomeranje karaktera levo ili desno"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Right/Left arrows or d/a keys"
 msgstr "Strelice desno i levo ili tasteri d/a"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid ""
 "Play the sound at the character's position or at the center of the field "
 "(depending on the view)."
@@ -926,108 +908,132 @@ msgstr ""
 "Reprodukuje zvuk na poziciji karaktera ili na centru terena (u zavisnosti od "
 "prikaza)."
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "c"
 msgstr "c"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Set character facing right/left"
 msgstr "Podesi pravac karaktera desno ili levo"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "right/left shift"
 msgstr "desni/levi Šift"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Swing the bat (hit the ball with a strong horizontal impulse)"
 msgstr "Zamahni palicom (udari lopticu dajući joj jak horizontalni impuls)"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Spacebar, s or e key"
 msgstr "Razmak, tasteri s ili e"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Swing the bat (hit the ball with strong vertical impulse)"
 msgstr "Zamahni palicom (udari lopticu dajući joj jak vertikalni impuls)"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "alt+space, alt+s or r"
 msgstr "alt+razmak, alt+s ili r"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Throw the ball in an arc"
 msgstr "Baci lopticu u luku"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "f"
 msgstr "f"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Throw the ball vertically"
 msgstr "Baci lopticu vertikalno"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "alt+f"
 msgstr "alt+f"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Switch ball sound"
+msgstr "Promeni zvuk loptice"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "l (only when Ball watch mode is active)"
+msgstr "l (samo kada je režim gledanja loptice aktivan)"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Switch the camera to ball watch mode"
 msgstr "Prebaci kameru u režim gledanja loptice"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Hold down the g key"
 msgstr "Držite taster G"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Switch the camera to normal mode"
 msgstr "Prebaci kameru u standardni režim"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Release the g key"
 msgstr "Otpustite taster G"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid ""
 "Switch camera mode between first person mode and field-centered view mode"
 msgstr "Prebaci kameru između gledanja terena i karaktera"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "v"
 msgstr "v"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Jump (if the ability is unlocked)"
 msgstr "Skoči (ako je sposobnost otključana)"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Up arrow or w key"
 msgstr "Strelica gore ili taster w"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Catch the ball (if the ability is unlocked)"
 msgstr "Uhvati lopticu (ako je sposobnost otključana)"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "left or right control"
 msgstr "levi ili desni Kontrol"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Select a skill slot from 1 to 10 (if the skill is set)"
 msgstr "Izaberi mesto veštine od 1 do 10 (ako je veština podešena)"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "keys 1 to 0/numpad1 to numpad0"
 msgstr "tasteri 1 do 0/numeričko1 do numeričko0"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Cancel skill slot selection"
 msgstr "Otkaži izbor mesta veštine"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Grave / numpad enter"
 msgstr "Akcenat/ numerički Enter"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Switch to the previous ready to use skill"
+msgstr "Prebaci se na prethodnu veštinu koja je spremna za korišćenje"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Minus (-) / Numpad Minus (-)"
+msgstr "Minus (-) / numerički Minus (-)"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Switch to the next ready to use skill"
+msgstr "Prebaci se na sledeću veštinu koja je spremna za korišćenje"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Equals (=) / Numpad Multiply (*)"
+msgstr "Jednako (=) / numeričko puta (*)"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid ""
 "Activate/deactivate the star module set in slot 1 to 4 (if the module is "
 "set)."
@@ -1035,20 +1041,19 @@ msgstr ""
 "Aktivira ili deaktivira zvezdani modul podešen na mesta od 1 do 4 (ako je "
 "neki modul podešen)."
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
-#| msgid "keys 1 to 0/numpad1 to numpad0"
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "alt + keys 1 to 4/numpad1 to numpad4"
 msgstr "alt + tasteri 1 do 4/numeričko 1 do numeričko 4"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Activate the item (if allowed in the current game mode)."
 msgstr "Aktivira predmet (ako je ovo dozvoljeno u trenutnom režimu igre)."
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "x"
 msgstr "x"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid ""
 "Check the amount of available star energy (if you have at least one star "
 "module and module usage is allowed in the current game mode)"
@@ -1056,103 +1061,111 @@ msgstr ""
 "Proveri količinu dostupne zvezdane energije (ako imate bar jedan zvezdani "
 "modul i ako je korišćenje modula dozvoljeno u trenutnom režimu igre)"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "y"
 msgstr "y"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Open the object map"
 msgstr "Otvori mapu objekata"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "m"
 msgstr "m"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Find out the time until the end of the gaming session"
 msgstr "Saznaj vreme do kraja igre"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "t"
 msgstr "t"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Find out the current number of points scored"
 msgstr "Saznaj broj osvojenih poena"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "p"
 msgstr "p"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Find out how high the ball is"
+msgstr "Saznaj koliko visoko se loptica nalazi"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "b"
+msgstr "b"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Pause the game"
 msgstr "Pauziraj igru"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "escape"
 msgstr "escape"
 
-#: BallBouncer/docs/en/readme.md:block 99 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "Instantly recharge all skills"
 msgstr "Odmah oporavlja sve veštine"
 
-#: BallBouncer/docs/en/readme.md:block 99 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "f1"
 msgstr "f1"
 
-#: BallBouncer/docs/en/readme.md:block 99 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "Set skill levels"
 msgstr "Podesi nivoe veština"
 
-#: BallBouncer/docs/en/readme.md:block 99 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "f2"
 msgstr "f2"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Move cursor"
 msgstr "Pomeri kursor"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Arrow keys"
 msgstr "Strelice"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Move observation point lower"
 msgstr "Pomeri tačku gledišta dole"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "s"
 msgstr "s"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Move observation point higher"
 msgstr "Pomeri tačku gledišta gore"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "w"
 msgstr "w"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Toggle object type announcement status"
 msgstr "Promeni status izgovora imena objekta"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Toggle cursor movement mode"
 msgstr "Promeni režim pomeranja kursora"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Find out the number of objects on the map"
 msgstr "Saznaj broj objekata na mapi"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "o"
 msgstr "o"
 
-#: BallBouncer/docs/en/readme.md:block 102 (header)
+#: BallBouncer/docs/en/readme.md:block 104 (header)
 msgid "Configuring controls"
 msgstr "Podešavanje kontrola"
 
-#: BallBouncer/docs/en/readme.md:block 103 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 105 (paragraph)
 msgid ""
 "In the settings, on the \"controls\" tab, you can customize the control keys "
 "to your personal preference by pressing the corresponding button."
@@ -1160,7 +1173,7 @@ msgstr ""
 "U podešavanjima, na kartici \"kontrole\", možete prilagoditi kontrole prema "
 "vašim potrebama aktiviranjem odgovarajućeg dugmeta."
 
-#: BallBouncer/docs/en/readme.md:block 104 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 106 (paragraph)
 msgid ""
 "On the configuration screen, there is a tree where the first level displays "
 "individual blocks, which, in turn, contain actions."
@@ -1168,7 +1181,7 @@ msgstr ""
 "Na ekranu podešavanja, nalazi se stablo u kom prvi nivo prikazuje "
 "individualne kategorije, koje sadrže radnje."
 
-#: BallBouncer/docs/en/readme.md:block 105 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 107 (paragraph)
 msgid ""
 "Each action has a list of assigned key combinations. You can add or remove "
 "combinations from this list using the corresponding buttons."
@@ -1176,7 +1189,7 @@ msgstr ""
 "Svaka radnja ima listu dodeljenih tasterskih prečica. Možete dodati ili "
 "ukloniti prečice iz ove liste korišćenjem odgovarajućih dugmića."
 
-#: BallBouncer/docs/en/readme.md:block 106 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 108 (paragraph)
 msgid ""
 "After pressing the add combination button, a new screen will open, "
 "containing four lists, a field to assign the main key, and the \"Add\" and "
@@ -1186,7 +1199,7 @@ msgstr ""
 "koji sadrži četiri liste, polje za dodeljivanje glavnog tastera, kao i "
 "dugmiće \"dodaj\" i \"otkaži\"."
 
-#: BallBouncer/docs/en/readme.md:block 107 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 109 (paragraph)
 msgid ""
 "Each list corresponds to its modifier key (alt, windows, control, shift) and "
 "contains 4 options for using the modifier key (none, left, right, any)."
@@ -1195,7 +1208,7 @@ msgstr ""
 "šift) i sadrži četiri opcije za korišćenje tog modifikatorskog tastera "
 "(Nijedan, Levi, Desni, Bilo koji)."
 
-#: BallBouncer/docs/en/readme.md:block 108 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 110 (paragraph)
 msgid ""
 "To set the primary key, follow the instructions in the key-assignment field, "
 "which comes immediately after the list for the shift modifier key. If you "
@@ -1206,7 +1219,7 @@ msgstr ""
 "koje dolazi odmah nakon liste za taster Šift. Ako želite da koristite samo "
 "modifikatorske tastere u vašoj kombinaciji, ostavite ovo polje prazno."
 
-#: BallBouncer/docs/en/readme.md:block 109 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 111 (paragraph)
 msgid ""
 "After you have set all the necessary parameters, click the \"Add\" button. "
 "However, keep in mind that duplicates within a single action block are not "
@@ -1215,7 +1228,7 @@ msgstr ""
 "Nakon što podesite sve neophodne parametre, aktivirajte dugme \"dodaj\". "
 "Ali, imajte na umu da duplikati u jednoj kategoriji nisu dozvoljeni."
 
-#: BallBouncer/docs/en/readme.md:block 110 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 112 (paragraph)
 msgid ""
 "If required, you can share your controls configuration with other people. "
 "The configuration is located in the user data folder (userData) and is named "
@@ -1230,11 +1243,11 @@ msgstr ""
 "podešavanja, koja su na istoj lokaciji sa onima koja ste vi prosledili. Iako "
 "je datoteka sa podešavanjima u otvorenoj formi, ne treba je ručno uređivati."
 
-#: BallBouncer/docs/en/readme.md:block 111 (header)
+#: BallBouncer/docs/en/readme.md:block 113 (header)
 msgid "Translation of the game into other languages"
 msgstr "Prevod igre na druge jezike"
 
-#: BallBouncer/docs/en/readme.md:block 112 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 114 (paragraph)
 msgid ""
 "If you would like to translate ball bouncer into your native language, "
 "please visit [sooslandia-games translation repository on github](https://"
@@ -1244,7 +1257,7 @@ msgstr ""
 "[sooslandia-games repozitorijum prevoda na githubu](https://github.com/"
 "sooslandia/translations)"
 
-#: BallBouncer/docs/en/readme.md:block 113 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 115 (paragraph)
 msgid ""
 "Github was chosen because it allows us to centralize all translations in one "
 "place, automatically confirm that the game with a new translation will "
@@ -1256,7 +1269,7 @@ msgstr ""
 "bez grešaka, pretvorimo različite formate prevoda korišćenjem skripti, i "
 "održavamo strukturu sačuvanih podataka urednom."
 
-#: BallBouncer/docs/en/readme.md:block 114 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 116 (paragraph)
 msgid ""
 "If you have any difficulties, contact us for help in the telegram group, "
 "discord or email. Look for links to the above in the “Conclusion” section."
@@ -1265,11 +1278,11 @@ msgstr ""
 "grupi, na diskordu ili putem elektronske pošte. Pogledajte linkove za "
 "opisane načine u sekciji “zaključak”."
 
-#: BallBouncer/docs/en/readme.md:block 115 (header)
+#: BallBouncer/docs/en/readme.md:block 117 (header)
 msgid "Conclusion"
 msgstr "Zaključak"
 
-#: BallBouncer/docs/en/readme.md:block 116 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 118 (paragraph)
 msgid ""
 "We are glad that you got interested in this project and we hope that you "
 "will like it. Destroy and have fun!"
@@ -1277,7 +1290,7 @@ msgstr ""
 "Drago nam je da vas je zainteresovao ovaj projekat i nadamo se da će vam se "
 "svideti. Uništite i zabavite se!"
 
-#: BallBouncer/docs/en/readme.md:block 117 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 119 (paragraph)
 msgid ""
 "Subscribe to our [channel](https://t.me/sooslandia) on telegram, or join our "
 "[discord server](https://discord.gg/8xcKB7dsDR), to receive the latest news "
@@ -1288,7 +1301,7 @@ msgstr ""
 "dobili novosti o ažuriranjima ove igre, kao i o drugim interesantnim "
 "projektima."
 
-#: BallBouncer/docs/en/readme.md:block 118 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 120 (paragraph)
 msgid ""
 "Join the [channel chat](https://t.me/sooslandiadiscussion), where you can "
 "share your opinion about the game, report any bugs, or suggest your idea, "
@@ -1298,7 +1311,7 @@ msgstr ""
 "možete da podelite vaše mišljenje o igri, prijavite bilo koje greške, ili "
 "predložite vašu ideju, kao i na Diskordu."
 
-#: BallBouncer/docs/en/readme.md:block 119 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 121 (paragraph)
 msgid ""
 "If you don't use telegram and discord, you can write to [our email](mailto://"
 "contact@sooslandia.ru), but a quick response is not guaranteed."
@@ -1306,7 +1319,7 @@ msgstr ""
 "Ako ne koristite Telegram i Diskord, možete nam pisati putem [elektronske "
 "pošte](mailto://contact@sooslandia.ru), ali brz odgovor nije zagarantovan."
 
-#: BallBouncer/docs/en/readme.md:block 120 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 122 (paragraph)
 msgid "All the best, Sooslandia-games."
 msgstr "Sve najbolje, Sooslandia-games."
 
