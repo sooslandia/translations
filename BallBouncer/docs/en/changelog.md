@@ -1,5 +1,9 @@
 % changelog
 
+## 1.4.1
+
+Fixed a critical error when opening profile.
+
 ## 1.4.0
 
 This release addresses numerous existing issues, such as the overly complex trial of mastery mode, difficulties in identifying and activating items, the lack of stat tracking for completed quests and opened chests, the inability to determine when the "Furious leap" skill can be activated, and more.
