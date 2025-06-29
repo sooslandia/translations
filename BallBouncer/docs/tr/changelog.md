@@ -1,5 +1,9 @@
 % değişiklik günlüğü
 
+## 1.4.1
+
+Fixed a critical error when opening profile.
+
 ## 1.4.0
 
 This release addresses numerous existing issues, such as the overly complex trial

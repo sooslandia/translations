@@ -1,5 +1,9 @@
 % Lista promena
 
+## 1.4.1
+
+Fixed a critical error when opening profile.
+
 ## 1.4.0
 
 Ova verzija ispravlja brojne postojeće probleme, kao što su izuzetna kompleksnost
