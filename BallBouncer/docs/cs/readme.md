@@ -2,7 +2,7 @@
 
 V této nápovědě se dozvíš, jak se ovládají všechna menu a obrazovky hry, a také
 do detailu, jak se Ball Bouncer hraje. Pokud na to chceš přijít bez pomoci,
-doporučujeme rovnou se podívat do tabulky klávesových zkratek.
+doporučujeme rovnou se podívat do tabulek klávesových zkratek.
 
 ## O hře
 
@@ -16,7 +16,7 @@ odpalovat míč a udělat tak z jeho bláznivého poletování promyšlenou takt
 ničení předmětů.
 
 Dokážeš ale opravdu uvažovat dopředu, když se všude kolem tebe rozbíjejí hrnky,
-misky, skříně a televize?
+misky, skříňky a televize?
 
 Nepředvídatelné odrazy míče dokážou vyvolávat vzrušující řetězové reakce, takže
 před sebou budeš mít stále nějakou výzvu a tvůj styl hraní se bude neustále
@@ -39,11 +39,11 @@ Pusť se do toho!
 
 ### První kroky
 
-Při prvním spuštění hry si musíš vybrat jazyk. Poté se zobrazí uvítací obrazovka.
+Při prvním spuštění hry si musíš vybrat jazyk. Pak se zobrazí uvítací obrazovka.
 Až ji potvrdíš, začne hrát naše logo. To můžeš přeskočit klávesou enter. Až ho
 přeskočíš nebo až dozní, dostaneš se do hlavního menu hry. Doporučujeme dobře se
 s ním obeznámit. Pokud se chceš seznámit s jednotlivými zvuky hry a zjistit, co
-znamenají, musíš v hlavním menu vybrat položku "Nastavení" a poté na kartě
+znamenají, musíš v hlavním menu vybrat položku "Nastavení" a potom na kartě
 "Obecné" kliknout na příslušné tlačítko. Na kartě "Zvuk" si můžeš upravit
 hlasitost hudby a zvuků nebo změnit režim přehrávání zvuků ve stereu. Na kartě
 "Chování" můžeš mimo jiné vypnout některá zvuková upozornění. Příslušnými
@@ -309,7 +309,7 @@ měly příponu ".sgr" a daly se přehrávat pouze ve vestavěném přehrávači
 hře.
 
 Nahrávky ve starém formátu si můžeš pouštět příslušnou položkou z hlavního menu
-hry. Poté si v menu Nahrávky vyber požadovanou nahrávku a stiskni enter.
+hry. Potom si v menu Nahrávky vyber požadovanou nahrávku a stiskni enter.
 
 Po načtení nahrávky se zobrazí přehrávač.
 

@@ -155,27 +155,28 @@ Enter key on the numpad.
 
 ### Změny
 
-- Updated translations.
-   - Srbština. Překladatel [nidza07](https://github.com/nidza07).
-   - Turečtina. Překladatel [fatihyuksek](https://github.com/fatihyuksek1).
-- Changed the completion criteria for some quests.
-- Now, if the ball watch mode is enabled, the penalty for the character staying
-in one place is not applied.
+- Aktualizované překlady.
+   - Srbský. Překladatel [nidza07](https://github.com/nidza07).
+   - Turecký. Překladatel [fatihyuksek](https://github.com/fatihyuksek1).
+- Upravena kritéria pro splnění některých výzev.
+- Pokud je aktivní režim sledování míče, nezískáš nyní postih za příliš dlouhé
+stání na místě.
 
 ### Opravy
 
-- Fixed the ability to use certain auras if they are not active.
-- Otherworldly aura has been changed in such a way as to make it easier to hit
-the ball with the bat.
-- Fixed the behavior of the electric charge in trial of speed mode, where it
-could hit the character and be counted as hitting the ground at the same time.
-- Fixed a critical error when using the "Magnetism" and "Rocket Salvo" skills
-simultaneously.
-- Fixed a critical error when using the "Catcher's Soul" and "Furious Leap"
-skills simultaneously.
-- Likely fixed a critical error occurring when restarting the game after an
-update.
-- Fixed the sound playback for the object collision streak notification.
+- Opravena chyba, kdy bylo možné používat některé aury, když byly zrovna
+neaktivní.
+- Aura onoho světa byla upravena tak, aby se při jejím použití snadněji
+strefovalo do míče.
+- Opraveno chování elektrického výboje v režimu Zkouška rychlosti, kdy mohl
+zasáhnout postavu a zároveň být započítán tak, že se mu hráč vyhnul.
+- Opravena kritická chyba při současném použití schopností "magnetismus" a
+"raketový útok".
+- Opravena kritická chyba při současném použití schopností "duch chytače" a
+"titánský skok".
+- Pravděpodobně opravena kritická chyba, ke které docházelo během restartování
+hry po aktualizaci.
+- Opraveno přehrávání zvukových upozornění pro nárazů míče do předmětů v řadě.
 
 ## 1.3.4
 
@@ -360,7 +361,7 @@ pokusu o jejich použití.
 ### Nové funkce
 
 - Přidány nové překlady.
-   - Srbština. Překladatel [nidza07](https://github.com/nidza07).
+   - Srbský. Překladatel [nidza07](https://github.com/nidza07).
    - Čeština. Překladatel [4sensegaming](https://github.com/4sensegaming).
 
 ### Opravy
@@ -392,7 +393,7 @@ máš na to schopnosti, rádi tvoji pomoc přijmeme.
 ### Nové funkce
 
 - Přidány nové překlady.
-   - Turečtina. Překladatel [fatihyuksek](https://github.com/fatihyuksek1).
+   - Turecký. Překladatel [fatihyuksek](https://github.com/fatihyuksek1).
    - Indonéština. Překladatel [MuhammadGagah](https://github.com/MuhammadGagah).
 - Nyní můžeš měnit výchozí klávesové zkratky.
    - To provedeš kliknutím na tlačítko "Nastavit klávesové zkratky", které najdeš na
@@ -510,7 +511,7 @@ předmětů.
 ### Opravy
 
 - Zvýšena hlasitost zvuku při dopadu po výskoku.
-- Aura vítěze nyní nezvyšuje počet bodů, o které přicházíš kvůli penalizacím.
+- Aura vítěze nyní nezvyšuje počet bodů, o které přicházíš kvůli postihům.
 
 ## 1.0.0
 
