@@ -1,30 +1,185 @@
 % Lista promena
 
+## 1.4.1
+
+Fixed a critical error when opening profile.
+
+## 1.4.0
+
+Ova verzija ispravlja brojne postojeće probleme, kao što su izuzetna kompleksnost
+režima probe majstora, težina pri pronalasku i aktiviranju predmeta, nedostatak
+praćenja statistika završenih misija i otvorenih kovčega, nemogućnost
+prepoznavanja kada veština "besni skok" može da se aktivira, i još toga.
+
+Takođe su dodata nova pojačanja, i izvršena poboljšanja balansa statistika
+jubileja.
+
+Rešen je problem opterećenja zvučnog sistema, što je dovelo do povećanja broja
+osvojenih poena.
+
+### Nove funkcije
+
+- Nagrada za završene misije se sada može povećati.
+   - Da pristupite novom ekranu, aktivirajte dugme "Povećanje nagrade za završene
+misije" koje se nalazi na kartici table misija na vašem profilu.
+   - Povećanje se vrši novčićima, zelenim, plavim i crvenim kuglicama.
+   - Svaka valuta ima svoje odvojeno poboljšanje, ali sve one zajedno utiču na jedan
+parametar: šansu da dobijete dodatnu zvezdu.
+   - Ako šansa da dobijede dodatnu zvezdu dostigne 100%, garantovano je da ćete
+dobiti jednu dodatnu zvezdu i nagradu, i brojač šanse će se resetovati.
+- Režim probe majstora je dobio sitne promene.
+   - Loptice više ne mogu da se sudare jedna sa drugom.
+   - Minimalan broj objekata na terenu je povećan.
+   - Odskakanje loptica sa platfona sada započinje niz koji vam donosi određeni broj
+poena.
+   - Dodati su savršeni udarci.
+      - Da izvršite savršen udarac u režimu probe majstora, udarite lopticu palicom
+kada je snaga vašeg udarca u potpunosti oporavljena.
+      - Ako promašite ili ne udarite lopticu punom snagom, niiz će se resetovati.
+      - Nizovi i savršeni udarci se beleže u statistikama.
+   - Bonus smanjenja kazne za odskakanje loptice je promenjen sa 2% na 5% po nivou.
+   - Opis režima je ažuriran kako bi ste se upoznali sa izvršenim promenama.
+- Muzika glavnog menija je ažurirana.
+   - Sada možete bezbedno da podelite video ili audio snimke igre bez isključivanja
+muzike.
+   - Ogromna zahvalnost korisniku [Nikita K](https://t.me/NikitaKOfficial) za njegov
+naporan rad!
+- Dodat je zvuk koji vas obaveštava kada je misija završena.
+- Dodato je novo pojačanje koje povećava bonus za izbegavanje električnih
+pražnjenja u režimu probe brzine.
+- Dodata su nova zvezdana pojačanja.
+   - Povećano trajanje nizova uništenja, sudara i odskakanja od plafona.
+   - Podrška mirnoće.
+- Sada možete da saznate koliko visoko je loptica.
+   - Podrazumevani taster ove funkcije je B.
+   - Kada se iskoristi, čućete informaciju koliko visoko se loptica nalazi, kao i
+poseban zvuk koji se reprodukuje na trenutnoj visini loptice.
+   - U režimu probe majstora, pozicija svih loptica na terenu će biti izgovorena po
+redu, a zvuk će se reprodukovati na visini najniže loptice.
+- Dodate su nove stavke statistika.
+   - Ukupan broj otvorenih kovčega.
+   - Ukupan broj završenih misija.
+- Dodato je prilagođavanje balansa zvuka.
+   - Da pristupite ovom ekranu, pritisnite odgovarajuće dugme na ekranu podešavanja,
+na kartici "Zvuk".
+   - Kako biste dobili pomoć za ovu funkciju, pritisnite dugme "pomoć" na ekranu
+podešavanja balansa zvuka.
+- Sada možete da onemogućite pravljenje mina, kauča i kutija za alat na terenu.
+   - Dodata je lista izbornih polja na ekranu izbora režima, koja vam dozvoljava da
+uključite ili isključite pravljenje određenih objekata.
+   - Lista će biti skrivena ako je kursor izbora režima podešen na bilo koji drugi
+režim osim standardnog i vežbanja.
+- Dodata je funkcija koja vam dozvoljava da se prebacite između veština koje su
+spremne za korišćenje.
+   - Prebaci se na sledeću veštinu koja je spremna za korišćenje: taster jednako (=)
+ili numerički minus (-).
+   - Prebaci se na sledeću veštinu koja je spremna za korišćenje: taster crtica (-)
+ili numerički taster puta (*).
+   - Tasteri se primenjuju sa podrazumevanim podešavanjima kontrolama.
+- Dodato je novo podešavanje koje vam dozvoljava da onemogućite odbrojavanje pre
+početka igre.
+- Dodata je funkcija koja vam dozvoljava da brzo promenite zvuk loptice.
+   - Da promenite zvuk, uđite u režim gledanja loptice tokom igre, a zatim
+pritisnite taster L da kružite između zvukova.
+   - U režimu probe majstora, ova funkcija radi na sličan način. Koristite taster J
+da izaberete lopticu čiji zvuk želite da promenite, a zatim pritisnite taster
+L.
+   - Pritiskanjem tastera F1 tokom igre režima probe majstora, otvorićete ekran
+prilagođavanja zvuka loptice, gde možete da promenite zvukove u mirnom
+okruženju.
+      - Ekran sadrži četiri elementa: tri liste, svaka odgovara određenoj loptici, i
+dugme za zatvaranje ekrana.
+      - Da čujete zvuk loptice, pritisnite Enter ili Razmak na bilo kom zvuku u listi.
+      - Možete prekinuti reprodukciju zvuka navigacijom po listi ili ekranu.
+   - Izabrani zvukovi se čuvaju između igara.
+- Dodato je podešavanje koje vam dozvoljava da normalizujete visinu svih zvukova
+loptica na približno isti nivo.
+   - Kada puštate zvukove na ekranu menjanja zvuka loptice, reprodukuju se na istoj
+visini. Ali, tokom igre, zvukovi osim prvog se ne podudaraju u potpunosti po
+visini.
+   - Bez obzira na ovo, funkcija može biti korisna za one koji koriste zvukove
+loptice osim prvog i imaju problema da razlikuju zvukove u bučnim okruženjima,
+budući da povećanje visine takođe povećava zvučnost.
+- Dodato je novo podešavanje koje vam dozvoljava da se prebacite u režim gledanja
+loptice pritiskanjem jednog tastera umesto da držite taster.
+- Meni pauze sada uključuje opciju gledanja veštine koje su podešene na mesta
+(meni "aktivne veštine").
+
+### Promene
+
+- Sada, u režimima probe volje i majstora, ako ste blizu predmeta i možete da ga
+aktivirate, visina zvuka predmeta će biti blago povišena.
+- Kazna za odskakanje loptice od poda je promenjena.
+   - ako loptica odskoči od poda 40 puta zaredom, kazna za naredna odskakanja će se
+veoma brzo povećavati.
+   - Ova promena je izazvana novim pojačanjem "podrška mirnoće".
+- Nagrada za otvaranje kovčega sreće je povećana.
+- Izvršene su određene promene u nagradama za dostizanje statističkih jubileja.
+Ako se prepoznaju bilo koji nedostaci kada se igra pokrene, prethodno
+dodeljeni poeni dostignuća će biti resetovani i nagrade će biti ponovo
+izračunate.
+- U režimima probe volje i majstora, ista vrsta predmeta se više ne može pojaviti
+više od dva puta zaredom.
+- U režimu probe brzine, isti efekat se više ne može pojaviti dva puta zaredom.
+- Promene u prodavnici: vremenska aura i aura vođe su prebačene na karticu
+"aure"; "povećanje šanse pojavljivanja posebnih objekata" pojačanje je
+prebačeno na "karticu "objekti".
+- Nagrade za manje rezultate u režimima probe su povećane.
+- Efekat pojačanja koje povećava broj dobijenih crvenih kugli je poboljšan.
+- Računanje nagrade novčića je poboljšano za ukupne rezultate iznad 100 miliona.
+- Ako ste kupili maksimalan broj mesta za misije, dugme za kupovinu će sada biti
+skriveno sa ekrana.
+- Veština "besni skok" je poboljšana. Sada karakter može da se zaleti i kada je
+udaljenost veća.
+- Prikazivanje liste nagrada koja se prikazuje kada se otvori više kovčega sreće
+odjednom je ažurirana.
+
+### Ispravke
+
+- Obrađivanje reprodukcije velikog broja zvukova u isto vreme je poboljšano.
+   - Kao rezultat ove optimizacije, ukupan broj zvukova tokom uništenja objekata je
+smanjen. Ali, zvučno okruženje još uvek može biti preopterećeno.
+   - Možete takođe primetiti da dobijate značajnije više poena tokom igranja
+standardnog režima. Ovo je očekivano i događa se zbog toga što je ogromno
+opterećenje zvučnog sistema —koje je ranije izazivalo usporavanje igre —rešeno.
+- Ispravljeno retko zamrzavanje i rušenje koje se događalo odmah nakon što
+započnete igru kada je snimanje igre omogućeno.
+- Ispravljena greška zbog koje dobijanje bonusa za uništenje lutke ili
+izbegavanje električnog pražnjenja može povećati negativan rezultat.
+- Ispravljeno neispravno ponašanje koje se događalo kada koristite veštinu "besni
+skok".
+- Napredak za misiju "Udarite plafon lopticom dok je efekat nematerijalnosti
+aktivan" se sada takođe računa kada se koristi zvezdani modul "kontroler
+loptice".
+- Poboljšano obrađivanje ažuriranje vremena resetovanja misija i kovčega.
+- Opisi nekih pojačanja u prodavnici su prošireni.
+- Sada možete da preskočite animaciju za dobijanje novčića i drugih valuta
+tasterom Enter na numeričkoj tastaturi.
+
 ## 1.3.5
 
 ### Promene
 
-- Updated translations.
+- Ažurirani prevodi.
    - Srpski. Prevodilac [nidza07](https://github.com/nidza07).
    - Turski. Prevodilac [fatihyuksek](https://github.com/fatihyuksek1).
-- Changed the completion criteria for some quests.
-- Now, if the ball watch mode is enabled, the penalty for the character staying
-in one place is not applied.
+- Izmenjen kriterijum završavanja nekih misija.
+- Sada, ako je režim gledanja loptice omogućen, kazna za stajanje u mestu se ne
+primenjuje.
 
 ### Ispravke
 
-- Fixed the ability to use certain auras if they are not active.
-- Otherworldly aura has been changed in such a way as to make it easier to hit
-the ball with the bat.
-- Fixed the behavior of the electric charge in trial of speed mode, where it
-could hit the character and be counted as hitting the ground at the same time.
-- Fixed a critical error when using the "Magnetism" and "Rocket Salvo" skills
-simultaneously.
-- Fixed a critical error when using the "Catcher's Soul" and "Furious Leap"
-skills simultaneously.
-- Likely fixed a critical error occurring when restarting the game after an
-update.
-- Fixed the sound playback for the object collision streak notification.
+- Ispravljena mogućnost korišćenja određenih aura ako nisu aktivne.
+- Aura s' onog sveta je promenjena tako da je sada lakše udariti lopticu palicom.
+- Ispravljeno ponašanje električnih punjenja u režimu probe brzine, gde su mogla
+da udare karaktera i da se računaju kao da su u isto vreme udarila zemlju.
+- Ispravljena kritična greška kada se koriste veštine "magnetizam" i "raketna
+salva" u isto vreme.
+- Ispravljena kritična greška kada se koriste veštine "hvatalačka duša" i "besni
+skok" u isto vreme.
+- Verovatno ispravljena kritična greška do koje je dolazilo kada se igrica
+restartuje nakon ažuriranja.
+- Ispravljena reprodukcija zvukova za obaveštenje o nizu sudara sa objektima.
 
 ## 1.3.4
 

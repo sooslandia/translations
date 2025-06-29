@@ -32,6 +32,8 @@ You can delete your progress and reset your settings to default by clicking the 
 
 If you don't like the sound of the ball, you can change it in the settings, on the "Sound" tab, choosing from five proposed options. This can be done directly during the game by going to the settings from the pause menu. The ball sound will change as soon as you unpause the game.
 
+You can also change the ball sound during gameplay. To do this, enter Ball watch mode by holding the G key, then press L to change the sound.
+
 ### Navigation
 
 Moving through menus is done by using the up and down arrows. Enter selects an item, while home and end keys do their respective job by setting you on the first or last menu item.
@@ -57,6 +59,8 @@ During training, you can press the F2 key, and a screen will open where you can 
 Also, in the future, when you acquire your first skills, you will be able to set their levels on this screen, if they are set in one of the slots, following the same principle as the hit strength recovery rate upgrade.
 
 When you press the F1 key, your skills set in the slots will be instantly recharged and available for use.
+
+If you press the B key and the ball is on the field, you will hear an audio cue indicating how high the ball is, along with a sound played in the ball’s pitch. This feature works in all modes.
 
 These keys can be changed using the controls Configurator.
 
@@ -208,6 +212,7 @@ All keys in this section can be redefined by customizing the controls configurat
 | Swing the bat (hit the ball with strong vertical impulse) | alt+space, alt+s or r |
 | Throw the ball in an arc | f |
 | Throw the ball vertically | alt+f |
+| Switch ball sound | l (only when Ball watch mode is active) |
 | Switch the camera to ball watch mode | Hold down the g key |
 | Switch the camera to normal mode | Release the g key |
 | Switch camera mode between first person mode and field-centered view mode | v |
@@ -215,12 +220,15 @@ All keys in this section can be redefined by customizing the controls configurat
 | Catch the ball (if the ability is unlocked) | left or right control |
 | Select a skill slot from 1 to 10 (if the skill is set) | keys 1 to 0/numpad1 to numpad0 |
 | Cancel skill slot selection | Grave / numpad enter |
+| Switch to the previous ready to use skill | Minus (-) / Numpad Minus (-) |
+| Switch to the next ready to use skill | Equals (=) / Numpad Multiply (*) |
 | Activate/deactivate the star module set in slot 1 to 4 (if the module is set). | alt + keys 1 to 4/numpad1 to numpad4 |
 | Activate the item (if allowed in the current game mode). | x |
 | Check the amount of available star energy (if you have at least one star module and module usage is allowed in the current game mode) | y |
 | Open the object map | m |
 | Find out the time until the end of the gaming session | t |
 | Find out the current number of points scored | p |
+| Find out how high the ball is | b |
 | Pause the game | escape |
 
 ### Training mode
