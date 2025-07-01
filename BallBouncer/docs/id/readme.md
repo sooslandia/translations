@@ -57,6 +57,9 @@ Jika Anda tidak suka suara bola, Anda bisa mengubahnya di pengaturan, pada tab
 langsung selama permainan dengan membuka pengaturan dari menu jeda. Suara bola
 akan berubah segera setelah Anda melanjutkan permainan.
 
+You can also change the ball sound during gameplay. To do this, enter Ball watch
+mode by holding the G key, then press L to change the sound.
+
 ### Navigasi
 
 Bergerak melalui menu dilakukan dengan menggunakan panah atas dan bawah. Enter
@@ -102,6 +105,10 @@ same principle as the hit strength recovery rate upgrade.
 
 When you press the F1 key, your skills set in the slots will be instantly
 recharged and available for use.
+
+If you press the B key and the ball is on the field, you will hear an audio cue
+indicating how high the ball is, along with a sound played in the ball’s pitch.
+This feature works in all modes.
 
 These keys can be changed using the controls Configurator.
 
@@ -350,6 +357,7 @@ configuration.
 | Mengayunkan pemukul (memukul bola dengan dorongan vertikal yang kuat) | alt+spasi atau r |
 | Lemparkan bola secara melengkung | f |
 | Lemparkan bola secara vertikal | alt+f |
+| Switch ball sound | l (only when Ball watch mode is active) |
 | Alihkan kamera ke mode menonton bola | Tahan tombol g |
 | Alihkan kamera ke mode normal | Lepaskan tombol g |
 | Beralih mode kamera antara mode orang pertama dan mode tampilan terpusat di lapangan | v |
@@ -357,12 +365,15 @@ configuration.
 | Catch the ball (if the ability is unlocked) | kontrol kiri atau kanan |
 | Pilih slot keterampilan dari 1 hingga 10 (jika keterampilan diatur) | tombol 1 hingga 0/numpad1 hingga numpad0 |
 | Batalkan pemilihan slot keterampilan | Grave / numpad enter |
+| Switch to the previous ready to use skill | Minus (-) / Numpad Minus (-) |
+| Switch to the next ready to use skill | Equals (=) / Numpad Multiply (*) |
 | Activate/deactivate the star module set in slot 1 to 4 (if the module is set). | alt + keys 1 to 4/numpad1 to numpad4 |
 | Activate the item (if allowed in the current game mode). | x |
 | Check the amount of available star energy (if you have at least one star module and module usage is allowed in the current game mode) | y |
 | Buka peta objek | m |
 | Cari tahu waktu hingga akhir sesi permainan | t |
 | Cari tahu jumlah poin yang dihasilkan saat ini | p |
+| Find out how high the ball is | b |
 | Jeda permainan | tombol escape |
 
 ### Mode latihan
