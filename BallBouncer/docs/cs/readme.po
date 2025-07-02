@@ -84,7 +84,7 @@ msgid ""
 msgstr ""
 "Ball Bouncer ti dává svobodu najít si vlastní strategii pro dosažení co "
 "nejvyššího skóre s pomocí nejrůznějších schopností, funkcí a vylepšení, "
-"která si můžeš odemknout a potom postupně vylepšovat v obchodě. Dokážeš "
+"která si můžeš odemykat a potom postupně vylepšovat v obchodě. Dokážeš "
 "překonat svoje předchozí skóre? Na konci každé hry se získané body převedou "
 "na mince. Utrácej je s rozvahou!"
 
@@ -193,7 +193,7 @@ msgid ""
 "On the shop screen, pressing Enter on the selected item will open the "
 "reference information, where the item is described in detail."
 msgstr ""
-"Na obrazovce obchodu enterem na vybrané položce otevřeš její podrobný popis."
+"Na obrazovce Obchod enterem na vybrané položce otevřeš její podrobný popis."
 
 #: BallBouncer/docs/en/readme.md:block 22 (paragraph)
 msgid ""
@@ -273,7 +273,7 @@ msgid ""
 "recharged and available for use."
 msgstr ""
 "Když stiskneš F1, všechny schopnosti, které máš uložené ve slotech, se "
-"okamžitě dobijí a budou dostupné k dalšímu použití."
+"okamžitě dobijí a budou připravené k dalšímu použití."
 
 #: BallBouncer/docs/en/readme.md:block 31 (paragraph)
 msgid ""
@@ -281,10 +281,10 @@ msgid ""
 "cue indicating how high the ball is, along with a sound played in the ball’s "
 "pitch. This feature works in all modes."
 msgstr ""
-"Pokud stiskneš klávesu B a míč je zrovna na hrací ploše, přehraje se zvuk "
-"znázorňující, jak vysoko míč právě je, a zároveň se přehraje i zvuk se "
-"stejnou výškou tónu, jakou má samotný zvuk míče. Tuto funkce můžeš používat "
-"ve všech režimech."
+"Pokud stiskneš klávesu B a míč je zrovna na hrací ploše, přečte se slovní "
+"oznámení, jak vysoko míč právě je, a zároveň se přehraje i zvuk se stejnou "
+"výškou, jakou má samotný zvuk míče. Tuto funkci můžeš používat ve všech "
+"režimech."
 
 #: BallBouncer/docs/en/readme.md:block 32 (paragraph)
 msgid "These keys can be changed using the controls Configurator."
@@ -334,7 +334,7 @@ msgid ""
 "direction. When moving, the direction is set automatically."
 msgstr ""
 "Levým nebo pravým shiftem můžeš měnit směr, kterým je postava otočená. Při "
-"pohybu postavy se směr jejího pohledu mění automaticky."
+"pohybu se směr pohledu postavy mění automaticky."
 
 #: BallBouncer/docs/en/readme.md:block 38 (paragraph)
 msgid ""
@@ -375,8 +375,8 @@ msgid ""
 "starts flying along the vertical axis, but also moves slightly along the "
 "horizontal axis in the direction the character is facing."
 msgstr ""
-"Svislý: Provedeš ho podržením klávesy alt a současným stisknutím klávesy F. "
-"Míč začne létat podél svislé osy, ale zároveň se bude mírně pohybovat i "
+"Vertikální: Provedeš ho podržením klávesy alt a současným stisknutím klávesy "
+"F. Míč začne létat podél svislé osy, ale zároveň se bude mírně pohybovat i "
 "podél vodorovné osy ve směru, kterým je postava otočená."
 
 #: BallBouncer/docs/en/readme.md:block 42 (paragraph)
@@ -397,7 +397,7 @@ msgid ""
 "Spacebar key. In this case, the ball will receive a strong horizontal "
 "impulse in the direction the character is facing."
 msgstr ""
-"Samotným mezerníkem: Tímto způsobem zasadíš míči silný vodorovný úder ve "
+"Samotným mezerníkem: Tímto způsobem zasadíš míči silný horizontální úder ve "
 "směru, kterým je otočená postava."
 
 #: BallBouncer/docs/en/readme.md:block 44 (unordered list)
@@ -407,8 +407,8 @@ msgid ""
 "the character's facing."
 msgstr ""
 "Podržením altu a současným stisknutím mezerníku: Tímto způsobem zasadíš míči "
-"silný svislý úder, takže si udrží vodorovný směr letu bez ohledu na to, "
-"kterým směrem je právě otočená postava."
+"silný vertikální úder, takže si udrží horizontální směr letu bez ohledu na "
+"to, kterým směrem je právě otočená postava."
 
 #: BallBouncer/docs/en/readme.md:block 45 (paragraph)
 msgid ""
@@ -720,8 +720,8 @@ msgid ""
 "sounds are played relative to this point."
 msgstr ""
 "Kromě klasického kurzoru se na mapě nachází i pozorovací bod, který je "
-"umístěn ve středu hrací plochy a dá se s ním pohybovat svisle. Všechny zvuky "
-"předmětů se přehrávají vzhledem k tomuto bodu."
+"umístěn ve středu hrací plochy a dá se s ním pohybovat vertikálně. Všechny "
+"zvuky předmětů se přehrávají vzhledem k tomuto bodu."
 
 #: BallBouncer/docs/en/readme.md:block 78 (paragraph)
 msgid ""
@@ -778,7 +778,7 @@ msgid ""
 "cancel or save the recording when aborting the game from the pause menu."
 msgstr ""
 "V nastavení na kartě \"Nahrávání\" si můžeš nastavit, jestli se má nahrávka "
-"uložit a případně přerušit při přerušení hry z menu Pauza."
+"uložit, nebo zrušit při přerušení hry z menu Pauza."
 
 #: BallBouncer/docs/en/readme.md:block 86 (paragraph)
 msgid ""
@@ -929,7 +929,7 @@ msgstr "Pravý / levý shift"
 
 #: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Swing the bat (hit the ball with a strong horizontal impulse)"
-msgstr "Máchnutí pálkou (vodorovný odpal)"
+msgstr "Máchnutí pálkou (horizontální odpal)"
 
 #: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Spacebar, s or e key"
@@ -937,7 +937,7 @@ msgstr "Mezerník, S nebo E"
 
 #: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Swing the bat (hit the ball with strong vertical impulse)"
-msgstr "Máchnutí pálkou (svislý odpal)"
+msgstr "Máchnutí pálkou (vertikální odpal)"
 
 #: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "alt+space, alt+s or r"
@@ -953,7 +953,7 @@ msgstr "F"
 
 #: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Throw the ball vertically"
-msgstr "Hození míče svisle"
+msgstr "Hození míče vertikálně"
 
 #: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "alt+f"
@@ -1289,7 +1289,7 @@ msgid ""
 "discord or email. Look for links to the above in the “Conclusion” section."
 msgstr ""
 "Pokud máš jakékoli potíže, kontaktuj nás a požádej o pomoc v Telegramové "
-"skupině, na Discordu nebo e-mailem. Odkazy na výše uvedené hledej v sekci "
+"skupině, na Discordu nebo e-mailem. Příslušné odkazy najdeš v sekci "
 "\"Závěrem\"."
 
 #: BallBouncer/docs/en/readme.md:block 117 (header)
