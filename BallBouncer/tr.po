@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2025-06-29 17:39+0000\n"
-"PO-Revision-Date: 2025-07-03 23:42+0300\n"
+"PO-Revision-Date: 2025-07-06 13:30+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -3132,7 +3132,7 @@ msgstr "Toplam {0} ödül alındı."
 #, python-brace-format
 msgctxt "StoreButtonReset"
 msgid "Reset for {0} coins"
-msgstr "Sıfırlama: {0} para"
+msgstr "Sıfırla: {0} para"
 
 #, python-brace-format
 msgctxt "StoreButtonUnlock"
