@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2025-06-29 17:39+0000\n"
-"PO-Revision-Date: 2025-07-02 06:53+0200\n"
+"PO-Revision-Date: 2025-07-09 13:28+0200\n"
 "Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
 "Language-Team: 4Sense Gaming\n"
 "Language: cs\n"
@@ -1217,7 +1217,7 @@ msgstr "Přidány nové překlady."
 
 #: BallBouncer/docs/en/changelog.md:block 52 (unordered list)
 msgid "Czech. Translator [4sensegaming](https://github.com/4sensegaming)."
-msgstr "Čeština. Překladatel [4sensegaming](https://github.com/4sensegaming)."
+msgstr "Český. Překladatel [4sensegaming](https://github.com/4sensegaming)."
 
 #: BallBouncer/docs/en/changelog.md:block 54 (unordered list)
 msgid "Resolved a minor issue in the Turkish translation."
@@ -1280,7 +1280,7 @@ msgstr ""
 msgid ""
 "Indonesian. Translator [MuhammadGagah](https://github.com/MuhammadGagah)."
 msgstr ""
-"Indonéština. Překladatel [MuhammadGagah](https://github.com/MuhammadGagah)."
+"Indonéský. Překladatel [MuhammadGagah](https://github.com/MuhammadGagah)."
 
 #: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
 msgid "You can now change the default keyboard shortcuts."
