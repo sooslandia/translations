@@ -2217,9 +2217,9 @@ msgid ""
 "automatically catch the ball if it is within {2} or fewer cells from the "
 "character, with a cooldown of {3} seconds between uses"
 msgstr ""
-"Duch chytače: Úroveň {0} z 3. Na {1} vteřin vyvolá postavu, která "
-"automaticky chytí míč, pokud není dál než {2} políček od postavy. Prodleva "
-"před dobitím je {3} vteřin."
+"Duch chytače: Úroveň {0} z 3. Na {1} vteřin vyvolá bytost, která automaticky "
+"chytí míč, pokud není dál než {2} políček od postavy. Prodleva před dobitím "
+"je {3} vteřin."
 
 #, python-brace-format
 msgctxt "SkillsBallLeapLevelInfoText"
