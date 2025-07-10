@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
 "POT-Creation-Date: 2025-06-29 17:39+0000\n"
-"PO-Revision-Date: 2025-07-09 13:28+0200\n"
+"PO-Revision-Date: 2025-07-10 16:47+0200\n"
 "Last-Translator: 4Sense Gaming <lukas@4sensegaming.cz>\n"
 "Language-Team: 4Sense Gaming\n"
 "Language: cs\n"
@@ -60,7 +60,7 @@ msgid ""
 "points scored."
 msgstr ""
 "Vyřešili jsme vysoké zatížení zvukového systému. V důsledku této změny teď "
-"budete získávat víc bodů."
+"budeš získávat víc bodů."
 
 #: BallBouncer/docs/en/changelog.md:block 8 (header)
 msgid "New features"
@@ -75,8 +75,8 @@ msgid ""
 "To access the new screen, click the \"Increase reward for completed quests\" "
 "button located on the quest board tab in your profile."
 msgstr ""
-"Na příslušnou novou obrazovku se dostanete tlačítkem \"Zvýšit odměnu za "
-"splněné výzvy\", které se nachází na kartě Cesta výzev ve vašem profilu."
+"Na příslušnou novou obrazovku se dostaneš tlačítkem \"Zvýšit odměnu za "
+"splněné výzvy\", které se nachází na kartě Cesta výzev v profilu."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
 msgid "The increase is made using coins, green, blue, and red orbs."
@@ -96,7 +96,7 @@ msgid ""
 "If the chance to get an additional star reaches 100%, you will be guaranteed "
 "to receive one extra star as a reward, and the chance counter will reset."
 msgstr ""
-"Pokud šance na získání další hvězdy dosáhne 100 %, zaručeně získáte jednu "
+"Pokud šance na získání další hvězdy dosáhne 100 %, zaručeně získáš jednu "
 "hvězdu navíc jako odměnu a počítadlo šance se vynuluje."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
@@ -126,12 +126,12 @@ msgid ""
 "To perform a perfect strike in trial of mastery mode, strike the ball with "
 "the bat when your hit strength is fully restored."
 msgstr ""
-"Chcete-li v režimu Mistrovská zkouška provést dokonalou trefu, odpalte míč, "
-"teprve až se vám plně obnoví síla úderu."
+"Chceš-li v režimu Mistrovská zkouška provést dokonalou trefu, odpal míč, "
+"teprve až se ti plně obnoví síla úderu."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
 msgid "If you miss or land a hit without full power, the streak will be reset."
-msgstr "Pokud míč minete nebo ho odpálíte menší silou, série se vynuluje."
+msgstr "Pokud míč mineš nebo ho odpálíš menší silou, série se vynuluje."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
 msgid "The streak and perfect strikes are recorded in the stats."
@@ -163,8 +163,8 @@ msgid ""
 "You can now safely share video or audio playthroughs of the game without "
 "turning off the music."
 msgstr ""
-"Nyní můžete bezpečně sdílet svoje video nebo audio nahrávky ze hry, aniž "
-"byste museli vypínat hudbu."
+"Nyní můžeš bezpečně sdílet svoje video nebo audio nahrávky ze hry, aniž by "
+"bylo nutné vypínat hudbu."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
 msgid ""
@@ -200,7 +200,7 @@ msgstr "Odpustek za nečinnost."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
 msgid "You can now find out how high the ball is."
-msgstr "Nyní můžete zjišťovat, jak je míč vysoko."
+msgstr "Nyní můžeš zjistit, jak je míč vysoko."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
 msgid "The default key for the function is B."
@@ -221,7 +221,7 @@ msgid ""
 "that is the lowest."
 msgstr ""
 "V režimu Mistrovská zkouška se postupně přečtou pozice všech míčů na hrací "
-"ploše a výška zvuku bude znázorňovat ten míč, který je právě nejníž."
+"ploše a výška zvuku bude odpovídat tomu míči, který je právě nejníž."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
 msgid "New statistics items added."
@@ -244,15 +244,15 @@ msgid ""
 "To access this screen, press the corresponding button on the settings "
 "screen, on the \"Sound\" tab."
 msgstr ""
-"Na tuto obrazovku se dostanete příslušným tlačítkem na obrazovce Nastavení "
-"na kartě \"Zvuk\"."
+"Na tuto obrazovku se dostaneš příslušným tlačítkem na obrazovce Nastavení na "
+"kartě \"Zvuk\"."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
 msgid ""
 "To get help information about the function, press the \"Help\" button on the "
 "sound panning settings screen."
 msgstr ""
-"Pokud si k této funkci budete chtít přečíst nápovědu, stiskněte tlačítko "
+"Pokud si k této funkci budeš chtít přečíst nápovědu, stiskni tlačítko "
 "\"Nápověda\" na obrazovce Nastavení stereováhy."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
@@ -260,7 +260,7 @@ msgid ""
 "You can now disable the generation of mines, couches, and toolboxes on the "
 "game field."
 msgstr ""
-"Nyní můžete zakázat generování min, gaučů a skříněk s nářadím na hrací ploše."
+"Nyní lze zakázat generování min, gaučů a skříněk s nářadím na hrací ploše."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
 msgid ""
@@ -323,8 +323,8 @@ msgid ""
 "To change the sound, enter Ball watch mode during a game session, then press "
 "the L key to cycle through sounds."
 msgstr ""
-"Chcete-li zvuk změnit, vstupte během hry do režimu sledování míče a "
-"stisknutím klávesy L přepínejte z jednoho zvuku na druhý."
+"Chceš-li zvuk změnit, vstup během hry do režimu sledování míče a klávesou L "
+"přepínej z jednoho zvuku na druhý."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
 msgid ""
@@ -332,7 +332,7 @@ msgid ""
 "select the ball whose sound you want to change, then press the L key."
 msgstr ""
 "V režimu Mistrovská zkouška funguje tato funkce podobně. Nejdřív klávesou J "
-"vyberte míč, jehož zvuk chcete změnit, a potom stiskněte klávesu L."
+"vyber míč, jehož zvuk chceš změnit, a potom mačkej klávesu L."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
 msgid ""
@@ -340,8 +340,8 @@ msgid ""
 "the ball sound customization screen, where you can adjust the sounds in a "
 "calm environment."
 msgstr ""
-"Klávesou F1 během hry v režimu Mistrovská zkouška otevřete obrazovku "
-"přizpůsobení zvuků míče, kde můžete zvuk měnit, aniž by vás rušily zvuky z "
+"Klávesou F1 během hry v režimu Mistrovská zkouška otevřeš obrazovku "
+"přizpůsobení zvuků míče, kde můžeš zvuk měnit, aniž by tě rušily zvuky z "
 "hrací plochy."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
@@ -357,14 +357,14 @@ msgid ""
 "To preview a ball sound, press the Enter or Space key on the selected item "
 "in any of the lists."
 msgstr ""
-"Chcete-li si daný zvuk míče poslechnout, stiskněte na vybrané položce v "
+"Chceš-li si daný zvuk míče poslechnout, stiskni na vybrané položce v "
 "libovolném seznamu enter nebo mezerník."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
 msgid ""
 "You can interrupt the playing sound by navigating through the list or screen."
 msgstr ""
-"Přehrávání zvuku můžete přerušit dalším pohybem po seznamu nebo obrazovce."
+"Přehrávání zvuku můžeš přerušit dalším pohybem po seznamu nebo obrazovce."
 
 #: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
 msgid "The selected sounds are saved between game sessions."
@@ -411,7 +411,7 @@ msgid ""
 "The pause menu now includes the option to view the skills assigned to slots "
 "(under \"Active Skills\")."
 msgstr ""
-"V Nabídce Pauza si nyní můžete zobrazit schopnosti uložené v jednotlivých "
+"V menu Pauza si nyní můžeš zobrazit schopnosti uložené v jednotlivých "
 "slotech (položka \"Aktivní schopnosti\")."
 
 #: BallBouncer/docs/en/changelog.md:block 10 (header)
@@ -423,8 +423,8 @@ msgid ""
 "Now, in trial of will and Mastery modes, if you are near an item and can "
 "activate it, the item's sound pitch is slightly increased."
 msgstr ""
-"Pokud jste nyní v režimu Zkouška vůle nebo Mistrovská zkouška dost blízko u "
-"speciálního předmětu a můžete ho aktivovat, výška zvuku předmětu se mírně "
+"Pokud jsi nyní v režimu Zkouška vůle nebo Mistrovská zkouška dost blízko u "
+"speciálního předmětu a můžeš ho aktivovat, výška zvuku předmětu se mírně "
 "zvýší."
 
 #: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
@@ -491,7 +491,7 @@ msgid ""
 "The effect of the upgrade that increases the number of red orbs received has "
 "been improved."
 msgstr ""
-"Zesílen efekt vylepšení, které zvyšuje počet získaných červených perel."
+"Zvýšena účinnost vylepšení, které zvyšuje počet získaných červených perel."
 
 #: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
 msgid ""
@@ -504,7 +504,7 @@ msgid ""
 "If you’ve purchased the maximum number of quest slots, the purchase button "
 "will now be hidden from the screen."
 msgstr ""
-"Pokud jste si koupili maximální počet slotů pro výzvy, tlačítko pro nákup "
+"Pokud sis už koupil/a maximální počet slotů pro výzvy, tlačítko pro nákup "
 "dalších se nyní na obrazovce skryje."
 
 #: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
@@ -530,7 +530,7 @@ msgstr "Opravy"
 msgid ""
 "Handling of a large number of simultaneously playing sounds has been "
 "improved."
-msgstr "Vylepšena práce s velkými počty zvuků, které se ozývají zároveň."
+msgstr "Vylepšena práce s velkým počtem zvuků hrajících zároveň."
 
 #: BallBouncer/docs/en/changelog.md:block 13 (unordered list)
 msgid ""
@@ -548,7 +548,7 @@ msgid ""
 "in the audio system—previously causing overall game slowdown—has been "
 "resolved."
 msgstr ""
-"Možná si také všimnete, že při hře v normálním režimu teď získáváte výrazně "
+"Možná si také všimneš, že při hře v normálním režimu teď získáváš výrazně "
 "víc bodů. Je to očekávané chování a dochází k němu proto, že jsme vyřešili "
 "zásadní přetěžování zvukového systému, které dřív vedlo k celkovému "
 "zpomalování hry."
@@ -597,7 +597,7 @@ msgid ""
 "You can now skip the coin and other currency gain animation by pressing the "
 "Enter key on the numpad."
 msgstr ""
-"Nyní můžete animaci přičítání mincí a ostatních měn přeskakovat i numerickým "
+"Animaci přičítání mincí a ostatních měn nyní lze přeskakovat i numerickým "
 "enterem."
 
 #: BallBouncer/docs/en/changelog.md:block 14 (header)
