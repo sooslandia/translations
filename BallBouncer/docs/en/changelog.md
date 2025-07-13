@@ -1,5 +1,18 @@
 % changelog
 
+## 1.4.2
+
+### Changes
+
+- Updated translations.
+   - Turkish. Translator [fatihyuksek](https://github.com/fatihyuksek1).
+   - Czech. Translator [4sensegaming](https://github.com/4sensegaming).
+
+### Fixes
+
+- Fixed the earlier appearance of the star modules tabs and improvements in the store.
+- Fixed a doubled sound playback when pressing the yes button on the update screen.
+
 ## 1.4.1
 
 Fixed a critical error when opening profile.
