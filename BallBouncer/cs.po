@@ -892,7 +892,7 @@ msgstr "Skóre kleslo pod mínus pět set."
 
 msgctxt "MainMenuExitGame"
 msgid "Exit the game."
-msgstr "Konec"
+msgstr "Konec."
 
 msgctxt "MainMenuOptions"
 msgid "Settings."
@@ -2219,7 +2219,7 @@ msgid ""
 msgstr ""
 "Duch chytače: Úroveň {0} z 3. Na {1} vteřin vyvolá bytost, která automaticky "
 "chytí míč, pokud není dál než {2} políček od postavy. Prodleva před dobitím "
-"je {3} vteřin."
+"je {3} vteřin"
 
 #, python-brace-format
 msgctxt "SkillsBallLeapLevelInfoText"
@@ -2301,7 +2301,7 @@ msgid ""
 msgstr ""
 "Bumerang: Úroveň {0} z 3. Postava odhodí pálku směrem nahoru, ne dál než {1} "
 "políček, směrem k nejbližší mině, gauči nebo skříňce s nářadím. Prodleva "
-"před dobitím je {2} vteřin."
+"před dobitím je {2} vteřin"
 
 msgctxt "SkillsEmpty"
 msgid "You haven't unlocked any skills yet."
@@ -2491,7 +2491,7 @@ msgstr ""
 "Hvězdný prach: Úroveň {0} z 16. Vyvolá vlnu, která rozloží kterýkoli předmět "
 "v cestě na prvočinitele, čímž ho přemění na {1} jednotek hvězdné energie. "
 "Vlna je {2} políček široká a pohybuje se rychlostí {3} políček za vteřinu. "
-"Prodleva před dobitím je {4} vteřin."
+"Prodleva před dobitím je {4} vteřin"
 
 #, python-brace-format
 msgctxt "SkillsSuperElasticityLevelInfoText"
