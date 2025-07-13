@@ -1,5 +1,20 @@
 % Lista promena
 
+## 1.4.2
+
+### Promene
+
+- Ažurirani prevodi.
+   - Turski. Prevodilac [fatihyuksek](https://github.com/fatihyuksek1).
+   - Češki. Prevodilac [4sensegaming](https://github.com/4sensegaming).
+
+### Ispravke
+
+- Fixed the earlier appearance of the star modules tabs and improvements in the
+store.
+- Fixed a doubled sound playback when pressing the yes button on the update
+screen.
+
 ## 1.4.1
 
 Fixed a critical error when opening profile.
