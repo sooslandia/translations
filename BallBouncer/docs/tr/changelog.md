@@ -1,5 +1,20 @@
 % değişiklik günlüğü
 
+## 1.4.2
+
+### Değişiklikler
+
+- Çeviriler güncellendi.
+   - Türkçe. Çevirmen [fatihyuksek](https://github.com/fatihyuksek1).
+   - Çekçe. Çevirmen [4sensegaming](https://github.com/4sensegaming).
+
+### Düzeltmeler
+
+- Fixed the earlier appearance of the star modules tabs and improvements in the
+store.
+- Fixed a doubled sound playback when pressing the yes button on the update
+screen.
+
 ## 1.4.1
 
 Fixed a critical error when opening profile.
