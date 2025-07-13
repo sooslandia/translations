@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2025-06-29 17:39+0000\n"
-"PO-Revision-Date: 2025-06-30 00:15+0300\n"
+"POT-Creation-Date: 2025-07-13 11:33+0000\n"
+"PO-Revision-Date: 2025-07-13 14:41+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -23,18 +23,59 @@ msgid "% changelog"
 msgstr "% değişiklik günlüğü"
 
 #: BallBouncer/docs/en/changelog.md:block 2 (header)
+#| msgid "1.4.1"
+msgid "1.4.2"
+msgstr "1.4.2"
+
+#: BallBouncer/docs/en/changelog.md:block 3 (header)
+msgid "Changes"
+msgstr "Değişiklikler"
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid "Updated translations."
+msgstr "Çeviriler güncellendi."
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid "Turkish. Translator [fatihyuksek](https://github.com/fatihyuksek1)."
+msgstr "Türkçe. Çevirmen [fatihyuksek](https://github.com/fatihyuksek1)."
+
+#: BallBouncer/docs/en/changelog.md:block 4 (unordered list)
+msgid "Czech. Translator [4sensegaming](https://github.com/4sensegaming)."
+msgstr "Çekçe. Çevirmen [4sensegaming](https://github.com/4sensegaming)."
+
+#: BallBouncer/docs/en/changelog.md:block 5 (header)
+msgid "Fixes"
+msgstr "Düzeltmeler"
+
+#: BallBouncer/docs/en/changelog.md:block 6 (unordered list)
+msgid ""
+"Fixed the earlier appearance of the star modules tabs and improvements in "
+"the store."
+msgstr ""
+"Yıldız modülleri sekmelerinin önceki görünüm sorunu düzeltildi ve mağazada "
+"iyileştirmeler yapıldı."
+
+#: BallBouncer/docs/en/changelog.md:block 6 (unordered list)
+msgid ""
+"Fixed a doubled sound playback when pressing the yes button on the update "
+"screen."
+msgstr ""
+"Güncelleme ekranında evet düğmesine basıldığında oluşan çift ses sorunu "
+"giderildi."
+
+#: BallBouncer/docs/en/changelog.md:block 7 (header)
 msgid "1.4.1"
 msgstr "1.4.1"
 
-#: BallBouncer/docs/en/changelog.md:block 3 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 8 (paragraph)
 msgid "Fixed a critical error when opening profile."
 msgstr "Profili açarken kritik bir hata düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 4 (header)
+#: BallBouncer/docs/en/changelog.md:block 9 (header)
 msgid "1.4.0"
 msgstr "1.4.0"
 
-#: BallBouncer/docs/en/changelog.md:block 5 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 10 (paragraph)
 msgid ""
 "This release addresses numerous existing issues, such as the overly complex "
 "trial of mastery mode, difficulties in identifying and activating items, the "
@@ -46,7 +87,7 @@ msgstr ""
 "sandıkların istatistiklerinin izlenememesi, “Öfkeli Sıçrayış” becerisinin ne "
 "zaman etkinleştirilebileceğinin belirlenememesi gibi birçok sorunu düzeltir."
 
-#: BallBouncer/docs/en/changelog.md:block 6 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 11 (paragraph)
 msgid ""
 "New upgrades have also been added, and statistics milestone reward balancing "
 "has been carried out."
@@ -54,22 +95,22 @@ msgstr ""
 "Yeni yükseltmeler de eklendi ve istatistik kilometre taşı ödül dengelemesi "
 "yapıldı."
 
-#: BallBouncer/docs/en/changelog.md:block 7 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 12 (paragraph)
 msgid ""
 "High load on the audio system was resolved, which led to an increase in the "
 "points scored."
 msgstr ""
 "Ses sisteminin üzerindeki yükün azaltılması, puanların artmasına neden oldu."
 
-#: BallBouncer/docs/en/changelog.md:block 8 (header)
+#: BallBouncer/docs/en/changelog.md:block 13 (header)
 msgid "New features"
 msgstr "Yeni özellikler"
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "Reward for completed quests can now be increased."
 msgstr "Tamamlanmış görevler için ödüller arttırılabilir."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "To access the new screen, click the \"Increase reward for completed quests\" "
 "button located on the quest board tab in your profile."
@@ -77,12 +118,12 @@ msgstr ""
 "Bu yeni ekrana ulaşmak için profildeki görev panosu sekmesinde bulunan "
 "“Tamamlanan görevler için ödül arttır” düğmesine tıklayın."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "The increase is made using coins, green, blue, and red orbs."
 msgstr ""
 "Arttırma, yeşil, mavi ve kırmızı küre ya da para kullanılarak yapılabilir."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "Each of the listed currencies has its own separate enhancement, but they all "
 "collectively affect a single parameter: the chance to get an additional star."
@@ -90,7 +131,7 @@ msgstr ""
 "Sayılan her bir para biriminin kendine özgü bir iyileştirme özelliği vardır, "
 "ancak hepsi de tek bir parametreyi etkiler: Ek yıldız kazanma şansı."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "If the chance to get an additional star reaches 100%, you will be guaranteed "
 "to receive one extra star as a reward, and the chance counter will reset."
@@ -98,19 +139,19 @@ msgstr ""
 "Ek bir yıldız kazanma şansı %100’e ulaşırsa, ödül olarak bir yıldız daha "
 "kazanacağınız garanti olur ve şans sayacı sıfırlanır."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "The trial of mastery mode has been slightly reworked."
 msgstr "Ustalık denemesi modu yeniden düzenlendi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "Balls can no longer collide with one another."
 msgstr "Artık toplar birbiriyle çarpışamaz."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "The minimum number of objects on the field has been increased."
 msgstr "Sahadaki minimum nesne sayısı artırıldı."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "Ball bounces off the ceiling now start a streak and grant a certain number "
 "of points."
@@ -118,11 +159,11 @@ msgstr ""
 "Topun tavandan sekmesi artık bir seri başlatıyor ve belli sayıda puan "
 "veriyor."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "Perfect strikes have been added."
 msgstr "Mükemmel vuruşlar eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "To perform a perfect strike in trial of mastery mode, strike the ball with "
 "the bat when your hit strength is fully restored."
@@ -130,33 +171,33 @@ msgstr ""
 "Ustalık denemesi modunda mükemmel vuruş yapmak için, topa vuruş gücü "
 "maksimum iken vurun."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "If you miss or land a hit without full power, the streak will be reset."
 msgstr "Iskalar veya tam güce ulaşmadan topa vurursanız seri sıfırlanır."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "The streak and perfect strikes are recorded in the stats."
 msgstr "Seri ve mükemmel vuruşlar istatistiklere kaydedilir."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "The bonus from the bounce penalty reduction upgrade has been changed from 2% "
 "to 5% per level."
 msgstr ""
 "Sekme cezası azaltma yükseltmesinin bonusu %2 yerine %5 olarak değiştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "The mode’s reference information has been updated to reflect the changes "
 "made."
 msgstr ""
 "Modun bilgilendirmesi, yapılan değişiklikleri yansıtacak şekilde güncellendi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "The main menu music has been updated."
 msgstr "Ana menü müziği güncellendi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "You can now safely share video or audio playthroughs of the game without "
 "turning off the music."
@@ -164,18 +205,18 @@ msgstr ""
 "Oyunun video veya sesli oynanışlarını müziği kapatmadan güvenli bir şekilde "
 "paylaşabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "Huge thanks to [Nikita K](https://t.me/NikitaKOfficial) for his hard work!"
 msgstr ""
 "Bu arada, sıkı çalışması için [Nikita K](https://t.me/NikitaKOfficial) 'ya "
 "çok teşekkürler!"
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "A sound has been added to notify you when a quest is completed."
 msgstr "Görev tamamlandığında sizi haberdar etmek için ses eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "A new upgrade has been added that increases the bonus for dodging electric "
 "discharges in trial of speed mode."
@@ -183,28 +224,28 @@ msgstr ""
 "Hız denemesi modunda elektrik akımlarından kaçma bonusunu arttıran yeni bir "
 "iyileştirme eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "New star upgrades added."
 msgstr "Yeni yıldız yükseltmeleri eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "Duration of Destruction, Collision, and Ceiling Bounce Streaks increase."
 msgstr "Yok etme, çarpışma ve tavandan sekme serilerinin süresi artırıldı."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "Indulgence of Inaction."
 msgstr "Eğlemsizlik toleransı."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "You can now find out how high the ball is."
 msgstr "Topun ne kadar yüksekte olduğunu öğrenebilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "The default key for the function is B."
 msgstr "Bu özellik için varsayılan tuş B tuşudur."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "When used, you will hear information about how high the ball is, along with "
 "a special sound played in the ball’s current pitch."
@@ -212,7 +253,7 @@ msgstr ""
 "Kullanıldığında, topun ne kadar yüksekte olduğu hakkında bilgi alabilir ve "
 "topun o anki perdesinde çalınan özel bir ses duyabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "In trial of mastery mode, the positions of all balls on the field will be "
 "announced in order, and the sound will be played in the pitch of the ball "
@@ -221,23 +262,23 @@ msgstr ""
 "Ustalık denemesi modunda, sahadaki tüm topların pozisyonları sırayla "
 "bildirilecek ve ses en düşük topun perdesinden başlayarak çalınacaktır."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "New statistics items added."
 msgstr "Yeni istatistik öğeleri eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "Total luck chests opened."
 msgstr "Toplam açılan şans sandığı."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "Total quests completed."
 msgstr "Toplam tamamlanan görevler."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "Sound panning customization has been added."
 msgstr "Ses yaslanma özelleştirmesi eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "To access this screen, press the corresponding button on the settings "
 "screen, on the \"Sound\" tab."
@@ -245,7 +286,7 @@ msgstr ""
 "Bu ekrana erişmek için, ayarlar ekranındaki “Ses” sekmesinde \"ses yaslanma "
 "ayarları\" düğmesine basın."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "To get help information about the function, press the \"Help\" button on the "
 "sound panning settings screen."
@@ -253,7 +294,7 @@ msgstr ""
 "Bu özellik hakkında bilgi almak için, ses yaslanma ayarları ekranında "
 "“Yardım” düğmesine basın."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "You can now disable the generation of mines, couches, and toolboxes on the "
 "game field."
@@ -261,7 +302,7 @@ msgstr ""
 "Oyun sahasında mayınların, kanepelerin ve tamir kutularının oluşturulmasını "
 "devre dışı bırakabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "A list of checkboxes has been added to the mode selection screen, allowing "
 "you to toggle the generation of specific objects on or off."
@@ -269,7 +310,7 @@ msgstr ""
 "Mod seçme ekranına birkaç onay kutusu eklendi, bu sayede belli nesnelerin "
 "oluşturulmasını açıp kapatabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "The list will be hidden if the mode selection cursor is set to any mode "
 "other than Normal or Training."
@@ -277,7 +318,7 @@ msgstr ""
 "Mod seçim imleci Normal veya Eğitim dışında bir modun üzerinde liste "
 "gizlenir."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "A feature has been added that allows you to switch between ready to use "
 "skills."
@@ -285,38 +326,38 @@ msgstr ""
 "Kullanıma hazır beceriler arasında geçiş yapabilmenizi sağlayan bir özellik "
 "eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "Switch to the next ready to use skill: Equals (=) key or Numpad Minus (-)."
 msgstr ""
 "Bir sonraki hazır beceriye geç: Eşittir (=) tuşu veya numaratör Eksi (-) "
 "tuşu."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "Switch to the previous ready to use skill: Hyphen (-) key or Numpad Multiply "
 "(*)."
 msgstr ""
 "Önceki hazır beceriye geç: tire (-) tuşu veya numaratör  Yıldız (*) tuşu."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "The keys apply to the default controls configuration."
 msgstr "Tuşlar, varsayılan tuş yapılandırması için geçerlidir."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "A new setting has been added that allows you to disable the countdown at the "
 "start of the game."
 msgstr ""
 "Oyun başında geri sayımı devre dışı bırakmayı sağlayan bir ayar eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "A feature has been added that allows you to change the ball's sound on the "
 "fly."
 msgstr "Topun sesini anında değiştirmeyi sağlayan bir özellik eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "To change the sound, enter Ball watch mode during a game session, then press "
 "the L key to cycle through sounds."
@@ -324,7 +365,7 @@ msgstr ""
 "Sesi değiştirmek için oyun sırasında top izleme moduna geçin, sonra sesler "
 "arasında dolaşmak için L tuşuna basın."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "In trial of mastery mode, this feature works similarly. Use the J key to "
 "select the ball whose sound you want to change, then press the L key."
@@ -333,7 +374,7 @@ msgstr ""
 "değiştirmek istediğiniz topu seçmek için J tuşuna basın, sonra topun sesini "
 "değiştirmek için L tuşuna basın."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "By pressing the F1 key during a trial of mastery game session, you'll open "
 "the ball sound customization screen, where you can adjust the sounds in a "
@@ -343,7 +384,7 @@ msgstr ""
 "özelleştirme ekranını açabilir ve sakin bir ortamda ses ayarlarını "
 "yapabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "The screen contains four elements: three lists, each corresponding to a "
 "specific ball, and a button to close the screen."
@@ -351,7 +392,7 @@ msgstr ""
 "Ekran dört öğe içerir: her biri belirli bir topa karşılık gelen üç liste ve "
 "ekranı kapatmak için bir düğme."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "To preview a ball sound, press the Enter or Space key on the selected item "
 "in any of the lists."
@@ -359,16 +400,16 @@ msgstr ""
 "Bir top sesini önizlemek için, listelerden herhangi birinde seçili olan "
 "öğenin üzerinde Enter veya Boşluk tuşuna basın."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "You can interrupt the playing sound by navigating through the list or screen."
 msgstr "Listede veya ekranda gezinerek çalmakta olan sesi durdurabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid "The selected sounds are saved between game sessions."
 msgstr "Seçili sesler oyunlar arası kaydedilir."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "A new setting has been added that allows you to normalize the pitch of all "
 "ball sounds to approximately the same level."
@@ -376,7 +417,7 @@ msgstr ""
 "Tüm top seslerinin perdesini yaklaşık olarak aynı seviyeye ayarlamayı "
 "sağlayan yeni bir ayar eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "When previewing sounds in the ball sound selection menu, they play in the "
 "same pitch. However, during gameplay, sounds other than the first one still "
@@ -386,7 +427,7 @@ msgstr ""
 "oyun sırasında, ilk ses dışındaki sesler, ilk sesin perdesiyle tam olarak "
 "uyuşmaz."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "Despite this, the feature can be useful for those who use ball sounds other "
 "than the first and have trouble distinguishing sounds in noisy environments, "
@@ -396,7 +437,7 @@ msgstr ""
 "gürültülü ortamlarda sesleri ayırt etmekte güçlük çeken kişiler için yararlı "
 "olabilir, çünkü perdeyi yükseltmek sesi daha duyulabilir hale getirir."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "A new setting has been added that allows you to switch to Ball watch mode "
 "with a key press instead of holding the key down."
@@ -404,7 +445,7 @@ msgstr ""
 "Yeni bir ayar eklendi, bu ayar sayesinde tuşu basılı tutmak yerine tuşa "
 "basarak top izleme moduna geçebilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 9 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 14 (unordered list)
 msgid ""
 "The pause menu now includes the option to view the skills assigned to slots "
 "(under \"Active Skills\")."
@@ -412,11 +453,7 @@ msgstr ""
 "Duraklatma menüsü artık yuvalara atanmış becerileri görüntüleme seçeneğini "
 "de içeriyor (\"Aktif Beceriler\" içinde)."
 
-#: BallBouncer/docs/en/changelog.md:block 10 (header)
-msgid "Changes"
-msgstr "Değişiklikler"
-
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid ""
 "Now, in trial of will and Mastery modes, if you are near an item and can "
 "activate it, the item's sound pitch is slightly increased."
@@ -424,11 +461,11 @@ msgstr ""
 "Ustalık ve irade denemesi modlarında bir öğeye yakınsanız ve öğeyi "
 "etkinleştirebiliyorsanız, öğenin perdesi biraz artar."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid "The penalty for the ball bouncing off the floor has been adjusted."
 msgstr "Topun yerden sekme cezası yeniden ayarlandı."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid ""
 "if the ball bounces off the floor 40 times in a row, the penalty for "
 "subsequent bounces will increase very rapidly."
@@ -436,16 +473,16 @@ msgstr ""
 "top yerden art arda 40 defa sekerse, topun sonraki sekmeleri için olan ceza "
 "çok hızlı bir şekilde artar."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid "This change is offset by the new upgrade \"Indulgence of Inaction\"."
 msgstr ""
 "Bu değişim yeni “Hareketsizlik Toleransı” yükseltmesi ile dengelenebilir."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid "The reward for opening Luck Chests has been increased."
 msgstr "Şans sandığı açma ödülü artırıldı."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid ""
 "Some changes have been made to the rewards for reaching stat milestones. If "
 "any discrepancies are detected when the game starts, previously allocated "
@@ -456,7 +493,7 @@ msgstr ""
 "edilirse, daha önce verilen başarı puanları sıfırlanacak ve ödüller yeniden "
 "hesaplanacaktır."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid ""
 "In trial of will and trial of mastery modes, the same type of item can no "
 "longer appear more than twice in a row."
@@ -464,12 +501,12 @@ msgstr ""
 "İrade denemesi ve ustalık denemesi modlarında, aynı türden öğe art arda iki "
 "kereden fazla görünemez."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid ""
 "In trial of speed mode, the same effect can no longer appear twice in a row."
 msgstr "Hız denemesi modunda aynı etki art arda iki kez görünemez."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid ""
 "Store changes: the Time Aura and Leader Aura upgrades have been moved to the "
 "\"Auras\" tab; the \"Increased Chance of Special Object Spawns\" upgrade has "
@@ -479,23 +516,23 @@ msgstr ""
 "sekmesine taşındı; “Özel Nesne Çıkma Şansını Arttırma” yükseltmesi "
 "“Nesneler” sekmesine taşındı."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid "Rewards for low scores in trial modes have been increased."
 msgstr "Deneme modlarında düşük skor için olan ödüller arttırıldı."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid ""
 "The effect of the upgrade that increases the number of red orbs received has "
 "been improved."
 msgstr "Alınan kırmızı küreyi arttıran yükseltmenin etkisi iyileştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid ""
 "Coin reward calculation has been improved for final scores over 100 million."
 msgstr ""
 "100 milyonun üzerindeki puanlar için para ödülü hesaplaması iyileştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid ""
 "If you’ve purchased the maximum number of quest slots, the purchase button "
 "will now be hidden from the screen."
@@ -503,7 +540,7 @@ msgstr ""
 "Maksimum sayıda görev yuvası satın aldıysanız, satın alma düğmesi ekranda "
 "görünmeyecek."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid ""
 "The \"Furious leap\" ability has been improved. Now the character can dash a "
 "greater distance."
@@ -511,7 +548,7 @@ msgstr ""
 "\"Öfkeli sıçrayış\" yeteneği iyileştirildi.  Oyuncu daha fazla mesafe "
 "koşabiliyor."
 
-#: BallBouncer/docs/en/changelog.md:block 11 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
 msgid ""
 "The display of the rewards list shown when opening multiple Luck Chests at "
 "once has been updated."
@@ -519,17 +556,13 @@ msgstr ""
 "Aynı anda birden fazla Şans Sandığı açıldığında gösterilen ödül listesinin "
 "görünümü güncellendi."
 
-#: BallBouncer/docs/en/changelog.md:block 12 (header)
-msgid "Fixes"
-msgstr "Düzeltmeler"
-
-#: BallBouncer/docs/en/changelog.md:block 13 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
 msgid ""
 "Handling of a large number of simultaneously playing sounds has been "
 "improved."
 msgstr "Aynı anda çalan çok sayıda sesin işlenmesi iyileştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 13 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
 msgid ""
 "As a result of this optimization, the total number of sounds during the "
 "destruction of many objects has been reduced. However, the audio environment "
@@ -539,7 +572,7 @@ msgstr ""
 "seslerin toplam sayısı azaltıldı. Ancak ses ortamı yine de aşırı yüklenmeye "
 "yol açabiliyor."
 
-#: BallBouncer/docs/en/changelog.md:block 13 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
 msgid ""
 "You may also notice that you're scoring significantly more points during "
 "Normal mode gameplay. This is expected and happens because a major overload "
@@ -551,7 +584,7 @@ msgstr ""
 "yavaşlamasına neden olan ses sistemindeki büyük bir aşırı yüklenme sorununun "
 "çözülmesinden kaynaklanmaktadır."
 
-#: BallBouncer/docs/en/changelog.md:block 13 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
 msgid ""
 "Fixed a rare freeze and crash that could occur right after starting a game "
 "session when gameplay recording was enabled."
@@ -559,7 +592,7 @@ msgstr ""
 "Oyun kaydı etkinken, oyunun hemen başında meydana gelen nadir donma ve çökme "
 "sorunu düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 13 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
 msgid ""
 "Fixed an issue where receiving a bonus for destroying a puppet or dodging an "
 "electric discharge could increase a negative score."
@@ -567,13 +600,13 @@ msgstr ""
 "Bir kuklayı yok ederek ya da elektrik akımından kaçarak bonus almanın "
 "negatif puanı arttırması sorunu düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 13 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
 msgid ""
 "Fixed incorrect behavior that occurred when using the \"Furious leap\" skill."
 msgstr ""
 "Öfkeli Sıçrayış becerisini kullanırken oluşan hatalı davranış düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 13 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
 msgid ""
 "The progress for the quest \"Hit the ceiling with the ball while the "
 "immateriality effect is active\" now also counts when using the \"ball "
@@ -582,17 +615,17 @@ msgstr ""
 "\"etkisizlik etkisi aktifken topla tavana vur\" görevi için ilerleme artık "
 "\"top kumandası\" yıldız modülü kullanılırken de sayılıyor."
 
-#: BallBouncer/docs/en/changelog.md:block 13 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
 msgid "Improved the handling of chest and quest reset time updates."
 msgstr ""
 "Sandık ve görev sıfırlama zaman güncellemelerinin işlenmesi iyileştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 13 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
 msgid "Descriptions of some upgrades in the store have been expanded."
 msgstr ""
 "Mağazadaki bazı yükseltmelerin açıklamaları daha ayrıntılı hale getirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 13 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
 msgid ""
 "You can now skip the coin and other currency gain animation by pressing the "
 "Enter key on the numpad."
@@ -600,45 +633,37 @@ msgstr ""
 "Numaratördeki Enter tuşuna basarak para ve diğer para birimi kazanma "
 "animasyonlarını atlayabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 14 (header)
+#: BallBouncer/docs/en/changelog.md:block 19 (header)
 msgid "1.3.5"
 msgstr "1.3.5"
 
-#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
-msgid "Updated translations."
-msgstr "Çeviriler güncellendi."
-
-#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 21 (unordered list)
 msgid "Serbian. Translator [nidza07](https://github.com/nidza07)."
 msgstr "Sırpça. Çevirmen [nidza07](https://github.com/nidza07)."
 
-#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
-msgid "Turkish. Translator [fatihyuksek](https://github.com/fatihyuksek1)."
-msgstr "Türkçe. Çevirmen [fatihyuksek](https://github.com/fatihyuksek1)."
-
-#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 21 (unordered list)
 msgid "Changed the completion criteria for some quests."
 msgstr "Bazı görevler için tamamlama kriterleri değiştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 16 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 21 (unordered list)
 msgid ""
 "Now, if the ball watch mode is enabled, the penalty for the character "
 "staying in one place is not applied."
 msgstr ""
 "Top izleme modu etkinken oyuncu aynı yerde durursa artık ceza uygulanmıyor."
 
-#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
 msgid "Fixed the ability to use certain auras if they are not active."
 msgstr "Etkin değil iseler bazı auraları kullanabilme durumu düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
 msgid ""
 "Otherworldly aura has been changed in such a way as to make it easier to hit "
 "the ball with the bat."
 msgstr ""
 "Uhrevi aura, topa daha kolay vurulmasını sağlayacak şekilde değiştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
 msgid ""
 "Fixed the behavior of the electric charge in trial of speed mode, where it "
 "could hit the character and be counted as hitting the ground at the same "
@@ -647,7 +672,7 @@ msgstr ""
 "Hız denemesi modundaki elektrik akımının karaktere vurursa aynı zamanda yere "
 "vuruyor sayıldığı bir davranış düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
 msgid ""
 "Fixed a critical error when using the \"Magnetism\" and \"Rocket Salvo\" "
 "skills simultaneously."
@@ -655,7 +680,7 @@ msgstr ""
 "Manyetizma ve roket salvosu becerilerini aynı anda kullanırken kritik hata "
 "düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
 msgid ""
 "Fixed a critical error when using the \"Catcher's Soul\" and \"Furious "
 "Leap\" skills simultaneously."
@@ -663,7 +688,7 @@ msgstr ""
 "Yakalayıcının ruhu ve öfkeli sıçrayış becerilerini aynı anda kullanırken "
 "kritik hata düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
 msgid ""
 "Likely fixed a critical error occurring when restarting the game after an "
 "update."
@@ -671,15 +696,15 @@ msgstr ""
 "Oyun güncellemeden sonra başlatıldığında kritik hata alma sorunu bir ihtimal "
 "düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 18 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
 msgid "Fixed the sound playback for the object collision streak notification."
 msgstr "Nesne çarpışma serisi bildirim sesi için ses oynatma düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 19 (header)
+#: BallBouncer/docs/en/changelog.md:block 24 (header)
 msgid "1.3.4"
 msgstr "1.3.4"
 
-#: BallBouncer/docs/en/changelog.md:block 21 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
 msgid ""
 "Czech translation updated. Translator [4sensegaming](https://github."
 "com/4sensegaming)."
@@ -687,7 +712,7 @@ msgstr ""
 "Çekçe çeviri güncellendi. Çevirmen [4sensegaming](https://github."
 "com/4sensegaming)."
 
-#: BallBouncer/docs/en/changelog.md:block 21 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
 msgid ""
 "Spanish translation updated. Translator: [ogomez92](https://github.com/"
 "ogomez92)."
@@ -695,14 +720,14 @@ msgstr ""
 "İspanyolca çeviri güncellendi. Çevirmen: [ogomez92](https://github.com/"
 "ogomez92)."
 
-#: BallBouncer/docs/en/changelog.md:block 21 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
 msgid ""
 "If you are unable to activate an aura, you will now be notified clearly."
 msgstr ""
 "Bir aurayı etkinleştiremiyorsanız, artık net bir şekilde "
 "bilgilendirileceksiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 21 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
 msgid ""
 "If you do not have enough energy to activate a star module, you will now be "
 "notified when attempting to activate it."
@@ -710,37 +735,37 @@ msgstr ""
 "Bir yıldız modülünü etkinleştirmek için yeterli enerjiniz yoksa,  "
 "etkinleştirmeye çalışırken bildirim alacaksınız."
 
-#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 28 (unordered list)
 msgid "Fixed an issue with zdsr."
 msgstr "Zdsr ile ilgili bir sorun düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 28 (unordered list)
 msgid "The behavior of the goal in the trial of speed mode has been fixed."
 msgstr "Hız denemesi modunda kalenin davranışı düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 28 (unordered list)
 msgid ""
 "Now the goal lowers back to its original height after the \"Elevator\" "
 "effect ends."
 msgstr ""
 "Yükseltici etkisi bittikten sonra  kale orijinal boyutuna geri dönüyor."
 
-#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 28 (unordered list)
 msgid ""
 "The goal will no longer disappear from the object map when rising or "
 "lowering."
 msgstr "Kale, inerken veya çıkarken nesne haritasından kaybolmayacak."
 
-#: BallBouncer/docs/en/changelog.md:block 23 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 28 (unordered list)
 msgid "Fixed the completion tracking of certain quests in training mode."
 msgstr ""
 "Antrenman modunda belli görevlerin tamamlanmasının izlenmesi düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 24 (header)
+#: BallBouncer/docs/en/changelog.md:block 29 (header)
 msgid "1.3.3"
 msgstr "1.3.3"
 
-#: BallBouncer/docs/en/changelog.md:block 26 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 31 (unordered list)
 msgid ""
 "Spanish translation added. Translators: [rayo-alcantar](https://github.com/"
 "rayo-alcantar), [ogomez92](https://github.com/ogomez92)."
@@ -748,21 +773,21 @@ msgstr ""
 "İspanyolca çeviri eklendi. Çevirmenler: [rayo-alcantar](https://github.com/"
 "rayo-alcantar), [ogomez92](https://github.com/ogomez92)."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 35 (unordered list)
 msgid ""
 "Fixed a critical error that occurred when many sounds were playing "
 "simultaneously."
 msgstr "Birçok ses aynı anda çalarken kritik bir hata düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 35 (unordered list)
 msgid "Fixed issues with star modules."
 msgstr "Yıldız modülleri ile ilgili sorunlar düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 35 (unordered list)
 msgid "Additional module information tab now updates when you buy upgrades."
 msgstr "Yükseltme aldığınızda, ek modül bilgisi sekmesi  güncelleniyor."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 35 (unordered list)
 msgid ""
 "The description of the \"ball controller\" module's controlled ball speed "
 "increase no longer includes the information about the twelve percent speed "
@@ -771,7 +796,7 @@ msgstr ""
 "\"Top kumandası\" modülünün top hızını artırması açıklamasında  yüzde on iki "
 "hız artışı bilgisi artık yer almıyor."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 35 (unordered list)
 msgid ""
 "When pressing the key to check the current amount of star energy, the number "
 "is now announced at the beginning of the message."
@@ -779,7 +804,7 @@ msgstr ""
 "Mevcut yıldız enerjisi miktarını kontrol etme tuşuna basıldığında, enerji "
 "sayısı  artık mesajın başında bildiriliyor."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 35 (unordered list)
 msgid ""
 "Fixed a critical bug when activating the \"ball controller\" star module and "
 "the ball was caught during activation."
@@ -787,7 +812,7 @@ msgstr ""
 "\"Top kumandası\" modülünü etkinleştirilirken ve top yakalandığında kritik "
 "bir hata düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 35 (unordered list)
 msgid ""
 "Fixed the completion tracking of the \"Magnetism\" skill usage quest in "
 "training mode."
@@ -795,11 +820,11 @@ msgstr ""
 "Antrenman modunda \"manyetizma\" becerisinin kullanılması görevinin "
 "izlenmesi düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 35 (unordered list)
 msgid "Recording issues fixed."
 msgstr "Kayıt sorunları düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 35 (unordered list)
 msgid ""
 "When closing the game using Alt+F4 during gameplay, the recording is "
 "canceled if the \"Cancel recording when manually aborting the game\" "
@@ -809,7 +834,7 @@ msgstr ""
 "sonlandırıldığında kaydı iptal et\" onay kutusu işaretli ise kayıt iptal "
 "edilir, işaretli değilse kayıt düzgün şekilde sonlandırılır."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 35 (unordered list)
 msgid ""
 "When the game ends prematurely due to reaching -1000 points, the recording "
 "is no longer canceled even if the \"Cancel recording when manually aborting "
@@ -819,21 +844,21 @@ msgstr ""
 "sonlandırırken kaydı iptal et\" onay kutusu işaretli olsa bile kayıt  iptal "
 "edilmez."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 35 (unordered list)
 msgid "It is now possible to play with jaws active."
 msgstr "JAWS açıkken oyun oynanabiliyor."
 
-#: BallBouncer/docs/en/changelog.md:block 30 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 35 (unordered list)
 msgid "Fixed an issue with launching the game on Windows for some users."
 msgstr ""
 "Bazı kullanıcılar için Windows'ta oyunu başlatırken oluşan bir sorun "
 "düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 31 (header)
+#: BallBouncer/docs/en/changelog.md:block 36 (header)
 msgid "1.3.2"
 msgstr "1.3.2"
 
-#: BallBouncer/docs/en/changelog.md:block 33 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 38 (unordered list)
 msgid ""
 "Successful bat hit sound has been fixed and now plays in all intended "
 "situations."
@@ -841,7 +866,7 @@ msgstr ""
 "Başarılı sopa vuruşu sesi düzeltildi ve artık amaçlanan tüm durumlarda "
 "çalıyor."
 
-#: BallBouncer/docs/en/changelog.md:block 33 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 38 (unordered list)
 msgid ""
 "Information on how to activate items has been added to the descriptions of "
 "trial of will and trial of mastery modes."
@@ -849,24 +874,24 @@ msgstr ""
 "Ustalık denemesi ve irade denemesi modlarında öğelerin etkinleştirilme "
 "bilgisi modların açıklamalarına eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 33 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 38 (unordered list)
 msgid ""
 "Fixed a game crash that occurred when a screen reader other than NVDA was "
 "active."
 msgstr ""
 "NVDA'dan başka bir ekran okuyucu etkinken oyunun çökme sorunu düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 33 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 38 (unordered list)
 msgid "Issues with mp3 recordings have been fixed."
 msgstr "Mp3 kayıtları ile ilgili sorunlar düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 33 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 38 (unordered list)
 msgid ""
 "Potentially fixed a game crash that occurred when playing with recording "
 "enabled."
 msgstr "Kayıt etkinleştirildiğinde oyunu oynarken potansiyel çökme düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 33 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 38 (unordered list)
 msgid ""
 "A special VBR header is now added to recordings. Previously, its absence "
 "could cause some players to incorrectly display the recording's duration and "
@@ -876,7 +901,7 @@ msgstr ""
 "oyuncuların kaydın süresini yanlış görmesine ve ileri/geri sarma ile ilgili "
 "sorunlara neden oluyordu."
 
-#: BallBouncer/docs/en/changelog.md:block 33 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 38 (unordered list)
 msgid ""
 "MP3 encoding parameters have been adjusted to reduce file size without "
 "noticeable quality loss.-"
@@ -884,7 +909,7 @@ msgstr ""
 "Mp3 şifreleme parametreleri, belirgin kalite kaybı olmadan dosya boyutunu "
 "küçültecek şekilde ayarlandı.-"
 
-#: BallBouncer/docs/en/changelog.md:block 33 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 38 (unordered list)
 msgid ""
 "A line has been added to the documentation explaining how to unlock the "
 "quest board (in the \"Other Game Modes\" section)."
@@ -892,23 +917,23 @@ msgstr ""
 "Kılavuza görev panosunun nasıl açılacağını açıklayan bir satır eklendi "
 "(Diğer Oyun Modları bölümünde)."
 
-#: BallBouncer/docs/en/changelog.md:block 34 (header)
+#: BallBouncer/docs/en/changelog.md:block 39 (header)
 msgid "1.3.1"
 msgstr "1.3.1"
 
-#: BallBouncer/docs/en/changelog.md:block 35 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 40 (paragraph)
 msgid "Fixed a bug with objects sound panning."
 msgstr "Nesne seslerinin yaslanması ile ilgili bir hata düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 36 (header)
+#: BallBouncer/docs/en/changelog.md:block 41 (header)
 msgid "1.3.0"
 msgstr "1.3.0"
 
-#: BallBouncer/docs/en/changelog.md:block 37 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 42 (paragraph)
 msgid "This is the largest update, adding a lot of new content to the game."
 msgstr "Bu, oyuna çok sayıda yeni içerik ekleyen en büyük güncellemedir."
 
-#: BallBouncer/docs/en/changelog.md:block 38 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 43 (paragraph)
 msgid ""
 "Three new modes await you, each of which can be upgraded, along with the "
 "quest board content featuring dozens of diverse quests. By completing these "
@@ -918,7 +943,7 @@ msgstr ""
 "panosu içeriği sizi bekliyor. Bu görevleri tamamlayarak yıldız kazanabilir "
 "ve bu yıldızları çeşitli yükseltmelerde kullanabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 39 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 44 (paragraph)
 msgid ""
 "New objects will help you score even more points than you could have ever "
 "imagined."
@@ -926,7 +951,7 @@ msgstr ""
 "Yeni nesneler, önceden hayal bile edebileceğinizden daha fazla puan "
 "kazanmanıza yardımcı oluyor."
 
-#: BallBouncer/docs/en/changelog.md:block 40 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 45 (paragraph)
 msgid ""
 "New auras will breathe new life into your skills, while the new skills will "
 "open up even more strategies for object destruction."
@@ -934,7 +959,7 @@ msgstr ""
 "Yeni auralar becerilerinize yeni bir soluk üfleyecek, yeni beceriler ise "
 "daha fazla nesneyi yok etmek için yeni stratejiler ortaya çıkaracak."
 
-#: BallBouncer/docs/en/changelog.md:block 41 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 46 (paragraph)
 msgid ""
 "And of course, there are the upgrades that affect the entire gameplay, "
 "allowing you to rack up points to unprecedented levels and create even more "
@@ -944,7 +969,7 @@ msgstr ""
 "seviyelere çıkarmanızı ve oyun sahasında daha da fazla yıkım oluşturmanızı "
 "sağlayan yükseltmeler de mevcut."
 
-#: BallBouncer/docs/en/changelog.md:block 42 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 47 (paragraph)
 msgid ""
 "To reach the true heights, you’ll have to spend dozens of hours, but don’t "
 "be scared — those hours will be filled with unrestrained chaos of "
@@ -954,23 +979,23 @@ msgstr ""
 "ancak korkmayın - bu saatler sınırsız yok etme dolu kaos ve hak edilmiş "
 "ödüllerin tatlılığı ile dolu olacak!"
 
-#: BallBouncer/docs/en/changelog.md:block 44 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 49 (unordered list)
 msgid "New content added."
 msgstr "Yeni içerik eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 44 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 49 (unordered list)
 msgid "Three new modes, each with its own currency."
 msgstr "Her biri kendine özgü para birimi olan üç yeni mod eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 44 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 49 (unordered list)
 msgid "A quest board."
 msgstr "Görev panosu."
 
-#: BallBouncer/docs/en/changelog.md:block 44 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 49 (unordered list)
 msgid "New statistics items."
 msgstr "Yeni istatistik öğeleri."
 
-#: BallBouncer/docs/en/changelog.md:block 44 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 49 (unordered list)
 msgid ""
 "New objects, skills, and auras, unlocked with the currencies of the new "
 "modes."
@@ -978,7 +1003,7 @@ msgstr ""
 "Yeni modların para birimleriyle kilidi açılan yeni nesneler, beceriler ve "
 "auralar."
 
-#: BallBouncer/docs/en/changelog.md:block 44 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 49 (unordered list)
 msgid ""
 "As well as many different upgrades that affect both the new modes and the "
 "normal game."
@@ -986,11 +1011,11 @@ msgstr ""
 "Bunun yanısıra, hem yeni modları hem de normal modu etkileyen çok çeşitli "
 "beceriler."
 
-#: BallBouncer/docs/en/changelog.md:block 44 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 49 (unordered list)
 msgid "The ability to view the descriptions of game modes has been added."
 msgstr "Oyun modlarının açıklamalarını görüntüleyebilme özelliği eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 44 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 49 (unordered list)
 msgid ""
 "To open the description, select a mode from the list on the new game start "
 "screen and press the D key, or click the \"Open Mode Description\" button."
@@ -998,11 +1023,11 @@ msgstr ""
 "Açıklamayı açmak için, yeni oyun başlat ekranındaki listeden modu seçip D "
 "tuşuna basın veya \"mod açıklamasını aç\" düğmesine tıklayın."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid "Now auras can be active or inactive."
 msgstr "Auralar etkin veya devre dışı olabiliyor."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "Initially, you can use only two auras at the same time, but in the future, "
 "the number of active auras can be increased, as well as new ones can be "
@@ -1011,7 +1036,7 @@ msgstr ""
 "Başlangıçta, aynı anda sadece iki aura kullanabilirsiniz, fakat gelecekte, "
 "aktif aura sayısı artırılabilir ve yeni auralar elde edilebilir."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "You can also open the description of an aura, except for the leader and time "
 "auras, by pressing the corresponding button on the auras tab in the profile."
@@ -1019,7 +1044,7 @@ msgstr ""
 "Ayrıca, profilinizdeki auralar sekmesinde ilgili düğmeye basarak, lider ve "
 "zaman auraları dışında bir auranın açıklamasını da açabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "The balance of points awarded for high streaks of collisions, object "
 "destructions, and ball bounces off the ceiling has been adjusted."
@@ -1027,7 +1052,7 @@ msgstr ""
 "Yüksek çarpışma, nesne yok etme ve tavandan seken top serileri için verilen "
 "puan dengesi ayarlandı."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "The upgrade cost for the Leader and Time auras has been increased. If your "
 "aura level is above five, it will be reset to zero, and the achievement "
@@ -1037,7 +1062,7 @@ msgstr ""
 "beşin üzerindeyse, sıfıra sıfırlanacak ve yükseltme için harcanan başarı "
 "puanları geri verilecek."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "Now you can activate menu items by pressing the Enter key on the numpad, and "
 "also hold Enter on buttons for rapid activations."
@@ -1045,7 +1070,7 @@ msgstr ""
 "Menü öğelerini numaratördeki enter tuşu ile etkinleştirebilir ve düğmeleri "
 "hızlıca etkinleştirmek için enter tuşunu basılı tutabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "The calculation of the coin reward has been refined for final scores over "
 "two million."
@@ -1053,7 +1078,7 @@ msgstr ""
 "İki milyonun üzerindeki puanlar için para ödülünün hesaplanması "
 "iyileştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "The behavior of the sound playback for checking the character's position has "
 "been changed."
@@ -1061,7 +1086,7 @@ msgstr ""
 "Oyuncunun pozisyonunu kontrol etmek için sesin oynatılma davranışı "
 "değiştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "Previously: The sound played at the character's position in the field center "
 "view, and played at the center of the field in the first-person view."
@@ -1069,7 +1094,7 @@ msgstr ""
 "Önceden; ses saha ortasında modundayken oyuncunun olduğu yerden; birinci "
 "şahıs modunda ise sahanın ortasından çalınıyordu."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "Now: The sound always plays at the character's position, except when the "
 "first-person view is active and ball watch mode is turned off. In this case, "
@@ -1079,15 +1104,15 @@ msgstr ""
 "tüm durumlarda, ses her zaman oyuncunun bulunduğu yerde çalıyor. Aksi "
 "takdirde, ses sahanın merkezinden çalıyor."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid "The learn sounds screen has been redesigned."
 msgstr "Sesleri öğrenme ekranı yeniden tasarlandı."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid "The menu has been replaced with a virtual form."
 msgstr "Menü, sanal bir form ile değiştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "Sounds, both from the base game and new modes, are now organized into "
 "separate tabs of the form for easier navigation and the ability to listen to "
@@ -1096,15 +1121,15 @@ msgstr ""
 "Hem temel oyun hem de yeni modların sesleri, daha kolay gezinme ve oyun "
 "sırasında bunları dinleme olanağı için  formun ayrı sekmelerinde toplandı."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid "The method of recording gameplay has been changed."
 msgstr "Oyunu kaydetme yöntemi değiştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid "Now, recordings are saved in MP3 format."
 msgstr "Kayıtlar mp3 formatında kaydediliyor."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "The old recording method has been disabled, but it is still possible to play "
 "previously recorded files."
@@ -1112,35 +1137,35 @@ msgstr ""
 "Eski kayıt yöntemi devre dışı bırakıldı, ancak hala önceden çalınan dosyalar "
 "oynatılabilir."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid "New recordings will be located in userData/mp3recordings."
 msgstr "Yeni kayıtlar, userData/mp3recordings klasöründe bulunabilir."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "The ability to play recordings in the old format will be removed in version "
 "1.5.0."
 msgstr ""
 "Eski formattaki kayıtları oynatma özelliği 1.5.0 sürümünde kaldırılacak."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid "Minor changes and inconsistencies fixed in English translation."
 msgstr ""
 "İngilizce çeviride küçük değişiklikler yapıldı ve tutarsızlıklar düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid "Setting skill levels in training mode has been fixed."
 msgstr "Antrenman modunda beceri seviyelerini ayarlama düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid "Now, changing skill levels will have an effect on the game session."
 msgstr "Beceri seviyelerini değiştirmek oyun oturumunu etkileyecek."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid "Also, now you can set any skill level up to the maximum possible."
 msgstr "Ayrıca, becerilerin seviyelerini maksimuma çıkarabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "A critical bug has been fixed when changing controls configuration during "
 "gameplay."
@@ -1148,7 +1173,7 @@ msgstr ""
 "Oyun oynama esnasında tuş atamalarını değiştirirken kritik bir hata "
 "düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "The issue where the camera did not follow the character during a jump or "
 "when using the \"Furious leap\" skill has been fixed."
@@ -1156,7 +1181,7 @@ msgstr ""
 "Atlarken veya öfkeli sıçrayış becerisini kullanırken kameranın oyuncuyu "
 "takip etmeme sorunu düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "The accuracy of the character's hit on the ball when using the \"Furious "
 "leap\" skill has been increased."
@@ -1164,13 +1189,13 @@ msgstr ""
 "Öfkeli sıçrayış becerisini kullanırken oyuncunun topa vurma doğruluğu "
 "artırıldı."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "Now, when the character jumps, the penalty timer for staying in one place is "
 "reset."
 msgstr "Oyuncu atlarsa aynı yerde kalındığı için ceza sıfırlanıyor."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "The issue that allowed opening the object map and pausing the game "
 "simultaneously, leading to strange and undesirable behavior, has been fixed."
@@ -1178,7 +1203,7 @@ msgstr ""
 "Aynı anda Nesne haritasının açılmasına ve oyunun duraklatılmasına izin "
 "veren, garip ve istenmeyen davranışlara yol açan sorun düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "The error in the calculation of points for object destruction has been "
 "fixed. As a result, fewer points are now awarded for this."
@@ -1186,7 +1211,7 @@ msgstr ""
 "Nesne yok etme hesaplamasındaki hata düzeltildi. Sonuç olarak daha az puan "
 "veriliyor."
 
-#: BallBouncer/docs/en/changelog.md:block 46 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 51 (unordered list)
 msgid ""
 "Incorrect setting of the skill cooldown time after an unsuccessful attempt "
 "has been fixed."
@@ -1194,60 +1219,56 @@ msgstr ""
 "Başarısız bir girişimden sonra beceri bekleme süresinin yanlış ayarlanması "
 "sorunu düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 47 (header)
+#: BallBouncer/docs/en/changelog.md:block 52 (header)
 msgid "1.2.4"
 msgstr "1.2.4"
 
-#: BallBouncer/docs/en/changelog.md:block 49 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 54 (unordered list)
 msgid "Updated and corrected translations."
 msgstr "Çeviriler güncellendi ve düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 50 (header)
+#: BallBouncer/docs/en/changelog.md:block 55 (header)
 msgid "1.2.3"
 msgstr "1.2.3"
 
-#: BallBouncer/docs/en/changelog.md:block 52 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 57 (unordered list)
 msgid "New translations added."
 msgstr "Yeni çeviriler eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 52 (unordered list)
-msgid "Czech. Translator [4sensegaming](https://github.com/4sensegaming)."
-msgstr "Çekçe. Çevirmen [4sensegaming](https://github.com/4sensegaming)."
-
-#: BallBouncer/docs/en/changelog.md:block 54 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 59 (unordered list)
 msgid "Resolved a minor issue in the Turkish translation."
 msgstr "Türkçe çeviride küçük bir hata düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 54 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 59 (unordered list)
 msgid "Fixed incorrect display of in-game help."
 msgstr "Oyun içi yardımın yanlış görüntülenmesi sorunu düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 54 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 59 (unordered list)
 msgid "Fixed a potential critical error when loading a recording."
 msgstr "Oyun kaydını açarken potansiyel kritik bir hata düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 55 (header)
+#: BallBouncer/docs/en/changelog.md:block 60 (header)
 msgid "1.2.2"
 msgstr "1.2.2"
 
-#: BallBouncer/docs/en/changelog.md:block 56 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 61 (paragraph)
 msgid "Updated Turkish and Indonesian translations."
 msgstr "Türkçe ve Endonezya dili çevirileri güncellendi."
 
-#: BallBouncer/docs/en/changelog.md:block 57 (header)
+#: BallBouncer/docs/en/changelog.md:block 62 (header)
 msgid "1.2.1"
 msgstr "1.2.1"
 
-#: BallBouncer/docs/en/changelog.md:block 58 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 63 (paragraph)
 msgid "This update fixes several critical bugs for Linux users."
 msgstr ""
 "Bu güncelleme, Linux kullanıcıları için birkaç kritik hatayı düzeltiyor."
 
-#: BallBouncer/docs/en/changelog.md:block 59 (header)
+#: BallBouncer/docs/en/changelog.md:block 64 (header)
 msgid "1.2.0"
 msgstr "1.2.0"
 
-#: BallBouncer/docs/en/changelog.md:block 60 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 65 (paragraph)
 msgid ""
 "This version is aimed at further improving the user experience and existing "
 "content polishing. Now you can reassign keyboard shortcuts as you wish. It "
@@ -1261,7 +1282,7 @@ msgstr ""
 "kullanarak kayıtları oynatabilirsiniz. Ayrıca nesne haritası ve diğer bazı "
 "iyileştirmeler ve düzeltmeler de mevcut."
 
-#: BallBouncer/docs/en/changelog.md:block 61 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 66 (paragraph)
 msgid ""
 "We have opened the official [github translation repository](https://github."
 "com/sooslandia/translations). If you want to translate the game and have the "
@@ -1271,17 +1292,17 @@ msgstr ""
 "Kullanıma sunduk. Oyunu diğer dillere çevirmek istiyorsanız ve yeteneğiniz "
 "varsa, yardımınızı kabul etmekten memnuniyet duyarız."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "Indonesian. Translator [MuhammadGagah](https://github.com/MuhammadGagah)."
 msgstr ""
 "Endonezya dili. Çevirmen [MuhammadGagah](https://github.com/MuhammadGagah)."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid "You can now change the default keyboard shortcuts."
 msgstr "Varsayılan klavye kısayollarını değiştirebilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "To do that, click the \"Customize Keyboard Shortcuts\" button located on the "
 "\"Keyboard Shortcut Configuration\" tab on the Settings screen."
@@ -1289,7 +1310,7 @@ msgstr ""
 "Bunu yapmak için, ayarlar ekranında, \"klavye kısayolu ayarları\" sekmesinde "
 "bulunan \"klavye kısayollarını özelleştir\" düğmesine tıklayın."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "Your configuration file is located in the user data folder (userData) and is "
 "called keyConfig.json. You can share your configuration with other people. "
@@ -1302,7 +1323,7 @@ msgstr ""
 "birinin ayarlarının sizde çalışması için ayar dosyanızı diğer kişiden "
 "aldığınız dosyayla değiştirmeniz gerekir."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "You can find out more about configuration setting in the corresponding "
 "section of the documentation."
@@ -1310,11 +1331,11 @@ msgstr ""
 "Yapılandırma ayarlama hakkında daha fazla bilgiyi kılavuzun ilgili "
 "bölümünden bulabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid "You can now record your gameplay."
 msgstr "Oyununuzu kayıt altına alabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "You can check the box that determines whether your gaming session will be "
 "recorded on the updated game mode selection screen. The recording behavior "
@@ -1324,14 +1345,14 @@ msgstr ""
 "oyun modu seçim ekranından işaretleyebilirsiniz. Kayıt davranışı, Ayarlar "
 "ekranının Kayıt sekmesinden ayarlanabilir."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "You can play recordings from the recordings menu, which can be accessed by "
 "activating the corresponding item in the main menu."
 msgstr ""
 "Kayıtları, ana menüden \"oyun kayıtları\" öğesine erişerek oynatabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "Recordings are saved in the recordings folder, located in the user data "
 "folder (userData) and have a .sgr extension. The recording file can be "
@@ -1345,7 +1366,7 @@ msgstr ""
 "kaydının oyun tarafından algılanabilmesi için oyunun kayıt klasörüne "
 "yerleştirilmesi gerekir."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "Information about how the recording player works and its control keys can be "
 "found in the corresponding section of the documentation."
@@ -1353,15 +1374,15 @@ msgstr ""
 "Kayıt oynatıcının nasıl çalıştığı ve oynatıcının kısayol tuşları hakkında "
 "bilgi, kılavuzun ilgili bölümünden edinilebilir."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid "Added object map."
 msgstr "Nesne haritası eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid "It can be opened with the m key during a gaming session."
 msgstr "Oyun esnasında m tuşu ile açılabilir."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "Navigate the map using the arrow keys. You can also find out how many "
 "objects are on the map by pressing the o key."
@@ -1369,7 +1390,7 @@ msgstr ""
 "Haritada yön tuşlarını kullanarak gezinebilirsiniz. Ayrıca, haritada ne "
 "kadar nesne bulunduğunu o tuşuna basarak öğrenebilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "There are two navigation modes, which you can read about in the "
 "corresponding section of the documentation."
@@ -1377,23 +1398,23 @@ msgstr ""
 "Haritanın, Kılavuzun nesne haritası bölümünde okuyabileceğiniz iki dolaşım "
 "modu vardır."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "All object map hotkeys can be changed in the keyboard shortcut configuration."
 msgstr ""
 "Tüm nesne haritası kısayol tuşları, klavye kısayolu ayarlarından "
 "değiştirilebilir."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid "Training mode is expanded as well."
 msgstr "Ayrıca antrenman modu da genişletilmiştir."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid "You can now instantly zero the cooldown of all skills by pressing f1."
 msgstr ""
 "Tüm becerilerin bekleme sürelerini f1 tuşuna basarak sıfırlayabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "When you press the f2 key, a screen will open where you can change the "
 "levels of your skills and blow force recovery rate. This screen only "
@@ -1405,7 +1426,7 @@ msgstr ""
 "sadece sahip olduğunuz becerileri gösterir. Becerilerinizin seviyesini "
 "sadece 1. seviyeden mevcut maksimum seviyeye değiştirebilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "In the settings, on the \"Behavior\" tab, a checkbox has been added that "
 "determines whether the first-person view state will be saved between game "
@@ -1415,7 +1436,7 @@ msgstr ""
 "arasında kaydedilip kaydedilmeyeceğini ayarlayabileceğiniz bir onay kutusu "
 "eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "It is now possible to delete saved game progress and reset settings to "
 "default values."
@@ -1423,11 +1444,11 @@ msgstr ""
 "Kayıtlı oyun ilerlemesi silinebilir ve ayarlar varsayılan değerlere "
 "sıfırlanabilir."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid "This can be done in the settings, on the \"General\" tab."
 msgstr "Bu, ayarlarda, genel sekmesinden yapılabilir."
 
-#: BallBouncer/docs/en/changelog.md:block 63 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 68 (unordered list)
 msgid ""
 "You will not be able to reset settings or delete your progress if you "
 "accessed settings through the pause menu."
@@ -1435,11 +1456,11 @@ msgstr ""
 "Ayarlara duraklama menüsünden eriştiyseniz, ayarları sıfırlayamaz veya oyun "
 "ilerlemenizi silemezsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 65 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
 msgid "The game mode selection screen has been changed."
 msgstr "Oyun modu seçim ekranı değiştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 65 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
 msgid ""
 "the screen is now represented by a virtual form instead of a menu. "
 "Navigation is similar to the settings or profile screen."
@@ -1447,18 +1468,18 @@ msgstr ""
 "ekran, menü yerine bir sanal form ile gösteriliyor. Dolaşım, ayarlar veya "
 "profil ekranlarına benziyor."
 
-#: BallBouncer/docs/en/changelog.md:block 65 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
 msgid ""
 "From the new screen you can determine whether the game session will be "
 "recorded."
 msgstr ""
 "Yeni ekrandan oyununuzun kaydedilip kaydedilmeyeceğini ayarlayabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 65 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
 msgid "Improved profile screen interface."
 msgstr "Profil ekranı arayüzü iyileştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 65 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
 msgid ""
 "Now any item from the statistics list can be copied to the clipboard by "
 "pressing ctrl+c."
@@ -1466,20 +1487,20 @@ msgstr ""
 "İstatistik ekranındaki herhangi bir öğe ctrl+c tuşuna basılarak "
 "kopyalanabiliyor."
 
-#: BallBouncer/docs/en/changelog.md:block 65 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
 msgid ""
 "The statistics tab now displays the current number of achievement points."
 msgstr "İstatistik ekranı mevcut başarı puanlarınızı gösteriyor."
 
-#: BallBouncer/docs/en/changelog.md:block 65 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
 msgid "Auras now display their bonus as well."
 msgstr "Auralar ayrıca bonuslarını da görüntülüyor."
 
-#: BallBouncer/docs/en/changelog.md:block 65 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
 msgid "Slight changes to the game balance."
 msgstr "Oyun dengesinde hafif değişiklikler yapıldı."
 
-#: BallBouncer/docs/en/changelog.md:block 65 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
 msgid ""
 "Now for every hundred points up to a thousand, one coin will be awarded. For "
 "example, you scored 678 points, in which case you will receive 7 coins, and "
@@ -1489,7 +1510,7 @@ msgstr ""
 "kazandınız, bu durumda daha önce olduğu gibi bir para değil, yedi para "
 "alacaksınız."
 
-#: BallBouncer/docs/en/changelog.md:block 65 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
 msgid ""
 "After a thousand points, everything remains as before, but the 10 coins "
 "received remain with you. For example, you scored 1234 points, in which case "
@@ -1498,11 +1519,11 @@ msgstr ""
 "Bin puandan sonra her şey eskisi gibi devam eder, ancak alınan on para size "
 "kalır. Örneğin 1234 puan kazandıysanız bu durumda 11 para alırsınız."
 
-#: BallBouncer/docs/en/changelog.md:block 65 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
 msgid "The maximum number of objects on the field has been increased."
 msgstr "Sahadaki maksimum nesne sayısı artırıldı."
 
-#: BallBouncer/docs/en/changelog.md:block 65 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
 msgid ""
 "Now the sound played by pressing the c key in first person camera mode will "
 "play in the center of the field."
@@ -1510,7 +1531,7 @@ msgstr ""
 "Birinci şahıs kamera modunda c tuşuna basıldığında çalan ses sahanın "
 "ortasından çalınacak."
 
-#: BallBouncer/docs/en/changelog.md:block 65 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
 msgid ""
 "The file name format with critical error data has been changed to (error "
 "yyyy_MM_dd hh-mm-ss.log)"
@@ -1518,7 +1539,7 @@ msgstr ""
 "Kritik hata verisi olan dosya adı error yyyy_MM_dd hh-mm-ss.log) olarak "
 "değiştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 67 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 72 (unordered list)
 msgid ""
 "Now, when critical errors are displayed, the sound will be completely muted "
 "instead of looping."
@@ -1526,15 +1547,15 @@ msgstr ""
 ", kritik hatalar görüntülendiğinde ses döngüye alınmak yerine tamamen "
 "susturulacak."
 
-#: BallBouncer/docs/en/changelog.md:block 67 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 72 (unordered list)
 msgid "Improved game stability in some cases."
 msgstr "Bazı durumlarda oyun kararlılığı iyileştirildi."
 
-#: BallBouncer/docs/en/changelog.md:block 68 (header)
+#: BallBouncer/docs/en/changelog.md:block 73 (header)
 msgid "1.1.1"
 msgstr "1.1.1"
 
-#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 75 (unordered list)
 msgid ""
 "Fixed a critical bug that occurred when the first person mode and the ball "
 "watch mode were active at the same time."
@@ -1542,15 +1563,15 @@ msgstr ""
 "Birinci şahıs modu ve top izleme modu aynı anda etkinken ortaya çıkan kritik "
 "bir hata düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 70 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 75 (unordered list)
 msgid "Fixed some other minor bugs."
 msgstr "Diğer küçük hatalar düzeltildi."
 
-#: BallBouncer/docs/en/changelog.md:block 71 (header)
+#: BallBouncer/docs/en/changelog.md:block 76 (header)
 msgid "1.1.0"
 msgstr "1.1.0"
 
-#: BallBouncer/docs/en/changelog.md:block 72 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 77 (paragraph)
 msgid ""
 "This version is focused on improving the user experiance: Successful bat hit "
 "sound, first person camera view, alternative bat swing keys, etc."
@@ -1558,7 +1579,7 @@ msgstr ""
 "Bu sürüm, kullanıcı deneyimini iyileştirme odaklıdır: Başarılı sopa vuruş "
 "sesi, birinci şahıs kamera görünümü, alternatif sopa savurma tuşları vs."
 
-#: BallBouncer/docs/en/changelog.md:block 74 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 79 (unordered list)
 msgid ""
 "The game now supports translations that are missing one or more strings. If "
 "a string is not found, the game falls back to English localization strings."
@@ -1566,7 +1587,7 @@ msgstr ""
 "Oyun  bir veya daha fazla dizesi eksik olan çevirileri destekliyor. Bir dize "
 "bulunamazsa oyun İngilizce dizelere geri dönüyor."
 
-#: BallBouncer/docs/en/changelog.md:block 74 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 79 (unordered list)
 msgid ""
 "In ball watching mode, a background sound has been attached to the ceiling, "
 "which will help make watching more spectacular."
@@ -1574,7 +1595,7 @@ msgstr ""
 "Top izleme modunda tavana bir arka plan sesi eklendi, bu da izlemeyi daha "
 "göz alıcı hale getirmeye yardımcı olacak."
 
-#: BallBouncer/docs/en/changelog.md:block 74 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 79 (unordered list)
 msgid ""
 "Added a sound to indicate when the bat succesfully hits the ball. By "
 "default, the notification is disabled; it is enabled in the settings, on the "
@@ -1584,7 +1605,7 @@ msgstr ""
 "Varsayılan olarak bildirim devre dışıdır; ayarlardaki \"Davranış\" "
 "sekmesinden etkinleştirilebilir."
 
-#: BallBouncer/docs/en/changelog.md:block 74 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 79 (unordered list)
 msgid ""
 "Implemented first-person camera mode. To switch between modes, press v while "
 "playing."
@@ -1592,7 +1613,7 @@ msgstr ""
 "Birinci şahıs kamera modu eklendi. Modlar arasında geçiş yapmak için, "
 "oynarken v tuşuna basın."
 
-#: BallBouncer/docs/en/changelog.md:block 74 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 79 (unordered list)
 msgid ""
 "Errors during the update are now written to a file that will be located in "
 "the userData/errorLogs folder."
@@ -1600,25 +1621,25 @@ msgstr ""
 "Güncelleme sırasında oluşan hatalar  userData/errorLogs klasöründe bulunan "
 "bir dosyaya yazılacak."
 
-#: BallBouncer/docs/en/changelog.md:block 74 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 79 (unordered list)
 msgid ""
 "Added temporary alternative keys for making horizontal and vertical bat "
 "swings."
 msgstr ""
 "Sopayı dikey veya yatay şekilde savurmak için alternatif tuşlar eklendi."
 
-#: BallBouncer/docs/en/changelog.md:block 74 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 79 (unordered list)
 msgid ""
 "For a horizontal swing, use the e key, for a vertical swing, use the r key."
 msgstr ""
 "Dikey savurma için r, yatay savurma için ise e tuşunu kullanabilirsiniz."
 
-#: BallBouncer/docs/en/changelog.md:block 74 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 79 (unordered list)
 msgid ""
 "This solution is temporary and remains until the key config is implemented."
 msgstr "Bu çözüm geçicidir ve tuş ayarları uygulanana kadar geçerli olacaktır."
 
-#: BallBouncer/docs/en/changelog.md:block 74 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 79 (unordered list)
 msgid ""
 "Now items with an available reward in the statistics list are at the "
 "beginning of the list."
@@ -1626,7 +1647,7 @@ msgstr ""
 "İstatistik listesinde, ödül mevcut olan öğeler listenin en başında yer "
 "alacak."
 
-#: BallBouncer/docs/en/changelog.md:block 76 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 81 (unordered list)
 msgid ""
 "Increased points received for perfect strike streeks, ball bounces off the "
 "ceiling and ball with object collisions streeks."
@@ -1634,23 +1655,23 @@ msgstr ""
 "Mükemmel vuruş serileri, top tavandan sekme ve topun nesneye çarpması "
 "serileri için puan artırıldı."
 
-#: BallBouncer/docs/en/changelog.md:block 76 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 81 (unordered list)
 msgid "Documentation has been updated to take new features into account."
 msgstr "Yeni değişiklikleri göz önüne almak amacıyla kılavuz güncellendi."
 
-#: BallBouncer/docs/en/changelog.md:block 78 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 83 (unordered list)
 msgid "Increased the volume of the landing sound after a jump."
 msgstr "Sıçramadan sonra iniş sesinin ses seviyesi artırıldı."
 
-#: BallBouncer/docs/en/changelog.md:block 78 (unordered list)
+#: BallBouncer/docs/en/changelog.md:block 83 (unordered list)
 msgid ""
 "Now the leader's aura does not increase the points lost due to penalties."
 msgstr "Lider aurası cezalar için puanları arttırmıyor."
 
-#: BallBouncer/docs/en/changelog.md:block 79 (header)
+#: BallBouncer/docs/en/changelog.md:block 84 (header)
 msgid "1.0.0"
 msgstr "1.0.0"
 
-#: BallBouncer/docs/en/changelog.md:block 80 (paragraph)
+#: BallBouncer/docs/en/changelog.md:block 85 (paragraph)
 msgid "Initial release."
 msgstr "İlk sürüm."
