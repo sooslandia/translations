@@ -18,13 +18,13 @@ ničení předmětů.
 Dokážeš ale opravdu uvažovat dopředu, když se všude kolem tebe rozbíjejí hrnky,
 misky, skříňky a televize?
 
-Nepředvídatelné odrazy míče dokážou vyvolávat vzrušující řetězové reakce, takže
+Nepředvídatelné odrazy míče můžou vyvolávat vzrušující řetězové reakce, takže
 před sebou budeš mít stále nějakou výzvu a tvůj styl hraní se bude neustále
 měnit.
 
 Ball Bouncer ti dává svobodu najít si vlastní strategii pro dosažení co
 nejvyššího skóre s pomocí nejrůznějších schopností, funkcí a vylepšení, která si
-můžeš odemknout a potom postupně vylepšovat v obchodě. Dokážeš překonat svoje
+můžeš odemykat a potom postupně vylepšovat v obchodě. Zvládneš překonat svoje
 předchozí skóre? Na konci každé hry se získané body převedou na mince. Utrácej
 je s rozvahou!
 
@@ -55,8 +55,8 @@ Pokud se ti nelíbí zvuk míče, dá se změnit v nastavení na kartě "Zvuk". 
 výběr z pěti možností. Můžeš to udělat i přímo během hry tak, že otevřeš
 nastavení z menu Pauza. Zvuk míče se změní, jakmile hru zase odpauzuješ.
 
-You can also change the ball sound during gameplay. To do this, enter Ball watch
-mode by holding the G key, then press L to change the sound.
+Zvuk míče můžeš měnit i během hry. Uděláš to tak, že v režimu sledování míče (při
+držení klávesy G) přistiskneš zároveň i klávesu L.
 
 ### Navigace
 
@@ -68,7 +68,7 @@ shift+tab dopředu a dozadu. Enterem nebo mezerníkem aktivuješ vybraný prvek.
 seznamech se pohybuješ šipkami nahoru a dolů. Šipkami měníš i hodnoty posuvníků.
 Z jedné karty na druhou se přepínáš šipkou doleva nebo doprava.
 
-Na obrazovce obchodu enterem na vybrané položce otevřeš její podrobný popis.
+Na obrazovce Obchod enterem na vybrané položce otevřeš její podrobný popis.
 
 Stisknutím enteru na kterékoli položce seznamu na záložce Statistiky v profilu si
 pro danou položku můžeš vyzvednout odměnu, pokud je nějaká zrovna dostupná.
@@ -100,11 +100,11 @@ jejich úrovně, pokud je máš uložené v některém z dostupných slotů, pod
 stejného principu jako rychlost obnovy síly úderu.
 
 Když stiskneš F1, všechny schopnosti, které máš uložené ve slotech, se okamžitě
-dobijí a budou dostupné k dalšímu použití.
+dobijí a budou připravené k dalšímu použití.
 
-If you press the B key and the ball is on the field, you will hear an audio cue
-indicating how high the ball is, along with a sound played in the ball’s pitch.
-This feature works in all modes.
+Pokud stiskneš klávesu B a míč je zrovna na hrací ploše, přečte se slovní
+oznámení, jak vysoko míč právě je, a zároveň se přehraje i zvuk se stejnou
+výškou, jakou má samotný zvuk míče. Tuto funkci můžeš používat ve všech režimech.
 
 Tyto klávesy si můžeš změnit v nastavení ovládání.
 
@@ -125,7 +125,7 @@ postavy. To ti umožní lépe odhadnout, kde se právě postava nachází, když
 snažíš odpálit míč.
 
 Levým nebo pravým shiftem můžeš měnit směr, kterým je postava otočená. Při pohybu
-postavy se směr jejího pohledu mění automaticky.
+se směr pohledu postavy mění automaticky.
 
 Nejprve musíš míč hodit, aby se objevil na hrací ploše. To uděláš klávesou "F".
 
@@ -138,8 +138,8 @@ Existují dva typy hodu:
 
 + Normální: Provedeš ho klávesou F. Míč začne létat obloukem ve směru, kterým je
 postava otočená.
-+ Svislý: Provedeš ho podržením klávesy alt a současným stisknutím klávesy F. Míč
-začne létat podél svislé osy, ale zároveň se bude mírně pohybovat i podél
++ Vertikální: Provedeš ho podržením klávesy alt a současným stisknutím klávesy F.
+Míč začne létat podél svislé osy, ale zároveň se bude mírně pohybovat i podél
 vodorovné osy ve směru, kterým je postava otočená.
 
 Cílem hry je zničit co nejvíc předmětů a získat za ně body. Míč má vždy tendenci
@@ -147,11 +147,11 @@ padat a ty ho musíš pálkou odpálit zpátky nahoru.
 
 Míč můžeš odpálit dvěma způsoby:
 
-+ Samotným mezerníkem: Tímto způsobem zasadíš míči silný vodorovný úder ve směru,
-kterým je otočená postava.
++ Samotným mezerníkem: Tímto způsobem zasadíš míči silný horizontální úder ve
+směru, kterým je otočená postava.
 + Podržením altu a současným stisknutím mezerníku: Tímto způsobem zasadíš míči
-silný svislý úder, takže si udrží vodorovný směr letu bez ohledu na to, kterým
-směrem je právě otočená postava.
+silný vertikální úder, takže si udrží horizontální směr letu bez ohledu na to,
+kterým směrem je právě otočená postava.
 
 Míč můžeš odpálit, pouze pokud jsi u něj dost blízko. Po každém máchnutí pálkou
 se postavě začne postupně obnovovat síla úderu. Až se plně obnoví, přehraje se
@@ -274,8 +274,8 @@ ve vodorovném směru. Pohybem nahoru nebo dolů se kurzor přesune na nejbliž�
 předmět ve svislém směru a přeskočí prázdné řádky.
 
 Kromě klasického kurzoru se na mapě nachází i pozorovací bod, který je umístěn ve
-středu hrací plochy a dá se s ním pohybovat svisle. Všechny zvuky předmětů se
-přehrávají vzhledem k tomuto bodu.
+středu hrací plochy a dá se s ním pohybovat vertikálně. Všechny zvuky předmětů
+se přehrávají vzhledem k tomuto bodu.
 
 Pozorovací bod můžeš přesouvat klávesami "W" - nahoru - a "S" - dolů. V tomto
 případě se ozve zvuk, jehož výška se bude měnit podle pozice pozorovacího bodu,
@@ -296,8 +296,8 @@ Důležité: V režimu Trénink nahrávání nefunguje.
 Chceš-li začít nahrávat, ujisti se, že je zaškrtnuté políčko "Nahrávat hru" na
 obrazovce výběru režimu hry. Nahrávání se spustí hned po úvodním odpočítávání.
 
-V nastavení na kartě "Nahrávání" si můžeš nastavit, jestli se má nahrávka uložit
-a případně přerušit při přerušení hry z menu Pauza.
+V nastavení na kartě "Nahrávání" si můžeš nastavit, jestli se má nahrávka uložit,
+nebo zrušit při přerušení hry z menu Pauza.
 
 Tvoje nahrávky jsou umístěny ve složce s uživatelskými daty hry ("userData") a
 podsložce "mp3recordings" a mají příponu ".mp3".
@@ -343,27 +343,27 @@ Všechny klávesy uvedené v této části si můžeš upravit v nastavení ovl�
 | Pohyb postavy doprava / doleva | Šipka doprava / doleva nebo klávesa D / A |
 | Přehrání zvuku z pozice postavy nebo ze středu hrací plochy (záleží na nastaveném způsobu pohledu). | C |
 | Otočení postavy doprava / doleva | Pravý / levý shift |
-| Máchnutí pálkou (vodorovný odpal) | Mezerník, S nebo E |
-| Máchnutí pálkou (svislý odpal) | Alt+mezerník, alt+S nebo R |
+| Máchnutí pálkou (horizontální odpal) | Mezerník, S nebo E |
+| Máchnutí pálkou (vertikální odpal) | Alt+mezerník, alt+S nebo R |
 | Hození míče obloukem | F |
-| Hození míče svisle | alt+F |
-| Switch ball sound | l (only when Ball watch mode is active) |
+| Hození míče vertikálně | alt+F |
+| Přepínání zvuku míče | L (pouze v režimu sledování míče) |
 | Přepnutí kamery do režimu sledování míče | Podrž G |
 | Přepnutí kamery do normálního režimu | Pusť G |
-| Přepnutí kamery mezi pohledem z pozice postavy a pohledem ze středu hrací plochy | V |
+| Přepínání kamery mezi pohledem z pozice postavy a pohledem ze středu hrací plochy | V |
 | Skok (pokud je tato funkce odemčena) | Šipka nahoru nebo W |
 | Chycení míče (pokud je tato funkce odemčena) | Levý nebo pravý control |
 | Výběr schopnosti ve slotu od 1 do 10 (pokud je v daném slotu nějaká schopnost uložena) | 1 až 0 / numerická 1 až numerická 0 |
 | Zrušení výběru schopnosti ve slotu | Středník / numerický enter |
-| Switch to the previous ready to use skill | Minus (-) / Numpad Minus (-) |
-| Switch to the next ready to use skill | Equals (=) / Numpad Multiply (*) |
+| Přepnutí na předchozí nabitou schopnost | Pomlčka (-) / numerická pomlčka (-) |
+| Přepnutí na následující nabitou schopnost | Rovná se (=) / numerická hvězdička (*) |
 | Aktivace/deaktivace hvězdného modulu uloženého ve slotu 1 až 4 (pokud je v daném slotu nějaký modul uložen). | Alt + klávesy 1 až 4 / numerická 1 až numerická 4 |
 | Aktivace speciálního předmětu (je-li to v daném režimu možné). | X |
 | Zjištění množství dostupné hvězdné energie (pokud máš alespoň jeden hvězdný modul a používání modulů je v daném režimu povoleno) | Y |
 | Otevření mapy předmětů | M |
 | Zjištění zbývajícího času do konce hry | T |
 | Zjištění aktuálního skóre | P |
-| Find out how high the ball is | b |
+| Zjištění, jak je míč vysoko | B |
 | Zapauzování hry | Escape |
 
 ### Režim Trénink
@@ -380,8 +380,8 @@ Všechny klávesy uvedené v této části si můžeš upravit v nastavení ovl�
 | Pohyb kurzoru | Kurzorové šipky |
 | Posunutí pozorovacího bodu níž | S |
 | Posunutí pozorovacího bodu výš | W |
-| Přepnutí oznamování typu předmětů | F1 |
-| Přepnutí režimu pohybu kurzoru | F2 |
+| Přepínání oznamování typu předmětů | F1 |
+| Přepínání režimu pohybu kurzoru | F2 |
 | Zjištění počtu předmětů na mapě | O |
 
 ### Nastavení ovládání
@@ -430,7 +430,7 @@ převádět překlady z jednoho formátu do druhého pomocí skriptů a udržova
 strukturu uložených dat v pořádku.
 
 Pokud máš jakékoli potíže, kontaktuj nás a požádej o pomoc v Telegramové skupině,
-na Discordu nebo e-mailem. Odkazy na výše uvedené hledej v sekci "Závěrem".
+na Discordu nebo e-mailem. Příslušné odkazy najdeš v sekci "Závěrem".
 
 ## Závěrem
 
