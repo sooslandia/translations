@@ -1,160 +1,169 @@
 % değişiklik günlüğü
 
-## 1.4.1
-
-Fixed a critical error when opening profile.
-
-## 1.4.0
-
-This release addresses numerous existing issues, such as the overly complex trial
-of mastery mode, difficulties in identifying and activating items, the lack of
-stat tracking for completed quests and opened chests, the inability to determine
-when the "Furious leap" skill can be activated, and more.
-
-New upgrades have also been added, and statistics milestone reward balancing has
-been carried out.
-
-High load on the audio system was resolved, which led to an increase in the
-points scored.
-
-### Yeni özellikler
-
-- Reward for completed quests can now be increased.
-   - To access the new screen, click the "Increase reward for completed quests"
-button located on the quest board tab in your profile.
-   - The increase is made using coins, green, blue, and red orbs.
-   - Each of the listed currencies has its own separate enhancement, but they all
-collectively affect a single parameter: the chance to get an additional star.
-   - If the chance to get an additional star reaches 100%, you will be guaranteed to
-receive one extra star as a reward, and the chance counter will reset.
-- The trial of mastery mode has been slightly reworked.
-   - Balls can no longer collide with one another.
-   - The minimum number of objects on the field has been increased.
-   - Ball bounces off the ceiling now start a streak and grant a certain number of
-points.
-   - Perfect strikes have been added.
-      - To perform a perfect strike in trial of mastery mode, strike the ball with the
-bat when your hit strength is fully restored.
-      - If you miss or land a hit without full power, the streak will be reset.
-      - The streak and perfect strikes are recorded in the stats.
-   - The bonus from the bounce penalty reduction upgrade has been changed from 2% to
-5% per level.
-   - The mode’s reference information has been updated to reflect the changes made.
-- The main menu music has been updated.
-   - You can now safely share video or audio playthroughs of the game without
-turning off the music.
-   - Huge thanks to [Nikita K](https://t.me/NikitaKOfficial) for his hard work!
-- A sound has been added to notify you when a quest is completed.
-- A new upgrade has been added that increases the bonus for dodging electric
-discharges in trial of speed mode.
-- New star upgrades added.
-   - Duration of Destruction, Collision, and Ceiling Bounce Streaks increase.
-   - Indulgence of Inaction.
-- You can now find out how high the ball is.
-   - The default key for the function is B.
-   - When used, you will hear information about how high the ball is, along with a
-special sound played in the ball’s current pitch.
-   - In trial of mastery mode, the positions of all balls on the field will be
-announced in order, and the sound will be played in the pitch of the ball that
-is the lowest.
-- New statistics items added.
-   - Total luck chests opened.
-   - Total quests completed.
-- Sound panning customization has been added.
-   - To access this screen, press the corresponding button on the settings screen,
-on the "Sound" tab.
-   - To get help information about the function, press the "Help" button on the
-sound panning settings screen.
-- You can now disable the generation of mines, couches, and toolboxes on the game
-field.
-   - A list of checkboxes has been added to the mode selection screen, allowing you
-to toggle the generation of specific objects on or off.
-   - The list will be hidden if the mode selection cursor is set to any mode other
-than Normal or Training.
-- A feature has been added that allows you to switch between ready to use skills.
-   - Switch to the next ready to use skill: Equals (=) key or Numpad Minus (-).
-   - Switch to the previous ready to use skill: Hyphen (-) key or Numpad Multiply
-(*).
-   - The keys apply to the default controls configuration.
-- A new setting has been added that allows you to disable the countdown at the
-start of the game.
-- A feature has been added that allows you to change the ball's sound on the fly.
-   - To change the sound, enter Ball watch mode during a game session, then press
-the L key to cycle through sounds.
-   - In trial of mastery mode, this feature works similarly. Use the J key to select
-the ball whose sound you want to change, then press the L key.
-   - By pressing the F1 key during a trial of mastery game session, you'll open the
-ball sound customization screen, where you can adjust the sounds in a calm
-environment.
-      - The screen contains four elements: three lists, each corresponding to a
-specific ball, and a button to close the screen.
-      - To preview a ball sound, press the Enter or Space key on the selected item in
-any of the lists.
-      - You can interrupt the playing sound by navigating through the list or screen.
-   - The selected sounds are saved between game sessions.
-- A new setting has been added that allows you to normalize the pitch of all ball
-sounds to approximately the same level.
-   - When previewing sounds in the ball sound selection menu, they play in the same
-pitch. However, during gameplay, sounds other than the first one still don’t
-fully match its pitch.
-   - Despite this, the feature can be useful for those who use ball sounds other
-than the first and have trouble distinguishing sounds in noisy environments,
-as raising the pitch also increases audibility.
-- A new setting has been added that allows you to switch to Ball watch mode with
-a key press instead of holding the key down.
-- The pause menu now includes the option to view the skills assigned to slots
-(under "Active Skills").
+## 1.4.2
 
 ### Değişiklikler
 
-- Now, in trial of will and Mastery modes, if you are near an item and can
-activate it, the item's sound pitch is slightly increased.
-- The penalty for the ball bouncing off the floor has been adjusted.
-   - if the ball bounces off the floor 40 times in a row, the penalty for subsequent
-bounces will increase very rapidly.
-   - This change is offset by the new upgrade "Indulgence of Inaction".
-- The reward for opening Luck Chests has been increased.
-- Some changes have been made to the rewards for reaching stat milestones. If any
-discrepancies are detected when the game starts, previously allocated
-achievement points will be reset and rewards will be recalculated.
-- In trial of will and trial of mastery modes, the same type of item can no
-longer appear more than twice in a row.
-- In trial of speed mode, the same effect can no longer appear twice in a row.
-- Store changes: the Time Aura and Leader Aura upgrades have been moved to the
-"Auras" tab; the "Increased Chance of Special Object Spawns" upgrade has been
-moved to the "Objects" tab.
-- Rewards for low scores in trial modes have been increased.
-- The effect of the upgrade that increases the number of red orbs received has
-been improved.
-- Coin reward calculation has been improved for final scores over 100 million.
-- If you’ve purchased the maximum number of quest slots, the purchase button will
-now be hidden from the screen.
-- "Öfkeli sıçrama" yeteneği iyileştirildi.  Şimdi oyuncu daha fazla mesafe
-koşabiliyor.
-- The display of the rewards list shown when opening multiple Luck Chests at once
-has been updated.
+- Çeviriler güncellendi.
+   - Türkçe. Çevirmen [fatihyuksek](https://github.com/fatihyuksek1).
+   - Çekçe. Çevirmen [4sensegaming](https://github.com/4sensegaming).
 
 ### Düzeltmeler
 
-- Handling of a large number of simultaneously playing sounds has been improved.
-   - As a result of this optimization, the total number of sounds during the
-destruction of many objects has been reduced. However, the audio environment
-can still become overloaded.
-   - You may also notice that you're scoring significantly more points during Normal
-mode gameplay. This is expected and happens because a major overload in the
-audio system—previously causing overall game slowdown—has been resolved.
-- Fixed a rare freeze and crash that could occur right after starting a game
-session when gameplay recording was enabled.
-- Fixed an issue where receiving a bonus for destroying a puppet or dodging an
-electric discharge could increase a negative score.
-- Fixed incorrect behavior that occurred when using the "Furious leap" skill.
-- The progress for the quest "Hit the ceiling with the ball while the
-immateriality effect is active" now also counts when using the "ball
-controller" star module.
-- Improved the handling of chest and quest reset time updates.
-- Descriptions of some upgrades in the store have been expanded.
-- You can now skip the coin and other currency gain animation by pressing the
-Enter key on the numpad.
+- Yıldız modülleri sekmelerinin önceki görünüm sorunu düzeltildi ve mağazada
+iyileştirmeler yapıldı.
+- Güncelleme ekranında evet düğmesine basıldığında oluşan çift ses sorunu
+giderildi.
+
+## 1.4.1
+
+Profili açarken kritik bir hata düzeltildi.
+
+## 1.4.0
+
+Bu güncelleme, ustalık denemesi modunun aşırı zor olması, öğeleri tespit etmede
+ve etkinleştirmede yaşanan zorluklar, tamamlanmış görevler ve açılmış
+sandıkların istatistiklerinin izlenememesi, “Öfkeli Sıçrayış” becerisinin ne
+zaman etkinleştirilebileceğinin belirlenememesi gibi birçok sorunu düzeltir.
+
+Yeni yükseltmeler de eklendi ve istatistik kilometre taşı ödül dengelemesi
+yapıldı.
+
+Ses sisteminin üzerindeki yükün azaltılması, puanların artmasına neden oldu.
+
+### Yeni özellikler
+
+- Tamamlanmış görevler için ödüller arttırılabilir.
+   - Bu yeni ekrana ulaşmak için profildeki görev panosu sekmesinde bulunan
+“Tamamlanan görevler için ödül arttır” düğmesine tıklayın.
+   - Arttırma, yeşil, mavi ve kırmızı küre ya da para kullanılarak yapılabilir.
+   - Sayılan her bir para biriminin kendine özgü bir iyileştirme özelliği vardır,
+ancak hepsi de tek bir parametreyi etkiler: Ek yıldız kazanma şansı.
+   - Ek bir yıldız kazanma şansı %100’e ulaşırsa, ödül olarak bir yıldız daha
+kazanacağınız garanti olur ve şans sayacı sıfırlanır.
+- Ustalık denemesi modu yeniden düzenlendi.
+   - Artık toplar birbiriyle çarpışamaz.
+   - Sahadaki minimum nesne sayısı artırıldı.
+   - Topun tavandan sekmesi artık bir seri başlatıyor ve belli sayıda puan veriyor.
+   - Mükemmel vuruşlar eklendi.
+      - Ustalık denemesi modunda mükemmel vuruş yapmak için, topa vuruş gücü maksimum
+iken vurun.
+      - Iskalar veya tam güce ulaşmadan topa vurursanız seri sıfırlanır.
+      - Seri ve mükemmel vuruşlar istatistiklere kaydedilir.
+   - Sekme cezası azaltma yükseltmesinin bonusu %2 yerine %5 olarak değiştirildi.
+   - Modun bilgilendirmesi, yapılan değişiklikleri yansıtacak şekilde güncellendi.
+- Ana menü müziği güncellendi.
+   - Oyunun video veya sesli oynanışlarını müziği kapatmadan güvenli bir şekilde
+paylaşabilirsiniz.
+   - Bu arada, sıkı çalışması için [Nikita K](https://t.me/NikitaKOfficial) 'ya çok
+teşekkürler!
+- Görev tamamlandığında sizi haberdar etmek için ses eklendi.
+- Hız denemesi modunda elektrik akımlarından kaçma bonusunu arttıran yeni bir
+iyileştirme eklendi.
+- Yeni yıldız yükseltmeleri eklendi.
+   - Yok etme, çarpışma ve tavandan sekme serilerinin süresi artırıldı.
+   - Eğlemsizlik toleransı.
+- Topun ne kadar yüksekte olduğunu öğrenebilirsiniz.
+   - Bu özellik için varsayılan tuş B tuşudur.
+   - Kullanıldığında, topun ne kadar yüksekte olduğu hakkında bilgi alabilir ve
+topun o anki perdesinde çalınan özel bir ses duyabilirsiniz.
+   - Ustalık denemesi modunda, sahadaki tüm topların pozisyonları sırayla
+bildirilecek ve ses en düşük topun perdesinden başlayarak çalınacaktır.
+- Yeni istatistik öğeleri eklendi.
+   - Toplam açılan şans sandığı.
+   - Toplam tamamlanan görevler.
+- Ses yaslanma özelleştirmesi eklendi.
+   - Bu ekrana erişmek için, ayarlar ekranındaki “Ses” sekmesinde "ses yaslanma
+ayarları" düğmesine basın.
+   - Bu özellik hakkında bilgi almak için, ses yaslanma ayarları ekranında “Yardım”
+düğmesine basın.
+- Oyun sahasında mayınların, kanepelerin ve tamir kutularının oluşturulmasını
+devre dışı bırakabilirsiniz.
+   - Mod seçme ekranına birkaç onay kutusu eklendi, bu sayede belli nesnelerin
+oluşturulmasını açıp kapatabilirsiniz.
+   - Mod seçim imleci Normal veya Eğitim dışında bir modun üzerinde liste gizlenir.
+- Kullanıma hazır beceriler arasında geçiş yapabilmenizi sağlayan bir özellik
+eklendi.
+   - Bir sonraki hazır beceriye geç: Eşittir (=) tuşu veya numaratör Eksi (-) tuşu.
+   - Önceki hazır beceriye geç: tire (-) tuşu veya numaratör  Yıldız (*) tuşu.
+   - Tuşlar, varsayılan tuş yapılandırması için geçerlidir.
+- Oyun başında geri sayımı devre dışı bırakmayı sağlayan bir ayar eklendi.
+- Topun sesini anında değiştirmeyi sağlayan bir özellik eklendi.
+   - Sesi değiştirmek için oyun sırasında top izleme moduna geçin, sonra sesler
+arasında dolaşmak için L tuşuna basın.
+   - Ustalık denemesi modunda da bu özellik benzer şekilde çalışır. Sesini
+değiştirmek istediğiniz topu seçmek için J tuşuna basın, sonra topun sesini
+değiştirmek için L tuşuna basın.
+   - Ustalık denemesi modunda F1 tuşuna basarak top seslerinin ayarlandığı
+özelleştirme ekranını açabilir ve sakin bir ortamda ses ayarlarını
+yapabilirsiniz.
+      - Ekran dört öğe içerir: her biri belirli bir topa karşılık gelen üç liste ve
+ekranı kapatmak için bir düğme.
+      - Bir top sesini önizlemek için, listelerden herhangi birinde seçili olan öğenin
+üzerinde Enter veya Boşluk tuşuna basın.
+      - Listede veya ekranda gezinerek çalmakta olan sesi durdurabilirsiniz.
+   - Seçili sesler oyunlar arası kaydedilir.
+- Tüm top seslerinin perdesini yaklaşık olarak aynı seviyeye ayarlamayı sağlayan
+yeni bir ayar eklendi.
+   - Top ses seçimi menüsünde sesleri önizlerken sesler aynı perdede çalar. Ancak
+oyun sırasında, ilk ses dışındaki sesler, ilk sesin perdesiyle tam olarak
+uyuşmaz.
+   - Buna rağmen, bu özellik ilk top sesinden başka top seslerini kullanan ve
+gürültülü ortamlarda sesleri ayırt etmekte güçlük çeken kişiler için yararlı
+olabilir, çünkü perdeyi yükseltmek sesi daha duyulabilir hale getirir.
+- Yeni bir ayar eklendi, bu ayar sayesinde tuşu basılı tutmak yerine tuşa basarak
+top izleme moduna geçebilirsiniz.
+- Duraklatma menüsü artık yuvalara atanmış becerileri görüntüleme seçeneğini de
+içeriyor ("Aktif Beceriler" içinde).
+
+### Değişiklikler
+
+- Ustalık ve irade denemesi modlarında bir öğeye yakınsanız ve öğeyi
+etkinleştirebiliyorsanız, öğenin perdesi biraz artar.
+- Topun yerden sekme cezası yeniden ayarlandı.
+   - top yerden art arda 40 defa sekerse, topun sonraki sekmeleri için olan ceza çok
+hızlı bir şekilde artar.
+   - Bu değişim yeni “Hareketsizlik Toleransı” yükseltmesi ile dengelenebilir.
+- Şans sandığı açma ödülü artırıldı.
+- İstatistik kilometre taşlarına ulaşıldığında verilen ödüllerde bazı
+değişiklikler yapıldı. Oyun başladığında herhangi bir tutarsızlık tespit
+edilirse, daha önce verilen başarı puanları sıfırlanacak ve ödüller yeniden
+hesaplanacaktır.
+- İrade denemesi ve ustalık denemesi modlarında, aynı türden öğe art arda iki
+kereden fazla görünemez.
+- Hız denemesi modunda aynı etki art arda iki kez görünemez.
+- Mağaza değişiklikleri: Zaman Aurası ve Lider Aurası yükseltmeleri “Auralar”
+sekmesine taşındı; “Özel Nesne Çıkma Şansını Arttırma” yükseltmesi “Nesneler”
+sekmesine taşındı.
+- Deneme modlarında düşük skor için olan ödüller arttırıldı.
+- Alınan kırmızı küreyi arttıran yükseltmenin etkisi iyileştirildi.
+- 100 milyonun üzerindeki puanlar için para ödülü hesaplaması iyileştirildi.
+- Maksimum sayıda görev yuvası satın aldıysanız, satın alma düğmesi ekranda
+görünmeyecek.
+- "Öfkeli sıçrayış" yeteneği iyileştirildi.  Oyuncu daha fazla mesafe koşabiliyor.
+- Aynı anda birden fazla Şans Sandığı açıldığında gösterilen ödül listesinin
+görünümü güncellendi.
+
+### Düzeltmeler
+
+- Aynı anda çalan çok sayıda sesin işlenmesi iyileştirildi.
+   - Bu optimizasyon sonucunda birçok nesnenin yok edilmesi sırasında çıkan seslerin
+toplam sayısı azaltıldı. Ancak ses ortamı yine de aşırı yüklenmeye yol
+açabiliyor.
+   - Normal modda oynarken çok daha fazla puan kazandığınızı da fark edebilirsiniz.
+Bu beklenen bir durumdur ve daha önce genel oyun yavaşlamasına neden olan ses
+sistemindeki büyük bir aşırı yüklenme sorununun çözülmesinden kaynaklanmaktadır.
+- Oyun kaydı etkinken, oyunun hemen başında meydana gelen nadir donma ve çökme
+sorunu düzeltildi.
+- Bir kuklayı yok ederek ya da elektrik akımından kaçarak bonus almanın negatif
+puanı arttırması sorunu düzeltildi.
+- Öfkeli Sıçrayış becerisini kullanırken oluşan hatalı davranış düzeltildi.
+- "etkisizlik etkisi aktifken topla tavana vur" görevi için ilerleme artık "top
+kumandası" yıldız modülü kullanılırken de sayılıyor.
+- Sandık ve görev sıfırlama zaman güncellemelerinin işlenmesi iyileştirildi.
+- Mağazadaki bazı yükseltmelerin açıklamaları daha ayrıntılı hale getirildi.
+- Numaratördeki Enter tuşuna basarak para ve diğer para birimi kazanma
+animasyonlarını atlayabilirsiniz.
 
 ## 1.3.5
 
@@ -302,8 +311,7 @@ tuşuna basın veya "mod açıklamasını aç" düğmesine tıklayın.
 aktif aura sayısı artırılabilir ve yeni auralar elde edilebilir.
    - Ayrıca, profilinizdeki auralar sekmesinde ilgili düğmeye basarak, lider ve
 zaman auraları dışında bir auranın açıklamasını da açabilirsiniz.
-- "Öfkeli sıçrama" yeteneği iyileştirildi.  Şimdi oyuncu daha fazla mesafe
-koşabiliyor.
+- "Öfkeli sıçrayış" yeteneği iyileştirildi.  Oyuncu daha fazla mesafe koşabiliyor.
 - Yüksek çarpışma, nesne yok etme ve tavandan seken top serileri için verilen
 puan dengesi ayarlandı.
 - Lider ve zaman auraları için yükseltme bedeli artırıldı. Aura seviyeniz beşin
