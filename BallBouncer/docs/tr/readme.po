@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BallBouncer\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2025-03-08 20:12+0000\n"
-"PO-Revision-Date: 2025-03-09 17:34+0300\n"
+"POT-Creation-Date: 2025-06-24 18:52+0000\n"
+"PO-Revision-Date: 2025-07-01 14:40+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -150,11 +150,20 @@ msgstr ""
 "oyunda doğrudan duraklama menüsünden ayarlara giderek de yapılabilir. Oyuna "
 "devam eder etmez topun sesi değişecektir."
 
-#: BallBouncer/docs/en/readme.md:block 17 (header)
+#: BallBouncer/docs/en/readme.md:block 17 (paragraph)
+msgid ""
+"You can also change the ball sound during gameplay. To do this, enter Ball "
+"watch mode by holding the G key, then press L to change the sound."
+msgstr ""
+"Oyun sırasında topun sesini de değiştirebilirsiniz. Bunu yapmak için G "
+"tuşunu basılı tutarak Top izleme moduna girin, sonra sesi değiştirmek için L "
+"tuşuna basın."
+
+#: BallBouncer/docs/en/readme.md:block 18 (header)
 msgid "Navigation"
 msgstr "Dolaşım"
 
-#: BallBouncer/docs/en/readme.md:block 18 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 19 (paragraph)
 msgid ""
 "Moving through menus is done by using the up and down arrows. Enter selects "
 "an item, while home and end keys do their respective job by setting you on "
@@ -163,7 +172,7 @@ msgstr ""
 "Menülerde dolaşım yukarı ve aşağı ok tuşlarıyla yapılır. Enter bir öğeyi "
 "seçer, home ve end tuşları sırasıyla ilk ve son öğeye gider."
 
-#: BallBouncer/docs/en/readme.md:block 19 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 20 (paragraph)
 msgid ""
 "Screen navigation(settings, shop, profile, etc.),: tab/shift+tab forward/"
 "back, activate controls by pressing enter or spacebar. Move through the "
@@ -176,7 +185,7 @@ msgstr ""
 "değerini ok tuşlarıyla değiştirebilirsiniz. Sekme seçimi sağ/sol ok tuşuyla "
 "yapılır."
 
-#: BallBouncer/docs/en/readme.md:block 20 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 21 (paragraph)
 msgid ""
 "On the shop screen, pressing Enter on the selected item will open the "
 "reference information, where the item is described in detail."
@@ -184,7 +193,7 @@ msgstr ""
 "Mağaza ekranında seçilen öğenin üzerinde Enter'a basmak öğe hakkında "
 "ayrıntılı bilgi verilen bilgi ekranını açar."
 
-#: BallBouncer/docs/en/readme.md:block 21 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 22 (paragraph)
 msgid ""
 "In the profile, on the \"Statistics\" tab, by pressing enter on a list item "
 "you can claim a reward, if available. By pressing ctrl+c you can copy the "
@@ -194,7 +203,7 @@ msgstr ""
 "enter tuşuna basarak, mevcut ise bir ödülü alabilirsiniz. Ctrl+c tuşlarına "
 "basarak, öğenin içeriğini panoya kopyalayabilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 22 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 23 (paragraph)
 msgid ""
 "On the \"Skills\" tab, pressing on an item will provide detailed information "
 "about the skill."
@@ -202,7 +211,7 @@ msgstr ""
 "\"Beceriler\" sekmesinde, bir öğeye basmak beceri hakkında ayrıntılı bilgi "
 "verir."
 
-#: BallBouncer/docs/en/readme.md:block 23 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 24 (paragraph)
 msgid ""
 "All menus and screens, excluding the main menu and the last game results "
 "menu, can be closed with the escape key."
@@ -210,15 +219,15 @@ msgstr ""
 "Ana menü ve son oyun sonuçları menüsü hariç tüm menüler ve ekranlar escape "
 "tuşu ile kapatılabilir."
 
-#: BallBouncer/docs/en/readme.md:block 24 (header)
+#: BallBouncer/docs/en/readme.md:block 25 (header)
 msgid "Game process"
 msgstr "Oyun süreci"
 
-#: BallBouncer/docs/en/readme.md:block 25 (header)
+#: BallBouncer/docs/en/readme.md:block 26 (header)
 msgid "Training mode"
 msgstr "Antrenman modu"
 
-#: BallBouncer/docs/en/readme.md:block 26 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 27 (paragraph)
 msgid ""
 "The game has a training mode where you can spend unlimited time and where "
 "all penalties are disabled. In this mode, a sound will be played when you "
@@ -233,7 +242,7 @@ msgstr ""
 "anını hissetmeyi öğrenebilmeniz için top en az bir kez yerden sektiğinde ses "
 "çalacaktır. Antrenman modunda oyun istatistikleri toplanmaz ve puan alınmaz."
 
-#: BallBouncer/docs/en/readme.md:block 27 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 28 (paragraph)
 msgid ""
 "During training, you can press the F2 key, and a screen will open where you "
 "can set the level of the hit strength recovery rate upgrade, ranging from "
@@ -243,7 +252,7 @@ msgstr ""
 "kadar vuruş gücü iyileşme oranı yükseltmesinin seviyesini "
 "ayarlayabileceğiniz bir ekran açılır."
 
-#: BallBouncer/docs/en/readme.md:block 28 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 29 (paragraph)
 msgid ""
 "Also, in the future, when you acquire your first skills, you will be able to "
 "set their levels on this screen, if they are set in one of the slots, "
@@ -254,7 +263,7 @@ msgstr ""
 "yükseltmesinde olduğu gibi aynı şekilde, bu ekranda onların seviyelerini "
 "ayarlayabilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 29 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 30 (paragraph)
 msgid ""
 "When you press the F1 key, your skills set in the slots will be instantly "
 "recharged and available for use."
@@ -262,15 +271,25 @@ msgstr ""
 "F1 tuşuna bastığınızda, yuvalardaki becerileriniz anında dolacak ve "
 "kullanıma hazır hale gelecektir."
 
-#: BallBouncer/docs/en/readme.md:block 30 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 31 (paragraph)
+msgid ""
+"If you press the B key and the ball is on the field, you will hear an audio "
+"cue indicating how high the ball is, along with a sound played in the ball’s "
+"pitch. This feature works in all modes."
+msgstr ""
+"B tuşuna basarsanız ve top sahadaysa, topun ne kadar yüksekte olduğunu "
+"belirten bir ses duyarsınız ve aynı zamanda topun kendi perdesinde bir ses "
+"duyarsınız. Bu özellik tüm modlarda çalışır."
+
+#: BallBouncer/docs/en/readme.md:block 32 (paragraph)
 msgid "These keys can be changed using the controls Configurator."
 msgstr "Bu tuşlar, kısayol tuşu ayarları kullanılarak değiştirilebilir."
 
-#: BallBouncer/docs/en/readme.md:block 31 (header)
+#: BallBouncer/docs/en/readme.md:block 33 (header)
 msgid "How to play"
 msgstr "Nasıl oynanır"
 
-#: BallBouncer/docs/en/readme.md:block 32 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 34 (paragraph)
 msgid ""
 "After selecting the \"Start Game\" option in the main menu, the countdown "
 "will begin. Then, you will be able to control the character."
@@ -278,7 +297,7 @@ msgstr ""
 "Ana menüde \"oyunu Başlat\" seçeneğini seçtiğinizde geri sayım başlar. "
 "Sonrasında oyuncuyu kontrol edebilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 33 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 35 (paragraph)
 msgid ""
 "At the beginning of the game, the character is located in the center of the "
 "field. You can move them using the left and right arrow keys. The camera is "
@@ -290,7 +309,7 @@ msgstr ""
 "ortası görünümüne ayarlıdır, ancak \"v\" tuşuna basarak birinci şahıs "
 "görünümüne geçebilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 34 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 36 (paragraph)
 msgid ""
 "By pressing the \"C\" key in the field center view, you will hear a sound "
 "positioned at the character's location. In the first-person view, the sound "
@@ -304,7 +323,7 @@ msgstr ""
 "topa vurmaya çalışırken oyuncunun konumunu daha iyi hissetmenize yardımcı "
 "olur."
 
-#: BallBouncer/docs/en/readme.md:block 35 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 37 (paragraph)
 msgid ""
 "By pressing the left or right shift key, you can set the character's facing "
 "direction. When moving, the direction is set automatically."
@@ -312,7 +331,7 @@ msgstr ""
 "Sağ veya sol shift tuşuna basarak oyuncunun dönüş yönünü ayarlayabilirsiniz. "
 "Hareket ederken yön otomatik olarak ayarlanır."
 
-#: BallBouncer/docs/en/readme.md:block 36 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 38 (paragraph)
 msgid ""
 "First, you need to throw the ball to make it appear on the game field. You "
 "can do this by pressing the \"f\" key."
@@ -320,7 +339,7 @@ msgstr ""
 "İlk önce, topun sahada gözükmesi için topu fırlatmanız gerekir. Bunu \"f\" "
 "tuşuna basarak yapabilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 37 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 39 (paragraph)
 msgid ""
 "After the ball is on the field, you will hear a tone which will move left "
 "and right, indicating movement of the ball in the horizontal plane. The "
@@ -334,11 +353,11 @@ msgstr ""
 "yükselen perde, topun yukarı doğru hareket ettiği anlamına gelirken, artan "
 "ses düzeyi ve alçalan perde bunun tam tersini ifade eder."
 
-#: BallBouncer/docs/en/readme.md:block 38 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 40 (paragraph)
 msgid "There are two types of throw:"
 msgstr "İki tür fırlatma şekli vardır:"
 
-#: BallBouncer/docs/en/readme.md:block 39 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 41 (unordered list)
 msgid ""
 "Normal. Performed by pressing the f key. The ball begins to fly in an arc in "
 "the direction the character is facing."
@@ -346,7 +365,7 @@ msgstr ""
 "Normal. F tuşuna basılarak yapılır. Top, oyuncunun döndüğü yönde hareket "
 "etmeye başlar."
 
-#: BallBouncer/docs/en/readme.md:block 39 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 41 (unordered list)
 msgid ""
 "Vertical. Performed by holding down the alt key and pressing f. The ball "
 "starts flying along the vertical axis, but also moves slightly along the "
@@ -356,7 +375,7 @@ msgstr ""
 "hareket etmeye başlar, ancak oyuncunun döndüğü yönde biraz yatay eksende de "
 "hareket eder."
 
-#: BallBouncer/docs/en/readme.md:block 40 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 42 (paragraph)
 msgid ""
 "The goal of the game is to destroy as many objects as possible, gaining "
 "points along the way. The ball always tends to fall down, and you need to "
@@ -365,11 +384,11 @@ msgstr ""
 "Oyunun amacı, puan kazanarak olabildiğince fazla nesneyi yok etmektir. Top "
 "her zaman düşme eğilimindedir ve sizin ona sopayla vurmanız gerekir."
 
-#: BallBouncer/docs/en/readme.md:block 41 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 43 (paragraph)
 msgid "The ball can be hit in two ways:"
 msgstr "Topa iki şekilde vurulabilir:"
 
-#: BallBouncer/docs/en/readme.md:block 42 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 44 (unordered list)
 msgid ""
 "Spacebar key. In this case, the ball will receive a strong horizontal "
 "impulse in the direction the character is facing."
@@ -377,7 +396,7 @@ msgstr ""
 "Boşluk tuşu. Bu durumda, top oyuncunun döndüğü yönde güçlü bir yatay ivme "
 "kazanır."
 
-#: BallBouncer/docs/en/readme.md:block 42 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 44 (unordered list)
 msgid ""
 "Hold down the alt key and press spacebar. The ball will receive a strong "
 "vertical impulse, maintaining a horizontal flight direction regardless of "
@@ -386,7 +405,7 @@ msgstr ""
 "Alt tuşunu basılı tutup boşluk tuşuna basmak. Top, oyuncunun döndüğü yönden "
 "bağımsız olarak yatay hareket yönünü koruyarak güçlü bir dikey  ivme kazanır."
 
-#: BallBouncer/docs/en/readme.md:block 43 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 45 (paragraph)
 msgid ""
 "You can only hit the ball while being near it. After each swing of the bat, "
 "the character restores the hit strength. Once it is fully restored, you will "
@@ -400,7 +419,7 @@ msgstr ""
 "Ayrıca, davranış sekmesindeki seçeneklerden başarılı vuruşların sesini açıp "
 "kapatabilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 44 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 46 (paragraph)
 msgid ""
 "You should always aim to make perfect strikes, as they reward you with bonus "
 "points. A perfect strike occurs when the ball bounces off the floor only "
@@ -414,7 +433,7 @@ msgstr ""
 "çok yerden sekerse o kadar fazla puan kaybedersiniz. Bu yüzden, topa mümkün "
 "olduğunca hızlı bir şekilde yukarı doğru vurmaya çalışın."
 
-#: BallBouncer/docs/en/readme.md:block 45 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 47 (paragraph)
 msgid ""
 "It's also not a good idea to stay in one place for too long, as you'll lose "
 "points for being stationary for ten seconds or more."
@@ -422,7 +441,7 @@ msgstr ""
 "Bir yerde çok uzun süre durmak da iyi değildir, çünkü 10 saniye veya daha "
 "fazla sabit kalırsanız puan kaybedersiniz."
 
-#: BallBouncer/docs/en/readme.md:block 46 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 48 (paragraph)
 msgid ""
 "At the beginning of the game, avoid holding the ball for too long, as each "
 "second the ball is held adds an increasing penalty. The same applies to a "
@@ -431,11 +450,11 @@ msgstr ""
 "Oyunun başında topu elinizde çok uzun süre tutmayın, çünkü bu durumda her "
 "geçen saniyede ceza alırsınız. Aynı durum top yakalandığında da geçerlidir."
 
-#: BallBouncer/docs/en/readme.md:block 47 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 49 (paragraph)
 msgid "A penalty is applied for the fifth and subsequent misses."
 msgstr "Beşinci ve sonraki ıskalamalar için de ceza uygulanır."
 
-#: BallBouncer/docs/en/readme.md:block 48 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 50 (paragraph)
 msgid ""
 "You earn points for the ball colliding with an object, as well as for "
 "destroying an object. If the ball bounces off the ceiling, you will also "
@@ -444,7 +463,7 @@ msgstr ""
 "Hem top bir nesneye çarptığında, hem de nesneyi yok ettiğinde puan "
 "kazanırsınız. Top tavandan sekerse de bonus puan kazanırsınız."
 
-#: BallBouncer/docs/en/readme.md:block 49 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 51 (paragraph)
 msgid ""
 "After colliding with an object or destroying it, a streak begins. Each "
 "subsequent collision or destruction brings more points. However, if the "
@@ -456,7 +475,7 @@ msgstr ""
 "saniye boyunca sürdürülmezse sıfırlanır. Aynı durum tavandan seken top için "
 "de geçerlidir."
 
-#: BallBouncer/docs/en/readme.md:block 50 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 52 (paragraph)
 msgid ""
 "After making a perfect strike, a separate streak begins. For each new "
 "perfect strike, you earn significantly more points than the previous one. If "
@@ -467,7 +486,7 @@ msgstr ""
 "için öncekinden çok daha fazla puan kazanırsınız. Top yerden bir kereden "
 "fazla sekerse seri biter ve baştan başlamak zorunda kalırsınız."
 
-#: BallBouncer/docs/en/readme.md:block 51 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 53 (paragraph)
 msgid ""
 "After being destroyed, objects will fall to the ground, creating noise and "
 "adding chaos to what’s happening."
@@ -475,7 +494,7 @@ msgstr ""
 "Yok edildikten sonra, nesneler yere düşer, gürültü çıkarır ve oyuna daha "
 "fazla kaos katar."
 
-#: BallBouncer/docs/en/readme.md:block 52 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 54 (paragraph)
 msgid ""
 "During the game, you can not only observe the entire field but also switch "
 "to the ball watch mode. To activate this mode, hold the G key. The ball "
@@ -487,7 +506,7 @@ msgstr ""
 "izleme modu G tuşunu basılı tutar tutmaz başlar ve tuşu bıraktığınızda sona "
 "erer."
 
-#: BallBouncer/docs/en/readme.md:block 53 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 55 (paragraph)
 msgid ""
 "You can pause the game by pressing the escape key. After pressing it, you "
 "will enter the pause menu, where you can view the time remaining in the "
@@ -499,7 +518,7 @@ msgstr ""
 "duraklama menüsüne girersiniz. Duraklama menüsünden ayrıca ayarlara "
 "erişebilir veya oyunu durdurabilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 54 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 56 (paragraph)
 msgid ""
 "However, you can check the remaining time and current score not only in the "
 "pause menu. Press the T key to check the time, and the P key to see your "
@@ -508,7 +527,7 @@ msgstr ""
 "Ancak, kalan zamanı ve puanı yalnız duraklama menüsünde değil; T tuşuna "
 "basarak zamanı, P tuşuna basarak ise puanı öğrenebilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 55 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 57 (paragraph)
 msgid ""
 "If your score drops to minus one thousand, the game session will end "
 "prematurely. No coins will be awarded, but you won't lose anything else."
@@ -516,7 +535,7 @@ msgstr ""
 "Puan -1000'e düşerse oyun erkenden biter. Hiç para kazanamazsınız, ancak "
 "başka bir şey kaybetmezsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 56 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 58 (paragraph)
 msgid ""
 "The game session lasts five minutes. This time can be extended by upgrading "
 "the Time Aura in the profile."
@@ -524,7 +543,7 @@ msgstr ""
 "Oyun beş dakika sürer. Süre, profil menüsündeki Zaman Aurasını yükselterek "
 "uzatılabilir."
 
-#: BallBouncer/docs/en/readme.md:block 57 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 59 (paragraph)
 msgid ""
 "After the game session ends, a sound animation of coin awarding will play, "
 "which can be skipped by pressing the Enter key."
@@ -532,7 +551,7 @@ msgstr ""
 "Oyun bittikten sonra para kazanma animasyonu ses olarak oynatılır. Bu "
 "animasyon enter tuşuna basılarak atlanabilir."
 
-#: BallBouncer/docs/en/readme.md:block 58 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 60 (paragraph)
 msgid ""
 "Then, the last game results menu will open, where you can find out how many "
 "points were ultimately scored and coins received. After closing the menu by "
@@ -547,7 +566,7 @@ msgstr ""
 "Son oyun için sonuç menüsünün gösterimi ve mevcut ödüllerle ilgili "
 "bildirimler, ayarlarda, “Davranış” sekmesinde devre dışı bırakılabilir."
 
-#: BallBouncer/docs/en/readme.md:block 59 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 61 (paragraph)
 msgid ""
 "The game also has skills that are fully described in the game. To use a "
 "skill during the game, you need to set it in one of ten slots. Assigning is "
@@ -559,7 +578,7 @@ msgstr ""
 "yerleştirmelisiniz. Yerleştirme, profilde \"Beceriler\" sekmesinden yapılır. "
 "Yuvalara 1 tuşu (birinci yuva) ve 0 tuşu (onuncu yuva) ile erişilir."
 
-#: BallBouncer/docs/en/readme.md:block 60 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 62 (paragraph)
 msgid ""
 "In the store you can unlock the abilities to jump and catch the ball. These "
 "two abilities are also fully described in the game, including the keys to "
@@ -569,11 +588,11 @@ msgstr ""
 "yetenek, kullanma tuşları da dahil olmak üzere oyunda tam olarak "
 "açıklanmıştır. Kullanım tuşları kısayol tuşları tablosunda da mevcuttur."
 
-#: BallBouncer/docs/en/readme.md:block 61 (header)
+#: BallBouncer/docs/en/readme.md:block 63 (header)
 msgid "Other game modes"
 msgstr "Diğer oyun modları"
 
-#: BallBouncer/docs/en/readme.md:block 62 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 64 (paragraph)
 msgid ""
 "In addition to the normal and training modes, there are three other modes in "
 "the game, but they are not unlocked immediately."
@@ -581,13 +600,13 @@ msgstr ""
 "Normal ve antrenman modları dışında oyunda üç ek mod daha vardır, ancak "
 "onların kilidi hemen açılmaz."
 
-#: BallBouncer/docs/en/readme.md:block 63 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 65 (paragraph)
 msgid "To unlock new modes, earn rewards for reaching statistical milestones."
 msgstr ""
 "Modların kilidini açmak için, istatistiksel kilometre taşlarına ulaşmak için "
 "ödül kazanın."
 
-#: BallBouncer/docs/en/readme.md:block 64 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 66 (paragraph)
 msgid ""
 "In the profile, on the statistics tab, you can see how many rewards you need "
 "to unlock the next mode."
@@ -595,7 +614,7 @@ msgstr ""
 "Profilde, istatistikler sekmesinde, sonraki modu açabilmek için kaç ödüle "
 "ihtiyaç olduğunu görebilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 65 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 67 (paragraph)
 msgid ""
 "When you receive the required number of rewards, an informational menu will "
 "appear, briefly describing what has become available to you."
@@ -603,7 +622,7 @@ msgstr ""
 "Gereken sayıda ödülü aldığınızda, size neyin mevcut olduğunu kısaca "
 "açıklayan bir menü açılacaktır."
 
-#: BallBouncer/docs/en/readme.md:block 66 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 68 (paragraph)
 msgid ""
 "To learn detailed information about any mode, select the mode from the list "
 "on the new game start screen and press the D key, or click the \"Open mode "
@@ -613,7 +632,7 @@ msgstr ""
 "ekranındaki listeden modu seçin ve D tuşuna basın veya \"mod açıklamasını "
 "aç\" düğmesine basın."
 
-#: BallBouncer/docs/en/readme.md:block 67 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 69 (paragraph)
 msgid ""
 "All additional keys for a specific mode are listed in the mode description "
 "and are also mentioned in the controls tables."
@@ -621,7 +640,7 @@ msgstr ""
 "Belli bir mod için ek tuşlar mod açıklamasında listelenir ve ayrıca kısayol "
 "tuşları tablosunda da açıklanır."
 
-#: BallBouncer/docs/en/readme.md:block 68 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 70 (paragraph)
 msgid ""
 "After unlocking all three modes, you will be able to see the requirements "
 "for unlocking the quest board. A corresponding tab will appear on the "
@@ -631,23 +650,23 @@ msgstr ""
 "gereken şartları görebilirsiniz. Profil ekranında görev panosu sekmesi "
 "belirir."
 
-#: BallBouncer/docs/en/readme.md:block 69 (header)
+#: BallBouncer/docs/en/readme.md:block 71 (header)
 msgid "The object map"
 msgstr "Nesne haritası"
 
-#: BallBouncer/docs/en/readme.md:block 70 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 72 (paragraph)
 msgid ""
 "The object map works in any mode. You can open it by pressing the M key."
 msgstr ""
 "Nesne haritası her modda çalışır. Nesne haritasını açmak için M tuşuna "
 "basabilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 71 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 73 (paragraph)
 msgid ""
 "The map displays all the objects that were on the field when it was opened."
 msgstr "Harita, açıldığında sahada olan tüm nesneleri listeler."
 
-#: BallBouncer/docs/en/readme.md:block 72 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 74 (paragraph)
 msgid ""
 "Using the arrow keys, you can move the cursor around the map, which will "
 "play a short sound of the object in the place where this object is located, "
@@ -661,11 +680,11 @@ msgstr ""
 "duyurulmasını kapatabilirsiniz. F2 tuşunu kullanarak hareket modları "
 "arasında geçiş yapabilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 73 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 75 (paragraph)
 msgid "There are two cursor movement modes:"
 msgstr "İki imleç hareket modu vardır:"
 
-#: BallBouncer/docs/en/readme.md:block 74 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 76 (unordered list)
 msgid ""
 "Free movement. The cursor can be moved on the map in any direction by one "
 "cell. When moving in free mode, empty cells will also be visible under the "
@@ -675,7 +694,7 @@ msgstr ""
 "ettirilebilir. Özgür modda hareket ederken, boş hücreler imlecin altında "
 "görünür olur ve ayrı bir ses ile belirtilir."
 
-#: BallBouncer/docs/en/readme.md:block 74 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 76 (unordered list)
 msgid ""
 "Moving through objects. The cursor moves only over objects; moving to the "
 "right or left will move through objects in the same row horizontally. Moving "
@@ -687,7 +706,7 @@ msgstr ""
 "eder. Yukarı veya aşağı hareket etmek imleci dikey olarak en yakın nesneye "
 "götürür ve boş yerleri atlar."
 
-#: BallBouncer/docs/en/readme.md:block 75 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 77 (paragraph)
 msgid ""
 "In addition to the cursor, the map features an observation point located at "
 "the center of the horizontal axis, which can move vertically. All object "
@@ -697,7 +716,7 @@ msgstr ""
 "hareket ettirilen bir gözlem noktası vardır. Tüm nesne sesleri bu noktaya "
 "göre oynatılır."
 
-#: BallBouncer/docs/en/readme.md:block 76 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 78 (paragraph)
 msgid ""
 "You can move the observation point using the keys w - up, s - down. In this "
 "case, a sound will be played that changes its pitch depending on the "
@@ -708,7 +727,7 @@ msgstr ""
 "ettirebilirsiniz. Bu durumda, konuma bağlı olarak perdesini değiştiren bir "
 "ses oynatılır, böylece eksenin nerede olduğunu anlamanız kolaylaşır."
 
-#: BallBouncer/docs/en/readme.md:block 77 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 79 (paragraph)
 msgid ""
 "You can also find out how many objects are on the field at the moment. To do "
 "this, press the o key."
@@ -716,15 +735,15 @@ msgstr ""
 "Ayrıca, sahada kaç nesne olduğunu da öğrenebilirsiniz. Bunu yapmak için o "
 "tuşuna basın."
 
-#: BallBouncer/docs/en/readme.md:block 78 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 80 (paragraph)
 msgid "All of the listed keys can be changed using the controls configurator."
 msgstr "Tüm listelenen tuşlar kısayol tuşu ayarlarından değiştirilebilir."
 
-#: BallBouncer/docs/en/readme.md:block 79 (header)
+#: BallBouncer/docs/en/readme.md:block 81 (header)
 msgid "Gameplay recording"
 msgstr "Oyun kaydı"
 
-#: BallBouncer/docs/en/readme.md:block 80 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 82 (paragraph)
 msgid ""
 "You can record your gameplay and then play the resulting recordings in any "
 "media player."
@@ -732,11 +751,11 @@ msgstr ""
 "Oyununuzu kaydedebilir ve kaydı herhangi bir medya oynatıcısında "
 "oynatabilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 81 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 83 (paragraph)
 msgid "Important: recordings are not made during training mode."
 msgstr "Önemli: Antrenman modunda kayıt yapılmaz."
 
-#: BallBouncer/docs/en/readme.md:block 82 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 84 (paragraph)
 msgid ""
 "To start recording, make sure the \"Record game\" checkbox on the game mode "
 "selection screen is checked. Recording begins after the game start countdown."
@@ -745,7 +764,7 @@ msgstr ""
 "kutusunun seçildiğinden emin olun. Kayıt, oyunun başındaki sayaçtan sonra "
 "başlar."
 
-#: BallBouncer/docs/en/readme.md:block 83 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 85 (paragraph)
 msgid ""
 "In the settings, on the \"Recording\" tab, you can determine whether to "
 "cancel or save the recording when aborting the game from the pause menu."
@@ -753,7 +772,7 @@ msgstr ""
 "Ayarlarda, \"Kayıt\" sekmesinde, oyunu duraklatma menüsünden iptal ederken "
 "kaydı iptal edip etmeyeceğinizi belirleyebilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 84 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 86 (paragraph)
 msgid ""
 "Your recordings are located in the mp3recordings folder, which is inside the "
 "userData folder, and have the .mp3 extension."
@@ -761,11 +780,11 @@ msgstr ""
 "Kayıtlarınız, userData klasörünün içindeki mp3recordings klasöründe bulunur "
 "ve .mp3 uzantısına sahiptir."
 
-#: BallBouncer/docs/en/readme.md:block 85 (header)
+#: BallBouncer/docs/en/readme.md:block 87 (header)
 msgid "Old format recordings"
 msgstr "Eski formattaki kayıtlar"
 
-#: BallBouncer/docs/en/readme.md:block 86 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 88 (paragraph)
 msgid ""
 "Before version 1.3.0, the game used an internal recording format, with files "
 "in this format having the extension .sgr, and they could only be played in "
@@ -775,7 +794,7 @@ msgstr ""
 "formatı kullanıyordu ve bu dosyalar sadece oyun içerisinde bulunan "
 "oynatıcıdan oynatılabiliyordu."
 
-#: BallBouncer/docs/en/readme.md:block 87 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 89 (paragraph)
 msgid ""
 "To listen to recordings of the old format, select the corresponding item in "
 "the main menu of the game. Then, in the recordings menu, select the one you "
@@ -785,20 +804,20 @@ msgstr ""
 "kayıtları\" öğesini seçin. Kayıtlar menüsünden istediğiniz kaydı seçin ve "
 "enter tuşuna basın."
 
-#: BallBouncer/docs/en/readme.md:block 88 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 90 (paragraph)
 msgid "After loading the recording, you will enter the player."
 msgstr "Kaydı yükledikten sonra, oynatıcı ekranına girersiniz."
 
-#: BallBouncer/docs/en/readme.md:block 89 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 91 (paragraph)
 msgid "Player control keys:"
 msgstr "Oynatıcı kısayol tuşları:"
 
-#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 92 (unordered list)
 msgid "To start, pause and unpause playback, press spacebar."
 msgstr ""
 "Oynatmayı başlatmak, duraklatmak ve devam ettirmek için boşluk tuşuna basın."
 
-#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 92 (unordered list)
 msgid ""
 "To adjust the volume, use the up arrow keys to make it louder, down arrow "
 "keys to make it quieter. The recording volume can be increased to a maximum "
@@ -807,7 +826,7 @@ msgstr ""
 "Ses seviyesini arttırmak için yukarı ok, azaltmak için aşağı ok tuşunu "
 "kullanın. Kayıt ses seviyesi en fazla yüzde iki yüze kadar arttırılabilir."
 
-#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 92 (unordered list)
 msgid ""
 "to rewind the recording by 5 seconds, use the arrow keys right - forward, "
 "left - backward. Rewinding by 30 seconds is done with the ctrl key held down."
@@ -815,7 +834,7 @@ msgstr ""
 "kaydı beş saniyelik sarmak için ileri - sağ, geri - sol ok tuşlarını "
 "kullanın. 30 saniyelik sarmak ctrl tuşunu basılı tutarak yapılabilir."
 
-#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 92 (unordered list)
 msgid ""
 "You can find out how much you listened to, as well as the duration of the "
 "recording, by pressing the t key."
@@ -823,18 +842,18 @@ msgstr ""
 "Kaydın ne kadarını dinlediğinizi ve toplam süreyi t tuşuna basarak "
 "öğrenebilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 90 (unordered list)
+#: BallBouncer/docs/en/readme.md:block 92 (unordered list)
 msgid ""
 "You can stop playback and return to the recording menu using the escape key."
 msgstr ""
 "Escape tuşunu kullanarak oynatmayı durdurabilir ve kayıtlar menüsüne "
 "dönebilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 91 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 93 (paragraph)
 msgid "The old format recordings are located at the path userData/recordings."
 msgstr "Eski formattaki kayıtlar userData/recordings içerisinde bulunur."
 
-#: BallBouncer/docs/en/readme.md:block 92 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 94 (paragraph)
 msgid ""
 "If you want to play a recording in the old format, place it in the "
 "\"recordings\" folder. It will then appear in the recordings menu."
@@ -842,7 +861,7 @@ msgstr ""
 "Eski formattaki bir kaydı oynatmak istiyorsanız, kaydı Recordings klasörüne "
 "koyun. Ardından kayıt, kayıtlar menüsünde görünecektir."
 
-#: BallBouncer/docs/en/readme.md:block 93 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 95 (paragraph)
 msgid ""
 "Attention! The ability to play recordings in the old format will be removed "
 "in version 1.5.0!"
@@ -850,11 +869,11 @@ msgstr ""
 "Uyarı! Eski formattaki kayıtları çalma özelliği 1.5.0 sürümünde "
 "kaldırılacaktır!"
 
-#: BallBouncer/docs/en/readme.md:block 94 (header)
+#: BallBouncer/docs/en/readme.md:block 96 (header)
 msgid "controls"
 msgstr "kısayol tuşları"
 
-#: BallBouncer/docs/en/readme.md:block 95 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 97 (paragraph)
 msgid ""
 "All keys in this section can be redefined by customizing the controls "
 "configuration."
@@ -862,27 +881,27 @@ msgstr ""
 "Bu bölümdeki tüm tuşlar, kısayol tuşlarını özelleştirerek yeniden "
 "ayarlanabilir."
 
-#: BallBouncer/docs/en/readme.md:block 96 (header)
+#: BallBouncer/docs/en/readme.md:block 98 (header)
 msgid "Basic"
 msgstr "Temel"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Action"
 msgstr "Eylem"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Key/keys"
 msgstr "Tuş/tuşlar"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Move the character right/left"
 msgstr "Oyuncuyu sağa/sola hareket ettir"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Right/Left arrows or d/a keys"
 msgstr "Sağ/sol ok tuşları veya d/a tuşları"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid ""
 "Play the sound at the character's position or at the center of the field "
 "(depending on the view)."
@@ -890,109 +909,133 @@ msgstr ""
 "Oyuncunun pozisyonundan veya sahanın ortasından ses çal (görünüme bağlı "
 "olarak)."
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "c"
 msgstr "c"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Set character facing right/left"
 msgstr "Oyuncuyu sağa/sola döndür"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "right/left shift"
 msgstr "sağ/sol shift"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Swing the bat (hit the ball with a strong horizontal impulse)"
 msgstr "Sopayı savur (topa güçlü yatay ivme ile vur)"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Spacebar, s or e key"
 msgstr "Boşluk, s veya e tuşu"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Swing the bat (hit the ball with strong vertical impulse)"
 msgstr "Sopayı savur (topa güçlü dikey ivme ile vur)"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "alt+space, alt+s or r"
 msgstr "alt+boşluk, alt+s veya r"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Throw the ball in an arc"
 msgstr "Topu yatay olarak fırlat"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "f"
 msgstr "f"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Throw the ball vertically"
 msgstr "Topu dikey olarak fırlat"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "alt+f"
 msgstr "alt+f"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Switch ball sound"
+msgstr "Top sesini değiştir"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "l (only when Ball watch mode is active)"
+msgstr "L (yalnızca top izleme modu etkinken)"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Switch the camera to ball watch mode"
 msgstr "Kamerayı topu izleme moduna geçir"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Hold down the g key"
 msgstr "G tuşunu basılı tut"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Switch the camera to normal mode"
 msgstr "Kamerayı normal moda geçir"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Release the g key"
 msgstr "G tuşunu bırak"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid ""
 "Switch camera mode between first person mode and field-centered view mode"
 msgstr ""
 "Kamera modunu birinci şahıs modu ile sahanın ortası modu arasında değiştir"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "v"
 msgstr "v"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Jump (if the ability is unlocked)"
 msgstr "Atla (yeteneğin kilidi açılmış ise)"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Up arrow or w key"
 msgstr "Yukarı ok veya w tuşu"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Catch the ball (if the ability is unlocked)"
 msgstr "Topu yakala (yeteneğin kilidi açılmış ise)"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "left or right control"
 msgstr "sağ veya sol ctrl"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Select a skill slot from 1 to 10 (if the skill is set)"
 msgstr "1 ve 10 arasında beceri yuvası seç (beceri ayarlanmış ise)"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "keys 1 to 0/numpad1 to numpad0"
 msgstr "1 ile 0 arası tuşlar/numaratör1 ve numaratör0"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Cancel skill slot selection"
 msgstr "Beceri yuvası seçimini iptal et"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Grave / numpad enter"
 msgstr "Tırnak/ numaratör enter"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Switch to the previous ready to use skill"
+msgstr "Önceki kullanıma hazır olan beceriye geç"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Minus (-) / Numpad Minus (-)"
+msgstr "tire (-) / Numaratör eksi (-)"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Switch to the next ready to use skill"
+msgstr "Sonraki kullanıma hazır olan beceriye geç"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Equals (=) / Numpad Multiply (*)"
+msgstr "Eşittir (=) / Numaratör Çarpı (*)"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid ""
 "Activate/deactivate the star module set in slot 1 to 4 (if the module is "
 "set)."
@@ -1000,19 +1043,19 @@ msgstr ""
 "1-4 yuvasına yerleştirilmiş yıldız modülünü etkinleştir/devre dışı bırak "
 "(modül ayarlanmışsa)"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "alt + keys 1 to 4/numpad1 to numpad4"
 msgstr "alt+1-4 tuşları/numaratör1-numaratör4"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Activate the item (if allowed in the current game mode)."
 msgstr "Öğeyi etkinleştir (mevcut oyun modunda izin veriliyorsa)."
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "x"
 msgstr "x"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid ""
 "Check the amount of available star energy (if you have at least one star "
 "module and module usage is allowed in the current game mode)"
@@ -1020,103 +1063,111 @@ msgstr ""
 "Mevcut yıldız enerjisi miktarını kontrol et (en az bir yıldız modülünüz "
 "varsa ve modül kullanımına mevcut oyun modunda izin veriliyorsa)"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "y"
 msgstr "y"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Open the object map"
 msgstr "Nesne haritasını aç"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "m"
 msgstr "m"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Find out the time until the end of the gaming session"
 msgstr "Oyunun sonuna kadar olan zamanı öğren"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "t"
 msgstr "t"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Find out the current number of points scored"
 msgstr "Puanı öğren"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "p"
 msgstr "p"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "Find out how high the ball is"
+msgstr "Topun ne kadar yüksekte olduğunu öğren"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
+msgid "b"
+msgstr "b"
+
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "Pause the game"
 msgstr "Oyunu duraklat"
 
-#: BallBouncer/docs/en/readme.md:block 97 (table)
+#: BallBouncer/docs/en/readme.md:block 99 (table)
 msgid "escape"
 msgstr "escape"
 
-#: BallBouncer/docs/en/readme.md:block 99 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "Instantly recharge all skills"
 msgstr "Tüm becerileri anında doldur"
 
-#: BallBouncer/docs/en/readme.md:block 99 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "f1"
 msgstr "f1"
 
-#: BallBouncer/docs/en/readme.md:block 99 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "Set skill levels"
 msgstr "Beceri seviyelerini ayarla"
 
-#: BallBouncer/docs/en/readme.md:block 99 (table)
+#: BallBouncer/docs/en/readme.md:block 101 (table)
 msgid "f2"
 msgstr "f2"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Move cursor"
 msgstr "İmleci hareket ettir"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Arrow keys"
 msgstr "Ok tuşları"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Move observation point lower"
 msgstr "Gözlem noktasını aşağı taşı"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "s"
 msgstr "s"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Move observation point higher"
 msgstr "Gözlem noktasını yukarı taşı"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "w"
 msgstr "w"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Toggle object type announcement status"
 msgstr "Nesne türü duyuru durumunu değiştir"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Toggle cursor movement mode"
 msgstr "İmleç hareket modunu değiştir"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "Find out the number of objects on the map"
 msgstr "Haritadaki nesnelerin sayısını öğren"
 
-#: BallBouncer/docs/en/readme.md:block 101 (table)
+#: BallBouncer/docs/en/readme.md:block 103 (table)
 msgid "o"
 msgstr "o"
 
-#: BallBouncer/docs/en/readme.md:block 102 (header)
+#: BallBouncer/docs/en/readme.md:block 104 (header)
 msgid "Configuring controls"
 msgstr "Kısayol tuşlarını ayarlama"
 
-#: BallBouncer/docs/en/readme.md:block 103 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 105 (paragraph)
 msgid ""
 "In the settings, on the \"controls\" tab, you can customize the control keys "
 "to your personal preference by pressing the corresponding button."
@@ -1124,7 +1175,7 @@ msgstr ""
 "Ayarlarda, \"kısayol tuşları\" sekmesinde, kısayol tuşlarını ayarla "
 "düğmesine basarak tuşları kendi tercihinize göre ayarlayabilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 104 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 106 (paragraph)
 msgid ""
 "On the configuration screen, there is a tree where the first level displays "
 "individual blocks, which, in turn, contain actions."
@@ -1132,7 +1183,7 @@ msgstr ""
 "Ayar ekranında, ilk seviyede tek tek blokların görüntülendiği ve bunların da "
 "eylemleri içerdiği bir ağaç vardır."
 
-#: BallBouncer/docs/en/readme.md:block 105 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 107 (paragraph)
 msgid ""
 "Each action has a list of assigned key combinations. You can add or remove "
 "combinations from this list using the corresponding buttons."
@@ -1141,7 +1192,7 @@ msgstr ""
 "kaldır düğmelerini kullanarak bu listeye kombinasyon ekleyebilir veya "
 "listeden çıkarabilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 106 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 108 (paragraph)
 msgid ""
 "After pressing the add combination button, a new screen will open, "
 "containing four lists, a field to assign the main key, and the \"Add\" and "
@@ -1150,7 +1201,7 @@ msgstr ""
 "Kısayol ekle düğmesine bastıktan sonra, dört liste, ana tuşu atamak için bir "
 "alan ve Ekle ve İptal düğmelerini içeren yeni bir ekran açılır."
 
-#: BallBouncer/docs/en/readme.md:block 107 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 109 (paragraph)
 msgid ""
 "Each list corresponds to its modifier key (alt, windows, control, shift) and "
 "contains 4 options for using the modifier key (none, left, right, any)."
@@ -1159,7 +1210,7 @@ msgstr ""
 "değiştirici tuşu kullanmak için 4 seçenek içerir (hiçbiri, sol, sağ, "
 "herhangi biri)."
 
-#: BallBouncer/docs/en/readme.md:block 108 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 110 (paragraph)
 msgid ""
 "To set the primary key, follow the instructions in the key-assignment field, "
 "which comes immediately after the list for the shift modifier key. If you "
@@ -1170,7 +1221,7 @@ msgstr ""
 "ardından gelen tuş atama alanındaki yönergeleri izleyin. Kombinasyonunuzda "
 "yalnızca değiştirici tuşları kullanmak istiyorsanız, alanı boş bırakın."
 
-#: BallBouncer/docs/en/readme.md:block 109 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 111 (paragraph)
 msgid ""
 "After you have set all the necessary parameters, click the \"Add\" button. "
 "However, keep in mind that duplicates within a single action block are not "
@@ -1180,7 +1231,7 @@ msgstr ""
 "Ancak, aynı eylem bloğu içinde aynı tuşun birden fazla işlem için "
 "kullanılmasına izin verilmediğini unutmayın."
 
-#: BallBouncer/docs/en/readme.md:block 110 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 112 (paragraph)
 msgid ""
 "If required, you can share your controls configuration with other people. "
 "The configuration is located in the user data folder (userData) and is named "
@@ -1195,11 +1246,11 @@ msgstr ""
 "yapılandırmasını sizin verdiğinizle değiştirmesi gerekir. Yapılandırma açık "
 "biçimde saklanmasına rağmen, elle düzenleme için tasarlanmamıştır."
 
-#: BallBouncer/docs/en/readme.md:block 111 (header)
+#: BallBouncer/docs/en/readme.md:block 113 (header)
 msgid "Translation of the game into other languages"
 msgstr "Oyunu başka dillere çevirme"
 
-#: BallBouncer/docs/en/readme.md:block 112 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 114 (paragraph)
 msgid ""
 "If you would like to translate ball bouncer into your native language, "
 "please visit [sooslandia-games translation repository on github](https://"
@@ -1209,7 +1260,7 @@ msgstr ""
 "[github'daki Sooslandia-Games çeviri deposunu](https://github.com/sooslandia/"
 "translations) ziyaret edin."
 
-#: BallBouncer/docs/en/readme.md:block 113 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 115 (paragraph)
 msgid ""
 "Github was chosen because it allows us to centralize all translations in one "
 "place, automatically confirm that the game with a new translation will "
@@ -1221,7 +1272,7 @@ msgstr ""
 "çeviri formatlarını komut dosyaları kullanarak dönüştürmemize ve depolanan "
 "verilerin yapısını korumamıza olanak tanıdığı için Github seçilmiştir.."
 
-#: BallBouncer/docs/en/readme.md:block 114 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 116 (paragraph)
 msgid ""
 "If you have any difficulties, contact us for help in the telegram group, "
 "discord or email. Look for links to the above in the “Conclusion” section."
@@ -1230,11 +1281,11 @@ msgstr ""
 "yardım için bizimle iletişime geçebilirsiniz. Söz konusu bağlantılara "
 "“Kapanış” bölümünde ulaşabilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 115 (header)
+#: BallBouncer/docs/en/readme.md:block 117 (header)
 msgid "Conclusion"
 msgstr "Kapanış"
 
-#: BallBouncer/docs/en/readme.md:block 116 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 118 (paragraph)
 msgid ""
 "We are glad that you got interested in this project and we hope that you "
 "will like it. Destroy and have fun!"
@@ -1242,7 +1293,7 @@ msgstr ""
 "Bu projeyle ilgilendiğiniz için mutluyuz ve beğeneceğinizi umuyoruz. Yok "
 "edin ve tadını çıkarın!"
 
-#: BallBouncer/docs/en/readme.md:block 117 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 119 (paragraph)
 msgid ""
 "Subscribe to our [channel](https://t.me/sooslandia) on telegram, or join our "
 "[discord server](https://discord.gg/8xcKB7dsDR), to receive the latest news "
@@ -1252,7 +1303,7 @@ msgstr ""
 "almak için telegramdaki [kanalımıza](https://t.me/sooslandia) abone olun "
 "veya [discord sunucumuza](https://discord.gg/8xcKB7dsDR) katılın."
 
-#: BallBouncer/docs/en/readme.md:block 118 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 120 (paragraph)
 msgid ""
 "Join the [channel chat](https://t.me/sooslandiadiscussion), where you can "
 "share your opinion about the game, report any bugs, or suggest your idea, "
@@ -1262,7 +1313,7 @@ msgstr ""
 "hataları bildirebileceğiniz veya fikirlerinizi önerebileceğiniz [sohbet "
 "kanalına](https://t.me/sooslandiadiscussion) katılabilirsiniz."
 
-#: BallBouncer/docs/en/readme.md:block 119 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 121 (paragraph)
 msgid ""
 "If you don't use telegram and discord, you can write to [our email](mailto://"
 "contact@sooslandia.ru), but a quick response is not guaranteed."
@@ -1270,6 +1321,6 @@ msgstr ""
 "Telegram ve Discord kullanmıyorsanız, [e-postamıza](mailto://"
 "contact@sooslandia.ru) yazabilirsiniz, ancak hızlı bir yanıt garanti edilmez."
 
-#: BallBouncer/docs/en/readme.md:block 120 (paragraph)
+#: BallBouncer/docs/en/readme.md:block 122 (paragraph)
 msgid "All the best, Sooslandia-games."
 msgstr "En iyi dileklerimizle, Sooslandia-Games."

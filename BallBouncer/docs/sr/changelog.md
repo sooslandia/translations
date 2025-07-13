@@ -1,182 +1,200 @@
 % Lista promena
 
-## 1.4.0
-
-This release addresses numerous existing issues, such as the overly complex trial
-of mastery mode, difficulties in identifying and activating items, the lack of
-stat tracking for completed quests and opened chests, the inability to determine
-when the "Furious leap" skill can be activated, and more.
-
-New upgrades have also been added, and statistics milestone reward balancing has
-been carried out.
-
-High load on the audio system was resolved, which led to an increase in the
-points scored.
-
-### Nove funkcije
-
-- Reward for completed quests can now be increased.
-   - To access the new screen, click the "Increase reward for completed quests"
-button located on the quest board tab in your profile.
-   - The increase is made using coins, green, blue, and red orbs.
-   - Each of the listed currencies has its own separate enhancement, but they all
-collectively affect a single parameter: the chance to get an additional star.
-   - If the chance to get an additional star reaches 100%, you will be guaranteed to
-receive one extra star as a reward, and the chance counter will reset.
-- The trial of mastery mode has been slightly reworked.
-   - Balls can no longer collide with one another.
-   - The minimum number of objects on the field has been increased.
-   - Ball bounces off the ceiling now start a streak and grant a certain number of
-points.
-   - Perfect strikes have been added.
-      - To perform a perfect strike in trial of mastery mode, strike the ball with the
-bat when your hit strength is fully restored.
-      - If you miss or land a hit without full power, the streak will be reset.
-      - The streak and perfect strikes are recorded in the stats.
-   - The bonus from the bounce penalty reduction upgrade has been changed from 2% to
-5% per level.
-   - The mode’s reference information has been updated to reflect the changes made.
-- The main menu music has been updated.
-   - You can now safely share video or audio playthroughs of the game without
-turning off the music.
-   - Huge thanks to [Nikita K](https://t.me/NikitaKOfficial) for his hard work!
-- A sound has been added to notify you when a quest is completed.
-- A new upgrade has been added that increases the bonus for dodging electric
-discharges in trial of speed mode.
-- New star upgrades added.
-   - Duration of Destruction, Collision, and Ceiling Bounce Streaks increase.
-   - Indulgence of Inaction.
-- You can now find out how high the ball is.
-   - The default key for the function is B.
-   - When used, you will hear information about how high the ball is, along with a
-special sound played in the ball’s current pitch.
-   - In trial of mastery mode, the positions of all balls on the field will be
-announced in order, and the sound will be played in the pitch of the ball that
-is the lowest.
-- New statistics items added.
-   - Total luck chests opened.
-   - Total quests completed.
-- Sound panning customization has been added.
-   - To access this screen, press the corresponding button on the settings screen,
-on the "Sound" tab.
-   - To get help information about the function, press the "Help" button on the
-sound panning settings screen.
-- You can now disable the generation of mines, couches, and toolboxes on the game
-field.
-   - A list of checkboxes has been added to the mode selection screen, allowing you
-to toggle the generation of specific objects on or off.
-   - The list will be hidden if the mode selection cursor is set to any mode other
-than Normal or Training.
-- A feature has been added that allows you to switch between ready to use skills.
-   - Switch to the next ready to use skill: Equals (=) key or Numpad Minus (-).
-   - Switch to the previous ready to use skill: Hyphen (-) key or Numpad Multiply
-(*).
-   - The keys apply to the default controls configuration.
-- A new setting has been added that allows you to disable the countdown at the
-start of the game.
-- A feature has been added that allows you to change the ball's sound on the fly.
-   - To change the sound, enter Ball watch mode during a game session, then press
-the L key to cycle through sounds.
-   - In trial of mastery mode, this feature works similarly. Use the J key to select
-the ball whose sound you want to change, then press the L key.
-   - By pressing the F1 key during a trial of mastery game session, you'll open the
-ball sound customization screen, where you can adjust the sounds in a calm
-environment.
-      - The screen contains four elements: three lists, each corresponding to a
-specific ball, and a button to close the screen.
-      - To preview a ball sound, press the Enter or Space key on the selected item in
-any of the lists.
-      - You can interrupt the playing sound by navigating through the list or screen.
-   - The selected sounds are saved between game sessions.
-- A new setting has been added that allows you to normalize the pitch of all ball
-sounds to approximately the same level.
-   - When previewing sounds in the ball sound selection menu, they play in the same
-pitch. However, during gameplay, sounds other than the first one still don’t
-fully match its pitch.
-   - Despite this, the feature can be useful for those who use ball sounds other
-than the first and have trouble distinguishing sounds in noisy environments,
-as raising the pitch also increases audibility.
-- A new setting has been added that allows you to switch to Ball watch mode with
-a key press instead of holding the key down.
-- The pause menu now includes the option to view the skills assigned to slots
-(under "Active Skills").
+## 1.4.2
 
 ### Promene
 
-- Now, in trial of will and Mastery modes, if you are near an item and can
-activate it, the item's sound pitch is slightly increased.
-- The penalty for the ball bouncing off the floor has been adjusted.
-   - if the ball bounces off the floor 40 times in a row, the penalty for subsequent
-bounces will increase very rapidly.
-   - This change is offset by the new upgrade "Indulgence of Inaction".
-- The reward for opening Luck Chests has been increased.
-- Some changes have been made to the rewards for reaching stat milestones. If any
-discrepancies are detected when the game starts, previously allocated
-achievement points will be reset and rewards will be recalculated.
-- In trial of will and trial of mastery modes, the same type of item can no
-longer appear more than twice in a row.
-- In trial of speed mode, the same effect can no longer appear twice in a row.
-- Store changes: the Time Aura and Leader Aura upgrades have been moved to the
-"Auras" tab; the "Increased Chance of Special Object Spawns" upgrade has been
-moved to the "Objects" tab.
-- Rewards for low scores in trial modes have been increased.
-- The effect of the upgrade that increases the number of red orbs received has
-been improved.
-- Coin reward calculation has been improved for final scores over 100 million.
-- If you’ve purchased the maximum number of quest slots, the purchase button will
-now be hidden from the screen.
-- Veština "besni skok" je poboljšana. Sada karakter može da se zaleti i kada je
-udaljenost veća.
-- The display of the rewards list shown when opening multiple Luck Chests at once
-has been updated.
+- Ažurirani prevodi.
+   - Turski. Prevodilac [fatihyuksek](https://github.com/fatihyuksek1).
+   - Češki. Prevodilac [4sensegaming](https://github.com/4sensegaming).
 
 ### Ispravke
 
-- Handling of a large number of simultaneously playing sounds has been improved.
-   - As a result of this optimization, the total number of sounds during the
-destruction of many objects has been reduced. However, the audio environment
-can still become overloaded.
-   - You may also notice that you're scoring significantly more points during Normal
-mode gameplay. This is expected and happens because a major overload in the
-audio system—previously causing overall game slowdown—has been resolved.
-- Fixed a rare freeze and crash that could occur right after starting a game
-session when gameplay recording was enabled.
-- Fixed an issue where receiving a bonus for destroying a puppet or dodging an
-electric discharge could increase a negative score.
-- Fixed incorrect behavior that occurred when using the "Furious leap" skill.
-- The progress for the quest "Hit the ceiling with the ball while the
-immateriality effect is active" now also counts when using the "ball
-controller" star module.
-- Improved the handling of chest and quest reset time updates.
-- Descriptions of some upgrades in the store have been expanded.
-- You can now skip the coin and other currency gain animation by pressing the
-Enter key on the numpad.
+- Fixed the earlier appearance of the star modules tabs and improvements in the
+store.
+- Fixed a doubled sound playback when pressing the yes button on the update
+screen.
+
+## 1.4.1
+
+Fixed a critical error when opening profile.
+
+## 1.4.0
+
+Ova verzija ispravlja brojne postojeće probleme, kao što su izuzetna kompleksnost
+režima probe majstora, težina pri pronalasku i aktiviranju predmeta, nedostatak
+praćenja statistika završenih misija i otvorenih kovčega, nemogućnost
+prepoznavanja kada veština "besni skok" može da se aktivira, i još toga.
+
+Takođe su dodata nova pojačanja, i izvršena poboljšanja balansa statistika
+jubileja.
+
+Rešen je problem opterećenja zvučnog sistema, što je dovelo do povećanja broja
+osvojenih poena.
+
+### Nove funkcije
+
+- Nagrada za završene misije se sada može povećati.
+   - Da pristupite novom ekranu, aktivirajte dugme "Povećanje nagrade za završene
+misije" koje se nalazi na kartici table misija na vašem profilu.
+   - Povećanje se vrši novčićima, zelenim, plavim i crvenim kuglicama.
+   - Svaka valuta ima svoje odvojeno poboljšanje, ali sve one zajedno utiču na jedan
+parametar: šansu da dobijete dodatnu zvezdu.
+   - Ako šansa da dobijede dodatnu zvezdu dostigne 100%, garantovano je da ćete
+dobiti jednu dodatnu zvezdu i nagradu, i brojač šanse će se resetovati.
+- Režim probe majstora je dobio sitne promene.
+   - Loptice više ne mogu da se sudare jedna sa drugom.
+   - Minimalan broj objekata na terenu je povećan.
+   - Odskakanje loptica sa platfona sada započinje niz koji vam donosi određeni broj
+poena.
+   - Dodati su savršeni udarci.
+      - Da izvršite savršen udarac u režimu probe majstora, udarite lopticu palicom
+kada je snaga vašeg udarca u potpunosti oporavljena.
+      - Ako promašite ili ne udarite lopticu punom snagom, niiz će se resetovati.
+      - Nizovi i savršeni udarci se beleže u statistikama.
+   - Bonus smanjenja kazne za odskakanje loptice je promenjen sa 2% na 5% po nivou.
+   - Opis režima je ažuriran kako bi ste se upoznali sa izvršenim promenama.
+- Muzika glavnog menija je ažurirana.
+   - Sada možete bezbedno da podelite video ili audio snimke igre bez isključivanja
+muzike.
+   - Ogromna zahvalnost korisniku [Nikita K](https://t.me/NikitaKOfficial) za njegov
+naporan rad!
+- Dodat je zvuk koji vas obaveštava kada je misija završena.
+- Dodato je novo pojačanje koje povećava bonus za izbegavanje električnih
+pražnjenja u režimu probe brzine.
+- Dodata su nova zvezdana pojačanja.
+   - Povećano trajanje nizova uništenja, sudara i odskakanja od plafona.
+   - Podrška mirnoće.
+- Sada možete da saznate koliko visoko je loptica.
+   - Podrazumevani taster ove funkcije je B.
+   - Kada se iskoristi, čućete informaciju koliko visoko se loptica nalazi, kao i
+poseban zvuk koji se reprodukuje na trenutnoj visini loptice.
+   - U režimu probe majstora, pozicija svih loptica na terenu će biti izgovorena po
+redu, a zvuk će se reprodukovati na visini najniže loptice.
+- Dodate su nove stavke statistika.
+   - Ukupan broj otvorenih kovčega.
+   - Ukupan broj završenih misija.
+- Dodato je prilagođavanje balansa zvuka.
+   - Da pristupite ovom ekranu, pritisnite odgovarajuće dugme na ekranu podešavanja,
+na kartici "Zvuk".
+   - Kako biste dobili pomoć za ovu funkciju, pritisnite dugme "pomoć" na ekranu
+podešavanja balansa zvuka.
+- Sada možete da onemogućite pravljenje mina, kauča i kutija za alat na terenu.
+   - Dodata je lista izbornih polja na ekranu izbora režima, koja vam dozvoljava da
+uključite ili isključite pravljenje određenih objekata.
+   - Lista će biti skrivena ako je kursor izbora režima podešen na bilo koji drugi
+režim osim standardnog i vežbanja.
+- Dodata je funkcija koja vam dozvoljava da se prebacite između veština koje su
+spremne za korišćenje.
+   - Prebaci se na sledeću veštinu koja je spremna za korišćenje: taster jednako (=)
+ili numerički minus (-).
+   - Prebaci se na sledeću veštinu koja je spremna za korišćenje: taster crtica (-)
+ili numerički taster puta (*).
+   - Tasteri se primenjuju sa podrazumevanim podešavanjima kontrolama.
+- Dodato je novo podešavanje koje vam dozvoljava da onemogućite odbrojavanje pre
+početka igre.
+- Dodata je funkcija koja vam dozvoljava da brzo promenite zvuk loptice.
+   - Da promenite zvuk, uđite u režim gledanja loptice tokom igre, a zatim
+pritisnite taster L da kružite između zvukova.
+   - U režimu probe majstora, ova funkcija radi na sličan način. Koristite taster J
+da izaberete lopticu čiji zvuk želite da promenite, a zatim pritisnite taster
+L.
+   - Pritiskanjem tastera F1 tokom igre režima probe majstora, otvorićete ekran
+prilagođavanja zvuka loptice, gde možete da promenite zvukove u mirnom
+okruženju.
+      - Ekran sadrži četiri elementa: tri liste, svaka odgovara određenoj loptici, i
+dugme za zatvaranje ekrana.
+      - Da čujete zvuk loptice, pritisnite Enter ili Razmak na bilo kom zvuku u listi.
+      - Možete prekinuti reprodukciju zvuka navigacijom po listi ili ekranu.
+   - Izabrani zvukovi se čuvaju između igara.
+- Dodato je podešavanje koje vam dozvoljava da normalizujete visinu svih zvukova
+loptica na približno isti nivo.
+   - Kada puštate zvukove na ekranu menjanja zvuka loptice, reprodukuju se na istoj
+visini. Ali, tokom igre, zvukovi osim prvog se ne podudaraju u potpunosti po
+visini.
+   - Bez obzira na ovo, funkcija može biti korisna za one koji koriste zvukove
+loptice osim prvog i imaju problema da razlikuju zvukove u bučnim okruženjima,
+budući da povećanje visine takođe povećava zvučnost.
+- Dodato je novo podešavanje koje vam dozvoljava da se prebacite u režim gledanja
+loptice pritiskanjem jednog tastera umesto da držite taster.
+- Meni pauze sada uključuje opciju gledanja veštine koje su podešene na mesta
+(meni "aktivne veštine").
+
+### Promene
+
+- Sada, u režimima probe volje i majstora, ako ste blizu predmeta i možete da ga
+aktivirate, visina zvuka predmeta će biti blago povišena.
+- Kazna za odskakanje loptice od poda je promenjena.
+   - ako loptica odskoči od poda 40 puta zaredom, kazna za naredna odskakanja će se
+veoma brzo povećavati.
+   - Ova promena je izazvana novim pojačanjem "podrška mirnoće".
+- Nagrada za otvaranje kovčega sreće je povećana.
+- Izvršene su određene promene u nagradama za dostizanje statističkih jubileja.
+Ako se prepoznaju bilo koji nedostaci kada se igra pokrene, prethodno
+dodeljeni poeni dostignuća će biti resetovani i nagrade će biti ponovo
+izračunate.
+- U režimima probe volje i majstora, ista vrsta predmeta se više ne može pojaviti
+više od dva puta zaredom.
+- U režimu probe brzine, isti efekat se više ne može pojaviti dva puta zaredom.
+- Promene u prodavnici: vremenska aura i aura vođe su prebačene na karticu
+"aure"; "povećanje šanse pojavljivanja posebnih objekata" pojačanje je
+prebačeno na "karticu "objekti".
+- Nagrade za manje rezultate u režimima probe su povećane.
+- Efekat pojačanja koje povećava broj dobijenih crvenih kugli je poboljšan.
+- Računanje nagrade novčića je poboljšano za ukupne rezultate iznad 100 miliona.
+- Ako ste kupili maksimalan broj mesta za misije, dugme za kupovinu će sada biti
+skriveno sa ekrana.
+- Veština "besni skok" je poboljšana. Sada karakter može da se zaleti i kada je
+udaljenost veća.
+- Prikazivanje liste nagrada koja se prikazuje kada se otvori više kovčega sreće
+odjednom je ažurirana.
+
+### Ispravke
+
+- Obrađivanje reprodukcije velikog broja zvukova u isto vreme je poboljšano.
+   - Kao rezultat ove optimizacije, ukupan broj zvukova tokom uništenja objekata je
+smanjen. Ali, zvučno okruženje još uvek može biti preopterećeno.
+   - Možete takođe primetiti da dobijate značajnije više poena tokom igranja
+standardnog režima. Ovo je očekivano i događa se zbog toga što je ogromno
+opterećenje zvučnog sistema —koje je ranije izazivalo usporavanje igre —rešeno.
+- Ispravljeno retko zamrzavanje i rušenje koje se događalo odmah nakon što
+započnete igru kada je snimanje igre omogućeno.
+- Ispravljena greška zbog koje dobijanje bonusa za uništenje lutke ili
+izbegavanje električnog pražnjenja može povećati negativan rezultat.
+- Ispravljeno neispravno ponašanje koje se događalo kada koristite veštinu "besni
+skok".
+- Napredak za misiju "Udarite plafon lopticom dok je efekat nematerijalnosti
+aktivan" se sada takođe računa kada se koristi zvezdani modul "kontroler
+loptice".
+- Poboljšano obrađivanje ažuriranje vremena resetovanja misija i kovčega.
+- Opisi nekih pojačanja u prodavnici su prošireni.
+- Sada možete da preskočite animaciju za dobijanje novčića i drugih valuta
+tasterom Enter na numeričkoj tastaturi.
 
 ## 1.3.5
 
 ### Promene
 
-- Updated translations.
+- Ažurirani prevodi.
    - Srpski. Prevodilac [nidza07](https://github.com/nidza07).
    - Turski. Prevodilac [fatihyuksek](https://github.com/fatihyuksek1).
-- Changed the completion criteria for some quests.
-- Now, if the ball watch mode is enabled, the penalty for the character staying
-in one place is not applied.
+- Izmenjen kriterijum završavanja nekih misija.
+- Sada, ako je režim gledanja loptice omogućen, kazna za stajanje u mestu se ne
+primenjuje.
 
 ### Ispravke
 
-- Fixed the ability to use certain auras if they are not active.
-- Otherworldly aura has been changed in such a way as to make it easier to hit
-the ball with the bat.
-- Fixed the behavior of the electric charge in trial of speed mode, where it
-could hit the character and be counted as hitting the ground at the same time.
-- Fixed a critical error when using the "Magnetism" and "Rocket Salvo" skills
-simultaneously.
-- Fixed a critical error when using the "Catcher's Soul" and "Furious Leap"
-skills simultaneously.
-- Likely fixed a critical error occurring when restarting the game after an
-update.
-- Fixed the sound playback for the object collision streak notification.
+- Ispravljena mogućnost korišćenja određenih aura ako nisu aktivne.
+- Aura s' onog sveta je promenjena tako da je sada lakše udariti lopticu palicom.
+- Ispravljeno ponašanje električnih punjenja u režimu probe brzine, gde su mogla
+da udare karaktera i da se računaju kao da su u isto vreme udarila zemlju.
+- Ispravljena kritična greška kada se koriste veštine "magnetizam" i "raketna
+salva" u isto vreme.
+- Ispravljena kritična greška kada se koriste veštine "hvatalačka duša" i "besni
+skok" u isto vreme.
+- Verovatno ispravljena kritična greška do koje je dolazilo kada se igrica
+restartuje nakon ažuriranja.
+- Ispravljena reprodukcija zvukova za obaveštenje o nizu sudara sa objektima.
 
 ## 1.3.4
 

@@ -55,8 +55,9 @@ Ako vam se ne sviđa zvuk loptice, možete ga promeniti u podešavanjima, na kar
 promeniti u toku igre ako posetite podešavanja kada pauzirate igru. Zvuk loptice
 će se promeniti čim nastavite igru.
 
-You can also change the ball sound during gameplay. To do this, enter Ball watch
-mode by holding the G key, then press L to change the sound.
+Možete takođe da promenite zvuk loptice tokom igranja. To Da biste ovo uradili,
+uđite u režim gledanja loptice držanjem tastera G, a zatim pritisnite L da
+promenite zvuk.
 
 ### Navigacija
 
@@ -102,9 +103,9 @@ prateći isti princip kao i podešavanje oporavka snage udarca.
 Kada pritisnete taster F1, vaše veštine koje ste podesili na dostupna mesta će se
 odmah oporaviti i biti dostupne za korišćenje.
 
-If you press the B key and the ball is on the field, you will hear an audio cue
-indicating how high the ball is, along with a sound played in the ball’s pitch.
-This feature works in all modes.
+Ako pritisnete taster B i loptica je na terenu, čućete zvuk koji vam pokazuje
+koliko visoko se loptica nalazi, kao i zvuk koji se reprodukuje na visini
+loptice. This feature works in all modes.
 
 Ovi tasteri se mogu promeniti korišćenjem podešavanja kontrola.
 
@@ -342,7 +343,7 @@ Sve prečice u ovoj sekciji se mogu promeniti menjanjem podešavanja kontrola.
 | Zamahni palicom (udari lopticu dajući joj jak vertikalni impuls) | alt+razmak, alt+s ili r |
 | Baci lopticu u luku | f |
 | Baci lopticu vertikalno | alt+f |
-| Switch ball sound | l (only when Ball watch mode is active) |
+| Promeni zvuk loptice | l (samo kada je režim gledanja loptice aktivan) |
 | Prebaci kameru u režim gledanja loptice | Držite taster G |
 | Prebaci kameru u standardni režim | Otpustite taster G |
 | Prebaci kameru između gledanja terena i karaktera | v |
@@ -350,15 +351,15 @@ Sve prečice u ovoj sekciji se mogu promeniti menjanjem podešavanja kontrola.
 | Uhvati lopticu (ako je sposobnost otključana) | levi ili desni Kontrol |
 | Izaberi mesto veštine od 1 do 10 (ako je veština podešena) | tasteri 1 do 0/numeričko1 do numeričko0 |
 | Otkaži izbor mesta veštine | Akcenat/ numerički Enter |
-| Switch to the previous ready to use skill | Minus (-) / Numpad Minus (-) |
-| Switch to the next ready to use skill | Equals (=) / Numpad Multiply (*) |
+| Prebaci se na prethodnu veštinu koja je spremna za korišćenje | Minus (-) / numerički Minus (-) |
+| Prebaci se na sledeću veštinu koja je spremna za korišćenje | Jednako (=) / numeričko puta (*) |
 | Aktivira ili deaktivira zvezdani modul podešen na mesta od 1 do 4 (ako je neki modul podešen). | alt + tasteri 1 do 4/numeričko 1 do numeričko 4 |
 | Aktivira predmet (ako je ovo dozvoljeno u trenutnom režimu igre). | x |
 | Proveri količinu dostupne zvezdane energije (ako imate bar jedan zvezdani modul i ako je korišćenje modula dozvoljeno u trenutnom režimu igre) | y |
 | Otvori mapu objekata | m |
 | Saznaj vreme do kraja igre | t |
 | Saznaj broj osvojenih poena | p |
-| Find out how high the ball is | b |
+| Saznaj koliko visoko se loptica nalazi | b |
 | Pauziraj igru | escape |
 
 ### Režim vežbe

@@ -1,5 +1,22 @@
 % changelog
 
+## 1.4.2
+
+### Changes
+
+- Updated translations.
+   - Turkish. Translator [fatihyuksek](https://github.com/fatihyuksek1).
+   - Czech. Translator [4sensegaming](https://github.com/4sensegaming).
+
+### Fixes
+
+- Fixed the earlier appearance of the star modules tabs and improvements in the store.
+- Fixed a doubled sound playback when pressing the yes button on the update screen.
+
+## 1.4.1
+
+Fixed a critical error when opening profile.
+
 ## 1.4.0
 
 This release addresses numerous existing issues, such as the overly complex trial of mastery mode, difficulties in identifying and activating items, the lack of stat tracking for completed quests and opened chests, the inability to determine when the "Furious leap" skill can be activated, and more.
