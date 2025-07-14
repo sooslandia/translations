@@ -5,6 +5,7 @@
 ### Promene
 
 - Ažurirani prevodi.
+   - Srpski. Prevodilac [nidza07](https://github.com/nidza07).
    - Turski. Prevodilac [fatihyuksek](https://github.com/fatihyuksek1).
    - Češki. Prevodilac [4sensegaming](https://github.com/4sensegaming).
 

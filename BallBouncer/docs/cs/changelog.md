@@ -5,6 +5,7 @@
 ### Změny
 
 - Aktualizovány překlady.
+   - Srbský. Překladatel [nidza07](https://github.com/nidza07).
    - Turecký. Překladatel [fatihyuksek](https://github.com/fatihyuksek1).
    - Český. Překladatel [4sensegaming](https://github.com/4sensegaming).
 

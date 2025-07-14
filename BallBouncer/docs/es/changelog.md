@@ -5,6 +5,7 @@
 ### Cambios
 
 - Updated translations.
+   - Traductor serbio [nidza07](https://github.com/nidza07).
    - Traductor turco [fatihyuksek](https://github.com/fatihyuksek1).
    - Traductor checo [4sensegaming](https://github.com/4sensegaming).
 
