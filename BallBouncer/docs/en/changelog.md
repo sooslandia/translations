@@ -5,6 +5,7 @@
 ### Changes
 
 - Updated translations.
+   - Serbian. Translator [nidza07](https://github.com/nidza07).
    - Turkish. Translator [fatihyuksek](https://github.com/fatihyuksek1).
    - Czech. Translator [4sensegaming](https://github.com/4sensegaming).
 
