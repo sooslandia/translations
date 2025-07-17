@@ -5,6 +5,7 @@
 ### Değişiklikler
 
 - Çeviriler güncellendi.
+   - Sırpça. Çevirmen [nidza07](https://github.com/nidza07).
    - Türkçe. Çevirmen [fatihyuksek](https://github.com/fatihyuksek1).
    - Çekçe. Çevirmen [4sensegaming](https://github.com/4sensegaming).
 

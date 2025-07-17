@@ -5,19 +5,20 @@
 ### Promene
 
 - Ažurirani prevodi.
+   - Srpski. Prevodilac [nidza07](https://github.com/nidza07).
    - Turski. Prevodilac [fatihyuksek](https://github.com/fatihyuksek1).
    - Češki. Prevodilac [4sensegaming](https://github.com/4sensegaming).
 
 ### Ispravke
 
-- Fixed the earlier appearance of the star modules tabs and improvements in the
-store.
-- Fixed a doubled sound playback when pressing the yes button on the update
-screen.
+- Ispravljeno rano pojavljivanje kartica zvezdanih modula i druga poboljšanja
+prodavnice.
+- Ispravljena reprodukcija duplog zvuka kada se aktivira dugme da na ekranu
+ažuriranja.
 
 ## 1.4.1
 
-Fixed a critical error when opening profile.
+Ispravljena kritična greška kada se otvori profil.
 
 ## 1.4.0
 

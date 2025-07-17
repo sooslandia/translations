@@ -4,177 +4,174 @@
 
 ### Změny
 
-- Aktualizované překlady.
+- Aktualizovány překlady.
+   - Srbský. Překladatel [nidza07](https://github.com/nidza07).
    - Turecký. Překladatel [fatihyuksek](https://github.com/fatihyuksek1).
-   - Čeština. Překladatel [4sensegaming](https://github.com/4sensegaming).
+   - Český. Překladatel [4sensegaming](https://github.com/4sensegaming).
 
 ### Opravy
 
-- Fixed the earlier appearance of the star modules tabs and improvements in the
-store.
-- Fixed a doubled sound playback when pressing the yes button on the update
-screen.
+- Opraveno předčasné zobrazování karet pro hvězdné moduly a další vylepšení
+obchodu.
+- Opraveno zdvojené přehrávání zvuku při stisknutí tlačítka Ano na obrazovce
+aktualizace.
 
 ## 1.4.1
 
-Fixed a critical error when opening profile.
+Opravena kritická chyba při otevření profilu.
 
 ## 1.4.0
 
-This release addresses numerous existing issues, such as the overly complex trial
-of mastery mode, difficulties in identifying and activating items, the lack of
-stat tracking for completed quests and opened chests, the inability to determine
-when the "Furious leap" skill can be activated, and more.
+Tato verze řeší řadu problémů, jako třeba příliš složitý režim Mistrovská
+zkouška, problémy při lokalizování a aktivaci speciálních předmětů, chybějící
+sledování statistik pro splněné výzvy a odemčené truhly štěstěny, nemožnost
+poznat, kdy se dá použít schopnost "Titánský skok", a další.
 
-New upgrades have also been added, and statistics milestone reward balancing has
-been carried out.
+Přidali jsme také nová vylepšení a změnili vyvážení při získávání odměn za
+statistické milníky.
 
-High load on the audio system was resolved, which led to an increase in the
-points scored.
+Vyřešili jsme vysoké zatížení zvukového systému. V důsledku této změny teď budeš
+získávat víc bodů.
 
 ### Nové funkce
 
-- Reward for completed quests can now be increased.
-   - To access the new screen, click the "Increase reward for completed quests"
-button located on the quest board tab in your profile.
-   - The increase is made using coins, green, blue, and red orbs.
-   - Each of the listed currencies has its own separate enhancement, but they all
-collectively affect a single parameter: the chance to get an additional star.
-   - If the chance to get an additional star reaches 100%, you will be guaranteed to
-receive one extra star as a reward, and the chance counter will reset.
-- The trial of mastery mode has been slightly reworked.
-   - Balls can no longer collide with one another.
-   - The minimum number of objects on the field has been increased.
-   - Ball bounces off the ceiling now start a streak and grant a certain number of
-points.
-   - Perfect strikes have been added.
-      - To perform a perfect strike in trial of mastery mode, strike the ball with the
-bat when your hit strength is fully restored.
-      - If you miss or land a hit without full power, the streak will be reset.
-      - The streak and perfect strikes are recorded in the stats.
-   - The bonus from the bounce penalty reduction upgrade has been changed from 2% to
-5% per level.
-   - The mode’s reference information has been updated to reflect the changes made.
-- The main menu music has been updated.
-   - You can now safely share video or audio playthroughs of the game without
-turning off the music.
-   - Huge thanks to [Nikita K](https://t.me/NikitaKOfficial) for his hard work!
-- A sound has been added to notify you when a quest is completed.
-- A new upgrade has been added that increases the bonus for dodging electric
-discharges in trial of speed mode.
-- New star upgrades added.
-   - Duration of Destruction, Collision, and Ceiling Bounce Streaks increase.
-   - Indulgence of Inaction.
-- You can now find out how high the ball is.
-   - The default key for the function is B.
-   - When used, you will hear information about how high the ball is, along with a
-special sound played in the ball’s current pitch.
-   - In trial of mastery mode, the positions of all balls on the field will be
-announced in order, and the sound will be played in the pitch of the ball that
-is the lowest.
-- New statistics items added.
-   - Total luck chests opened.
-   - Total quests completed.
-- Sound panning customization has been added.
-   - To access this screen, press the corresponding button on the settings screen,
-on the "Sound" tab.
-   - To get help information about the function, press the "Help" button on the
-sound panning settings screen.
-- You can now disable the generation of mines, couches, and toolboxes on the game
-field.
-   - A list of checkboxes has been added to the mode selection screen, allowing you
-to toggle the generation of specific objects on or off.
-   - The list will be hidden if the mode selection cursor is set to any mode other
-than Normal or Training.
-- A feature has been added that allows you to switch between ready to use skills.
-   - Switch to the next ready to use skill: Equals (=) key or Numpad Minus (-).
-   - Switch to the previous ready to use skill: Hyphen (-) key or Numpad Multiply
+- Odměnu za splněné výzvy lze nyní zvyšovat.
+   - Na příslušnou novou obrazovku se dostaneš tlačítkem "Zvýšit odměnu za splněné
+výzvy", které se nachází na kartě Cesta výzev v profilu.
+   - Za zvýšení se platí mincemi nebo zelenými, modrými a červenými perlami.
+   - Každá z uvedených měn má své vlastní vylepšení, ale všechny společně ovlivňují
+jediný parametr: šanci získat další hvězdu.
+   - Pokud šance na získání další hvězdy dosáhne 100 %, zaručeně získáš jednu hvězdu
+navíc jako odměnu a počítadlo šance se vynuluje.
+- Mírně přepracován režim Mistrovská zkouška.
+   - Míče se už nemohou srážet navzájem.
+   - Zvýšen maximální počet předmětů na hrací ploše.
+   - V tomto režimu se nyní nově počítají i série odrazů míče od stropu.
+   - Přidány dokonalé trefy.
+      - Chceš-li v režimu Mistrovská zkouška provést dokonalou trefu, odpal míč, teprve
+až se ti plně obnoví síla úderu.
+      - Pokud míč mineš nebo ho odpálíš menší silou, série se vynuluje.
+      - Nejdelší série a celkový počet dokonalých tref v tomto režimu se zaznamenávají
+do statistik.
+   - Bonus za vylepšení snížení postihu za odrazy míče od podlahy byl změněn z 2 %
+na 5 % za každou úroveň.
+   - Popis tohoto režimu byl aktualizován tak, aby reflektoval provedené změny.
+- Změnila se hudba v hlavním menu.
+   - Nyní můžeš bezpečně sdílet svoje video nebo audio nahrávky ze hry, aniž by bylo
+nutné vypínat hudbu.
+   - Obrovské díky [Nikita K](https://t.me/NikitaKOfficial) za jeho tvrdou práci!
+- Přidáno zvukové upozornění na splnění výzvy.
+- Přidáno nové vylepšení, které zvyšuje bonus za vyhýbání se elektrickým výbojům
+v režimu Zkouška rychlosti.
+- Přidána nová hvězdná vylepšení.
+   - Víc času na sérii nárazů do předmětu, zničení předmětu a odrazů od stropu.
+   - Odpustek za nečinnost.
+- Nyní můžeš zjistit, jak je míč vysoko.
+   - Výchozí klávesa pro tuto funkci je B.
+   - Při jejím použití se přečte informace, jak je míč právě vysoko, a zároveň se
+ozve speciální zvuk se stejnou výškou tónu jako samotný zvuk míče.
+   - V režimu Mistrovská zkouška se postupně přečtou pozice všech míčů na hrací
+ploše a výška zvuku bude odpovídat tomu míči, který je právě nejníž.
+- Přidány nové statistické milníky.
+   - Celkem odemčeno truhel štěstěny.
+   - Celkem splněno výzev.
+- Přidáno nastavení stereováhy.
+   - Na tuto obrazovku se dostaneš příslušným tlačítkem na obrazovce Nastavení na
+kartě "Zvuk".
+   - Pokud si k této funkci budeš chtít přečíst nápovědu, stiskni tlačítko
+"Nápověda" na obrazovce Nastavení stereováhy.
+- Nyní lze zakázat generování min, gaučů a skříněk s nářadím na hrací ploše.
+   - Na obrazovku výběru režimu byl přidán seznam zaškrtávacích políček, která
+umožňují zapnout nebo vypnout generování pro jednotlivé typy předmětů.
+   - Seznam se skryje, pokud je kurzor pro výběr režimu nastaven na jiný režim než
+Normální nebo Trénink.
+- Přidána funkce, která umožňuje přepínat mezi všemi schopnostmi, které jsou
+právě nabité (připravené k použití).
+   - Přepnutí na následující nabitou schopnost: Klávesa rovná se (=) nebo numerická
+pomlčka (-).
+   - Přepnutí na předchozí nabitou schopnost: Pomlčka (-) nebo numerická hvězdička
 (*).
-   - The keys apply to the default controls configuration.
-- A new setting has been added that allows you to disable the countdown at the
-start of the game.
-- A feature has been added that allows you to change the ball's sound on the fly.
-   - To change the sound, enter Ball watch mode during a game session, then press
-the L key to cycle through sounds.
-   - In trial of mastery mode, this feature works similarly. Use the J key to select
-the ball whose sound you want to change, then press the L key.
-   - By pressing the F1 key during a trial of mastery game session, you'll open the
-ball sound customization screen, where you can adjust the sounds in a calm
-environment.
-      - The screen contains four elements: three lists, each corresponding to a
-specific ball, and a button to close the screen.
-      - To preview a ball sound, press the Enter or Space key on the selected item in
-any of the lists.
-      - You can interrupt the playing sound by navigating through the list or screen.
-   - The selected sounds are saved between game sessions.
-- A new setting has been added that allows you to normalize the pitch of all ball
-sounds to approximately the same level.
-   - When previewing sounds in the ball sound selection menu, they play in the same
-pitch. However, during gameplay, sounds other than the first one still don’t
-fully match its pitch.
-   - Despite this, the feature can be useful for those who use ball sounds other
-than the first and have trouble distinguishing sounds in noisy environments,
-as raising the pitch also increases audibility.
-- A new setting has been added that allows you to switch to Ball watch mode with
-a key press instead of holding the key down.
-- The pause menu now includes the option to view the skills assigned to slots
-(under "Active Skills").
+   - Tyto klávesy platí při výchozím nastavení ovládání.
+- Přidáno nové nastavení, které umožňuje vypnout odpočítávání na začátku hry.
+- Přidána funkce, která umožňuje měnit zvuk míče přímo ve hře.
+   - Chceš-li zvuk změnit, vstup během hry do režimu sledování míče a klávesou L
+přepínej z jednoho zvuku na druhý.
+   - V režimu Mistrovská zkouška funguje tato funkce podobně. Nejdřív klávesou J
+vyber míč, jehož zvuk chceš změnit, a potom mačkej klávesu L.
+   - Klávesou F1 během hry v režimu Mistrovská zkouška otevřeš obrazovku
+přizpůsobení zvuků míče, kde můžeš zvuk měnit, aniž by tě rušily zvuky z hrací
+plochy.
+      - Tato obrazovka obsahuje čtyři prvky: tři seznamy, z nichž každý odpovídá
+jednomu míči, a tlačítko pro zavření obrazovky.
+      - Chceš-li si daný zvuk míče poslechnout, stiskni na vybrané položce v libovolném
+seznamu enter nebo mezerník.
+      - Přehrávání zvuku můžeš přerušit dalším pohybem po seznamu nebo obrazovce.
+   - Vybrané zvuky zůstanou zachovány i po dohrání hry.
+- Přidáno nové nastavení, které umožňuje normalizovat výšku všech zvuků míče na
+přibližně stejnou úroveň.
+   - Při přehrávání zvuků v nabídce výběru zvuku míče se všechny zvuky přehrávají se
+stejnou výškou. Během hry však zvuky míče kromě prvního stále zcela
+neodpovídají skutečné výšce míče.
+   - Přesto může být tato funkce užitečná pro ty hráče, kteří používají jiný než
+první zvuk míče a zároveň mají problémy s rozlišováním jednotlivých zvuků v
+hlučném prostředí, protože zvýšení výšky tónu zvyšuje i jeho slyšitelnost.
+- Přidáno nové nastavení, které umožňuje přepínat režim sledování míče pouhým
+stisknutím klávesy namísto jejího držení.
+- V menu Pauza si nyní můžeš zobrazit schopnosti uložené v jednotlivých slotech
+(položka "Aktivní schopnosti").
 
 ### Změny
 
-- Now, in trial of will and Mastery modes, if you are near an item and can
-activate it, the item's sound pitch is slightly increased.
-- The penalty for the ball bouncing off the floor has been adjusted.
-   - if the ball bounces off the floor 40 times in a row, the penalty for subsequent
-bounces will increase very rapidly.
-   - This change is offset by the new upgrade "Indulgence of Inaction".
-- The reward for opening Luck Chests has been increased.
-- Some changes have been made to the rewards for reaching stat milestones. If any
-discrepancies are detected when the game starts, previously allocated
-achievement points will be reset and rewards will be recalculated.
-- In trial of will and trial of mastery modes, the same type of item can no
-longer appear more than twice in a row.
-- In trial of speed mode, the same effect can no longer appear twice in a row.
-- Store changes: the Time Aura and Leader Aura upgrades have been moved to the
-"Auras" tab; the "Increased Chance of Special Object Spawns" upgrade has been
-moved to the "Objects" tab.
-- Rewards for low scores in trial modes have been increased.
-- The effect of the upgrade that increases the number of red orbs received has
-been improved.
-- Coin reward calculation has been improved for final scores over 100 million.
-- If you’ve purchased the maximum number of quest slots, the purchase button will
-now be hidden from the screen.
+- Pokud jsi nyní v režimu Zkouška vůle nebo Mistrovská zkouška dost blízko u
+speciálního předmětu a můžeš ho aktivovat, výška zvuku předmětu se mírně zvýší.
+- Upraven postih za odrazy míče od podlahy.
+   - Pokud se míč odrazí od podlahy čtyřicetkrát za sebou, postih za každý další
+odraz v řadě se bude velmi rychle zvyšovat.
+   - Tuto změnu kompenzuje nové vylepšení "Odpustek za nečinnost".
+- Zvýšena odměna za odemykání truhel štěstěny.
+- Provedli jsme určité změny v získávání odměn za dosahování statistických
+milníků. Pokud budou při spuštění hry zjištěny nějaké nesrovnalosti, dříve
+rozdělené úspěchové body se vynulují a odměny se přepočítají.
+- Nyní se v režimech Zkouška vůle a Mistrovská zkouška už nemůže objevit stejný
+typ předmětu víckrát než dvakrát za sebou.
+- V režimu Zkouška rychlosti se už nemůže objevit stejný efekt dvakrát za sebou.
+- Změny v obchodě: vylepšení aury času a aury vítěze se přesunula na kartu
+"Aury"; vylepšení "Zvýšená šance na objevení speciálního předmětu" se
+přesunulo na kartu "Předměty".
+- Zvýšeny odměny za nízká skóre ve všech třech režimech zkoušky.
+- Zvýšena účinnost vylepšení, které zvyšuje počet získaných červených perel.
+- Výpočet získaných mincí byl upraven pro konečná skóre vyšší než sto milionů.
+- Pokud sis už koupil/a maximální počet slotů pro výzvy, tlačítko pro nákup
+dalších se nyní na obrazovce skryje.
 - Vylepšena schopnost titánský skok. Teď postava doskočí na větší vzdálenost.
-- The display of the rewards list shown when opening multiple Luck Chests at once
-has been updated.
+- Aktualizováno zobrazení seznamu odměn při odemčení více truhel štěstěny
+najednou.
 
 ### Opravy
 
-- Handling of a large number of simultaneously playing sounds has been improved.
-   - As a result of this optimization, the total number of sounds during the
-destruction of many objects has been reduced. However, the audio environment
-can still become overloaded.
-   - You may also notice that you're scoring significantly more points during Normal
-mode gameplay. This is expected and happens because a major overload in the
-audio system—previously causing overall game slowdown—has been resolved.
-- Fixed a rare freeze and crash that could occur right after starting a game
-session when gameplay recording was enabled.
-- Fixed an issue where receiving a bonus for destroying a puppet or dodging an
-electric discharge could increase a negative score.
-- Fixed incorrect behavior that occurred when using the "Furious leap" skill.
-- The progress for the quest "Hit the ceiling with the ball while the
-immateriality effect is active" now also counts when using the "ball
-controller" star module.
-- Improved the handling of chest and quest reset time updates.
-- Descriptions of some upgrades in the store have been expanded.
-- You can now skip the coin and other currency gain animation by pressing the
-Enter key on the numpad.
+- Vylepšena práce s velkým počtem zvuků hrajících zároveň.
+   - V důsledku této optimalizace se snížil celkový počet zvuků při zničení mnoha
+předmětů. Zvukové prostředí se však i tak může přetížit.
+   - Možná si také všimneš, že při hře v normálním režimu teď získáváš výrazně víc
+bodů. Je to očekávané chování a dochází k němu proto, že jsme vyřešili zásadní
+přetěžování zvukového systému, které dřív vedlo k celkovému zpomalování hry.
+- Opraveno vzácné zamrznutí a pád, ke kterému mohlo dojít hned po spuštění hry
+při zapnutém nahrávání.
+- Opraven problém, kdy získání bonusu za zničení marionety nebo vyhnutí se
+elektrickému výboji mohlo zvyšovat záporné skóre.
+- Opraveno nesprávné chování při použití schopnosti "Titánský skok".
+- Postup při plnění výzvy "Vyvolávej odrazy míče od stropu, když je aktivní efekt
+odhmotnění" se nyní počítá i během používání hvězdného modulu "ovládání míče".
+- Vylepšena práce s aktualizací času před resetováním truhel a výzev.
+- Rozšířeny popisy některých vylepšení v obchodě.
+- Animaci přičítání mincí a ostatních měn nyní lze přeskakovat i numerickým
+enterem.
 
 ## 1.3.5
 
 ### Změny
 
-- Aktualizované překlady.
+- Aktualizovány překlady.
    - Srbský. Překladatel [nidza07](https://github.com/nidza07).
    - Turecký. Překladatel [fatihyuksek](https://github.com/fatihyuksek1).
 - Upravena kritéria pro splnění některých výzev.
@@ -188,14 +185,14 @@ neaktivní.
 - Aura onoho světa byla upravena tak, aby se při jejím použití snadněji
 strefovalo do míče.
 - Opraveno chování elektrického výboje v režimu Zkouška rychlosti, kdy mohl
-zasáhnout postavu a zároveň být započítán tak, že se mu hráč vyhnul.
+zasáhnout postavu a zároveň být započítán stejně, jako by se mu hráč vyhnul.
 - Opravena kritická chyba při současném použití schopností "magnetismus" a
 "raketový útok".
 - Opravena kritická chyba při současném použití schopností "duch chytače" a
 "titánský skok".
-- Pravděpodobně opravena kritická chyba, ke které docházelo během restartování
-hry po aktualizaci.
-- Opraveno přehrávání zvukových upozornění pro nárazů míče do předmětů v řadě.
+- Pravděpodobně opravena kritická chyba, ke které docházelo při restartování hry
+po aktualizaci.
+- Opraveno přehrávání zvukových upozornění na sérii nárazů míče do předmětů.
 
 ## 1.3.4
 
@@ -212,7 +209,7 @@ upozorněn/a.
 ### Opravy
 
 - Opraven problém s zdsr.
-- Chování branky v režimu Zkouška rychlosti bylo opraveno.
+- Opraveno chování branky v režimu Zkouška rychlosti.
    - Branka se teď spustí zpátky do svojí původní výšky po vypršení efektu výtahu.
    - Branka už nemizí z mapy předmětů, když stoupá nebo klesá.
 - Opraveno sledování postupu při plnění určitých výzev v režimu Trénink.
@@ -381,7 +378,7 @@ pokusu o jejich použití.
 
 - Přidány nové překlady.
    - Srbský. Překladatel [nidza07](https://github.com/nidza07).
-   - Čeština. Překladatel [4sensegaming](https://github.com/4sensegaming).
+   - Český. Překladatel [4sensegaming](https://github.com/4sensegaming).
 
 ### Opravy
 
@@ -413,7 +410,7 @@ máš na to schopnosti, rádi tvoji pomoc přijmeme.
 
 - Přidány nové překlady.
    - Turecký. Překladatel [fatihyuksek](https://github.com/fatihyuksek1).
-   - Indonéština. Překladatel [MuhammadGagah](https://github.com/MuhammadGagah).
+   - Indonéský. Překladatel [MuhammadGagah](https://github.com/MuhammadGagah).
 - Nyní můžeš měnit výchozí klávesové zkratky.
    - To provedeš kliknutím na tlačítko "Nastavit klávesové zkratky", které najdeš na
 kartě "Klávesové zkratky" na obrazovce Nastavení.

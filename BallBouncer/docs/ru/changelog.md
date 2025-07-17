@@ -5,6 +5,7 @@
 ### Изменения
 
 - Обновлены переводы игры.
+	- Сербский. Переводчик [nidza07](https://github.com/nidza07).
 	- Турецкий. Переводчик [fatihyuksek](https://github.com/fatihyuksek1).
 	- Чешский. Переводчик [4sensegaming](https://github.com/4sensegaming).
 

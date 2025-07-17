@@ -892,7 +892,11 @@ msgstr "Skóre kleslo pod mínus pět set."
 
 msgctxt "MainMenuExitGame"
 msgid "Exit the game."
+<<<<<<< HEAD
 msgstr "Konec."
+=======
+msgstr "Konec"
+>>>>>>> c0909d3f2ccfb6b7a8df7ce6f65dbb35cde71b37
 
 msgctxt "MainMenuOptions"
 msgid "Settings."
@@ -2219,7 +2223,11 @@ msgid ""
 msgstr ""
 "Duch chytače: Úroveň {0} z 3. Na {1} vteřin vyvolá bytost, která automaticky "
 "chytí míč, pokud není dál než {2} políček od postavy. Prodleva před dobitím "
+<<<<<<< HEAD
 "je {3} vteřin"
+=======
+"je {3} vteřin."
+>>>>>>> c0909d3f2ccfb6b7a8df7ce6f65dbb35cde71b37
 
 #, python-brace-format
 msgctxt "SkillsBallLeapLevelInfoText"
