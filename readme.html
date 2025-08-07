@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html Lang="vi" xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset	="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Tài liệu “Ball bouncer</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Tài liệu “Ball bouncer</h1>
+</header>
+<p>Tệp trợ giúp này giải thích cách điều hướng menu và màn hình của ứng dụng, đồng thời mô tả chi tiết cách chơi với hầu hết các sắc thái. Nếu bạn muốn tự mình tìm hiểu, chúng tôi khuyên bạn nên làm quen ngay với bảng phím điều khiển.</p>
+<h2 id="about-the-game">Về trò chơi</h2>
+<h3 id="brief-description">Mô tả ngắn gọn</h3>
+<p>BallBouncer là một trò chơi điện tử đơn giản nhưng khó chơi, thử thách phản xạ và sự kiên nhẫn của bạn.
+Được trang bị một cây gậy bóng chày chắc chắn, hãy đánh bóng vào đúng thời điểm để biến quỹ đạo bay của bóng thành một chiến thuật phá hủy mục tiêu được cân nhắc kỹ lưỡng.
+Nhưng bạn có thực sự có thể nghĩ trước được khi cốc chén, bát đĩa, tủ quần áo và tivi rơi vãi xung quanh bạn không?</p>
+<p>Những cú nảy khó lường của quả bóng có thể tạo ra những phản ứng dây chuyền thú vị, giúp bạn luôn được thử thách và phong cách chơi của bạn cũng không ngừng phát triển.</p>
+<p>Ball bouncer cung cấp khả năng tạo chiến lược ghi điểm của riêng bạn. Với nhiều kỹ năng, tính năng và nâng cấp để mở khóa và tối đa hóa trong cửa hàng, bạn có thể vượt qua điểm số trước đó của mình không? Vào cuối phiên chơi, điểm sẽ được chuyển đổi thành tiền xu. Hãy chi tiêu một cách khôn ngoan!</p>
+<p>Vậy, bạn đã sẵn sàng dấn thân vào con đường phá hủy có phương pháp nhưng hỗn loạn chưa? Vậy thì hãy tiến lên!</p>
+<h3 id="system-requirements">Yêu cầu hệ thống</h3>
+<p>Windows 10 64 bit trở lên.</p>
+<p>Ubuntu 22 64 bit hoặc mới hơn.</p>
+<h3 id="first-steps">Những bước đầu tiên</h3>
+<p>Khi trò chơi chạy lần đầu tiên, bạn sẽ phải chọn ngôn ngữ. Sau khi thực hiện lựa chọn, một màn hình chào mừng sẽ xuất hiện. Ngay sau khi bạn thực hiện lựa chọn, logo của chúng tôi sẽ bắt đầu chơi. Bạn có thể bỏ qua bằng cách nhấn phím enter. Sau khi bỏ qua logo hoặc chơi xong, bạn sẽ được đưa đến menu chính của trò chơi. Chúng tôi khuyến khích bạn làm quen với nội dung của nó. Nếu bạn muốn tìm hiểu âm thanh của trò chơi, bạn cần chọn "Cài đặt" trong menu chính, sau đó trên tab "Chung", hãy nhấp vào nút tương ứng. Trên tab "Âm thanh", bạn có thể điều chỉnh âm lượng nhạc và âm thanh, thay đổi chế độ thu âm và tắt một số thông báo. trên tab "Hành vi". Bạn có thể xóa tiến trình của mình và đặt lại cài đặt về mặc định bằng cách nhấp vào các nút tương ứng trên tab Chung. Việc đặt lại cấu hình phím tắt về mặc định cũng được thực hiện trên tab tương ứng.</p>
+<p>Nếu bạn không thích âm thanh của quả bóng, bạn có thể thay đổi nó trong phần cài đặt, trên tab "Âm thanh", chọn từ năm tùy chọn được đề xuất. Bạn có thể thực hiện việc này trực tiếp trong trò chơi bằng cách vào phần cài đặt từ menu tạm dừng. Âm thanh của quả bóng sẽ thay đổi ngay khi bạn bỏ tạm dừng trò chơi.</p>
+<p>Bạn cũng có thể thay đổi âm thanh của quả bóng trong khi chơi. Để thực hiện việc này, hãy vào chế độ theo dõi bóng bằng cách giữ phím G, sau đó nhấn L để thay đổi âm thanh.</p>
+<h3 id="navigation">Điều hướng</h3>
+<p>Di chuyển qua các menu bằng cách sử dụng các phím mũi tên lên và xuống. Enter chọn một mục, các phím home và end đặt bạn vào mục menu đầu tiên và cuối cùng của menu đó.</p>
+<p>Điều hướng màn hình (cài đặt, cửa hàng, hồ sơ, v.v.): tab hoặc shift+tab di chuyển qua các mục có sẵn trên màn hình, để kích hoạt mục hiện tại, nhấn enter hoặc phím cách. Di chuyển qua các danh sách bằng cách nhấn các phím mũi tên lên và xuống, thay đổi giá trị của các thanh trượt bằng cách nhấn các phím mũi tên. Chọn tab bằng cách nhấn các phím mũi tên trái hoặc phải, control + tab hoặc control +shift + tab.</p>
+<p>Trên màn hình cửa hàng, nhấn Enter vào mục đã chọn sẽ mở thông tin tham khảo, trong đó có mô tả chi tiết về mục đó.</p>
+<p>Trong hồ sơ, trên tab “Thống kê”, bằng cách nhấn enter vào một mục trong danh sách, bạn có thể yêu cầu phần thưởng, nếu có. Bằng cách nhấn ctrl+c, bạn có thể sao chép nội dung của mục đó vào bộ nhớ tạm của mình.</p>
+<p>Trên tab “Kỹ năng”, khi nhấn vào một mục sẽ cung cấp thông tin chi tiết về kỹ năng đó.</p>
+<p>Tất cả các menu và màn hình, ngoại trừ menu chính và menu kết quả trò chơi gần đây nhất, có thể được đóng bằng phím escape.</p>
+<h2 id="game-process">Quá trình trò chơi</h2>
+<h3 id="training-mode">Chế độ đào tạo</h3>
+<p>Trò chơi có chế độ luyện tập, nơi bạn có thể dành thời gian không giới hạn và mọi hình phạt đều bị vô hiệu hóa. Ở chế độ này, âm thanh sẽ được phát ra khi bạn có thể đánh bóng, bạn có thể nghe trong màn hình tìm hiểu âm thanh bên trong phần cài đặt trên tab chung. Âm thanh sẽ phát ra khi bóng nảy ít nhất một lần khỏi mặt đất để dạy bạn cách cảm nhận thời điểm để có cú đánh hoàn hảo. Ở chế độ luyện tập, số liệu thống kê trò chơi không được thu thập và điểm không được tính.</p>
+<p>Trong quá trình luyện tập, bạn có thể nhấn phím F2, một màn hình sẽ mở ra, tại đó bạn có thể thiết lập mức nâng cấp tốc độ phục hồi sức mạnh sau cú đánh, từ mức đầu tiên đến mức tối đa.</p>
+<p>Ngoài ra, trong tương lai, khi bạn có được kỹ năng đầu tiên, bạn sẽ có thể thiết lập cấp độ của chúng trên màn hình này, nếu chúng được thiết lập ở một trong các ô, theo nguyên tắc tương tự như nâng cấp tốc độ phục hồi sức mạnh đòn đánh.</p>
+<p>Khi bạn nhấn phím F1, bộ kỹ năng của bạn trong các ô sẽ được nạp lại ngay lập tức và sẵn sàng để sử dụng.</p>
+<p>Nếu bạn nhấn phím B và bóng ở trên sân, bạn sẽ nghe thấy tín hiệu âm thanh cho biết độ cao của bóng, cùng với âm thanh phát ra khi bóng bay. Tính năng này hoạt động ở mọi chế độ.</p>
+<p>Những phím này có thể được thay đổi bằng cách sử dụng trình điều khiển phím tắt.</p>
+<h3 id="how-to-play">Cách chơi</h3>
+<p>Sau khi chọn tùy chọn “Bắt đầu trò chơi” trong menu chính, quá trình đếm ngược sẽ bắt đầu. Sau đó, bạn sẽ có thể điều khiển nhân vật.</p>
+<p>Khi bắt đầu trò chơi, nhân vật sẽ ở giữa sân. Bạn có thể di chuyển nhân vật bằng các phím mũi tên trái và phải. Ban đầu máy quay được đặt ở chế độ xem trung tâm sân, nhưng bạn có thể chuyển sang chế độ xem góc nhìn thứ nhất bằng cách nhấn phím "v".</p>
+<p>Khi nhấn phím “C” ở chế độ xem trung tâm sân, bạn sẽ nghe thấy âm thanh được định vị tại vị trí của nhân vật. Ở chế độ xem góc nhìn thứ nhất, âm thanh sẽ phát ra từ trung tâm sân, trừ khi bạn đang quan sát quả bóng. Trong trường hợp đó, âm thanh sẽ được phát tại vị trí của nhân vật. Điều này sẽ giúp bạn cảm nhận nhân vật tốt hơn khi cố gắng đánh bóng.</p>
+<p>Bằng cách nhấn phím Shift trái hoặc phải, bạn có thể thiết lập hướng đối mặt của nhân vật. Khi di chuyển, hướng sẽ được thiết lập tự động.</p>
+<p>Đầu tiên, bạn cần ném bóng để làm cho nó xuất hiện trên sân chơi. Bạn có thể làm điều này bằng cách nhấn phím “f”.</p>
+<p>Sau khi bóng ở trên sân, bạn sẽ nghe thấy một âm thanh di chuyển sang trái và phải, cho biết bóng đang di chuyển theo mặt phẳng hay ngang. Cao độ và âm lượng của âm thanh cũng sẽ thay đổi, cho biết bóng đang di chuyển theo chiều dọc. Âm lượng giảm và cao độ tăng có nghĩa là bóng đang di chuyển lên trên, trong khi âm lượng tăng và thấp hơn có nghĩa ngược lại.</p>
+<p>Có hai loại ném bóng:</p>
+<ul>
+<li>Bình thường. Thực hiện bằng cách nhấn phím F. Quả bóng bắt đầu bay theo
+hình vòng cung theo hướng nhân vật đang đối mặt.</li>
+<li>Theo chiều dọc. Thực hiện bằng cách giữ phím Alt và nhấn phím F. Quả bóng bắt đầu bay theo trục dọc, nhưng cũng di chuyển nhẹ theo trục ngang theo hướng nhân vật đang đối mặc.</li>
+</ul>
+<p>Mục tiêu của trò chơi là phá hủy càng nhiều vật thể càng tốt, giành điểm trên đường đi. Quả bóng luôn có xu hướng rơi xuống, và bạn cần phải đánh trả nó bằng gậy CỦA MÌNH.</p>
+<p>Quả bóng có thể được đánh theo hai cách:</p>
+<ul>
+<li>Phím cách. Trong trường hợp này, quả bóng sẽ nhận được MỘT lực đẩy ngang mạnh theo hướng nhân vật đang đối mặt.</li>
+<li>Giữ phím Alt và nhấn phím cách. Quả bóng sẽ nhận được lực đẩy thẳng đứng mạnh mẽ, duy trì hướng bay ngang bất kể nhân vật hướng mặt về đâu.</li>
+</ul>
+<p>Bạn chỉ có thể đánh bóng khi ở gần nó. Sau mỗi cú đánh, nhân vật sẽ khôi phục lại lực đánh. Khi lực đánh được khôi phục hoàn toàn, bạn sẽ nghe thấy một cảnh báo, âm thanh này có thể được nghe trong MÀN HÌNH TÌM HIỂU âm thanh. Bạn cũng có thể bật/tắt âm thanh của những cú đánh bóng thành công trong các tùy chọn trên tab Hành vi.</p>
+<p>Bạn nên luôn cố gắng thực hiện những cú đánh hoàn hảo, vì chúng sẽ mang lại cho bạn điểm thưởng. Một cú đánh hoàn hảo được tính khi bóng chỉ nảy khỏi mặt đất một lần. Từ lần nảy thứ hai trở đi, bạn sẽ bị trừ điểm. Bóng nảy càng nhiều lần trên mặt đất, bạn càng mất nhiều điểm. Vì vậy, hãy cố gắng đánh bóng lên trên càng nhanh càng tốt.</p>
+<p>Bạn cũng không nên ở yên một chỗ quá lâu vì bạn sẽ bị trừ điểm nếu đứng yên quá mười giây hoặc lâu hơn.</p>
+<p>Khi bắt đầu trò chơi, tránh giữ bóng quá lâu, vì mỗi giây giữ bóng sẽ tăng thêm một hình phạt. Điều tương tự cũng áp dụng cho NHỮNG QUẢ bóng bị bắt.</p>
+<p>Hình phạt sẽ được áp dụng cho lần ném trượt thứ năm trở đi.</p>
+<p>Bạn sẽ được cộng điểm khi bóng va chạm với vật thể, cũng như khi phá hủy vật thể. Nếu bóng nảy khỏi trần nhà, bạn cũng sẽ nhận được điểm thưởng.</p>
+<p>Sau khi va chạm hoặc phá hủy một vật thể, một chuỗi điểm sẽ bắt đầu. Mỗi lần va chạm hoặc phá hủy tiếp theo sẽ mang lại nhiều điểm hơn. Tuy nhiên, nếu chuỗi điểm không kéo dài quá sáu giây, nó sẽ được đặt lại. Điều tương tự cũng áp dụng cho các lần bóng nảy khỏi trần nhà.</p>
+<p>Sau khi thực hiện một cú đánh hoàn hảo, một chuỗi điểm riêng biệt sẽ bắt đầu. Với mỗi cú đánh hoàn hảo mới, bạn sẽ kiếm được nhiều điểm hơn đáng kể so với cú đánh trước đó. Nếu bóng nảy khỏi mặt đất nhiều hơn một lần, chuỗi điểm sẽ kết thúc và bạn sẽ phải bắt đầu lại.</p>
+<p>Sau khi bị phá hủy, các vật thể sẽ rơi xuống đất, tạo ra tiếng ồn và làm tăng thêm sự hỗn loạn cho những gì đang diễn ra.</p>
+<p>Trong suốt trận đấu, bạn không chỉ có thể quan sát toàn bộ sân mà còn có thể chuyển sang chế độ theo dõi bóng. Để kích hoạt chế độ này, hãy giữ phím G. Chế độ quan sát bóng sẽ duy trì hoạt động khi bạn giữ phím G và sẽ tắt ngay khi bạn thả phím ra.</p>
+<p>Bạn có thể tạm dừng trò chơi bằng cách nhấn phím Escape. Sau khi nhấn, bạn sẽ vào menu tạm dừng, nơi bạn có thể xem thời gian còn lại của phiên chơi, điểm số và các thông tin khác. Từ menu tạm dừng, bạn cũng có thể truy cập cài đặt hoặc hủy trò chơi tại đó.</p>
+<p>Tuy nhiên, bạn cũng có thể kiểm tra thời gian còn lại và điểm hiện tại không chỉ trong menu tạm dừng. Nhấn phím T để kiểm tra thời gian và phím P để xem điểm.</p>
+<p>Nếu điểm của bạn giảm xuống âm một nghìn, phiên chơi sẽ kết thúc sớm. Bạn sẽ không nhận được xu nào, nhưng cũng không mất gì thêm.</p>
+<p>Phiên chơi kéo dài năm phút. Thời gian này có thể được kéo dài bằng cách nâng cấp Hào quang Thời gian trong hồ sơ.</p>
+<p>Sau khi phiên chơi kết thúc, âm thanh trao thưởng sẽ phát ra, bạn có thể bỏ qua bằng cách nhấn phím Enter.</p>
+<p>Sau đó, menu kết quả trận đấu gần nhất sẽ mở ra, nơi bạn có thể xem tổng số điểm đã ghi được và số xu đã nhận được. Sau khi đóng menu bằng cách nhấn Enter, bạn có thể thấy thông báo về phần thưởng có sẵn khi đạt được một cột mốc thống kê. Bạn có thể tắt hiển thị menu kết quả trận đấu gần nhất và thông báo về phần thưởng có sẵn trong phần cài đặt, trên tab "Hành vi".</p>
+<p>Trò chơi cũng có các kỹ năng được mô tả đầy đủ trong trò chơi. Để sử dụng một kỹ năng trong trò chơi, bạn cần đặt nó vào một trong mười ô. Việc gán được thực hiện trong hồ sơ của bạn, trên tab "Kỹ năng". Các ô được truy cập bằng các phím từ 1 (ô đầu tiên) đến 0 (ô thứ mười).</p>
+<p>Trong cửa hàng, bạn có thể mở khóa các kỹ năng nhảy và bắt bóng. Hai kỹ năng này cũng được mô tả đầy đủ trong trò chơi, bao gồm cả các phím tắt để sử dụng. Chúng cũng có trong bảng điều khiển.</p>
+<h3 id="other-game-modes">Các chế độ chơi khác</h3>
+<p>Ngoài chế độ bình thường và chế độ luyện tập, trò chơi còn có ba chế độ khác, nhưng chúng không được mở khóa ngay lập tức.</p>
+<p>Để mở khóa các chế độ mới, hãy kiếm phần thưởng khi đạt được các cột mốc thống kê.</p>
+<p>Trong hồ sơ, trên tab thống kê, bạn có thể xem mình cần bao nhiêu phần thưởng nữa để mở khóa chế độ tiếp theo.</p>
+<p>Khi bạn nhận được số phần thưởng cần thiết, một menu thông tin sẽ xuất hiện, mô tả ngắn gọn những phần thưởng mà bạn có thể nhận được.</p>
+<p>Để biết thông tin chi tiết về bất kỳ chế độ nào, hãy chọn chế độ đó từ danh sách trên màn hình bắt đầu trò chơi mới và nhấn phím D hoặc nhấp vào nút "Mở mô tả chế độ".</p>
+<p>Tất cả các phím tắt bổ sung cho một chế độ cụ thể đều được liệt kê trong phần mô tả chế độ và cũng được đề cập trong các bảng điều khiển.</p>
+<p>Sau khi mở khóa cả ba chế độ, bạn sẽ thấy các yêu cầu để mở khóa bảng nhiệm vụ. Một tab tương ứng sẽ xuất hiện trên màn hình hồ sơ.</p>
+<h3 id="the-object-map">Bản đồ đối tượng</h3>
+<p>Bản đồ đối tượng hoạt động ở bất kỳ chế độ nào. Bạn có thể mở nó bằng cách nhấn phím M.</p>
+<p>Bản đồ hiển thị tất cả các vật thể có trên sân khi nó được mở.</p>
+<p>Sử dụng các phím mũi tên, bạn có thể di chuyển con trỏ quanh bản đồ, con trỏ sẽ phát ra âm thanh ngắn về vật thể tại vị trí của vật thể đó, đồng thời thông báo loại vật thể. Bạn có thể tắt thông báo loại vật thể bằng phím F1. Sử dụng phím F2, bạn có thể chuyển đổi giữa các chế độ di chuyển.</p>
+<p>Có hai chế độ di chuyển con trỏ:</p>
+<ul>
+<li>Di chuyển tự do. Con trỏ có thể được di chuyển trên bản đồ theo bất kỳ hướng nào bằng một ô. Khi di chuyển ở chế độ tự do, các ô trống cũng sẽ hiển thị bên dưới con trỏ, được biểu thị bằng âm thanh riêng của chúng.</li>
+<li>Di chuyển qua các đối tượng. Con trỏ chỉ di chuyển qua các đối tượng; di chuyển sang phải hoặc trái sẽ di chuyển qua các đối tượng trong cùng một hàng theo chiều ngang. Di chuyển lên hoặc xuống sẽ di chuyển con trỏ đến đối tượng gần nhất theo chiều dọc và bỏ qua các hàng trống.</li>
+</ul>
+<p>Ngoài con trỏ, bản đồ còn có một điểm quan sát nằm ở trung tâm trục ngang, có thể di chuyển theo chiều dọc. Tất cả âm thanh của vật thể đều được phát ra theo điểm này.</p>
+<p>Bạn có thể di chuyển điểm quan sát bằng các phím w - lên, s - xuống. Trong trường hợp này, một âm thanh sẽ được phát ra, âm thanh này sẽ thay đổi cao độ tùy theo vị trí, giúp bạn dễ dàng xác định vị trí điểm quan sát trên trục.</p>
+<p>Bạn cũng có thể tìm hiểu có bao nhiêu vật thể trên sân đấu tại thời điểm này. Để làm điều này, hãy nhấn phím o.</p>
+<p>Tất cả các phím được liệt kê đều có thể thay đổi bằng cách sử dụng trình cấu hình điều khiển.</p>
+<h3 id="gameplay-recording">Ghi âm quá trình chơi</h3>
+<p>Bạn có thể ghi lại quá trình chơi của mình và sau đó phát lại bản ghi đó trên bất kỳ trình phát phương tiện nào.</p>
+<p>Quan trọng: Bản ghi không được thực hiện ghi âm trong chế độ đào tạo.</p>
+<p>Để bắt đầu ghi âm, hãy đảm bảo hộp kiểm "Ghi âm trong khi chơi" trên màn hình chọn chế độ chơi đã được chọn. Quá trình ghi âm sẽ bắt đầu sau khi trò chơi bắt đầu đếm ngược.</p>
+<p>Trong phần cài đặt, trên tab “Ghi âm”, bạn có thể xác định xem có hủy hay lưu bản ghi âm khi hủy trò chơi từ menu tạm dừng hay không.</p>
+<p>Bản ghi âm của bạn sẽ được lưu trong thư mục mp3recordings, bên trong thư mục UserData bên trong thư mục trò chơi và có phần mở rộng .mp3.</p>
+<h4 id="old-format-recordings">Những bản ghi định dạng cũ</h4>
+<p>Trước phiên bản 1.3.0, trò chơi sử dụng định dạng ghi âm nội bộ, với các tệp ở định dạng này có phần mở rộng .sgr và chỉ có thể phát trong trình phát tích hợp của trò chơi.</p>
+<p>Để nghe bản ghi âm ở định dạng cũ, hãy chọn mục tương ứng trong menu chính của trò chơi. Sau đó, trong menu chọn bản ghi âm, hãy chọn bản ghi âm bạn muốn nghe và nhấn Enter.</p>
+<p>Sau khi tải bản ghi âm, bạn sẽ vào trình phát tích hợp của trò chơi.</p>
+<p>Các phím tắt điều khiển của trình phát:</p>
+<ul>
+<li>Để bắt đầu, tạm dừng và tiếp tục phát lại, hãy nhấn phím cách.</li>
+<li>Để điều chỉnh âm lượng, hãy sử dụng các phím mũi tên, phím mũi tên lên để tăng âm lượng, phím mũi tên xuống để giảm âm lượng. Âm lượng ghi âm có thể tăng tối đa hai trăm phần trăm.</li>
+<li>Để tua lại 5 giây, hãy sử dụng các phím mũi tên phải - tiến, trái - lùi. Tua lại 30 giây bằng cách giữ phím Ctrl.</li>
+<li>Bạn có thể xem mình đã nghe được bao nhiêu cũng như thời lượng ghi âm bằng cách nhấn phím t.</li>
+<li>Bạn có thể dừng phát lại và quay lại menu chọn bản ghi âm bằng phím Escape.</li>
+</ul>
+<p>Các bản ghi định dạng cũ sẽ được lưu ở thư mục trò chơi\userData/recordings.</p>
+<p>Nếu bạn muốn phát một bản ghi âm ở định dạng cũ, hãy đặt nó vào thư mục "recordings". Sau đó, bản ghi âm sẽ xuất hiện trong menu chọn bản ghi âm.</p>
+<p>Lưu ý! Khả năng phát bản ghi ở định dạng cũ sẽ bị loại bỏ trong phiên bản 1.5.0!</p>
+<h2 id="controls">phím tắt</h2>
+<p>Tất cả các phím tắt trong phần này có thể được cấu hình lại bằng cách tùy chỉnh cấu hình phím tắt.</p>
+<h3 id="basic">Chung</h3>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Những hành động</th>
+<th style="text-align: left;">Phím tắt/các phím tắt</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Di chuyển nhân vật sang sang phải/sang trái</td>
+<td style="text-align: left;">Các phím mũi tên phải/trái hoặc các phím d/a</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Phát âm thanh ở vị trí của nhân vật hoặc ở giữa sân (tùy thuộc vào góc nhìn).</td>
+<td style="text-align: left;">c</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Đặt nhân vật quay mặt sang phải/sang trái</td>
+<td style="text-align: left;">shift mũi tên trái/mũi tên phải</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Vung gậy (đánh bóng với một lực ngang mạnh)</td>
+<td style="text-align: left;">Phím cách, phím s hoặc phím e</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Vung gậy (đánh bóng với một lực đẩy thẳng đứng mạnh)</td>
+<td style="text-align: left;">alt+space, alt+s hoặc r</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Ném bóng theo hình vòng cung</td>
+<td style="text-align: left;">f</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Ném bóng theo chiều dọc</td>
+<td style="text-align: left;">alt+f</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">đổi bóng Âm thanh</td>
+<td style="text-align: left;">l (chỉ khi chế độ theo dõi bóng đang hoạt động)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Chuyển máy ảnh sang chế độ theo dõi bóng</td>
+<td style="text-align: left;">Giữ phím g</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Chuyển máy ảnh sang chế độ bình thường</td>
+<td style="text-align: left;">Nhả phím g</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Chuyển đổi chế độ máy ảnh giữa chế độ góc nhìn thứ nhất và chế độ xem tập trung vào sân</td>
+<td style="text-align: left;">v</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Nhảy (nếu khả năng đã được mở khóa)</td>
+<td style="text-align: left;">Mũi tên lên hoặc phím w</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Bắt bóng (nếu khả năng đã được mở khóa)</td>
+<td style="text-align: left;">control trái hoặc phải</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Chọn một ô kỹ năng từ 1 đến 10 (nếu kỹ năng được thiết lập)</td>
+<td style="text-align: left;">các phím  từ 1 đến 0/từ numpad1 đến numpad0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Hủy lựa chọn ô kỹ năng</td>
+<td style="text-align: left;">Grave / numpad enter</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Chuyển sang kỹ năng sẵn sàng sử dụng trước đó</td>
+<td style="text-align: left;">Minus (-) / Numpad Minus (-)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Chuyển sang kỹ năng sẵn sàng sử dụng tiếp theo</td>
+<td style="text-align: left;">Bằng (=) / Numpad Nhân (*)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kích hoạt/hủy kích hoạt bộ mô-đun ngôi sao được đặt ở khe 1 đến 4 (nếu mô-đun được đặt).</td>
+<td style="text-align: left;">alt + các phím từ 1 đến 4/các phím từ numpad1 đến numpad4</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Kích hoạt vật phẩm (nếu được phép trong chế độ trò chơi hiện tại).</td>
+<td style="text-align: left;">x</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kiểm tra lượng năng lượng ngôi sao khả dụng (nếu bạn có ít nhất một mô-đun ngôi sao và được phép sử dụng mô-đun trong chế độ trò chơi hiện tại)</td>
+<td style="text-align: left;">y</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Mở bản đồ đối tượng</td>
+<td style="text-align: left;">m</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Xem thời gian còn lại cho đến khi kết thúc phiên chơi</td>
+<td style="text-align: left;">t</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Xem số điểm hiện tại mà bạn đã ghi được</td>
+<td style="text-align: left;">p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Xem quả bóng cao bao nhiêu</td>
+<td style="text-align: left;">b</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Tạm dừng trò chơi</td>
+<td style="text-align: left;">escape</td>
+</tr>
+</tbody>
+</table>
+<h3 id="training-mode-1">Chế độ luyện tập</h3>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Những hành động</th>
+<th style="text-align: left;">Phím tắt/các phím tắt</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Nạp lại ngay lập tức tất cả các kỹ năng</td>
+<td style="text-align: left;">f1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Thiết lập mức độ kỹ năng</td>
+<td style="text-align: left;">f2</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-object-map-1">Bản đồ đối tượng</h3>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Những hành động</th>
+<th style="text-align: left;">Phím tắt/các phím tắt</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Di chuyển con trỏ</td>
+<td style="text-align: left;">Các phím mũi tên</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Di chuyển điểm quan sát xuống thấp hơn</td>
+<td style="text-align: left;">s</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Di chuyển điểm quan sát lên cao hơn</td>
+<td style="text-align: left;">w</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Chuyển đổi trạng thái thông báo loại đối tượng</td>
+<td style="text-align: left;">f1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Chuyển đổi chế độ di chuyển con trỏ</td>
+<td style="text-align: left;">f2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Xem số lượng đối tượng trên bản đồ</td>
+<td style="text-align: left;">o</td>
+</tr>
+</tbody>
+</table>
+<h3 id="configuring-controls">Cấu hình các phím tắt</h3>
+<p>Trong phần cài đặt, trên tab “phím tắt”, bạn có thể tùy chỉnh các phím tắt theo sở thích cá nhân của mình bằng cách nhấn nút tương ứng.</p>
+<p>Trên màn hình cấu hình các phím tắt, có một cây thư mục trong đó cấp độ đầu tiên hiển thị các danh mục phím tắt riêng lẻ, mỗi danh mục chứa các hành động khác nhau.</p>
+<p>Mỗi hành động đều có danh sách các tổ hợp phím được gán. Bạn có thể thêm hoặc xóa các tổ hợp phím khỏi danh sách này bằng các nút tương ứng.</p>
+<p>Sau khi nhấn nút thêm tổ hợp phím, một màn hình mới sẽ mở ra, chứa bốn danh sách, một trường để gán khóa chính và các nút "Thêm" và "Hủy".</p>
+<p>Mỗi danh sách tương ứng với bốn phím chức năng (alt, windows, control, shift) và chứa 4 tùy chọn để sử dụng các phím chức năng (không có, trái, phải, bất kỳ).</p>
+<p>Để thiết lập phím tắt chính, hãy làm theo hướng dẫn trong trường gán phím tắt, nằm ngay sau danh sách phím chức năng. Nếu bạn chỉ muốn sử dụng các phím chức năng trong tổ hợp phím, hãy để trường này chưa được gán.</p>
+<p>Sau khi bạn đã thiết lập tất cả các thông số cần thiết, hãy nhấp vào nút "Thêm". Tuy nhiên, lưu ý rằng không được phép trùng lặp trong cùng một danh mục phím tắt.</p>
+<p>Nếu cần, bạn có thể chia sẻ cấu hình các phím tắt của mình với người khác. Cấu hình này nằm trong thư mục dữ liệu người dùng (userData) và được đặt tên là "keyConfig.json". Người kia sẽ phải thay thế cấu hình của họ, nằm cùng vị trí, bằng cấu hình bạn đã chia sẻ. Mặc dù cấu hình được lưu trữ ở dạng mở, nhưng nó không dành cho việc chỉnh sửa thủ công.</p>
+<h2 id="translation-of-the-game-into-other-languages">Dịch trò chơi sang các ngôn ngữ khác</h2>
+<p>Nếu bạn muốn dịch ball bouncer sang ngôn ngữ mẹ đẻ của mình, vui lòng truy cập<a
+href="https://github.com/sooslandia/translations">kho lưu trữ bản dịch sooslandia-games trên github</a></p>
+<p>Chúng tôi chọn Github vì nền tảng này cho phép chúng tôi tập trung tất cả các bản dịch ở một nơi, tự động xác nhận trò chơi có bản dịch mới sẽ khởi chạy mà không gặp lỗi, chuyển đổi các định dạng bản dịch khác nhau bằng tập lệnh và duy trì cấu trúc dữ liệu được lưu trữ theo thứ tự.</p>
+<p>Nếu bạn gặp bất kỳ khó khăn nào, hãy liên hệ với chúng tôi qua nhóm Telegram, Discord hoặc email để được hỗ trợ. Vui lòng tìm các liên kết đến phần trên trong phần "Kết luận".</p>
+<h2 id="conclusion">Kết luận</h2>
+<p>Chúng tôi rất vui vì bạn quan tâm đến dự án này và hy vọng bạn sẽ thích nó. Hãy phá hủy và tận hưởng nhé!</p>
+<p>Đăng ký <a href="https://t.me/sooslandia">kênh của chúng tôi</a> trên Telegram hoặc tham gia <a href="https://discord.gg/8xcKB7dsDR">Máy chủ discord
+</a>, để nhận tin tức mới nhất về các bản cập nhật của trò chơi này cũng như các dự án thú vị khác.</p>
+<p>Tham gia <a href="https://t.me/sooslandiadiscussion">kênh trò chuyện</a>, nơi bạn có thể chia sẻ ý kiến của mình về trò chơi, báo cáo bất kỳ lỗi nào hoặc đề xuất ý tưởng của mình, giống như trên Discord.</p>
+<p>Nếu bạn không sử dụng Telegram và Discord, bạn có thể viết thư tới <a
+href="mailto://contact@sooslandia.ru">email của chúng tôi</a>, nhưng chúng tôi không đảm bảo sẽ phản hồi nhanh chóng.</p>
+<p>Chúc mọi điều tốt đẹp nhất, Sooslandia-games.</p>
+</body>
+</html>
