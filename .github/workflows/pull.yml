@@ -11,10 +11,6 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout base
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: '100'
     - name: Create-github-token
       uses: actions/create-github-app-token@v1
       id: app-token
@@ -22,6 +18,11 @@ jobs:
         app-id: ${{ SECRETS.AUTHENTICATION_APP_ID }}
         private-key: ${{ SECRETS.AUTHENTICATION_APP_PRIVATE_KEY }}
         owner: ${{ github.repository_owner }}
+    - name: Checkout base
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: '100'
+        token: ${{ steps.app-token.outputs.token }}
     - name: Run sltt
       uses: ./.github/actions/sltt
       with:
