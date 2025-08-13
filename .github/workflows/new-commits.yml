@@ -11,6 +11,7 @@ on:
 
 jobs:
   handle-new-commits:
+    if: ${{ github.event.pusher.name != 'sooslandia-authentication-app[bot]' }}
     timeout-minutes: 2
     permissions:
       actions: read
