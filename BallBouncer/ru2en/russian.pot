@@ -1,0 +1,3686 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ball Bouncer\n"
+"Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
+"POT-Creation-Date: 2025-08-13 21:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, python-brace-format
+msgctxt "AchievementPoints"
+msgid "Очки достижений: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "AchievementPointsTotal"
+msgid "Всего получено {0} очков достижений."
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraCreatorText"
+msgid ""
+"Аура создающего: уровень {0}/2. Улучшает умение взмах творца, увеличивая "
+"количество генерируемых объектов"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraElectroResistanceText"
+msgid ""
+"Аура электроустойчивости: уровень {0}/2. Позволяет не получать вреда от "
+"электрических разрядов в режиме испытания скорости"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraExploderText"
+msgid ""
+"Аура взрывателя: уровень {0}/2. Улучшает объект мина, увеличивая радиус "
+"взрыва"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraFireRetributionText"
+msgid ""
+"Аура огненного возмездия: уровень {0}/1. Улучшает умение яростный рывок, "
+"образуя вокруг персонажа огненную ауру, уничтожающую все объекты на пути, "
+"пока он летит до мяча"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraLeaderText"
+msgid ""
+"Аура лидера: уровень {0} (+{1}%). За каждый уровень прибавляет {2}% к "
+"получаемым очкам"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraLuckyMasterText"
+msgid ""
+"Аура удачливого мастера: уровень {0}/6. Улучшает игровой процесс в режиме "
+"испытания мастерства"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraMagnetarText"
+msgid ""
+"Аура магнитара: уровень {0}/4. Улучшает умение магнетизм, ускоряя притяжение"
+" мяча к объектам"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraOtherworldlyText"
+msgid ""
+"Аура потустороннего: уровень {0}/2. Улучшает умение нематериальность, даря "
+"мячу повышенную упругость при отскоке от границы поля, а также незначительно"
+" увеличивая время эффекта умения"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraShadowMasterText"
+msgid ""
+"Аура призрачного мастера: уровень {0}/3. Улучшает умение призрачный удар, "
+"даря возможность разрушать любое количество объектов на пути и расширяя "
+"область поражения"
+msgstr ""
+
+msgctxt "AuraStatusActive"
+msgid "(Активно)"
+msgstr ""
+
+msgctxt "AuraStatusInactive"
+msgid "(Неактивно)"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraTimeText"
+msgid ""
+"Аура времени: уровень {0} (+{1} сек). За каждый уровень прибавляет {2} "
+"секунд к максимальному игровому времени"
+msgstr ""
+
+#, python-brace-format
+msgctxt "AuraUpgradeButton"
+msgid "Улучшить за {0} очков достижений"
+msgstr ""
+
+msgctxt "BallLoopSelectionMenuDefaultSound"
+msgid "Основной звук."
+msgstr ""
+
+#, python-brace-format
+msgctxt "BallLoopSelectionMenuSound"
+msgid "Звук {0}."
+msgstr ""
+
+msgctxt "BallLoopSelectionMenuTitle"
+msgid "Выберите звук мяча."
+msgstr ""
+
+msgctxt "BallLoopSelectionMenuTitleWithHint"
+msgid ""
+"Выберите звук мяча. Для перемещения используйте стрелки вверх и вниз. Чтобы "
+"прослушать звук, нажмите пробел. Для подтверждения выбора нажмите клавишу "
+"enter."
+msgstr ""
+
+#, python-brace-format
+msgctxt "BallLoopSelectionTestOfSkillFormBall"
+msgid "Мяч {0}"
+msgstr ""
+
+msgctxt "BallLoopSelectionTestOfSkillFormTitle"
+msgid "Изменение звуков мячей."
+msgstr ""
+
+msgctxt "BallLoopSelectionTestOfSkillFormTitleWithHint"
+msgid ""
+"Изменение звуков мячей. Для перемещения вперёд по экрану используйте клавишу"
+" tab, назад - shift плюс tab. Для перемещения по списку используйте стрелки "
+"вверх и вниз. Для прослушивания звука нажмите клавишу enter или пробел на "
+"выбранном элементе любого из списков. Для сохранения изменений и закрытия "
+"экрана нажмите кнопку \"Закрыть\" или клавишу escape."
+msgstr ""
+
+msgctxt "CheckUpdatesScreenChecking"
+msgid "Проверка..."
+msgstr ""
+
+msgctxt "CheckUpdatesScreenNoUpdates"
+msgid "У вас самая последняя версия."
+msgstr ""
+
+msgctxt "ChestOfLuckHelpButton"
+msgid "Открыть справку сундука удачи"
+msgstr ""
+
+msgctxt "ChestOfLuckHelpInfo"
+msgid ""
+"Сундук удачи.\n"
+"Открывая сундуки, вы можете получить случайное количество любой валюты, кроме монет.\n"
+"Сундуки открываются за монеты. Стоимость открытия повышается с каждым последующим открываемым сундуком.\n"
+"За день вы можете открыть максимум десять сундуков, но после разблокировки доски заданий, вы сможете повысить лимит при помощи улучшения, которое появится на вкладке звёздных улучшений в магазине.\n"
+"Счётчик открытых сундуков сбрасывается в полночь."
+msgstr ""
+
+#, python-brace-format
+msgctxt "ChestOfLuckOpenButton"
+msgid "Открыть сундук за {0} монет"
+msgstr ""
+
+msgctxt "ChestOfLuckOpenButtonLocked"
+msgid "Открыть сундук"
+msgstr ""
+
+#, python-brace-format
+msgctxt "ChestOfLuckOpenedChests"
+msgid "Сундуков открыто: {0}/{1}. До обновления {2}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "ChestOfLuckOpenMaxButton"
+msgid "Открыть X{0} за {1} монет"
+msgstr ""
+
+#, python-brace-format
+msgctxt "ChestOfLuckRewardDialog"
+msgid "Поздравляем! {0}"
+msgstr ""
+
+msgctxt "ChestOfLuckRewardMenuTitle"
+msgid "Список полученных призов."
+msgstr ""
+
+msgctxt "ChestOfLuckRewardMenuTitleWithHint"
+msgid ""
+"Список полученных призов. Для навигации используйте стрелки вверх и вниз, "
+"для закрытия нажмите escape или выберите соответствующий пункт и нажмите "
+"enter."
+msgstr ""
+
+#, python-brace-format
+msgctxt "FileSizeBytes"
+msgid "{0} б"
+msgstr ""
+
+#, python-brace-format
+msgctxt "FileSizeGigabytes"
+msgid "{0} гб"
+msgstr ""
+
+#, python-brace-format
+msgctxt "FileSizeKilobytes"
+msgid "{0} кб"
+msgstr ""
+
+#, python-brace-format
+msgctxt "FileSizeMegabytes"
+msgid "{0} мб"
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameBallControl"
+msgid "{0} клеток от земли"
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameBallViewSwitch"
+msgid "Мяч {0}."
+msgstr ""
+
+msgctxt "GameObjectCloset"
+msgid "Шкаф."
+msgstr ""
+
+msgctxt "GameObjectCouch"
+msgid "Диван."
+msgstr ""
+
+msgctxt "GameObjectDish"
+msgid "Блюдо."
+msgstr ""
+
+msgctxt "GameObjectDishCloset"
+msgid "Шкаф для посуды."
+msgstr ""
+
+msgctxt "GameObjectGates"
+msgid "Ворота."
+msgstr ""
+
+msgctxt "GameObjectGlass"
+msgid "Стакан."
+msgstr ""
+
+msgctxt "GameObjectLightbulb"
+msgid "Лампа."
+msgstr ""
+
+msgctxt "GameObjectMine"
+msgid "Мина."
+msgstr ""
+
+msgctxt "GameObjectRadio"
+msgid "Радиоприёмник."
+msgstr ""
+
+msgctxt "GameObjectTelevision"
+msgid "Телевизор."
+msgstr ""
+
+msgctxt "GameObjectToolbox"
+msgid "Ящик для инструментов."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GamePlanks"
+msgid "Доски: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GamePoints"
+msgid "{0} очков набрано в этой игре."
+msgstr ""
+
+msgctxt "GamePracticeInstantSkillRecharge"
+msgid "Все умения готовы к использованию."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameResultScreenBlueOrbs"
+msgid "Получено {0} синих шаров."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameResultScreenCoins"
+msgid "Получено {0} монет."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameResultScreenGreenOrbs"
+msgid "Получено {0} зелёных шаров."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameResultScreenPoints"
+msgid "Набрано {0} очков."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameResultScreenRedOrbs"
+msgid "Получено {0} красных шаров."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameResultScreenStars"
+msgid "Получено {0} звёзд."
+msgstr ""
+
+msgctxt "GameResultScreenTitle"
+msgid "Результаты прошедшей игры."
+msgstr ""
+
+msgctxt "GameResultScreenTitleWithHint"
+msgid ""
+"Результаты прошедшей игры. Для перемещения по меню используйте стрелки вниз "
+"и вверх. Чтобы закрыть меню, на любом пункте нажмите enter."
+msgstr ""
+
+msgctxt "GameRewardAvailableDialog"
+msgid "Вам доступна награда! Получите её в профиле на вкладке статистики!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameStarEnergy"
+msgid "{0} звёздной энергии."
+msgstr ""
+
+#, python-brace-format
+msgctxt "GameTimeToEnd"
+msgid "{0} секунд осталось до окончания игры."
+msgstr ""
+
+msgctxt "IncompatableSaveMessage"
+msgid ""
+"Загруженное сохранение принадлежит более новой версии игры\n"
+"и содержит данные, которые будут потеряны.\n"
+"В связи с этим, сохранение считается несовместимым.\n"
+"Игра будет закрыта."
+msgstr ""
+
+msgctxt "IncompatableSaveTitle"
+msgid "Несовместимое сохранение"
+msgstr ""
+
+msgctxt "KeyConfigurationActionBallControl"
+msgid "Узнать на какой высоте находится мяч"
+msgstr ""
+
+msgctxt "KeyConfigurationActionBallViewSwitch"
+msgid "Переключить режим наблюдения за мячом на следующий мяч"
+msgstr ""
+
+msgctxt "KeyConfigurationActionCheckPoints"
+msgid "Узнать количество набранных очков"
+msgstr ""
+
+msgctxt "KeyConfigurationActionCheckRemainingTime"
+msgid "Проверить оставшееся до окончания сессии время"
+msgstr ""
+
+msgctxt "KeyConfigurationActionCheckStarEnergy"
+msgid "Проверить количество имеющейся звёздной энергии"
+msgstr ""
+
+msgctxt "KeyConfigurationActionCloseMap"
+msgid "Закрыть карту"
+msgstr ""
+
+msgctxt "KeyConfigurationActionCurrentPlanks"
+msgid "Узнать текущее количество досок у персонажа"
+msgstr ""
+
+msgctxt "KeyConfigurationActionHorizontalBatSwing"
+msgid "Совершить горизонтальный взмах битой"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapCursorMoveDown"
+msgid "Переместить курсор вниз"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapCursorMoveLeft"
+msgid "Переместить курсор влево"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapCursorMoveRight"
+msgid "Переместить курсор вправо"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapCursorMoveUp"
+msgid "Переместить курсор вверх"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapMoveListenerDown"
+msgid "Переместить точку наблюдения ниже"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapMoveListenerUp"
+msgid "Переместить точку наблюдения выше"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapSwitchAnnouncingObjectType"
+msgid "Переключить статус объявления типа объекта"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapSwitchMovingMode"
+msgid "Переключить режим перемещения курсора"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMapTotalObjects"
+msgid "Узнать количество объектов на карте"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMoveBallDown"
+msgid "Движение мяча вниз"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMoveBallLeft"
+msgid "Движение мяча влево"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMoveBallRight"
+msgid "Движение мяча вправо"
+msgstr ""
+
+msgctxt "KeyConfigurationActionMoveBallUp"
+msgid "Движение мяча вверх"
+msgstr ""
+
+msgctxt "KeyConfigurationActionNextRechargedSkillSlot"
+msgid "Переключиться на следующее готовое к использованию умение"
+msgstr ""
+
+msgctxt "KeyConfigurationActionOpenBallSoundSwitcher"
+msgid "Открыть экран изменения звуков мячей"
+msgstr ""
+
+msgctxt "KeyConfigurationActionOpenMap"
+msgid "Открыть карту"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPauseGame"
+msgid "Поставить игру на паузу"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPickupItem"
+msgid "Активировать предмет"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPlayCheckPositionSound"
+msgid "Проиграть звук на позиции персонажа"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPlayerCatchBall"
+msgid "Поймать мяч"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPlayerJump"
+msgid "Прыжок"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPlayerMoveLeft"
+msgid "Движение персонажа влево"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPlayerMoveRight"
+msgid "Движение персонажа вправо"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPracticeInstantSkillRecharge"
+msgid "Моментально перезарядить все умения"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPracticeSetSkillLevels"
+msgid "Установить уровни умений"
+msgstr ""
+
+msgctxt "KeyConfigurationActionPreviousRechargedSkillSlot"
+msgid "Переключиться на предыдущее готовое к использованию умение"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSetPlayerFacingLeft"
+msgid "Повернуть персонажа влево"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSetPlayerFacingRight"
+msgid "Повернуть персонажа вправо"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot1"
+msgid "Выбрать умение, установленное в слот 1"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot10"
+msgid "Выбрать умение, установленное в слот 10"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot2"
+msgid "Выбрать умение, установленное в слот 2"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot3"
+msgid "Выбрать умение, установленное в слот 3"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot4"
+msgid "Выбрать умение, установленное в слот 4"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot5"
+msgid "Выбрать умение, установленное в слот 5"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot6"
+msgid "Выбрать умение, установленное в слот 6"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot7"
+msgid "Выбрать умение, установленное в слот 7"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot8"
+msgid "Выбрать умение, установленное в слот 8"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlot9"
+msgid "Выбрать умение, установленное в слот 9"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSkillSlotCancel"
+msgid "Отменить применение выбранного умения"
+msgstr ""
+
+msgctxt "KeyConfigurationActionStarModuleSlot1"
+msgid "Активировать звёздный модуль, установленный в слот 1"
+msgstr ""
+
+msgctxt "KeyConfigurationActionStarModuleSlot2"
+msgid "Активировать звёздный модуль, установленный в слот 2"
+msgstr ""
+
+msgctxt "KeyConfigurationActionStarModuleSlot3"
+msgid "Активировать звёздный модуль, установленный в слот 3"
+msgstr ""
+
+msgctxt "KeyConfigurationActionStarModuleSlot4"
+msgid "Активировать звёздный модуль, установленный в слот 4"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSwitchBallSound"
+msgid "Переключить звук мяча"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSwitchBallViewMode"
+msgid "Переключиться в режим наблюдения за мячом"
+msgstr ""
+
+msgctxt "KeyConfigurationActionSwitchCharacterCameraMode"
+msgid ""
+"Переключить режим камеры между режимом от первого лица и наблюдением за "
+"центром поля"
+msgstr ""
+
+msgctxt "KeyConfigurationActionThrowBallHorizontal"
+msgid "Бросить мяч горизонтально"
+msgstr ""
+
+msgctxt "KeyConfigurationActionThrowBallVertical"
+msgid "Бросить мяч вертикально"
+msgstr ""
+
+msgctxt "KeyConfigurationActionThrowPlank"
+msgid "Бросить доску"
+msgstr ""
+
+msgctxt "KeyConfigurationActionVerticalBatSwing"
+msgid "Совершить вертикальный взмах битой"
+msgstr ""
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionBallControlKeys"
+msgid "Управление подконтрольным мячом"
+msgstr ""
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionKeys"
+msgid "Игровая сессия"
+msgstr ""
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionObjectMapKeys"
+msgid "Карта объектов"
+msgstr ""
+
+msgctxt "KeyConfigurationBlockBallBouncerGameSessionTestOfSkillKeys"
+msgid "Режим испытания мастерства"
+msgstr ""
+
+msgctxt "KeyConfigurationBlockBallBouncerPracticeGameSessionKeys"
+msgid "Режим тренировки"
+msgstr ""
+
+msgctxt "KeyConfigurationMergeDeletionDialogOk"
+msgid "Понятно"
+msgstr ""
+
+msgctxt "KeyConfigurationMergeDeletionDialogText"
+msgid ""
+"В игру были введены новые сочетания клавиш, но при загрузке вашей "
+"конфигурации было обнаружено, что у вас уже установлены те сочетания, "
+"которые зарезервированы как сочетания по умолчанию. В связи с этим, новые "
+"сочетания были удалены в пользу ваших. Настоятельно рекомендуем зайти в "
+"настройки, перейти на вкладку \"Конфигурация сочетаний клавиш\" и настроить "
+"новые действия. Узнать список новых действий можно в списке изменений."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectAppear"
+msgid "Появление эффекта."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectChaoticMovement"
+msgid "Эффект \"Хаотическое движение\"."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectDisappear"
+msgid "Исчезновение эффекта."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectElectrocharge"
+msgid "Эффект \"Разряд\"."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectGatesLift"
+msgid "Эффект \"Подъёмник\"."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectGatesLocker"
+msgid "Эффект \"Стопор\"."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectPointsMultiplier"
+msgid "Эффект \"Множитель очков\"."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectRocket"
+msgid "Эффект \"Ракета\"."
+msgstr ""
+
+msgctxt "LearnSoundsBarEffectTripleMiss"
+msgid "Штраф за пропуск трёх эффектов."
+msgstr ""
+
+msgctxt "LearnSoundsBatHitSuccess"
+msgid "Успешный удар битой по мячу."
+msgstr ""
+
+msgctxt "LearnSoundsCeilBounce"
+msgid "Мяч отскочил от потолка."
+msgstr ""
+
+msgctxt "LearnSoundsFineStanding"
+msgid ""
+"Оповещение о начале начисления штрафа за долгое нахождение персонажа на "
+"одном месте."
+msgstr ""
+
+msgctxt "LearnSoundsFineSwinging"
+msgid "Оповещение о штрафе за частые промахи битой по мячу."
+msgstr ""
+
+msgctxt "LearnSoundsForceFull"
+msgid "Оповещение о полном восстановлении силы удара персонажа."
+msgstr ""
+
+msgctxt "LearnSoundsFormCatigoriesBasic"
+msgid "Базовые звуки"
+msgstr ""
+
+msgctxt "LearnSoundsFormCatigoriesTestOfSkill"
+msgid "Звуки режима испытания мастерства"
+msgstr ""
+
+msgctxt "LearnSoundsFormCatigoriesTestOfSpeed"
+msgid "Звуки режима испытания скорости"
+msgstr ""
+
+msgctxt "LearnSoundsFormCatigoriesTestOfWill"
+msgid "Звуки режима испытания воли"
+msgstr ""
+
+msgctxt "LearnSoundsFormCatigoriesTitle"
+msgid "Категории"
+msgstr ""
+
+msgctxt "LearnSoundsFormSoundList"
+msgid "Звуки"
+msgstr ""
+
+msgctxt "LearnSoundsFormTitle"
+msgid "Экран изучения звуков."
+msgstr ""
+
+msgctxt "LearnSoundsFormTitleWithHint"
+msgid ""
+"Экран изучения звуков. Для перемещения по экрану используйте клавиши tab - "
+"вперёд, shift+tab - назад. Для перемещения по панели вкладок используйте "
+"стрелки вправо и влево. Для перемещения по списку звуков используйте стрелки"
+" вверх и вниз. Для прослушивания нажмите enter на выбранном в списке звуке. "
+"Для выхода нажмите соответствующую кнопку либо клавишу escape."
+msgstr ""
+
+msgctxt "LearnSoundsGatesHit"
+msgid "Попадание по воротам."
+msgstr ""
+
+msgctxt "LearnSoundsGatesHitStreakReset"
+msgid "Серия попаданий сброшена."
+msgstr ""
+
+msgctxt "LearnSoundsGatesLoop"
+msgid "Ворота."
+msgstr ""
+
+msgctxt "LearnSoundsItemImmaterialityApplier"
+msgid "Массовая нематериальность."
+msgstr ""
+
+msgctxt "LearnSoundsItemObjectCreator"
+msgid "Предмет творца."
+msgstr ""
+
+msgctxt "LearnSoundsItemPlanks"
+msgid "Доски."
+msgstr ""
+
+msgctxt "LearnSoundsItemPointsLosement"
+msgid "Штрафной предмет."
+msgstr ""
+
+msgctxt "LearnSoundsItemPointsMultiplier"
+msgid "Предмет множитель очков."
+msgstr ""
+
+msgctxt "LearnSoundsItemRocketLauncher"
+msgid "Ракетная установка."
+msgstr ""
+
+msgctxt "LearnSoundsItemShadowStriker"
+msgid "Предмет призрачного удара."
+msgstr ""
+
+msgctxt "LearnSoundsItemSpawn"
+msgid "Предмет появляется на поле."
+msgstr ""
+
+msgctxt "LearnSoundsItemSuperElasticityApplier"
+msgid "Массовая сверхупругость."
+msgstr ""
+
+msgctxt "LearnSoundsItemTripleMiss"
+msgid "Штраф за пропуск трёх предметов."
+msgstr ""
+
+msgctxt "LearnSoundsItemWoodenPuppet"
+msgid "Деревянная марионетка."
+msgstr ""
+
+msgctxt "LearnSoundsObjectDestroy"
+msgid "Оповещение о уничтожении объекта."
+msgstr ""
+
+msgctxt "LearnSoundsObjectHit"
+msgid "Оповещение о столкновении мяча с объектом."
+msgstr ""
+
+msgctxt "LearnSoundsPerfectHit"
+msgid "Проведён идеальный удар."
+msgstr ""
+
+msgctxt "LearnSoundsPointsMultiplierOff"
+msgid "Множитель очков деактивирован."
+msgstr ""
+
+msgctxt "LearnSoundsPointsMultiplierOn"
+msgid "Множитель очков активирован."
+msgstr ""
+
+msgctxt "LearnSoundsPuppetDestroyed"
+msgid "Бонус за разрушенную марионетку."
+msgstr ""
+
+msgctxt "LearnSoundsPuppetNegative"
+msgid "Штраф за упущенную марионетку."
+msgstr ""
+
+msgctxt "LearnSoundsPuppetPositive"
+msgid "Бонус за повреждённую марионетку."
+msgstr ""
+
+msgctxt "LearnSoundsQuestCompleted"
+msgid "Задание выполнено."
+msgstr ""
+
+msgctxt "LearnSoundsScoresUnderNeg500"
+msgid "Очки опустились ниже минус пятисот."
+msgstr ""
+
+msgctxt "MainMenuExitGame"
+msgid "Выход из игры."
+msgstr ""
+
+msgctxt "MainMenuOptions"
+msgid "Настройки."
+msgstr ""
+
+msgctxt "MainMenuProfile"
+msgid "Профиль."
+msgstr ""
+
+msgctxt "MainMenuRecordings"
+msgid "Записи."
+msgstr ""
+
+msgctxt "MainMenuStartGame"
+msgid "Начать игру."
+msgstr ""
+
+msgctxt "MainMenuStore"
+msgid "Магазин."
+msgstr ""
+
+msgctxt "MainMenuTitle"
+msgid "Главное меню."
+msgstr ""
+
+msgctxt "MainMenuTitleWithHint"
+msgid ""
+"Главное меню. Для перемещения используйте стрелки вверх и вниз. Для выбора "
+"пункта меню нажмите enter."
+msgstr ""
+
+msgctxt "ModeSelectionFormBack"
+msgid "Вернуться в главное меню."
+msgstr ""
+
+msgctxt "ModeSelectionFormDescription"
+msgid "Открыть описание режима"
+msgstr ""
+
+msgctxt "ModeSelectionFormModes"
+msgid "Режимы"
+msgstr ""
+
+msgctxt "ModeSelectionFormNormalMode"
+msgid "Обычная игра."
+msgstr ""
+
+msgctxt "ModeSelectionFormNormalModeInfo"
+msgid ""
+"Обычная игра.\n"
+"Стандартный режим без ограничений."
+msgstr ""
+
+msgctxt "ModeSelectionFormPracticeMode"
+msgid "Режим тренировки."
+msgstr ""
+
+msgctxt "ModeSelectionFormPracticeModeInfo"
+msgid ""
+"Режим тренировки.\n"
+"В этом режиме вы можете проводить неограниченное время с полностью отключёнными штрафами.\n"
+"Также, если возможно совершить отбитие мяча, будет проигрываться звук.\n"
+"В тренировочном режиме не собирается игровая статистика, а также не происходит набор очков."
+msgstr ""
+
+msgctxt "ModeSelectionFormRecord"
+msgid "Записывать игру"
+msgstr ""
+
+msgctxt "ModeSelectionFormSpecialObjects"
+msgid "Генерация специальных объектов на поле"
+msgstr ""
+
+msgctxt "ModeSelectionFormSpecialObjectsCouches"
+msgid "Диваны"
+msgstr ""
+
+msgctxt "ModeSelectionFormSpecialObjectsMines"
+msgid "Мины"
+msgstr ""
+
+msgctxt "ModeSelectionFormSpecialObjectsToolboxes"
+msgid "Ящики для инструментов"
+msgstr ""
+
+msgctxt "ModeSelectionFormStart"
+msgid "Старт"
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfSkillMode"
+msgid "Испытание мастерства."
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfSkillModeInfo"
+msgid ""
+"Испытание мастерства.\n"
+"В этом режиме вам потребуется Применить весь накопленный опыт, проявляя недюжинные способности ориентирования в истинном хаосе.\n"
+"Количество объектов на поле незначительно уменьшено по сравнению с обычным режимом, а также вы получаете только семьдесят процентов очков от оригинальных значений.\n"
+"Использование умений в этом режиме запрещено.\n"
+"Также на поле отсутствуют специальные объекты, такие как мины.\n"
+"Эффекты аур лидера и времени не распространяются на данный режим.\n"
+"Длительность максимального промежутка продолжения серий столкновений и разрушений объектов снижена до двух секунд вместо шести стандартных.\n"
+"В режиме изменён способ совершения идеальных ударов.\n"
+"Чтобы совершить идеальный удар, попадите по мячу битой с полностью восстановленной силой удара.\n"
+"Если вы промахнётесь или ударите мяч не в полную силу, серия будет сброшена.\n"
+"Вместо одного мяча вы стартуете с тремя.\n"
+"Их требуется бросить на поле как можно быстрее, так как штраф за удержание мяча действует как обычно.\n"
+"При использовании режима наблюдения за мячом, нажав клавишу j, можно изменить мяч, за которым ведётся наблюдение.\n"
+"Также, когда режим наблюдения за мячом активен, нажатием клавиши l, как и в остальных режимах, можно изменить звук наблюдаемого мяча.\n"
+"Альтернативным способом поменять звуки является экран изменения звуков мячей, попасть на который можно по нажатию клавиши f1.\n"
+"На этот экран можно попасть только когда идёт игровая сессия режима испытания мастерства.\n"
+"Установленные звуки мячей сохраняются между играми.\n"
+"Указанные клавиши актуальны только для стандартной конфигурации сочетаний клавиш.\n"
+"Приложите все силы к тому, чтобы не допускать частых отскоков мячей от пола, иначе штраф будет увеличиваться крайне быстрыми темпами.\n"
+"Стоит учитывать то, что чем больше очков вы набираете, тем выше становится штраф за отскоки мячей от пола.\n"
+"Время от времени на земле будут появляться предметы, которые вы можете активировать.\n"
+"Активировать предметы можно клавишей x (актуально для стандартной конфигурации сочетаний клавиш).\n"
+"В этом режиме присутствуют восемь типов предметов:\n"
+"1. Множитель очков: при активации вы получаете бонус к получаемым очкам на пятнадцать секунд.\n"
+"2. Ракетная установка: при активации предмет запускает вверх ракету, которая летит до центра поля и, взрываясь, уничтожает объекты поблизости.\n"
+"3. Предмет творца: при активации создаёт от десяти до пятнадцати объектов на поле.\n"
+"4. Массовая нематериальность: при активации накладывает  на пятнадцать секунд эффект нематериальности на все мячи на поле.\n"
+"5. Массовая сверхупругость: при активации накладывает на десять секунд эффект сверхупругости на все мячи на поле.\n"
+"6. Штрафной предмет: при активации вы теряете пятнадцать процентов от ваших текущих очков.\n"
+"7. Деревянная марионетка: при активации, на правой или левой границе поля, появляется деревянная марионетка, цель которой добраться до противоположной границы.\n"
+"Ваша задача разрушить марионетку, следуя за ней и нанося удары битой.\n"
+"После того, как марионетка будет уничтожена, вы получите бонус, равный тридцати пяти процентам от ваших текущих набранных очков, а на месте её разрушения появится предмет, при активации которого можно получить пять досок.\n"
+"Если вам не удалось разрушить марионетку до того, как она добралась до противоположной границы поля, происходит одно из двух событий:\n"
+"1. Если марионетке не было нанесено никакого урона, либо урон был нанесён, но незначительный, в таком случае вы получаете тридцати пяти процентный штраф от ваших текущих очков.\n"
+"2. Если марионетке было нанесено значительное количество урона, при достижении ею границы поля, вы получите соразмерный нанесённому урону бонус к текущим набранным очкам, но не более двадцати пяти процентов. А также у границы поля появится предмет, при активации которого можно получить некоторое количество досок.\n"
+"Каждое событие имеет свой собственный звук, который можно прослушать, как и все остальные дополнительные звуки режима, нажав на соответствующий пункт в конце информационной справки.\n"
+"8. Доски: при активации вы получаете некоторое количество досок.\n"
+"Узнать текущее количество досок можно, нажав сочетание alt+z, бросить одну доску вверх - z (относится только к стандартной конфигурации сочетаний клавиш).\n"
+"После броска доска летит вверх, сбивая объекты по пути.\n"
+"У каждого типа предмета свой характерный звук, помогающий точно определить какой предмет находится на поле.\n"
+"Если пропустить три предмета подряд, то будет получен штраф в размере двадцати пяти процентов от текущих набранных очков.\n"
+"Узнать сколько предметов было пропущено можно в меню паузы.\n"
+"После завершения игровой сессии, вы получите не монеты, а новую валюту - красные шары.\n"
+"Тратя получаемую валюту в игровом магазине, можно как приобрести новые умения, так и улучшить условия этого режима."
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfSpeedMode"
+msgid "Испытание скорости."
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfSpeedModeInfo"
+msgid ""
+"Испытание скорости.\n"
+"В этом режиме вам предстоит испытать свою реакцию, выдержку и скорость принятия решений.\n"
+"На поле отсутствуют объекты, вместо них требуется попадать мячом по воротам.\n"
+"Использование умений запрещено, а за идеальные удары не начисляются бонусные очки.\n"
+"Тем не менее, ауры лидера и времени работают без ограничений.\n"
+"Ворота расположены в нижней части игрового поля, они издают специальный зацикленный звук.\n"
+"Вам требуется отбивать мяч таким образом, чтобы он попал по воротам.\n"
+"После попадания, вам будут начислены очки, а ворота начнут движение в случайном направлении по горизонтали, и, после их остановки, вы снова сможете попасть по ним.\n"
+"С каждым попаданием, будет увеличиваться серия, позволяющая с последующим попаданием получать больше очков.\n"
+"Через определённое время, если не было совершено попадания, серия сбрасывается.\n"
+"У серии есть лимит, после которого она перестанет расти, но очки продолжат начисляться с тем же бонусом, до сброса серии.\n"
+"В верхней части игрового поля находится штанга, ограничивающая полёт мяча.\n"
+"Иногда, на несколько секунд, будет появляться возможность активировать один из шести эффектов.\n"
+"Для активации эффекта мяч должен попасть по штанге.\n"
+"1. Хаотическое движение: при активации ворота начнут постоянное передвижение в случайных направлениях по горизонтали в течении пятнадцати секунд. Возможность попадать по воротам мячом в этом режиме не ограничена.\n"
+"2. Стопор: при активации движение ворот будет заблокировано на пятнадцать секунд. То есть после попадания, ворота останутся на том же месте.\n"
+"3. Множитель очков: при активации вы получаете бонус к получаемым очкам на пятнадцать секунд.\n"
+"4. Подъёмник: при активации ворота на пятнадцать секунд поднимутся вверх, ближе к штанге.\n"
+"5. Ракета: При активации будет совершён пуск ракеты по воротам. После попадания ракеты в цель, вам будет начислено в несколько раз больше очков, чем за обычное попадание мячом.\n"
+"6. Разряд: при активации в персонажа будет выпущен электрический заряд. При его попадании по персонажу, он будет парализован на десять секунд, однако если вы сможете избежать попадания, будет начислено бонусом пять процентов от ваших текущих очков.\n"
+"Каждый эффект имеет свой уникальный звук.\n"
+"Все дополнительные звуки режима можно прослушать, нажав на соответствующий пункт в конце информационной справки.\n"
+"Если будет пропущено три возможности активации эффекта подряд, вы будете оштрафованы на двадцать пять процентов от ваших текущих очков.\n"
+"Узнать сколько активаций было пропущено можно в меню паузы.\n"
+"После завершения игровой сессии, вы получите не монеты, а новую валюту - синие шары.\n"
+"Тратя получаемую валюту в игровом магазине, можно как приобрести новое умение или объект, так и улучшить условия этого режима."
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfWillMode"
+msgid "Испытание воли."
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfWillModeInfo"
+msgid ""
+"Испытание воли.\n"
+"В этом режиме вам предлагается испытать своё терпение и волю к победе.\n"
+"Количество объектов на поле значительно уменьшено по сравнению с обычным режимом, а также вы получаете только пятьдесят процентов очков от оригинальных значений.\n"
+"Использование умений запрещено, а за идеальные удары и отскоки от потолка не начисляются бонусные очки.\n"
+"Также на поле отсутствуют специальные объекты, такие как мины.\n"
+"Тем не менее, ауры лидера и времени работают без ограничений.\n"
+"Время от времени на земле будут появляться предметы, которые вы можете активировать.\n"
+"Активировать предметы можно клавишей x (актуально для стандартной конфигурации сочетаний клавиш).\n"
+"В этом режиме присутствуют три типа предметов:\n"
+"1. Множитель очков: при активации вы получаете бонус к получаемым очкам на пятнадцать секунд.\n"
+"2. Призрачный удар: при активации предмет посылает вверх призрачный удар, который может уничтожить неограниченное количество объектов.\n"
+"3. Предмет творца: при активации создаёт от десяти до пятнадцати объектов на поле.\n"
+"У каждого типа предмета свой характерный звук, помогающий точно определить какой предмет находится на поле.\n"
+"Все дополнительные звуки режима можно прослушать, нажав на соответствующий пункт в конце информационной справки.\n"
+"После завершения игровой сессии, вы получите не монеты, а новую валюту - зелёные шары.\n"
+"Тратя получаемую валюту в игровом магазине, можно как приобрести новое умение или объект, так и улучшить условия этого режима."
+msgstr ""
+
+msgctxt "ModeSelectionFormTestOfWillModeLearnSounds"
+msgid "Изучить дополнительные звуки режима."
+msgstr ""
+
+msgctxt "ModeSelectionFormTitle"
+msgid "Выберите режим игры."
+msgstr ""
+
+msgctxt "ModeSelectionFormTitleWithHint"
+msgid ""
+"Выберите режим игры. Для перемещения по экрану используйте клавиши tab - "
+"вперёд, shift+tab - назад. Для перемещения по списку используйте стрелки "
+"вверх и вниз. Для подтверждения выбора нажмите клавишу enter или активируйте"
+" кнопку \"Старт\"."
+msgstr ""
+
+msgctxt "ModeUnlockTestOfSkill"
+msgid ""
+"Новый режим разблокирован!\n"
+"Теперь вам доступен режим испытания мастерства.\n"
+"Вы можете просмотреть описание, выбрав его в списке на экране старта игры и нажав клавишу d, либо открыть описание нажатием соответствующей кнопки.\n"
+"В профиле теперь доступны новые вехи статистики, относящиеся к разблокированному режиму.\n"
+"В магазине появилась категория улучшений данного режима, а также стали доступны к приобретению два новых умения.\n"
+"Также вам теперь доступен сундук удачи, вкладка которого находится в магазине.\n"
+"Чтобы узнать подробности, нажмите на кнопку справки, находящуюся на вкладке сундука удачи.\n"
+"Вы можете разблокировать доску заданий на новой соответствующей вкладке профиля."
+msgstr ""
+
+msgctxt "ModeUnlockTestOfSpeed"
+msgid ""
+"Новый режим разблокирован!\n"
+"Теперь вам доступен режим испытания скорости.\n"
+"Вы можете просмотреть описание, выбрав его в списке на экране старта игры и нажав клавишу d, либо открыть описание нажатием соответствующей кнопки.\n"
+"В профиле теперь доступны новые вехи статистики, относящиеся к разблокированному режиму.\n"
+"В магазине появилась категория улучшений данного режима, а также стали доступны к приобретению новое умение и объект."
+msgstr ""
+
+msgctxt "ModeUnlockTestOfWill"
+msgid ""
+"Новый режим разблокирован!\n"
+"Теперь вам доступен режим испытания воли.\n"
+"Вы можете просмотреть описание, выбрав его в списке на экране старта игры и нажав клавишу d, либо открыть описание нажатием соответствующей кнопки.\n"
+"В профиле теперь доступны новые вехи статистики, относящиеся к разблокированному режиму.\n"
+"В магазине появилась категория улучшений данного режима, а также стали доступны к приобретению новое умение и объект."
+msgstr ""
+
+msgctxt "NumberNotationsEmpty"
+msgid "Без нотации."
+msgstr ""
+
+msgctxt "NumberNotationsEngineering"
+msgid "Инженерная."
+msgstr ""
+
+msgctxt "NumberNotationsLetter"
+msgid "Буквенная."
+msgstr ""
+
+msgctxt "NumberNotationsScientific"
+msgid "Научная."
+msgstr ""
+
+msgctxt "NumberNotationsStandard"
+msgid "Стандартная."
+msgstr ""
+
+msgctxt "ObjectsMapScreenAnnounceObjectTypeDisabled"
+msgid "Объявление типа объекта под курсором отключено."
+msgstr ""
+
+msgctxt "ObjectsMapScreenAnnounceObjectTypeEnabled"
+msgid "Объявление типа объекта под курсором включено."
+msgstr ""
+
+msgctxt "ObjectsMapScreenFreeMovingMode"
+msgid "Переключено на свободный режим перемещения."
+msgstr ""
+
+msgctxt "ObjectsMapScreenObjectMovingMode"
+msgid "Переключено на режим перемещения по объектам."
+msgstr ""
+
+msgctxt "ObjectsMapScreenTitle"
+msgid "Карта объектов."
+msgstr ""
+
+#, python-brace-format
+msgctxt "ObjectsMapScreenTotalObjects"
+msgid "{0} объектов на карте."
+msgstr ""
+
+msgctxt "OptionsScreenAllowOverMaxVolume"
+msgid "Разрешить усиление громкости звука до двухсот процентов"
+msgstr ""
+
+msgctxt "OptionsScreenAllowPlayObjectNotifySounds"
+msgid ""
+"Проигрывать звуки оповещения при столкновении и разрушении мячом объектов на"
+" поле"
+msgstr ""
+
+msgctxt "OptionsScreenAllowPressToTurnBallView"
+msgid ""
+"Разрешить переключение режима наблюдения за мячом нажатием клавиши вместо "
+"зажатия"
+msgstr ""
+
+msgctxt "OptionsScreenBatHitSuccessSound"
+msgid "Проигрывать звук при успешном ударе битой мяча"
+msgstr ""
+
+msgctxt "OptionsScreenCatigoriesBehaviour"
+msgid "Поведение"
+msgstr ""
+
+msgctxt "OptionsScreenCatigoriesGeneral"
+msgid "Общие"
+msgstr ""
+
+msgctxt "OptionsScreenCatigoriesKeyConfiguration"
+msgid "Конфигурация сочетаний клавиш"
+msgstr ""
+
+msgctxt "OptionsScreenCatigoriesRecording"
+msgid "Запись"
+msgstr ""
+
+msgctxt "OptionsScreenCatigoriesSound"
+msgid "Звук"
+msgstr ""
+
+msgctxt "OptionsScreenChangeBallLoopSoundButton"
+msgid "Изменить звук мяча"
+msgstr ""
+
+msgctxt "OptionsScreenChangeLanguageButton"
+msgid "Сменить язык"
+msgstr ""
+
+msgctxt "OptionsScreenCheckForUpdates"
+msgid "Проверить обновления"
+msgstr ""
+
+msgctxt "OptionsScreenCheckForUpdatesOnStartup"
+msgid "Проверять наличие обновлений при запуске"
+msgstr ""
+
+msgctxt "OptionsScreenCloseButton"
+msgid "Закрыть"
+msgstr ""
+
+msgctxt "OptionsScreenConfigureKeysButton"
+msgid "Настроить сочетания клавиш"
+msgstr ""
+
+msgctxt "OptionsScreenDisplayTitleHints"
+msgid "Показывать подсказки навигации в заголовках меню"
+msgstr ""
+
+msgctxt "OptionsScreenGameVolumeSlider"
+msgid "Громкость игры"
+msgstr ""
+
+msgctxt "OptionsScreenLearnSounds"
+msgid "Изучить звуки игры"
+msgstr ""
+
+msgctxt "OptionsScreenMusicVolumeSlider"
+msgid "Громкость музыки"
+msgstr ""
+
+msgctxt "OptionsScreenNumberNotationSelector"
+msgid "Нотация для вывода чисел"
+msgstr ""
+
+msgctxt "OptionsScreenPauseGameWhenWindowLostsFocus"
+msgid "Ставить игру на паузу при переключении в другое окно"
+msgstr ""
+
+msgctxt "OptionsScreenPitchUpBallSounds"
+msgid "Выравнивать остальные звуки мячей по тональности к первому"
+msgstr ""
+
+msgctxt "OptionsScreenPrefereSapi"
+msgid "Предпочитать sapi средству чтения с экрана"
+msgstr ""
+
+msgctxt "OptionsScreenRecordingCancellation"
+msgid "Отменить запись при ручном прерывании игры"
+msgstr ""
+
+msgctxt "OptionsScreenResetKeyConfigurationToDefault"
+msgid "Сбросить конфигурацию сочетаний клавиш до значений по умолчанию"
+msgstr ""
+
+msgctxt "OptionsScreenResetKeyConfigurationToDefaultConfirmationQuestion"
+msgid ""
+"Вы уверены что хотите сбросить текущую конфигурацию сочетаний клавиш до "
+"значений по умолчанию? Внимание: это действие необратимо!"
+msgstr ""
+
+msgctxt "OptionsScreenResetOptionsToDefault"
+msgid "Сбросить настройки к значениям по умолчанию"
+msgstr ""
+
+msgctxt "OptionsScreenResetOptionsToDefaultConfirmationQuestion"
+msgid ""
+"Вы действительно хотите сбросить настройки к значениям по умолчанию? "
+"Внимание: это действие необратимо! При подтверждении приложение будет "
+"перезапущено."
+msgstr ""
+
+msgctxt "OptionsScreenSaveCharacterViewState"
+msgid "Сохранять состояние вида от первого лица между играми"
+msgstr ""
+
+msgctxt "OptionsScreenShowResultMenu"
+msgid "Показать меню результатов в конце игры"
+msgstr ""
+
+msgctxt "OptionsScreenShowRewardAvailableDialog"
+msgid "Показать уведомление о доступной награде в конце игры"
+msgstr ""
+
+msgctxt "OptionsScreenShowUpdateCheckErrorOnStartup"
+msgid ""
+"Показывать ошибку, если не удалось проверить наличие обновлений при запуске "
+"игры"
+msgstr ""
+
+msgctxt "OptionsScreenSoundPanningSettings"
+msgid "Настроить панорамирование звука"
+msgstr ""
+
+msgctxt "OptionsScreenSoundPanRepresentationMode"
+msgid "Режим панорамирования звука"
+msgstr ""
+
+msgctxt "OptionsScreenSoundPanRepresentationModeNarrowedCenter"
+msgid "Суженный центр"
+msgstr ""
+
+msgctxt "OptionsScreenSoundPanRepresentationModeNormal"
+msgid "Обычный"
+msgstr ""
+
+msgctxt "OptionsScreenStartingCountdownEnabled"
+msgid "Производить обратный отсчёт при старте игры"
+msgstr ""
+
+msgctxt "OptionsScreenTitle"
+msgid "Экран настроек."
+msgstr ""
+
+msgctxt "OptionsScreenTitleWithHint"
+msgid ""
+"Экран настроек. Для перемещения вперёд по экрану используйте клавишу tab, "
+"назад - shift плюс tab. Для изменения положения ползунков используйте "
+"клавиши стрелки. Для активации выбранного пункта нажмите enter или пробел."
+msgstr ""
+
+msgctxt "OptionsScreenWipeSave"
+msgid "Сбросить игровой прогресс"
+msgstr ""
+
+msgctxt "OptionsScreenWipeSaveConfirmationQuestion"
+msgid ""
+"Вы уверены что хотите сбросить свой игровой прогресс? Внимание: это действие"
+" необратимо!"
+msgstr ""
+
+msgctxt "PauseMenuAbortGame"
+msgid "Прервать игру и вернуться в главное меню."
+msgstr ""
+
+msgctxt "PauseMenuActiveQuests"
+msgid "Список активных заданий."
+msgstr ""
+
+msgctxt "PauseMenuActiveQuestsNoQuests"
+msgid "Активные задания отсутствуют."
+msgstr ""
+
+msgctxt "PauseMenuActiveSkills"
+msgid "Просмотреть активные умения."
+msgstr ""
+
+msgctxt "PauseMenuBarbellEffect"
+msgid "Эффект дожидается активации."
+msgstr ""
+
+#, python-brace-format
+msgctxt "PauseMenuBarbellEffectMiss"
+msgid "Штраф за пропущенные эффекты: {0}/3."
+msgstr ""
+
+msgctxt "PauseMenuContinueGame"
+msgid "Продолжить игру."
+msgstr ""
+
+#, python-brace-format
+msgctxt "PauseMenuGameInfo"
+msgid ""
+"В этой игре набрано {0} очков. Мяч столкнулся с объектами {1} раз, разрушил "
+"{2} объектов, {3} раз отскочил от пола. Вы ударили по мячу {4} раз."
+msgstr ""
+
+#, python-brace-format
+msgctxt "PauseMenuGatesInfo"
+msgid "Серия попаданий: {0}/{1}. Всего попаданий по воротам: {2}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "PauseMenuItemMiss"
+msgid "Штраф за пропущенные предметы: {0}/3."
+msgstr ""
+
+msgctxt "PauseMenuItemOnField"
+msgid "На поле присутствует предмет."
+msgstr ""
+
+#, python-brace-format
+msgctxt "PauseMenuPoints"
+msgid "В этой игре набрано {0} очков."
+msgstr ""
+
+msgctxt "PauseMenuPointsMultiplierActive"
+msgid "Активен множитель очков."
+msgstr ""
+
+msgctxt "PauseMenuPracticeModeActive"
+msgid "Активен режим тренировки."
+msgstr ""
+
+#, python-brace-format
+msgctxt "PauseMenuTimeToEnd"
+msgid "Игра закончится через {0} секунд."
+msgstr ""
+
+msgctxt "PauseMenuTitle"
+msgid "Меню паузы."
+msgstr ""
+
+msgctxt "PauseMenuTitleWithHint"
+msgid ""
+"Меню паузы. Для перемещения используйте стрелки вверх и вниз. Для активации "
+"выбранного пункта нажмите enter."
+msgstr ""
+
+msgctxt "ProfileAurasActivationError"
+msgid "Активация ауры невозможна: уже активно максимальное количество аур."
+msgstr ""
+
+#, python-brace-format
+msgctxt "ProfileAurasActive"
+msgid "Активные ауры: {0}/{1}."
+msgstr ""
+
+msgctxt "ProfileAurasHelp"
+msgid "Открыть справку ауры"
+msgstr ""
+
+msgctxt "ProfileAurasPageTitle"
+msgid "Ауры"
+msgstr ""
+
+msgctxt "ProfileModulesHelp"
+msgid "Открыть справку модуля"
+msgstr ""
+
+msgctxt "ProfileModulesList"
+msgid "Разблокированные модули"
+msgstr ""
+
+msgctxt "ProfileModulesPageTitle"
+msgid "Звёздные модули"
+msgstr ""
+
+msgctxt "ProfileModulesUpgrades"
+msgid "Улучшения модуля"
+msgstr ""
+
+#, python-brace-format
+msgctxt "ProfileQuestBoardBuyQuestSlot"
+msgid ""
+"Купить новый слот задания за {0} зелёных шаров, {1} синих шаров и {2} "
+"красных шаров"
+msgstr ""
+
+msgctxt "ProfileQuestBoardGetReward"
+msgid "Получить награду"
+msgstr ""
+
+msgctxt "ProfileQuestBoardPageTitle"
+msgid "Доска заданий"
+msgstr ""
+
+msgctxt "ProfileQuestBoardQuests"
+msgid "Задания"
+msgstr ""
+
+msgctxt "ProfileQuestBoardRecieveAll"
+msgid "Получить все награды"
+msgstr ""
+
+#, python-brace-format
+msgctxt "ProfileQuestBoardRewardRecieved"
+msgid "Получено звёзд: +{0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "ProfileQuestBoardStars"
+msgid "Звёзды: {0}."
+msgstr ""
+
+msgctxt "ProfileQuestBoardTakeAll"
+msgid "Получить все задания"
+msgstr ""
+
+msgctxt "ProfileQuestBoardTakeQuest"
+msgid "Получить задание"
+msgstr ""
+
+#, python-brace-format
+msgctxt "ProfileQuestBoardUnlock"
+msgid ""
+"Разблокировать доску заданий за {0} зелёных шаров, {1} синих шаров и {2} "
+"красных шаров"
+msgstr ""
+
+msgctxt "ProfileQuestBoardUnlocked"
+msgid ""
+"Вы разблокировали доску заданий.\n"
+"В профиле, на соответствующей вкладке, теперь доступен список заданий.\n"
+"Получить задание можно, нажав соответствующую кнопку, расположенную сразу же после списка.\n"
+"На выполнение каждого задания вам даётся двадцать четыре часа.\n"
+"По истечению данного времени, если задание не было выполнено, оно будет обнулено и слот будет свободен для получения нового.\n"
+"Если вы выполнили задание, но не получили награду до истечения времени выполнения, задание будет обнулено, а возможность получения награды утеряна.\n"
+"Если вы выполнили задание раньше намеченного срока, для получения нового всё равно требуется дождаться истечения срока выполнения.\n"
+"В награду за выполненные задания вы получаете новую валюту - звёзды.\n"
+"В магазине теперь доступны новые улучшения и ауры для приобретения.\n"
+"Изначально слот для заданий у вас только один, но, на вкладке заданий в профиле, вы можете увеличить их количество за зелёные, синие и красные шары.\n"
+"Также, в меню паузы игрового процесса, вы можете просмотреть все активные на данный момент задания."
+msgstr ""
+
+msgctxt "ProfileQuestBoardUpgradeReward"
+msgid "Увеличить награду за выполненные задания"
+msgstr ""
+
+#, python-brace-format
+msgctxt "ProfileRewardsForUnlockNextMode"
+msgid "Для разблокировки следующего режима получите ещё {0} наград."
+msgstr ""
+
+msgctxt "ProfileStatsCopied"
+msgid "Элемент скопирован."
+msgstr ""
+
+msgctxt "ProfileStatsPageTitle"
+msgid "Статистика"
+msgstr ""
+
+msgctxt "ProfileTitle"
+msgid "Ваш профиль."
+msgstr ""
+
+msgctxt "ProfileTitleWithHint"
+msgid ""
+"Ваш профиль. Используйте клавиши tab для перемещения вперёд, shift+tab - "
+"назад. Для получения награды в статистике, нажмите enter на пункте с "
+"доступной наградой."
+msgstr ""
+
+msgctxt "QuestActivateBarbellEffects"
+msgid "Активируйте эффекты в режиме испытания скорости."
+msgstr ""
+
+msgctxt "QuestActivateItems"
+msgid "Активируйте предметы."
+msgstr ""
+
+msgctxt "QuestBallHits"
+msgid "Отбивайте мяч."
+msgstr ""
+
+msgctxt "QuestBarbellHits"
+msgid "Сталкивайте мяч со штангой в режиме испытания скорости."
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestBoardRewardUpgradeFormRewardValue"
+msgid ""
+"Звёзды за выполненное задание: +{0}. Шанс получить дополнительную звезду: "
+"{1}%."
+msgstr ""
+
+msgctxt "QuestBoardRewardUpgradeFormTitle"
+msgid "Увеличение награды за выполненные задания."
+msgstr ""
+
+msgctxt "QuestBoardRewardUpgradeFormTitleWithHint"
+msgid ""
+"Увеличение награды за выполненные задания. Для перемещения вперёд по экрану "
+"используйте клавишу tab, назад - shift плюс tab. Для активации выбранного "
+"пункта нажмите enter или пробел."
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestBoardRewardUpgradeFormUpgradeBlueOrbs"
+msgid "Плюс {0} процент за {1} синих шаров"
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestBoardRewardUpgradeFormUpgradeCoins"
+msgid "Плюс {0} процент за {1} монет"
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestBoardRewardUpgradeFormUpgradeGreenOrbs"
+msgid "Плюс {0} процент за {1} зелёных шаров"
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestBoardRewardUpgradeFormUpgradeRedOrbs"
+msgid "Плюс {0} процент за {1} красных шаров"
+msgstr ""
+
+msgctxt "QuestCatchBalls"
+msgid "Ловите мячи."
+msgstr ""
+
+msgctxt "QuestCatchBallsTestOfSkill"
+msgid "Ловите мячи в режиме испытания мастерства."
+msgstr ""
+
+msgctxt "QuestCeilingHitsStreak"
+msgid "Создайте серию столкновений мяча с потолком."
+msgstr ""
+
+msgctxt "QuestCompleted"
+msgid "Задание выполнено"
+msgstr ""
+
+msgctxt "QuestDestroyedObjectsStreak"
+msgid "Создайте продолжительную серию разрушений объектов."
+msgstr ""
+
+msgctxt "QuestDestroyObjects"
+msgid "Разрушайте объекты."
+msgstr ""
+
+msgctxt "QuestDestroyPuppets"
+msgid "Разрушайте марионетки в режиме испытания мастерства."
+msgstr ""
+
+msgctxt "QuestElectrochargeDodge"
+msgid "Уклоняйтесь от электрических зарядов в режиме испытания скорости."
+msgstr ""
+
+msgctxt "QuestGatesHitsStreak"
+msgid ""
+"Создайте продолжительную серию попаданий по воротам в режиме испытания "
+"скорости."
+msgstr ""
+
+msgctxt "QuestHitBallWithBallLeap"
+msgid ""
+"Отбивайте мяч, находящийся не менее чем двенадцать клеток от земли, при "
+"помощи умения яростный рывок."
+msgstr ""
+
+msgctxt "QuestHitCeiling"
+msgid "Сталкивайте мяч с потолком."
+msgstr ""
+
+msgctxt "QuestHitCeilingInImmateriality"
+msgid "Попадайте мячом по потолку при активном эффекте нематериальности."
+msgstr ""
+
+msgctxt "QuestHitGates"
+msgid "Забивайте мяч в ворота режима испытания скорости."
+msgstr ""
+
+msgctxt "QuestHitGatesInMove"
+msgid "Попадайте мячом по движущимся воротам в режиме испытания скорости."
+msgstr ""
+
+msgctxt "QuestInBallView"
+msgid "Используйте режим наблюдения за мячом."
+msgstr ""
+
+msgctxt "QuestJumpHits"
+msgid "Отбивайте мяч в прыжке."
+msgstr ""
+
+msgctxt "QuestNone"
+msgid "Задание отсутствует."
+msgstr ""
+
+msgctxt "QuestObjectHits"
+msgid "Сталкивайте мяч с объектами."
+msgstr ""
+
+msgctxt "QuestObjectHitsStreak"
+msgid "Создайте продолжительную серию столкновений с объектами."
+msgstr ""
+
+msgctxt "QuestOnlyHorizontalHits"
+msgid "Завершите игровую сессию, отбивая мяч только горизонтальными ударами."
+msgstr ""
+
+msgctxt "QuestOutOfEffectMisses"
+msgid ""
+"Завершите игровую сессию в режиме испытания скорости, ни разу не получив "
+"штрафа за пропуск эффектов."
+msgstr ""
+
+msgctxt "QuestOutOfItemMisses"
+msgid ""
+"Завершите игровую сессию в режиме испытания мастерства, ни разу не получив "
+"штрафа за пропуск предметов."
+msgstr ""
+
+msgctxt "QuestOutOfPointsLosementItems"
+msgid ""
+"Завершите игровую сессию в режиме испытания мастерства, ни разу не "
+"активировав штрафной предмет."
+msgstr ""
+
+msgctxt "QuestPerfectHits"
+msgid "Совершайте идеальные удары."
+msgstr ""
+
+msgctxt "QuestPerfectHitsStreak"
+msgid "Создайте продолжительную серию идеальных ударов."
+msgstr ""
+
+msgctxt "QuestPlayGame"
+msgid "Проводите время на игровом поле."
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestProgress"
+msgid "Прогресс: {0}/{1} ({2}%)."
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestTime"
+msgid "До истечения срока выполнения задания осталось {0}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "QuestTimeNew"
+msgid "Новое задание будет возможно получить через {0}"
+msgstr ""
+
+msgctxt "QuestUseMagnetism"
+msgid "Используйте умение магнетизм при активной серии разрушения объектов."
+msgstr ""
+
+msgctxt "QuestUseSkills"
+msgid "Используйте умения."
+msgstr ""
+
+msgctxt "SkillLevelsSetFormBack"
+msgid "Вернуться в игру"
+msgstr ""
+
+msgctxt "SkillLevelsSetFormPowerRecoveringBonusChanger"
+msgid "Уровень скорости восстановления силы удара"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillLevelsSetFormSkillLevel"
+msgid "Уровень умения {0}"
+msgstr ""
+
+msgctxt "SkillLevelsSetFormTitle"
+msgid "Задать уровни умений."
+msgstr ""
+
+msgctxt "SkillLevelsSetFormTitleWithHint"
+msgid ""
+"Задать уровни умений. Для перемещения вперёд по экрану используйте клавишу "
+"tab, назад - shift плюс tab. Для изменения положения ползунков используйте "
+"клавиши стрелки. Для активации выбранного пункта нажмите enter или пробел."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsAutoCatchLevelInfoText"
+msgid ""
+"Уровень {0}. На {1} секунд вызывает сущность, которая поймает мяч "
+"автоматически, если тот находится на расстоянии {2} или менее клетки от "
+"персонажа, промежуток между применениями {3} секунд."
+msgstr ""
+
+msgctxt "SkillsAutoCatchName"
+msgid "душа ловца"
+msgstr ""
+
+msgctxt "SkillsAutoCatchNameFull"
+msgid "Душа ловца."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsAutoCatchText"
+msgid ""
+"Душа ловца: уровень {0}/3. На {1} секунд вызывает сущность, которая поймает "
+"мяч автоматически, если тот находится на расстоянии {2} или менее клетки от "
+"персонажа, промежуток между применениями {3} секунд"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsBallLeapLevelInfoText"
+msgid ""
+"Уровень {0}. Персонаж совершает стремительный рывок к мячу, находящемуся не "
+"выше {1} клеток над землёй, Промежуток между применениями {2} секунд."
+msgstr ""
+
+msgctxt "SkillsBallLeapName"
+msgid "яростный рывок"
+msgstr ""
+
+msgctxt "SkillsBallLeapNameFull"
+msgid "Яростный рывок."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsBallLeapText"
+msgid ""
+"Яростный рывок: уровень {0}/4. Персонаж совершает стремительный рывок к "
+"мячу, находящемуся не выше {1} клеток над землёй, Промежуток между "
+"применениями {2} секунд"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsBallPumpLevelInfoText"
+msgid ""
+"Уровень {0}. На {1} секунд делает мяч в два раза больше, промежуток между "
+"применениями {2} секунд."
+msgstr ""
+
+msgctxt "SkillsBallPumpName"
+msgid "ручной насос"
+msgstr ""
+
+msgctxt "SkillsBallPumpNameFull"
+msgid "Ручной насос."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsBallPumpText"
+msgid ""
+"Ручной насос: уровень {0}/5. На {1} секунд делает мяч в два раза больше, "
+"промежуток между применениями {2} секунд"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsBatThrowLevelInfoText"
+msgid ""
+"Уровень {0}. Персонаж бросает биту вверх, не более чем на {1} клеток, целясь"
+" в мину, диван или ящик для инструментов, Промежуток между применениями {2} "
+"секунд."
+msgstr ""
+
+msgctxt "SkillsBatThrowName"
+msgid "филигранный бросок"
+msgstr ""
+
+msgctxt "SkillsBatThrowNameFull"
+msgid "Филигранный бросок."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsBatThrowText"
+msgid ""
+"Филигранный бросок: уровень {0}/3. Персонаж бросает биту вверх, не более чем"
+" на {1} клеток, целясь в мину, диван или ящик для инструментов, Промежуток "
+"между применениями {2} секунд"
+msgstr ""
+
+msgctxt "SkillsEmpty"
+msgid "Вы ещё не разблокировали ни одного умения."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsImmaterialityLevelInfoText"
+msgid ""
+"Уровень {0}. Мяч уходит в нематериальное состояние на {1} секунд, промежуток"
+" между применениями {2} секунд."
+msgstr ""
+
+msgctxt "SkillsImmaterialityName"
+msgid "нематериальность"
+msgstr ""
+
+msgctxt "SkillsImmaterialityNameFull"
+msgid "Нематериальность."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsImmaterialityText"
+msgid ""
+"Нематериальность: уровень {0}/3. Мяч уходит в нематериальное состояние на "
+"{1} секунд, промежуток между применениями {2} секунд"
+msgstr ""
+
+msgctxt "SkillsLevelInfo"
+msgid "Список эффектов умения по уровню."
+msgstr ""
+
+msgctxt "SkillsListTitle"
+msgid "Разблокированные умения"
+msgstr ""
+
+msgctxt "SkillSlotObserveMenuNoActiveSkills"
+msgid "Активные умения отсутствуют."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillSlotObserveMenuSkillRecharged"
+msgid "Слот {0}: {1}. Умение готово к использованию."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillSlotObserveMenuSkillRecharging"
+msgid "Слот {0}: {1}. {2} секунд до перезарядки умения."
+msgstr ""
+
+msgctxt "SkillSlotObserveMenuTitle"
+msgid "Активные умения."
+msgstr ""
+
+msgctxt "SkillSlotObserveMenuTitleWithHint"
+msgid ""
+"Активные умения. Для перемещения используйте стрелки вверх и вниз. Чтобы "
+"выйти из меню, активируйте соответствующий пункт клавишей enter, или нажмите"
+" клавишу escape."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillSlotRecharging"
+msgid "{0} секунд до перезарядки умения."
+msgstr ""
+
+msgctxt "SkillSlotSelectCanceled"
+msgid "Выбор отменён."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillSlotSelected"
+msgid "Умение {0} выбрано."
+msgstr ""
+
+msgctxt "SkillSlotSetterMenuBack"
+msgid "Вернуться назад."
+msgstr ""
+
+msgctxt "SkillSlotSetterMenuTitle"
+msgid "Выберите умение для установки в слот."
+msgstr ""
+
+msgctxt "SkillSlotSetterMenuTitleWithHint"
+msgid ""
+"Выберите умение для установки в слот. Для выбора используйте стрелки вверх и"
+" вниз, для подтверждения выбора нажмите enter."
+msgstr ""
+
+msgctxt "SkillSlotsTitle"
+msgid "Слоты"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillSlotText"
+msgid "Слот {0}. {1}"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsMagnetismLevelInfoText"
+msgid ""
+"Уровень {0}. Мяч на {1} секунд получает эффект, притягивающий его к "
+"ближайшим объектам, промежуток между применениями {2} секунд."
+msgstr ""
+
+msgctxt "SkillsMagnetismName"
+msgid "магнетизм"
+msgstr ""
+
+msgctxt "SkillsMagnetismNameFull"
+msgid "Магнетизм."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsMagnetismText"
+msgid ""
+"Магнетизм: уровень {0}/4. Мяч на {1} секунд получает эффект, притягивающий "
+"его к ближайшим объектам, промежуток между применениями {2} секунд"
+msgstr ""
+
+msgctxt "SkillsNoneNameFull"
+msgid "Не установлено."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsObjectSpawnerLevelInfoText"
+msgid ""
+"Уровень {0}. Взмах битой создаёт {1} объектов на поле, промежуток между "
+"применениями {2} секунд."
+msgstr ""
+
+msgctxt "SkillsObjectSpawnerName"
+msgid "взмах творца"
+msgstr ""
+
+msgctxt "SkillsObjectSpawnerNameFull"
+msgid "Взмах творца."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsObjectSpawnerText"
+msgid ""
+"Взмах творца: уровень {0}/4. Взмах битой создаёт {1} объектов на поле, "
+"промежуток между применениями {2} секунд"
+msgstr ""
+
+msgctxt "SkillsPageTitle"
+msgid "Умения"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsRocketShotLevelInfoText"
+msgid ""
+"Уровень {0}. Персонаж запускает ракету, которая летит вертикально вверх до "
+"центра поля, а затем взрывается, уничтожая объекты на расстоянии {1} клеток "
+"от эпицентра взрыва, промежуток между применениями {2} секунд."
+msgstr ""
+
+msgctxt "SkillsRocketShotName"
+msgid "ракетный залп"
+msgstr ""
+
+msgctxt "SkillsRocketShotNameFull"
+msgid "Ракетный залп."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsRocketShotText"
+msgid ""
+"Ракетный залп: уровень {0}/5. Персонаж запускает ракету, которая летит "
+"вертикально вверх до центра поля, а затем взрывается, уничтожая объекты на "
+"расстоянии {1} клеток от эпицентра взрыва, промежуток между применениями {2}"
+" секунд"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsShadowStrikeLevelInfoText"
+msgid ""
+"Уровень {0}. Дальность полёта удара {1} клеток вверх, может уничтожить {2} "
+"объектов, промежуток между применениями {3} секунд."
+msgstr ""
+
+msgctxt "SkillsShadowStrikeName"
+msgid "призрачный удар"
+msgstr ""
+
+msgctxt "SkillsShadowStrikeNameFull"
+msgid "Призрачный удар."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsShadowStrikeText"
+msgid ""
+"Призрачный удар: уровень {0}/5. Дальность полёта удара {1} клеток вверх, "
+"может уничтожить {2} объектов, промежуток между применениями {3} секунд"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsStarDisintegratorLevelInfoText"
+msgid ""
+"Уровень {0}. Создаётся волна, расщепляющая любой встреченный по пути объект "
+"на {1} звёздной энергии. Ширина волны - {2} клеток, скорость - {3} клеток в "
+"секунду. Промежуток между применениями {4} секунд."
+msgstr ""
+
+msgctxt "SkillsStarDisintegratorName"
+msgid "звёздное дезинтегрирование"
+msgstr ""
+
+msgctxt "SkillsStarDisintegratorNameFull"
+msgid "Звёздное дезинтегрирование."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsStarDisintegratorText"
+msgid ""
+"Звёздное дезинтегрирование: уровень {0}/16. Создаётся волна, расщепляющая "
+"любой встреченный по пути объект на {1} звёздной энергии. Ширина волны - {2}"
+" клеток, скорость - {3} клеток в секунду. Промежуток между применениями {4} "
+"секунд"
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsSuperElasticityLevelInfoText"
+msgid ""
+"Уровень {0}. На {1} секунд мяч на порядок сильнее отскакивает от объектов, "
+"промежуток между применениями {2} секунд."
+msgstr ""
+
+msgctxt "SkillsSuperElasticityName"
+msgid "сверхупругость"
+msgstr ""
+
+msgctxt "SkillsSuperElasticityNameFull"
+msgid "Сверхупругость."
+msgstr ""
+
+#, python-brace-format
+msgctxt "SkillsSuperElasticityText"
+msgid ""
+"Сверхупругость: уровень {0}/4. На {1} секунд мяч на порядок сильнее "
+"отскакивает от объектов, промежуток между применениями {2} секунд"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormBallViewPanStep"
+msgid "Шаг панорамы в режиме наблюдения за мячом"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormBallViewVolumeStep"
+msgid "Шаг громкости в режиме наблюдения за мячом"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormHelp"
+msgid "Справка"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormHelpInfo"
+msgid ""
+"Настройки панорамирования звука.\n"
+"Если вас не устраивает то, как проигрываются звуки в стерео поле во время игры, здесь можно поэкспериментировать, указав другие значения шагов панорамы и громкости.\n"
+"Любой из двух существующих режимов панорамирования звука имеет свои значения и настраивается отдельно, на соответствующей вкладке.\n"
+"Вы можете менять четыре параметра:\n"
+"1. Шаг панорамы: отвечает за общую ширину стерео поля, указывает насколько изменяется положение звука за одну условную единицу расстояния.\n"
+"2. Шаг громкости: указывает насколько изменяется громкость звука за одну условную единицу расстояния.\n"
+"3. Шаг панорамы в режиме наблюдения за мячом: имеет то же значение, что и шаг панорамы, но применяется когда активен режим наблюдения за мячом.\n"
+"4. Шаг громкости в режиме наблюдения за мячом: имеет то же значение, что и шаг громкости, но применяется когда активен режим наблюдения за мячом.\n"
+"Каждый параметр можно указывать в диапазоне от 1 до 15.\n"
+"Значения параметров по умолчанию каждого режима подобраны таким образом, чтобы общая ширина стерео поля была максимально возможной для обеспечения более лучшего игрового опыта, однако вы можете подобрать свои, более комфортные значения, которые позволят облегчить игровой процесс.\n"
+"Рекомендуется проводить регулировку, начав игру в тренировочном режиме, так как изменения применяются сразу же после закрытия экрана настроек."
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormModesPannelTitle"
+msgid "Режимы панорамирования звука"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormPanStep"
+msgid "Шаг панорамы"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormResetToDefaults"
+msgid "Сбросить настройки режима к значениям по умолчанию"
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormTitle"
+msgid "Настройки панорамирования звука."
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormTitleWithHint"
+msgid ""
+"Настройки панорамирования звука. Для перемещения вперёд по экрану "
+"используйте клавишу tab, назад - shift плюс tab. Для изменения положения "
+"ползунков используйте клавиши стрелки. Для активации выбранного пункта "
+"нажмите enter или пробел."
+msgstr ""
+
+msgctxt "SoundPanningSettingsFormVolumeStep"
+msgid "Шаг громкости"
+msgstr ""
+
+msgctxt "StarModuleActivationError"
+msgid "Недостаточно звёздной энергии для активации модуля."
+msgstr ""
+
+msgctxt "StarModuleBallEnslaverInfo"
+msgid ""
+"Поработитель.\n"
+"После активации этого модуля, потребляющего звёздную энергию для работы, вы сможете контролировать движение мяча, вручную направляя его в любую сторону\n"
+"Чтобы использовать модуль во время игры, не забудьте установить его в любой из четырёх слотов.\n"
+"Использование модулей разрешено только в обычном и тренировочном режимах.\n"
+"Все приведённые ниже клавиши действительны для конфигурации сочетаний клавиш по умолчанию.\n"
+"Для активации модуля, удерживая клавишу alt, нажмите цифру слота, в который он установлен.\n"
+"Для деактивации модуля требуется нажать то же сочетание, что и для активации.\n"
+"Активация, как и активная работа модуля, потребляет звёздную энергию, которую можно получить, использовав умение звёздное дезинтегрирование.\n"
+"После активации модуля, вы не сможете управлять персонажем.\n"
+"Вместо этого вы осуществляете ручное управление движением мяча.\n"
+"Управление осуществляется стрелками либо клавишами w, a, s, d.\n"
+"Скорость движения мяча фиксируется на одном значении, игнорируя физические законы игры.\n"
+"В этом режиме мяч разрушает объекты одним ударом.\n"
+"Увеличить скорость движения мяча, а также снизить количество потребляемой энергии модулем можно соответствующими улучшениями.\n"
+"Потребляемую энергию для работы модуля, как и другую полезную информацию, можно посмотреть, нажав на кнопку улучшений модуля и перейдя на вкладку дополнительной информации модуля.\n"
+"После того, как у вас закончится звёздная энергия и модуль ещё активен, он будет автоматически деактивирован."
+msgstr ""
+
+msgctxt "StarModuleBallEnslaverText"
+msgid "Поработитель"
+msgstr ""
+
+msgctxt "StarModuleDestroyerInfo"
+msgid ""
+"Разрушитель.\n"
+"С помощью этого модуля, используя звёздную энергию, получаемую при применении специального умения, вы можете стрелять энергетическими зарядами, аннигилирующими объекты.\n"
+"Чтобы использовать модуль во время игры, не забудьте установить его в любой из четырёх слотов.\n"
+"Использование модулей разрешено только в обычном и тренировочном режимах.\n"
+"Все приведённые ниже клавиши действительны для конфигурации сочетаний клавиш по умолчанию.\n"
+"Для активации модуля, удерживая клавишу alt, нажмите цифру слота, в который он установлен.\n"
+"Для деактивации модуля требуется нажать то же сочетание, что и для активации.\n"
+"Активация, как и активная работа модуля, потребляет звёздную энергию, которую можно получить, использовав умение звёздное дезинтегрирование.\n"
+"Для совершения выстрела нажмите клавишу горизонтального или вертикального взмаха битой.\n"
+"Выстрел генерирует энергетический заряд, который летит вверх и уничтожает определённое количество объектов.\n"
+"Количество уничтожаемых объектов можно увеличить улучшением стабилизации заряда.\n"
+"Уничтоженные объекты аннигилируются зарядом при попадании, поэтому они не падают вниз и не создают шума.\n"
+"Каждый выстрел потребляет звёздную энергию и создаёт нагрузку на реактор модуля.\n"
+"Чем сильнее перегружен реактор, тем больше энергии потребляет выстрел, и тем больше расходуется энергии для поддержания модуля в рабочем состоянии.\n"
+"Состояние реактора отражает его звук, меняющий свою тональность в зависимости от текущей нагрузки.\n"
+"Если прекратить стрельбу, со временем реактор будет снижать перегруженность и вернётся в исходное состояние.\n"
+"Уменьшить создаваемую выстрелом нагрузку на реактор можно улучшением эффективности защиты от перегрузок.\n"
+"Эффективность защиты от перегрузок, как и другую полезную информацию, можно посмотреть, нажав на кнопку улучшений модуля и перейдя на вкладку дополнительной информации модуля.\n"
+"Если энергии не хватает на выстрел, модуль издаст звук, оповещающий об этом.\n"
+"После того, как у вас закончится звёздная энергия и модуль ещё активен, он будет автоматически деактивирован."
+msgstr ""
+
+msgctxt "StarModuleDestroyerText"
+msgid "Разрушитель"
+msgstr ""
+
+msgctxt "StarModuleFirstUnlock"
+msgid ""
+"Вы разблокировали свой первый звёздный модуль!\n"
+"Разблокировано умение звёздное дезинтегрирование.\n"
+"Используя звёздное дезинтегрирование, вы получаете звёздную энергию, необходимую для работы звёздных модулей.\n"
+"Модули можно улучшать. Получить доступ к улучшениям модуля можно на новой вкладке звёздных модулей в профиле."
+msgstr ""
+
+msgctxt "StarModuleFormInfoList"
+msgid "Информация"
+msgstr ""
+
+msgctxt "StarModuleFormTabInfo"
+msgid "Дополнительная информация модуля"
+msgstr ""
+
+msgctxt "StarModuleFormTabUpgrades"
+msgid "Улучшения модуля"
+msgstr ""
+
+msgctxt "StarModuleFormTitle"
+msgid "Улучшения модуля."
+msgstr ""
+
+msgctxt "StarModuleFormTitleWithHint"
+msgid ""
+"Улучшения модуля. Для перемещения вперёд по экрану используйте клавишу tab, "
+"назад - shift плюс tab. Для перемещения по списку используйте стрелки вверх "
+"и вниз. Для активации выбранного пункта нажмите enter или пробел."
+msgstr ""
+
+msgctxt "StarModuleFormUpgrades"
+msgid "Улучшения"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoBallEnslaverBallSpeed"
+msgid "Скорость мяча: {0} клеток в секунду."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoDestroyerOverdriveProtection"
+msgid "Эффективность защиты от перегрузки модуля: {0}%."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoDestroyerProjectileSize"
+msgid "Размер заряда: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoDestroyerProjectileStability"
+msgid "Стабильность заряда: уничтожение {0} объектов до дестабилизации."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoDestroyerShootingSpeed"
+msgid "Скорострельность: {0} выстрелов в минуту."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoDestroyerShotConsumption"
+msgid "Потребление энергии за выстрел: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoIdleCost"
+msgid "Потребление энергии в секунду: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoStarStormEnergyBoltCost"
+msgid "Расход энергии на формирование энергетического сгустка: {0} единиц."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoStarStormEnergyBoltFormingSpeed"
+msgid "Скорость формирования энергетических сгустков: {0} в минуту."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoStartCost"
+msgid "Потребляемая энергия за запуск: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoTimeShifterShiftChance"
+msgid "Шанс снижения времени перезарядки случайного умения: {0}%."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoTimeShifterShiftCost"
+msgid ""
+"Потребление энергии при уменьшении времени перезарядки умения: {0} единиц."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StarModuleInfoTimeShifterShiftingTime"
+msgid "Время уменьшения перезарядки умения: от 1 до {0} сек."
+msgstr ""
+
+msgctxt "StarModuleNoneText"
+msgid "Не установлено."
+msgstr ""
+
+msgctxt "StarModuleSlotSetterMenuTitle"
+msgid "Выберите модуль для установки в слот."
+msgstr ""
+
+msgctxt "StarModuleSlotSetterMenuTitleWithHint"
+msgid ""
+"Выберите модуль для установки в слот. Для выбора используйте стрелки вверх и"
+" вниз, для подтверждения выбора нажмите enter."
+msgstr ""
+
+msgctxt "StarModuleStarStormInfo"
+msgid ""
+"Звёздный шторм.\n"
+"В активном состоянии этот модуль, используя звёздную энергию, генерирует энергетические заряды, падающие от потолка до земли и уничтожающие объекты на своём пути.\n"
+"Чтобы использовать модуль во время игры, не забудьте установить его в любой из четырёх слотов.\n"
+"Использование модулей разрешено только в обычном и тренировочном режимах.\n"
+"Все приведённые ниже клавиши действительны для конфигурации сочетаний клавиш по умолчанию.\n"
+"Для активации модуля, удерживая клавишу alt, нажмите цифру слота, в который он установлен.\n"
+"Для деактивации модуля требуется нажать то же сочетание, что и для активации.\n"
+"Активация, как и активная работа модуля, потребляет звёздную энергию, которую можно получить, использовав умение звёздное дезинтегрирование.\n"
+"В активном состоянии, через определённые промежутки времени,  модуль генерирует энергетические заряды под самым потолком.\n"
+"Летя вниз, заряды уничтожают объекты на своём пути.\n"
+"Уничтоженные объекты аннигилируются зарядом при попадании, поэтому они не падают вниз и не создают шума.\n"
+"Генерация каждого заряда расходует звёздную энергию.\n"
+"Уменьшить количество потребляемой энергии, а также скорость генерации зарядов можно улучшить соответствующими улучшениями.\n"
+"Потребляемую энергию для генерации заряда, как и другую полезную информацию, можно посмотреть, нажав на кнопку улучшений модуля и перейдя на вкладку дополнительной информации модуля.\n"
+"После того, как у вас закончится звёздная энергия и модуль ещё активен, он будет автоматически деактивирован."
+msgstr ""
+
+msgctxt "StarModuleStarStormText"
+msgid "Звёздный шторм"
+msgstr ""
+
+msgctxt "StarModuleTimeShifterInfo"
+msgid ""
+"Модуль временного смещения.\n"
+"Когда этот модуль активен, он потребляет звёздную энергию для работы, но есть шанс того, что при совершения идеального удара будет уменьшено время до перезарядки случайного умения.\n"
+"Чтобы использовать модуль во время игры, не забудьте установить его в любой из четырёх слотов.\n"
+"Использование модулей разрешено только в обычном и тренировочном режимах.\n"
+"Все приведённые ниже клавиши действительны для конфигурации сочетаний клавиш по умолчанию.\n"
+"Для активации модуля, удерживая клавишу alt, нажмите цифру слота, в который он установлен.\n"
+"Для деактивации модуля требуется нажать то же сочетание, что и для активации.\n"
+"Активация, как и активная работа модуля, потребляет звёздную энергию, которую можно получить, использовав умение звёздное дезинтегрирование.\n"
+"Делайте идеальные отбития, когда модуль активен, чтобы с некоторым шансом уменьшить время до перезарядки случайного умения.\n"
+"Шанс на уменьшение времени, как и другую полезную информацию, можно посмотреть, нажав на кнопку улучшений модуля и перейдя на вкладку дополнительной информации модуля.\n"
+"После того, как у вас закончится звёздная энергия и модуль ещё активен, он будет автоматически деактивирован."
+msgstr ""
+
+msgctxt "StarModuleTimeShifterText"
+msgid "Модуль временного смещения"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemBallCeilHits"
+msgid "Количество отскоков мяча от потолка: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemBallCeilHitsStreak"
+msgid "Максимальная продолжительность серии отскоков мяча от потолка: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemBallFloorHits"
+msgid "Количество отскоков мяча от пола: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemBallsCaught"
+msgid "Всего поймано мячей: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemBarbellEffectsActivated"
+msgid "Активировано эффектов в режиме испытания скорости: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemBatHits"
+msgid "Количество отбитых мячей: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemCouchesDestroyed"
+msgid "Сбито диванов: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemDestroyedObjects"
+msgid "Количество уничтоженных объектов: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemDestroyedObjectsStreak"
+msgid "Максимальная продолжительность серии разрушений объектов: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemDestroyedObjectsTestOfSkillStreak"
+msgid ""
+"Максимальная продолжительность серии разрушений объектов в режиме испытания "
+"мастерства: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemGatesHits"
+msgid "Всего попаданий по воротам: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemGatesHitStreak"
+msgid "Попаданий по воротам подряд в течении одной серии: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemItemsActivated"
+msgid "Предметов активировано: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemMaximumPoints"
+msgid "Максимальные очки за одну игру: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemMaximumTestOfSkillPoints"
+msgid "Максимальные очки за одну игру в режиме испытания мастерства: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemMaximumTestOfSpeedPoints"
+msgid "Максимальные очки за одну игру в режиме испытания скорости: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemMaximumTestOfWillPoints"
+msgid "Максимальные очки за одну игру в режиме испытания воли: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemMinesDetonated"
+msgid "Мин взорвано: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemObjectHits"
+msgid "Количество столкновений с объектами: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemObjectHitsStreak"
+msgid "Максимальная продолжительность серии столкновений с объектами: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemObjectHitsTestOfSkillStreak"
+msgid ""
+"Максимальная продолжительность серии столкновений с объектами в режиме "
+"испытания мастерства: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemPerfectHits"
+msgid "Всего совершено идеальных отбитий: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemPerfectHitsStreak"
+msgid "Совершено идеальных отбитий подряд: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemPuppetsDestroyed"
+msgid "Разрушено марионеток: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemStepsMade"
+msgid "Количество сделанных шагов: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemToolboxesDestroyed"
+msgid "Перевёрнуто ящиков для инструментов: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemTotalChestsOpened"
+msgid "Всего открыто сундуков удачи: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemTotalGamingTime"
+msgid "Всего проведено времени на игровом поле: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemTotalPoints"
+msgid "Всего очков набрано: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemTotalQuestsCompleted"
+msgid "Всего выполнено заданий: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemTotalSkillsUsed"
+msgid "Всего использовано умений: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatItemTotalTime"
+msgid "Всего проведено времени в приложении: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatRewardAvailable"
+msgid "Награда доступна. Получено наград: {0}."
+msgstr ""
+
+msgctxt "StatRewardError"
+msgid "Награда ещё недоступна."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatRewardRequirements"
+msgid "До награды: {0}. Получено наград: {1}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StatRewardsTotal"
+msgid "Всего получено {0} наград."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonReset"
+msgid "Сбросить за {0} монет"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUnlock"
+msgid "Разблокировать за {0} монет"
+msgstr ""
+
+msgctxt "StoreButtonUnlockAuraUnlocked"
+msgid "Аура разблокирована"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUnlockBlueOrbs"
+msgid "Разблокировать за {0} синих шаров"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUnlockGreenOrbs"
+msgid "Разблокировать за {0} зелёных шаров"
+msgstr ""
+
+msgctxt "StoreButtonUnlockModuleUnlocked"
+msgid "Модуль разблокирован"
+msgstr ""
+
+msgctxt "StoreButtonUnlockObjectUnlocked"
+msgid "Объект разблокирован"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUnlockRedOrbs"
+msgid "Разблокировать за {0} красных шаров"
+msgstr ""
+
+msgctxt "StoreButtonUnlockSkillUnlocked"
+msgid "Умение разблокировано"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUnlockStars"
+msgid "Разблокировать за {0} звёзд"
+msgstr ""
+
+msgctxt "StoreButtonUnlockUnlocked"
+msgid "Функция разблокирована"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUpgrade"
+msgid "Улучшить за {0} монет"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUpgradeBlueOrbs"
+msgid "Улучшить за {0} синих шаров"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUpgradeGreenOrbs"
+msgid "Улучшить за {0} зелёных шаров"
+msgstr ""
+
+msgctxt "StoreButtonUpgradeMaxed"
+msgid "Улучшено до максимума"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUpgradeRedOrbs"
+msgid "Улучшить за {0} красных шаров"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreButtonUpgradeStars"
+msgid "Улучшить за {0} звёзд"
+msgstr ""
+
+msgctxt "StoreBuyError1"
+msgid "Ошибка: недостаточно монет."
+msgstr ""
+
+msgctxt "StoreBuyError10"
+msgid "Ошибка: недостаточно синих шаров."
+msgstr ""
+
+msgctxt "StoreBuyError11"
+msgid "Ошибка: недостаточно красных шаров."
+msgstr ""
+
+msgctxt "StoreBuyError12"
+msgid "Ошибка: недостаточно звёзд."
+msgstr ""
+
+msgctxt "StoreBuyError13"
+msgid "Ошибка: эта аура уже имеет максимальный уровень."
+msgstr ""
+
+msgctxt "StoreBuyError14"
+msgid "Ошибка: эта аура уже разблокирована."
+msgstr ""
+
+msgctxt "StoreBuyError15"
+msgid "Ошибка: Этот модуль уже разблокирован."
+msgstr ""
+
+msgctxt "StoreBuyError2"
+msgid "Ошибка: это улучшение уже имеет максимальный уровень."
+msgstr ""
+
+msgctxt "StoreBuyError3"
+msgid "Ошибка: эта функция уже разблокирована."
+msgstr ""
+
+msgctxt "StoreBuyError4"
+msgid "Ошибка: недостаточно очков достижений."
+msgstr ""
+
+msgctxt "StoreBuyError5"
+msgid "Ошибка: не потрачено ни одного очка достижений."
+msgstr ""
+
+msgctxt "StoreBuyError6"
+msgid "Ошибка: Это умение уже имеет максимальный уровень."
+msgstr ""
+
+msgctxt "StoreBuyError7"
+msgid "Ошибка: это умение уже разблокировано"
+msgstr ""
+
+msgctxt "StoreBuyError8"
+msgid "Ошибка: этот объект уже разблокирован."
+msgstr ""
+
+msgctxt "StoreBuyError9"
+msgid "Ошибка: недостаточно зелёных шаров."
+msgstr ""
+
+msgctxt "StoreCatigories"
+msgid "Категории"
+msgstr ""
+
+msgctxt "StoreCatigoriesAuras"
+msgid "Ауры"
+msgstr ""
+
+msgctxt "StoreCatigoriesCharacter"
+msgid "Персонаж"
+msgstr ""
+
+msgctxt "StoreCatigoriesChestOfLuck"
+msgid "Сундук удачи"
+msgstr ""
+
+msgctxt "StoreCatigoriesObjects"
+msgid "Объекты"
+msgstr ""
+
+msgctxt "StoreCatigoriesStarModules"
+msgid "Звёздные модули"
+msgstr ""
+
+msgctxt "StoreCatigoriesStarUpgrades"
+msgid "Звёздные улучшения"
+msgstr ""
+
+msgctxt "StoreCatigoriesTestOfSkill"
+msgid "Улучшения испытания мастерства"
+msgstr ""
+
+msgctxt "StoreCatigoriesTestOfSpeed"
+msgid "Улучшения испытания скорости"
+msgstr ""
+
+msgctxt "StoreCatigoriesTestOfWill"
+msgid "Улучшения испытания воли"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreCurrencyBlueOrbs"
+msgid "Синие шары: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreCurrencyCoins"
+msgid "Монеты: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreCurrencyGreenOrbs"
+msgid "Зелёные шары: {0}."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreCurrencyRedOrbs"
+msgid "Красные шары: {0}."
+msgstr ""
+
+msgctxt "StoreInfoTitle"
+msgid "Справочная информация: "
+msgstr ""
+
+msgctxt "StoreInfoTitleWithHint"
+msgid ""
+"Справочная информация. Для перемещения используйте стрелки вверх и вниз. Для"
+" выхода из меню нажмите escape или enter на любом пункте."
+msgstr ""
+
+msgctxt "StoreItemAuraCreatorInfo"
+msgid ""
+"Аура создающего.\n"
+"Улучшает умение взмах творца, увеличивая количество генерируемых объектов.\n"
+"Внимание: на нулевом уровне аура не даёт никаких бонусов.\n"
+"Бонусы ауры по уровням:\n"
+"Уровень 1. Увеличивает количество создаваемых взмахом творца объектов на 6.\n"
+"Уровень 2. Увеличивает количество создаваемых взмахом творца объектов на 15."
+msgstr ""
+
+msgctxt "StoreItemAuraCreatorText"
+msgid "Аура создающего"
+msgstr ""
+
+msgctxt "StoreItemAuraElectroResistanceInfo"
+msgid ""
+"Аура электроустойчивости.\n"
+"Позволяет не получать вреда от электрических разрядов в режиме испытания скорости.\n"
+"Внимание: на нулевом уровне аура не даёт никаких бонусов.\n"
+"Бонусы ауры по уровням:\n"
+"Уровень 1. Персонаж игнорирует эффект парализации от попадания по нему электрического разряда.\n"
+"Уровень 2. Персонаж игнорирует эффект парализации от попадания по нему электрического разряда. При попадании, разряд отражается, и, если рядом с персонажем в этот момент находятся ворота, по ним наносится удар без приведения в движение."
+msgstr ""
+
+msgctxt "StoreItemAuraElectroResistanceText"
+msgid "Аура электроустойчивости"
+msgstr ""
+
+msgctxt "StoreItemAuraExploderInfo"
+msgid ""
+"Аура взрывателя.\n"
+"Улучшает объект мина, увеличивая радиус взрыва.\n"
+"Внимание: на нулевом уровне аура не даёт никаких бонусов.\n"
+"Бонусы ауры по уровням:\n"
+"Уровень 1. Радиус взрыва мины увеличен на одну клетку.\n"
+"Уровень 2. Радиус взрыва мины увеличен на три клетки."
+msgstr ""
+
+msgctxt "StoreItemAuraExploderText"
+msgid "Аура взрывателя"
+msgstr ""
+
+msgctxt "StoreItemAuraFireRetributionInfo"
+msgid ""
+"Аура огненного возмездия.\n"
+"Улучшает умение яростный рывок, образуя вокруг персонажа огненную ауру, уничтожающую все объекты на пути, пока он летит до мяча.\n"
+"Внимание: на нулевом уровне аура не даёт никаких бонусов.\n"
+"Если аура имеет первый уровень, активация эффекта происходит автоматически, после использования умения яростный рывок."
+msgstr ""
+
+msgctxt "StoreItemAuraFireRetributionText"
+msgid "Аура огненного возмездия"
+msgstr ""
+
+msgctxt "StoreItemAuraLuckyMasterInfo"
+msgid ""
+"Аура удачливого мастера.\n"
+"Улучшает игровой процесс в режиме испытания мастерства.\n"
+"Внимание: на нулевом уровне аура не даёт никаких бонусов.\n"
+"Бонусы ауры по уровням:\n"
+"Уровень 1. Предмет творца создаёт на пять объектов больше.\n"
+"Уровень 2. Предмет творца создаёт на восемь объектов больше. Эффект сверхупругости длится на пять секунд дольше.\n"
+"Уровень 3. Предмет творца создаёт на пятнадцать объектов больше. Эффект сверхупругости длится на пять секунд дольше. Радиус взрыва ракеты увеличен на одну клетку.\n"
+"Уровень 4. Предмет творца создаёт на двадцать объектов больше. Эффекты сверхупругости и множителя очков длятся на пять секунд дольше. Радиус взрыва ракеты увеличен на две клетки.\n"
+"Уровень 5. Предмет творца создаёт на двадцать объектов больше. Эффекты сверхупругости и множителя очков длятся на пять секунд дольше. Радиус взрыва ракеты увеличен на две клетки. Бонусы марионетки изменены: разрушение - 60%, достижение границы поля - 45%.\n"
+"Уровень 6. Предмет творца создаёт на двадцать пять объектов больше. Эффекты сверхупругости, нематериальности и множителя очков длятся на пять секунд дольше. Радиус взрыва ракеты увеличен на три клетки. Бонусы марионетки изменены: разрушение - 75%, достижение границы поля - 60%. Предметы появляются чаще, а также отсутствуют штрафные предметы."
+msgstr ""
+
+msgctxt "StoreItemAuraLuckyMasterText"
+msgid "Аура удачливого мастера"
+msgstr ""
+
+msgctxt "StoreItemAuraMagnetarInfo"
+msgid ""
+"Аура магнитара.\n"
+"Улучшает умение магнетизм, ускоряя притяжение мяча к объектам.\n"
+"Внимание: на нулевом уровне аура не даёт никаких бонусов.\n"
+"Бонусы ауры по уровням:\n"
+"Уровень 1. Ускоряет движение мяча в 1,2 раза при активном умении магнетизм.\n"
+"Уровень 2. Ускоряет движение мяча в 1,5 раза при активном умении магнетизм.\n"
+"Уровень 3. Ускоряет движение мяча в 2 раза при активном умении магнетизм. Увеличивает длительность магнетизма на 3 секунды.\n"
+"Уровень 4. Ускоряет движение мяча в 3 раза при активном умении магнетизм. Увеличивает длительность магнетизма на 7 секунд."
+msgstr ""
+
+msgctxt "StoreItemAuraMagnetarText"
+msgid "Аура магнитара"
+msgstr ""
+
+msgctxt "StoreItemAuraOtherworldlyInfo"
+msgid ""
+"Аура потустороннего.\n"
+"Улучшает умение нематериальность, даря мячу повышенную упругость при отскоке от границ поля, а также незначительно увеличивая время эффекта умения.\n"
+"Внимание: на нулевом уровне аура не даёт никаких бонусов.\n"
+"Бонусы ауры по уровням:\n"
+"Уровень 1. Мяч немного сильнее отскакивает от границ игрового поля.\n"
+"Уровень 2. Мяч значительно сильнее отскакивает от границ игрового поля. Время эффекта нематериальности повышено на пять секунд."
+msgstr ""
+
+msgctxt "StoreItemAuraOtherworldlyText"
+msgid "Аура потустороннего"
+msgstr ""
+
+msgctxt "StoreItemAuraShadowMasterInfo"
+msgid ""
+"Аура призрачного мастера.\n"
+"Улучшает умение призрачный удар, даря возможность разрушать любое количество объектов на пути и расширяя область поражения.\n"
+"Внимание: на нулевом уровне аура не даёт никаких бонусов.\n"
+"Бонусы ауры по уровням:\n"
+"Уровень 1. Призрачный удар может разрушать неограниченное количество объектов.\n"
+"Уровень 2. Призрачный удар может разрушать неограниченное количество объектов. Область поражения увеличена на две клетки.\n"
+"Уровень 3: Призрачный удар может разрушать неограниченное количество объектов. Область поражения увеличена на четыре клетки."
+msgstr ""
+
+msgctxt "StoreItemAuraShadowMasterText"
+msgid "Аура призрачного мастера"
+msgstr ""
+
+msgctxt "StoreItemBallCatchFeatureInfo"
+msgid ""
+"Возможность поймать мяч.\n"
+"Чтобы попытаться поймать мяч, во время игры нажмите левый или правый control.\n"
+"Мяч можно поймать только в том случае, если он находится близко к вам.\n"
+"Если попытка была успешной, звук мяча исчезнет с игрового поля, а вы снова сможете бросить его.\n"
+"Эту механику можно использовать в своих стратегиях по набору очков, или просто для развлечения, но изначально она полезна при применении в связке с некоторыми умениями."
+msgstr ""
+
+msgctxt "StoreItemBallCatchFeatureText"
+msgid "Разблокировка возможности поймать мяч"
+msgstr ""
+
+msgctxt "StoreItemChestOfLuckLimitUpgradeInfo"
+msgid ""
+"Повышение лимита на открытие сундуков удачи в день.\n"
+"Это улучшение повышает максимальное количество сундуков, которое можно открыть за день на один за каждый уровень."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemChestOfLuckLimitUpgradeText"
+msgid "Повышение лимита на открытие сундуков удачи в день: уровень {0}/15"
+msgstr ""
+
+msgctxt "StoreItemCouchObjectInfo"
+msgid ""
+"Объект диван.\n"
+"После уничтожения падает вниз, разрушая объекты по пути в небольшом радиусе."
+msgstr ""
+
+msgctxt "StoreItemCouchObjectText"
+msgid "Разблокировка объекта диван"
+msgstr ""
+
+msgctxt "StoreItemDestroyStreakUpgradeInfo"
+msgid ""
+"Повышение получаемых очков за серию разрушений объектов.\n"
+"Это улучшение немного увеличивает начисляемые очки за разрушение объектов."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemDestroyStreakUpgradeText"
+msgid "Повышение получаемых очков за серию разрушений объектов: уровень {0}/5"
+msgstr ""
+
+msgctxt "StoreItemIndulgenceOfInactionInfo"
+msgid ""
+"Индульгенция бездействия.\n"
+"Если вы приобретёте данное улучшение, на вас перестанет действовать штраф за нахождение на одном месте.\n"
+"Также вы сможете удерживать мяч в руках без штрафа до десяти секунд подряд.\n"
+"Более того, будет убрано резкое повышение штрафа за отскоки мяча от пола, применяющееся после сорока и более отскоков подряд.\n"
+"То есть вы, набрав хотя бы 6 миллионов очков, сможете закончить пятиминутную игровую сессию просто стоя на одном месте и ничего не делая, потеряв при этом примерно три или четыре миллиона.\n"
+"Эффекты улучшения не ограничиваются никаким режимом."
+msgstr ""
+
+msgctxt "StoreItemIndulgenceOfInactionText"
+msgid "Индульгенция бездействия"
+msgstr ""
+
+msgctxt "StoreItemJumpFeatureInfo"
+msgid ""
+"Возможность совершать прыжок.\n"
+"Чтобы подпрыгнуть, во время игры нажмите стрелку вверх, либо же клавишу w.\n"
+"Прыжок полезен в тех сценариях, когда вы хотите отбить мяч, ещё не отскочивший от пола.\n"
+"Либо же когда вы упустили удачный момент для удара, но всё равно хотите отбить мяч.\n"
+"В таком случае, вам достаточно совершить прыжок и в нужный момент ударить битой.\n"
+"Так же в прыжке легче поймать мяч, если у вас разблокирована данная возможность."
+msgstr ""
+
+msgctxt "StoreItemJumpFeatureText"
+msgid "Разблокировка возможности совершать прыжок"
+msgstr ""
+
+msgctxt "StoreItemMaxActiveAurasUpgradeInfo"
+msgid ""
+"Увеличение максимального количества активных аур.\n"
+"Это улучшение увеличивает максимальное количество одномоментно активных аур на одну за каждый уровень."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemMaxActiveAurasUpgradeText"
+msgid "Увеличение максимального количества активных аур: уровень {0}/3"
+msgstr ""
+
+msgctxt "StoreItemMaxCommonStreakTimeUpgradeInfo"
+msgid ""
+"Увеличение длительности серий разрушения объектов, столкновения с объектами и столкновения с потолком.\n"
+"Это улучшение увеличивает длительность указанных серий на одну секунду за каждый уровень.\n"
+"Улучшение действует на обычный и тренировочный режимы, а также на режим испытания воли."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemMaxCommonStreakTimeUpgradeText"
+msgid ""
+"Увеличение длительности серий разрушения объектов, столкновения с объектами "
+"и столкновения с потолком: уровень {0}/4. Текущая длительность: {1} секунд."
+msgstr ""
+
+msgctxt "StoreItemMineObjectInfo"
+msgid ""
+"Объект мина.\n"
+"Столкновение мяча с этим объектом вызывает взрыв, сильно отталкивающий мяч и уничтожающий ближайшие объекты.\n"
+"Если взрыв мины заденет другую мину, то она взорвётся, тем самым создавая цепь взрывов."
+msgstr ""
+
+msgctxt "StoreItemMineObjectText"
+msgid "Разблокировка объекта мины"
+msgstr ""
+
+msgctxt "StoreItemMinObjectIncreaseInfo"
+msgid ""
+"Увеличение минимального количества объектов на поле.\n"
+"Изначально минимальное количество объектов равняется двадцати пяти.\n"
+"Когда на поле находится объектов меньше, чем это значение, добавляются столько новых объектов, сколько не хватает, чтобы сровняться с этим числом.\n"
+"Каждый уровень улучшения увеличивает это значение на один.\n"
+"Улучшение применимо к обычному и тренировочному режимам."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemMinObjectIncreaseText"
+msgid "Увеличение минимального количества объектов на поле: уровень {0}/10"
+msgstr ""
+
+msgctxt "StoreItemPowerRecoveringInfo"
+msgid ""
+"Повышенная скорость восстановления силы удара.\n"
+"Улучшение заметно повышает скорость восстановления силы удара после каждого взмаха битой."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemPowerRecoveringText"
+msgid "Повышенная скорость восстановления силы удара: уровень {0}/10"
+msgstr ""
+
+msgctxt "StoreItemResetAchievementPointsInfo"
+msgid ""
+"Сброс потраченных очков достижений.\n"
+"При сбросе обнуляются уровни аур и умений, а вам возвращаются все потраченные на их улучшение очки достижений."
+msgstr ""
+
+msgctxt "StoreItemResetAchievementPointsQuestion"
+msgid ""
+"Вы действительно хотите сбросить распределение очков достижений за сто "
+"монет?"
+msgstr ""
+
+msgctxt "StoreItemResetAchievementPointsText"
+msgid "Сброс потраченных очков достижений"
+msgstr ""
+
+msgctxt "StoreItemSkillAutoCatchInfo"
+msgid ""
+"Умение душа ловца.\n"
+"Умение призывает сущность ловца, которая поймает мяч за вас, если тот окажется рядом с персонажем.\n"
+"Использование:\n"
+"Выберите слот, в который установлено данное умение.\n"
+"Затем нажмите клавишу, отвечающую за ловлю мяча.\n"
+"После успешного применения умения будет слышен звук, который будет продолжать играть до окончания действия умения.\n"
+"После того, как мяч будет пойман, умение прекратит действовать досрочно."
+msgstr ""
+
+msgctxt "StoreItemSkillAutoCatchText"
+msgid "Умение душа ловца"
+msgstr ""
+
+msgctxt "StoreItemSkillBallLeapInfo"
+msgid ""
+"Умение яростный рывок.\n"
+"Персонаж совершает стремительный рывок к мячу, находящемуся близко к земле.\n"
+"Использование:\n"
+"Выберите слот, в который установлено данное умение.\n"
+"Дождитесь удачного момента для применения.\n"
+"Затем сделайте взмах битой, остальное персонаж совершит самостоятельно.\n"
+"Если мяч находится вне зоны действия, выполнение умения будет провалено и оно уйдёт на перезарядку."
+msgstr ""
+
+msgctxt "StoreItemSkillBallLeapText"
+msgid "Умение яростный рывок"
+msgstr ""
+
+msgctxt "StoreItemSkillBallPumpInfo"
+msgid ""
+"Умение ручной насос.\n"
+"Мяч увеличивается в два раза на определённое время.\n"
+"Использование:\n"
+"Для успешного использования мяч должен находиться у вас в руках.\n"
+"Выберите слот, в который установлено данное умение.\n"
+"Затем нажмите клавишу горизонтального удара битой.\n"
+"После бросьте мяч на поле.\n"
+"Время действия начнёт идти сразу после применения умения, поэтому лучше всего сразу же бросить мяч.\n"
+"Если мяч находится на поле, попытка применения умения будет провалена и оно уйдёт на перезарядку."
+msgstr ""
+
+msgctxt "StoreItemSkillBallPumpText"
+msgid "Умение ручной насос"
+msgstr ""
+
+msgctxt "StoreItemSkillBatThrowInfo"
+msgid ""
+"Умение филигранный бросок.\n"
+"Персонаж бросает биту, целясь в мину, диван или ящик для инструментов.\n"
+"Использование:\n"
+"Выберите слот, в который установлено данное умение.\n"
+"Затем нажмите клавишу горизонтального удара битой.\n"
+"Персонаж совершит бросок биты и не сможет использовать ни одного умения до тех пор, пока бита не вернётся к нему в руки.\n"
+"Цель броска - сбить мину, диван, либо же ящик для инструментов в пределах максимальной дальности броска и с максимальной эффективностью.\n"
+"Если ни одного из указанных объектов нет по близости, персонаж бросит биту в самый отдалённый от него объект.\n"
+"В полёте бита уничтожает любой объект, что встанет у неё на пути.\n"
+"После достижения целевого объекта, бита автоматически вернётся в руки персонажа.\n"
+"Умение сработает только если сила удара восстановлена до максимума.\n"
+"В противном случае оно уйдёт на перезарядку.\n"
+"Также выполнение умения будет считаться проваленным, если в пределах возможного расстояния полёта биты не будет ни одного объекта."
+msgstr ""
+
+msgctxt "StoreItemSkillBatThrowText"
+msgid "Умение филигранный бросок"
+msgstr ""
+
+msgctxt "StoreItemSkillImmaterialityInfo"
+msgid ""
+"Умение нематериальность.\n"
+"При отбитии битой накладывает на мяч эффект нематериальности, который позволяет ему не отскакивать от объектов, а уничтожать их одним ударом и продолжать полёт по прежней траектории.\n"
+"Использование:\n"
+"Выберите слот, в который установлено данное умение.\n"
+"Затем отбейте мяч битой.\n"
+"Если наложение эффекта произошло успешно, вы услышите звук наложения данного эффекта.\n"
+"Взмах битой без отбития мяча приведёт к тому, что выполнение умения будет провалено и оно уйдёт на перезарядку."
+msgstr ""
+
+msgctxt "StoreItemSkillImmaterialityText"
+msgid "Умение нематериальность"
+msgstr ""
+
+msgctxt "StoreItemSkillMagnetismInfo"
+msgid ""
+"Умение магнетизм.\n"
+"Накладывает на мяч эффект, который притягивает его к ближайшим объектам на игровом поле.\n"
+"Использование:\n"
+"Поймайте мяч.\n"
+"Затем выберите слот, в который установлено данное умение.\n"
+"Бросьте мяч обратно на игровое поле.\n"
+"Эффект наложится сразу же после броска."
+msgstr ""
+
+msgctxt "StoreItemSkillMagnetismText"
+msgid "Умение магнетизм"
+msgstr ""
+
+msgctxt "StoreItemSkillObjectSpawnerInfo"
+msgid ""
+"Умение взмах творца.\n"
+"При взмахе битой генерирует объекты на игровом поле.\n"
+"Использование:\n"
+"Выберите слот, в который установлено данное умение.\n"
+"Затем совершите взмах битой.\n"
+"Умение сработает только если сила удара восстановлена до максимума.\n"
+"В противном случае оно уйдёт на перезарядку, а объекты не будут сгенерированы."
+msgstr ""
+
+msgctxt "StoreItemSkillObjectSpawnerText"
+msgid "Умение взмах творца"
+msgstr ""
+
+msgctxt "StoreItemSkillRocketShotInfo"
+msgid ""
+"Умение ракетный залп.\n"
+"Персонаж запускает ракету, которая летит вертикально вверх, а затем, достигнув центра поля, взрывается, уничтожая объекты, находящиеся  рядом.\n"
+"Использование:\n"
+"Выберите слот, в который установлено данное умение.\n"
+"Затем нажмите клавишу горизонтального удара битой.\n"
+"Ракету можно запустить только если сила удара восстановлена до максимума.\n"
+"В противном случае умение уйдёт на перезарядку.\n"
+"Совет: не запускайте ракету очень близко к краям поля, так как взрыв может задеть меньше объектов."
+msgstr ""
+
+msgctxt "StoreItemSkillRocketShotText"
+msgid "Умение ракетный залп"
+msgstr ""
+
+msgctxt "StoreItemSkillShadowStrikeInfo"
+msgid ""
+"Умение призрачный удар.\n"
+"При взмахе битой посылается призрачный удар, который летит только вверх и на определённую дальность, и который сбивает определённое количество объектов.\n"
+"Использование:\n"
+"Выберите слот, в который установлено данное умение.\n"
+"Затем переместите персонажа в нужное место на поле и совершите взмах битой.\n"
+"Удар можно послать только если сила удара восстановлена до максимума.\n"
+"В противном случае умение уйдёт на перезарядку, а удар не будет создан."
+msgstr ""
+
+msgctxt "StoreItemSkillShadowStrikeText"
+msgid "Умение призрачный удар"
+msgstr ""
+
+msgctxt "StoreItemSkillStarDisintegratorInfo"
+msgid ""
+"Звёздное дезинтегрирование.\n"
+"В результате использования этого умения будет создана волна, способная расщеплять объекты при столкновении с ними на звёздную энергию, затем используемую для питания звёздных модулей.\n"
+"За расщеплённые объекты не начисляются очки, а серии столкновений и разрушений не увеличиваются.\n"
+"Добытая звёздная энергия накапливается для дальнейшего применения.\n"
+"Использование:\n"
+"Выберите слот, в который установлено данное умение.\n"
+"Затем нажмите клавишу горизонтального взмаха битой.\n"
+"После этого начнётся формирование волны."
+msgstr ""
+
+msgctxt "StoreItemSkillSuperElasticityInfo"
+msgid ""
+"Умение сверхупругость.\n"
+"Мяч становится крайне упругим, что позволяет ему отскакивать от поверхностей на порядок сильнее.\n"
+"Использование:\n"
+"Выберите слот, в который установлено данное умение.\n"
+"Затем отбейте мяч битой.\n"
+"Если наложение эффекта произошло успешно, вы услышите звук наложения данного эффекта.\n"
+"Взмах битой без отбития мяча приведёт к тому, что выполнение умения будет провалено и оно уйдёт на перезарядку"
+msgstr ""
+
+msgctxt "StoreItemSkillSuperElasticityText"
+msgid "Умение сверхупругость."
+msgstr ""
+
+msgctxt "StoreItemStarModuleBallEnslaverBallSpeedUpgradeInfo"
+msgid ""
+"Увеличение скорости подконтрольного мяча.\n"
+"Это улучшение увеличивает скорость находящегося под контролем модуля мяча."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleBallEnslaverBallSpeedUpgradeText"
+msgid "Увеличение скорости подконтрольного мяча: уровень {0}/7."
+msgstr ""
+
+msgctxt "StoreItemStarModuleBallEnslaverIdleConsumptionDecreaseUpgradeInfo"
+msgid ""
+"Снижение потребления энергии при работе.\n"
+"Это улучшение снижает потребляемую модулем энергию в активном состоянии на три единицы за каждый уровень"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleBallEnslaverIdleConsumptionDecreaseUpgradeText"
+msgid "Снижение потребления энергии при работе: уровень {0}/10."
+msgstr ""
+
+msgctxt "StoreItemStarModuleBallEnslaverInfo"
+msgid ""
+"Звёздный модуль поработитель.\n"
+"После активации этого модуля, потребляющего звёздную энергию для работы, вы сможете контролировать движение мяча, вручную направляя его в любую сторону.\n"
+"Если вы ещё не купили ни одного модуля, После покупки этого модуля будет разблокировано умение, при помощи которого можно получать звёздную энергию.\n"
+"Также модуль можно улучшать, нажав кнопку улучшений на соответствующей вкладке профиля, разблокируемой после покупки вашего первого модуля.\n"
+"Использование модулей разрешено только в обычном и тренировочном режимах.\n"
+"Более подробная информация о модуле будет доступна после его покупки.\n"
+"Чтобы открыть подробную информацию, пройдите на вкладку звёздных модулей в профиле, выберите поработитель в списке модулей и нажмите на кнопку справка или клавишу enter на элементе списка."
+msgstr ""
+
+msgctxt "StoreItemStarModuleBallEnslaverStartConsumptionDecreaseUpgradeInfo"
+msgid ""
+"Уменьшение требуемой энергии для запуска.\n"
+"Это улучшение снижает требуемое количество энергии, потребляемой модулем во время запуска, на пять единиц за каждый уровень."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleBallEnslaverStartConsumptionDecreaseUpgradeText"
+msgid "Уменьшение требуемой энергии для запуска: уровень {0}/10"
+msgstr ""
+
+msgctxt "StoreItemStarModuleBallEnslaverText"
+msgid "Звёздный модуль поработитель"
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerInfo"
+msgid ""
+"Звёздный модуль разрушитель.\n"
+"С помощью этого модуля, используя звёздную энергию, получаемую при применении специального умения, вы можете стрелять энергетическими зарядами, аннигилирующими объекты.\n"
+"Если вы ещё не купили ни одного модуля, После покупки этого модуля будет разблокировано умение, при помощи которого можно получать звёздную энергию.\n"
+"Также модуль можно улучшать, нажав кнопку улучшений на соответствующей вкладке профиля, разблокируемой после покупки вашего первого модуля.\n"
+"Использование модулей разрешено только в обычном и тренировочном режимах.\n"
+"Более подробная информация о модуле будет доступна после его покупки.\n"
+"Чтобы открыть подробную информацию, пройдите на вкладку звёздных модулей в профиле, выберите разрушитель в списке модулей и нажмите на кнопку справка или клавишу enter на элементе списка."
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerOverdriveProtectionUpgradeInfo"
+msgid ""
+"Повышение эффективности защиты от перегрузки.\n"
+"Это улучшение повышает эффективность защиты на десять процентов за уровень."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleDestroyerOverdriveProtectionUpgradeText"
+msgid "Повышение эффективности защиты от перегрузки: уровень {0}/10"
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerProjectileSizeUpgradeInfo"
+msgid ""
+"Увеличение размера заряда.\n"
+"Это улучшение увеличивает размер заряда на одну клетку за уровень."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleDestroyerProjectileSizeUpgradeText"
+msgid "Увеличение размера заряда: уровень {0}/3"
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerProjectileStabilityUpgradeInfo"
+msgid ""
+"Повышение стабильности заряда.\n"
+"Это улучшение увеличивает максимальное количество объектов, которое может уничтожить заряд разрушителя до дестабилизации и исчезновения."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleDestroyerProjectileStabilityUpgradeText"
+msgid "Повышение стабильности заряда: уровень {0}/5"
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerShootingSpeedUpgradeInfo"
+msgid ""
+"Скорострельность.\n"
+"Это улучшение повышает скорость стрельбы разрушителя, однако будьте осторожней, чем выше перегрузка модуля, тем больше энергии расходуется за выстрел."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleDestroyerShootingSpeedUpgradeText"
+msgid "Скорострельность: уровень {0}/25"
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerShotConsumptionUpgradeInfo"
+msgid ""
+"Снижение потребления энергии при стрельбе.\n"
+"Это улучшение уменьшает затрачиваемую выстрелом энергию на две единицы за уровень."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleDestroyerShotConsumptionUpgradeText"
+msgid "Снижение потребления энергии при стрельбе: уровень {0}/10"
+msgstr ""
+
+msgctxt "StoreItemStarModuleDestroyerText"
+msgid "Звёздный модуль разрушитель"
+msgstr ""
+
+msgctxt "StoreItemStarModuleStarStormEnergyBoltCostUpgradeInfo"
+msgid ""
+"Снижение стоимости формирования энергетического сгустка.\n"
+"Это улучшение снижает стоимость формирования энергетического сгустка на 0,75 единиц за каждый уровень."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleStarStormEnergyBoltCostUpgradeText"
+msgid ""
+"Снижение стоимости формирования энергетического сгустка: уровень {0}/10"
+msgstr ""
+
+msgctxt "StoreItemStarModuleStarStormEnergyBoltFormingSpeedUpgradeInfo"
+msgid ""
+"Увеличение скорости формирования энергетических сгустков.\n"
+"Это улучшение ускоряет процесс формирования энергетических сгустков, тем самым увеличивая их количество в минуту."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleStarStormEnergyBoltFormingSpeedUpgradeText"
+msgid ""
+"Увеличение скорости формирования энергетических сгустков: уровень {0}/15"
+msgstr ""
+
+msgctxt "StoreItemStarModuleStarStormInfo"
+msgid ""
+"Звёздный модуль звёздный шторм.\n"
+"В активном состоянии этот модуль, используя звёздную энергию, генерирует энергетические заряды, падающие от потолка до земли и уничтожающие объекты на своём пути.\n"
+"Если вы ещё не купили ни одного модуля, После покупки этого модуля будет разблокировано умение, при помощи которого можно получать звёздную энергию.\n"
+"Также модуль можно улучшать, нажав кнопку улучшений на соответствующей вкладке профиля, разблокируемой после покупки вашего первого модуля.\n"
+"Использование модулей разрешено только в обычном и тренировочном режимах.\n"
+"Более подробная информация о модуле будет доступна после его покупки.\n"
+"Чтобы открыть подробную информацию, пройдите на вкладку звёздных модулей в профиле, выберите звёздный шторм в списке модулей и нажмите на кнопку справка или клавишу enter на элементе списка."
+msgstr ""
+
+msgctxt "StoreItemStarModuleStarStormText"
+msgid "Звёздный модуль звёздный шторм"
+msgstr ""
+
+msgctxt "StoreItemStarModuleTimeShifterInfo"
+msgid ""
+"Звёздный модуль временного смещения.\n"
+"Когда этот модуль активен, он потребляет звёздную энергию для работы, но есть шанс того, что при совершения идеального удара будет уменьшено время до перезарядки случайного умения.\n"
+"Если вы ещё не купили ни одного модуля, После покупки этого модуля будет разблокировано умение, при помощи которого можно получать звёздную энергию.\n"
+"Также модуль можно улучшать, нажав кнопку улучшений на соответствующей вкладке профиля, разблокируемой после покупки вашего первого модуля.\n"
+"Использование модулей разрешено только в обычном и тренировочном режимах.\n"
+"Более подробная информация о модуле будет доступна после его покупки.\n"
+"Чтобы открыть подробную информацию, пройдите на вкладку звёздных модулей в профиле, выберите модуль временного смещения в списке модулей и нажмите на кнопку справка или клавишу enter на элементе списка."
+msgstr ""
+
+msgctxt "StoreItemStarModuleTimeShifterShiftChanceUpgradeInfo"
+msgid ""
+"Повышение шанса на уменьшение времени перезарядки случайного умения.\n"
+"Это улучшение повышает шанс срабатывания модуля на пять процентов за каждый уровень."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleTimeShifterShiftChanceUpgradeText"
+msgid ""
+"Повышение шанса на уменьшение времени перезарядки случайного умения: уровень"
+" {0}/12"
+msgstr ""
+
+msgctxt "StoreItemStarModuleTimeShifterShiftCostUpgradeInfo"
+msgid ""
+"Снижение потребляемой энергии при срабатывании модуля.\n"
+"Это улучшение снижает потребляемую энергию при применении смещения к времени перезарядки умения на две единицы за каждый уровень."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleTimeShifterShiftCostUpgradeText"
+msgid "Снижение потребляемой энергии при срабатывании модуля: уровень {0}/8"
+msgstr ""
+
+msgctxt "StoreItemStarModuleTimeShifterShiftMaxTimeUpgradeInfo"
+msgid ""
+"Увеличение максимального количества секунд смещения.\n"
+"Это улучшение увеличивает верхнюю границу смещения времени перезарядки умения на две секунды за каждый уровень."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemStarModuleTimeShifterShiftMaxTimeUpgradeText"
+msgid "Увеличение максимального количества секунд смещения: уровень {0}/4"
+msgstr ""
+
+msgctxt "StoreItemStarModuleTimeShifterText"
+msgid "Звёздный модуль временного смещения"
+msgstr ""
+
+msgctxt "StoreItemTestOfSkillFloorBounceFineUpgradeInfo"
+msgid ""
+"Снижение штрафа за отскоки мяча от пола.\n"
+"Это улучшение снижает штраф за отскоки мяча от пола на пять процентов за каждый уровень.\n"
+"Улучшение применимо только к режиму испытания мастерства!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSkillFloorBounceFineUpgradeText"
+msgid ""
+"Снижение штрафа за отскоки мяча от пола: уровень {0}/10. Значение: {1}% от "
+"полного штрафа"
+msgstr ""
+
+msgctxt "StoreItemTestOfSkillPlanksUpgradeInfo"
+msgid ""
+"Повышение умения метания досок.\n"
+"С каждым уровнем этого улучшения персонаж лучше бросает доски, тем самым повышая эффективность и разрушительность.\n"
+"Улучшение применимо только к режиму испытания мастерства!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSkillPlanksUpgradeText"
+msgid "Повышение умения метания досок: уровень {0}/3"
+msgstr ""
+
+msgctxt "StoreItemTestOfSkillRarityUpgradeInfo"
+msgid ""
+"Повышение шанса появления специальных объектов.\n"
+"Это улучшение увеличивает шанс появления на поле таких объектов, как мина, ящик для инструментов и диван.\n"
+"Улучшение применимо к обычному и тренировочному режимам."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSkillRarityUpgradeText"
+msgid "Повышение шанса появления специальных объектов: уровень {0}/10"
+msgstr ""
+
+msgctxt "StoreItemTestOfSkillRewardIncreaseUpgradeInfo"
+msgid ""
+"Увеличение количества получаемых красных шаров.\n"
+"Это улучшение повышает количество красных шаров, получаемых после завершения игровой сессии в режиме испытания мастерства."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSkillRewardIncreaseUpgradeText"
+msgid "Увеличение количества получаемых красных шаров: уровень {0}/20"
+msgstr ""
+
+msgctxt "StoreItemTestOfSpeedElectroChargeBonusIncreaseUpgradeInfo"
+msgid ""
+"Увеличение награды за уклонение от электрического заряда.\n"
+"Это улучшение повышает значение процентного бонуса за уклонение от электрического заряда на два процента за каждый уровень.\n"
+"Улучшение применимо только к режиму испытания скорости!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedElectroChargeBonusIncreaseUpgradeText"
+msgid ""
+"Увеличение награды за уклонение от электрического заряда: уровень {0}/10. "
+"Текущее значение: +{1}% к набранным очкам на момент уклонения."
+msgstr ""
+
+msgctxt "StoreItemTestOfSpeedHitStreakTimeUpgradeInfo"
+msgid ""
+"Увеличение времени до сброса Серии попаданий по воротам.\n"
+"После последнего попадания мячом по воротам, изначально должно пройти десять секунд, чтобы серия была сброшена.\n"
+"Это улучшение увеличивает это значение на одну секунду за каждый уровень.\n"
+"Улучшение применимо только к режиму испытания скорости!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedHitStreakTimeUpgradeText"
+msgid ""
+"Увеличение времени до сброса Серии попаданий по воротам: уровень {0}/6. "
+"Текущее значение: {1} секунд до сброса"
+msgstr ""
+
+msgctxt "StoreItemTestOfSpeedLeaderAuraUpgradeInfo"
+msgid ""
+"Улучшение ауры лидера.\n"
+"Это улучшение повышает бонус, предоставляемый за один уровень ауры лидера, на 0.1 процент за каждый уровень.\n"
+"То есть на максимальном уровне улучшения, бонус за каждый уровень ауры лидера будет составлять не 1, а три процента к получаемым очкам.\n"
+"\n"
+"Улучшение не имеет привязки к какому-либо режиму."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedLeaderAuraUpgradeText"
+msgid "Улучшение ауры лидера: уровень {0}/20"
+msgstr ""
+
+msgctxt "StoreItemTestOfSpeedMaxStreakUpgradeInfo"
+msgid ""
+"Увеличение максимального значения серии попаданий по воротам.\n"
+"После достижения лимита, изначально равного пяти, серия перестаёт увеличиваться, далее прибавляя одно и то же количество очков за попадание.\n"
+"Это улучшение отодвигает лимит на одно попадание вверх за каждый уровень.\n"
+"Улучшение применимо только к режиму испытания скорости!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedMaxStreakUpgradeText"
+msgid ""
+"Увеличение максимального значения серии попаданий по воротам: уровень {0}/7."
+" Текущее значение: {1} попаданий до лимита"
+msgstr ""
+
+msgctxt "StoreItemTestOfSpeedPointsMultiplierUpgradeInfo"
+msgid ""
+"Улучшение эффекта от бонуса \"Множитель очков\".\n"
+"Это улучшение увеличивает множитель, предоставляемый бонусом \"Множитель очков\".\n"
+"Улучшение применимо только к режиму испытания скорости!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedPointsMultiplierUpgradeText"
+msgid "Улучшение эффекта от бонуса \"Множитель очков\": уровень {0}/5"
+msgstr ""
+
+msgctxt "StoreItemTestOfSpeedRewardIncreaseUpgradeInfo"
+msgid ""
+"Увеличение количества получаемых синих шаров.\n"
+"Это улучшение повышает количество синих шаров, получаемых после завершения игровой сессии в режиме испытания скорости."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedRewardIncreaseUpgradeText"
+msgid "Увеличение количества получаемых синих шаров: уровень {0}/15"
+msgstr ""
+
+msgctxt "StoreItemTestOfSpeedRocketMultiplierUpgradeInfo"
+msgid ""
+"Увеличение множителя бонуса \"Ракета\".\n"
+"При попадании ракеты по воротам изначально начисляется в пять раз больше очков от обычного попадания мячом.\n"
+"Это улучшение увеличивает множитель на плюс 1 за каждый уровень.\n"
+"Улучшение применимо только к режиму испытания скорости!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfSpeedRocketMultiplierUpgradeText"
+msgid ""
+"Увеличение множителя бонуса \"Ракета\": уровень {0}/5. Текущее значение: "
+"X{1}"
+msgstr ""
+
+msgctxt "StoreItemTestOfWillItemSpawnChanceUpgradeInfo"
+msgid ""
+"Повышение шанса появления предмета.\n"
+"После появления предмета должно пройти обязательное время для того, чтобы смог появиться новый предмет.\n"
+"Затем, раз в секунду, с определённым шансом, новый предмет пытается появиться на поле.\n"
+"Это улучшение повышает шанс этого самого появления на 2 процента за уровень, тем самым за игровую сессию вы можете активировать больше предметов.\n"
+"Улучшение применимо только к режиму испытания воли!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfWillItemSpawnChanceUpgradeText"
+msgid ""
+"Повышение шанса появления предмета: уровень {0}/15. Текущее значение: {1}%"
+msgstr ""
+
+msgctxt "StoreItemTestOfWillMaxObjectsIncreaseUpgradeInfo"
+msgid ""
+"Увеличение максимального числа объектов на поле.\n"
+"Изначально, в режиме испытания воли, на поле может быть максимально пятнадцать объектов.\n"
+"Это улучшение повышает данное число на один объект за уровень.\n"
+"Улучшение применимо только к режиму испытания воли!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfWillMaxObjectsIncreaseUpgradeText"
+msgid ""
+"Увеличение максимального числа объектов на поле: уровень {0}/10. Текущее "
+"значение: {1} объектов"
+msgstr ""
+
+msgctxt "StoreItemTestOfWillRequiredMinimalTimeBetweenItemsUpgradeInfo"
+msgid ""
+"Уменьшение обязательного времени между появлениями предметов.\n"
+"Между появлениями предметов должно пройти обязательное время, изначально равное двадцати пяти секундам.\n"
+"Это улучшение уменьшает данный промежуток на одну секунду за уровень.\n"
+"Улучшение применимо только к режиму испытания воли!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfWillRequiredMinimalTimeBetweenItemsUpgradeText"
+msgid ""
+"Уменьшение обязательного времени между появлениями предметов: уровень "
+"{0}/10. Текущее значение: {1} сек"
+msgstr ""
+
+msgctxt "StoreItemTestOfWillRewardIncreaseUpgradeInfo"
+msgid ""
+"Увеличение количества получаемых зелёных шаров.\n"
+"Это улучшение повышает количество зелёных шаров, получаемых после завершения игровой сессии в режиме испытания воли."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfWillRewardIncreaseUpgradeText"
+msgid "Увеличение количества получаемых зелёных шаров: уровень {0}/5"
+msgstr ""
+
+msgctxt "StoreItemTestOfWillTimeAuraUpgradeInfo"
+msgid ""
+"Улучшение ауры времени.\n"
+"Это улучшение повышает бонус, предоставляемый аурой времени, на одну секунду за уровень.\n"
+"То есть на максимальном пятом уровне этого улучшения, бонус от каждого уровня ауры времени будет составлять не пять, а десять секунд к максимальному игровому времени.\n"
+"Улучшение не имеет привязки к какому-либо режиму."
+msgstr ""
+
+#, python-brace-format
+msgctxt "StoreItemTestOfWillTimeAuraUpgradeText"
+msgid "Улучшение ауры времени: уровень {0}/5"
+msgstr ""
+
+msgctxt "StoreItemToolboxObjectInfo"
+msgid ""
+"Ящик для инструментов.\n"
+"При разрушении из ящика вываливаются инструменты, которые летят вниз и наносят урон объектам на своём пути."
+msgstr ""
+
+msgctxt "StoreItemToolboxObjectText"
+msgid "Разблокировка объекта ящик для инструментов"
+msgstr ""
+
+msgctxt "StoreTitle"
+msgid "Добро пожаловать в магазин."
+msgstr ""
+
+msgctxt "StoreTitleWithHint"
+msgid ""
+"Добро пожаловать в магазин. Для перемещения вперёд по экрану используйте "
+"клавишу tab, назад - shift плюс tab. Для перемещения по списку используйте "
+"стрелки вверх и вниз. Для активации выбранного пункта нажмите enter или "
+"пробел."
+msgstr ""
+
+#, python-brace-format
+msgctxt "TimeString1"
+msgid "{0} дн, {1} ч, {2} мин, {3} сек"
+msgstr ""
+
+#, python-brace-format
+msgctxt "TimeString2"
+msgid "{0} ч, {1} мин, {2} сек"
+msgstr ""
+
+#, python-brace-format
+msgctxt "TimeString3"
+msgid "{0} мин, {1} сек"
+msgstr ""
+
+#, python-brace-format
+msgctxt "TimeString4"
+msgid "{0} сек"
+msgstr ""
+
+msgctxt "TimeStringIncorrect"
+msgid "N/A"
+msgstr ""
+
+#, python-brace-format
+msgctxt "UpdateAvailableQuestionText"
+msgid "Доступна новая версия игры: {0}. Хотите обновить сейчас?"
+msgstr ""
+
+msgctxt "UpdateCheckingError"
+msgid "Во время проверки доступных обновлений произошла ошибка."
+msgstr ""
+
+msgctxt "UpdateProcessScreenCanceled"
+msgid "Отмена..."
+msgstr ""
+
+#, python-brace-format
+msgctxt "UpdateProcessScreenDownloading"
+msgid "Скачивание {0}%: {1} / {2}."
+msgstr ""
+
+msgctxt "UpdateProcessScreenFinished"
+msgid "Установка..."
+msgstr ""
+
+msgctxt "UpdateProcessScreenFinishedWithError"
+msgid ""
+"Во время обновления произошла ошибка. Пожалуйста, попробуйте позже или "
+"самостоятельно скачайте новую версию с сайта. Нажмите enter, чтобы "
+"продолжить."
+msgstr ""
+
+msgctxt "UpdateProcessScreenStarting"
+msgid "Подготовка к скачиванию. Пожалуйста, подождите."
+msgstr ""
+
+msgctxt "UpdateProcessScreenTitle"
+msgid "Обновление скачивается. Пожалуйста, подождите."
+msgstr ""
+
+msgctxt "UpdateProcessScreenTitleWithHint"
+msgid ""
+"Обновление скачивается. Пожалуйста, подождите. Чтобы узнать прогресс, "
+"нажмите любую клавишу стрелку."
+msgstr ""
+
+msgctxt "WelcomeMenu1"
+msgid ""
+"Добро пожаловать в игру ball bouncer. Нажимайте стрелки вверх и вниз для "
+"перемещения по данному меню."
+msgstr ""
+
+msgctxt "WelcomeMenu2"
+msgid "Мы, разработчики данной игры, рады, что вы скачали эту игру!"
+msgstr ""
+
+#, python-brace-format
+msgctxt "WelcomeMenu3"
+msgid ""
+"Для начала настоятельно рекомендуем ознакомиться со справочной документацией"
+" к этой игре, которая находится в {0}."
+msgstr ""
+
+msgctxt "WelcomeMenu4"
+msgid "Или нажмите enter здесь, чтобы открыть документацию."
+msgstr ""
+
+msgctxt "WelcomeMenu5"
+msgid "Удачного времяпрепровождения, игрок."
+msgstr ""
+
+msgctxt "WelcomeMenu6"
+msgid "Для продолжения нажмите enter."
+msgstr ""
+
+msgctxt "YesOrNoScreenNo"
+msgid "Нет"
+msgstr ""
+
+msgctxt "YesOrNoScreenYes"
+msgid "Да"
+msgstr ""

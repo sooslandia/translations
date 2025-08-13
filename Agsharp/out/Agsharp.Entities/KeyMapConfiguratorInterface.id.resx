@@ -1,0 +1,139 @@
+<root xmlns:ns1="urn:schemas-microsoft-com:xml-msdata" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <xs:schema id="root">
+    <xs:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xs:element name="root" ns1:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="metadata">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" />
+              </xs:sequence>
+              <xs:attribute name="name" use="required" type="xsd:string" />
+              <xs:attribute name="type" type="xsd:string" />
+              <xs:attribute name="mimetype" type="xsd:string" />
+              <xs:attribute ref="xml:space" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="assembly">
+            <xs:complexType>
+              <xs:attribute name="alias" type="xsd:string" />
+              <xs:attribute name="name" type="xsd:string" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="data">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" ns1:Ordinal="1" />
+                <xs:element name="comment" type="xsd:string" minOccurs="0" ns1:Ordinal="2" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xsd:string" use="required" ns1:Ordinal="1" />
+              <xs:attribute name="type" type="xsd:string" ns1:Ordinal="3" />
+              <xs:attribute name="mimetype" type="xsd:string" ns1:Ordinal="4" />
+              <xs:attribute ref="xml:space" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="resheader">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" ns1:Ordinal="1" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xsd:string" use="required" />
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ActionsTreeText" xml:space="preserve">
+    <value>Tindakan</value>
+  </data>
+  <data name="AddButtonText" xml:space="preserve">
+    <value>Tambah</value>
+  </data>
+  <data name="AddKeyShortcutButtonText" xml:space="preserve">
+    <value>Tambah pintasan</value>
+  </data>
+  <data name="AddKeyShortcutError" xml:space="preserve">
+    <value>Gagal menambahkan pintasan. Sepertinya anda menambahkan tombol yang sama ke dalam konfigurasi.</value>
+  </data>
+  <data name="AddKeyShortcutSuccess" xml:space="preserve">
+    <value>Pintasan ditambahkan.</value>
+  </data>
+  <data name="CancelButtonText" xml:space="preserve">
+    <value>Batalkan</value>
+  </data>
+  <data name="CloseButtonText" xml:space="preserve">
+    <value>Tutup</value>
+  </data>
+  <data name="DeleteKeyShortcutButtonText" xml:space="preserve">
+    <value>Hapus pintasan</value>
+  </data>
+  <data name="KeyCatcherControlCatching" xml:space="preserve">
+    <value>Silahkan tekan tombol yang ingin Anda tambahkan ke pintasan.</value>
+  </data>
+  <data name="KeyCatcherControlKeyReset" xml:space="preserve">
+    <value>Reset tombol</value>
+  </data>
+  <data name="KeyCatcherControlKeySet" xml:space="preserve">
+    <value>Tombol {0} telah diatur.</value>
+  </data>
+  <data name="KeyCatcherControlName" xml:space="preserve">
+    <value>Tekan enter di sini untuk mengatur pintasan.</value>
+  </data>
+  <data name="KeyCatcherControlNameChange" xml:space="preserve">
+    <value>Tombol {0} telah diatur. Tekan Enter untuk mengubah, atau tekan delete untuk mengatur ulang.</value>
+  </data>
+  <data name="KeyConfigureTitle" xml:space="preserve">
+    <value>Pengonfigurasi tombol.</value>
+  </data>
+  <data name="KeyConfigureTitleWithHint" xml:space="preserve">
+    <value>Pengonfigurasi tombol. Gunakan tombol tab dan shift+tab untuk bergerak maju dan mundur di layar. Gunakan panah atas dan bawah untuk bergerak melalui daftar dan tampilan pohon. Untuk mengaktifkan item yang dipilih, tekan enter.</value>
+  </data>
+  <data name="KeyShortcutAddTitle" xml:space="preserve">
+    <value>Tambahkan pintasan.</value>
+  </data>
+  <data name="KeyShortcutAddTitleWithHint" xml:space="preserve">
+    <value>Tambahkan pintasan. Gunakan tombol tab dan shift+tab untuk bergerak maju dan mundur di layar. Gunakan panah atas dan bawah untuk bergerak melalui daftar. Untuk mengaktifkan item yang dipilih, tekan enter.</value>
+  </data>
+  <data name="ModifierListAlt" xml:space="preserve">
+    <value>tombol alt</value>
+  </data>
+  <data name="ModifierListAny" xml:space="preserve">
+    <value>Sebarang</value>
+  </data>
+  <data name="ModifierListCtrl" xml:space="preserve">
+    <value>Tombol Ctrl</value>
+  </data>
+  <data name="ModifierListLeft" xml:space="preserve">
+    <value>Kiri</value>
+  </data>
+  <data name="ModifierListRight" xml:space="preserve">
+    <value>Kanan</value>
+  </data>
+  <data name="ModifierListShift" xml:space="preserve">
+    <value>Tombol shift</value>
+  </data>
+  <data name="ModifierListUnused" xml:space="preserve">
+    <value>Tidak digunakan</value>
+  </data>
+  <data name="ModifierListWin" xml:space="preserve">
+    <value>Tombol Windows</value>
+  </data>
+  <data name="ShortcutsListText" xml:space="preserve">
+    <value>Pintasan</value>
+  </data>
+</root>
