@@ -1,0 +1,13 @@
+[project]
+name = "translations"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gitpython>=3.1.44",
+    "polib~=1.2.0",
+    "pydantic>=2.11.5",
+    "pydantic-settings>=2.9.1",
+    "pyyaml>=6.0.2",
+]

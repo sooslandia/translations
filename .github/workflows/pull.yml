@@ -1,0 +1,43 @@
+name: Pull and update
+
+on:
+  workflow_dispatch:
+
+jobs:
+  pull-and-update:
+    timeout-minutes: 2
+    permissions:
+      actions: read
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout base
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: '100'
+    - name: Create-github-token
+      uses: actions/create-github-app-token@v1
+      id: app-token
+      with:
+        app-id: ${{ SECRETS.AUTHENTICATION_APP_ID }}
+        private-key: ${{ SECRETS.AUTHENTICATION_APP_PRIVATE_KEY }}
+        owner: ${{ github.repository_owner }}
+    - name: Run sltt
+      uses: ./.github/actions/sltt
+      with:
+        projects_dir: '.'
+        sltt_arguments: "--mode pull"
+        email_address: ${{ vars.EMAIL_ADDRESS }}
+        github_token: ${{ steps.app-token.outputs.token }}
+        base_commit_sha: ${{ github.sha }}
+    - name: commit and push changes
+      run: |
+        set -e
+        git config user.email '${{ vars.EMAIL_ADDRESS }}'
+        git config user.name 'Sooslandia github action'
+        if git commit -m "Update translations"; then
+          git push
+        else
+          echo '::warning::SLTT made no changes'
+          exit 1
+        fi

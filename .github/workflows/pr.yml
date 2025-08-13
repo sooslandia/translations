@@ -1,0 +1,59 @@
+name: Handle pr changes
+
+on:
+  pull_request_target:
+
+jobs:
+  handle-pr_changes:
+    timeout-minutes: 2
+    permissions:
+      actions: read
+      contents: read
+      pull-requests: write
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout base
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: '100'
+    - name: Checkout pr
+      uses: actions/checkout@v4
+      with:
+        repository: ${{ github.event.pull_request.head.repository.full_name }}
+        ref: ${{ github.event.pull_request.head.sha }}
+        path: './pr'
+    - name: Fetch base into pr
+      run: |
+        set -e
+        cd pr
+        git remote rename origin pr
+        git remote add origin ..
+        git fetch origin --depth=1
+    - name: Run sltt
+      id: 'sltt'
+      uses: ./.github/actions/sltt
+      with:
+        projects_dir: './pr'
+        sltt_arguments: "--mode pull_request"
+        email_address: ${{ vars.EMAIL_ADDRESS }}
+        base_commit_sha: ${{ github.event.pull_request.base.sha }}
+        fail_on_errors: true
+    - name: Extract current date
+      run: |
+        date '+CURRENT_DATE=%Y-%m-%d-%H-%M-%S' >> $GITHUB_ENV
+    - name: Upload preview
+      id: 'upload-preview'
+      uses: actions/upload-artifact@v4
+      with:
+        name: 'preview-#${{ github.event.pull_request.number }}-${{ env.CURRENT_DATE }}'
+        path: 'workspace/preview'
+    - name: 'Comment on PR'
+      if: ${{ !cancelled() }}
+      uses: actions/github-script@v7
+      env:
+        PREVIEW_URL: ${{ steps.upload-preview.outputs.artifact-url }}
+        LOG_URL: ${{ steps.sltt.outputs.sltt-log-url }}
+      with:
+        script: |
+          const script = require('./.github/workflows/comment-on-pr.js')
+          script({github, context})

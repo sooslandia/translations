@@ -1,0 +1,117 @@
+BallBouncer:
+  pull_configs:
+  - repository: sooslandia/BallBouncer
+    stages:
+    - type: copy_file
+      source: BallBouncer/languages/russian.lng
+      target: src/russian.lng
+    - type: copy_directory_contents
+      source: BallBouncer/docs/ru
+      pattern: "*.md"
+      target: src/docs/ru
+
+  source_conversions:
+  - type: convert_lng2pot
+    source_lng_file_path: src/russian.lng
+    target_pot_file_path: ru2en/russian.pot
+    package: Ball Bouncer
+  - type: convert_md2pot
+    source_md_files_dir: src/docs/ru
+    target_pot_files_dir: ru2en/docs/ru
+    package: Ball Bouncer
+
+  translation_conversions:
+  - type: convert_po2pot
+    source_po_file_path: ru2en/en.po
+    target_pot_file_path: BallBouncer.pot
+  - type: convert_po2lng
+    source_po_files_dir: ru2en
+    target_lng_files_dir: out/languages
+    reference_lng_file_path: 'src/russian.lng'
+  - type: convert_po2lng
+    source_po_files_dir: .
+    target_lng_files_dir: out/languages
+    reference_lng_file_path: 'out/languages/english.lng'
+  - type: convert_po2md
+    mode: single
+    source_po_files_dir: ru2en/docs/en
+    base_md_files_dir: src/docs/ru
+    target_md_files_dir: out/docs/en
+    ignore_base_changes: true
+  - type: convert_po2md
+    mode: multiple
+    source_docs_dir: docs
+    base_md_files_dir: out/docs/en
+    target_docs_dir: out/docs
+  - type: convert_md2pot
+    source_md_files_dir: out/docs/en
+    target_pot_files_dir: docs/en
+    package: Ball Bouncer
+
+  push_configs:
+  - repository: sooslandia/BallBouncer
+    stages:
+    - type: copy_directory_contents
+      source: out/languages
+      target: BallBouncer/languages
+      pattern: '*.lng'
+    - type: copy_directory_contents
+      source: out/docs
+      target: BallBouncer/docs
+      pattern: '*.md'
+      recursive: true
+
+  preview_config:
+  - type: copy_directory_contents
+    source: out/languages
+    target: languages
+    pattern: '*.lng'
+  - type: convert_md2html
+    source_md_docs_dir: out/docs
+    target_html_docs_dir: docs
+
+Agsharp:
+  pull_configs:
+  - repository: sooslandia/Agsharp
+    stages:
+    - type: copy_directory_contents
+      source: Agsharp/Agsharp.Core/Resources
+      target: src/Agsharp
+      patterns:
+      - type: regex
+        regex: '^[a-zA-Z]+\.resx$'
+  - repository: sooslandia/Agsharp.Entities
+    stages:
+    - type: copy_directory_contents
+      source: Agsharp.Entities/Resources
+      target: src/Agsharp.Entities
+      patterns:
+      - type: regex
+        regex: '^[a-zA-Z]+\.resx$'
+
+  source_conversions:
+  - type: convert_resx2pot
+    source_components_dir: src
+    target_pot_file_path: Agsharp.pot
+    package: Agsharp
+
+  translation_conversions:
+  - type: convert_po2resx
+    source_po_files_dir: .
+    target_components_dir: out
+    base_components_dir: src
+
+  push_configs:
+  - repository: sooslandia/Agsharp
+    stages:
+    - type: copy_directory_contents
+      source: out/Agsharp
+      target: Agsharp/Agsharp.Core/Resources
+      pattern: '*.resx'
+  - repository: sooslandia/Agsharp.Entities
+    stages:
+    - type: copy_directory_contents
+      source: out/Agsharp.Entities
+      target: Agsharp.Entities/Resources
+      pattern: '*.resx'
+  preview_config: []

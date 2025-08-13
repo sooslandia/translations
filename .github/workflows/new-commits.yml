@@ -1,0 +1,42 @@
+name: Handle new commits
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+    inputs:
+      base_commit_sha:
+        required: true
+        type: string
+
+jobs:
+  handle-new-commits:
+    timeout-minutes: 2
+    permissions:
+      actions: read
+      contents: write
+    runs-on: ubuntu-latest
+    env:
+      BASE_COMMIT_SHA: ${{ (github.event_name == 'push' && github.event.before) || (inputs.base_commit_sha) }}
+    steps:
+    - name: Checkout base
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: '100'
+    - name: Run sltt
+      uses: './.github/actions/sltt'
+      with:
+        projects_dir: '.'
+        sltt_arguments: "--mode new_commits"
+        email_address: ${{ vars.EMAIL_ADDRESS }}
+        base_commit_sha: ${{ env.BASE_COMMIT_SHA }}
+    - name: commit and push changes
+      run: |
+        set -e
+        git config user.email '${{ vars.EMAIL_ADDRESS }}'
+        git config user.name 'Sooslandia github action'
+        if git commit -m "Update translations"; then
+          git push
+        else
+          echo '::warning::SLTT made no changes'
+        fi
