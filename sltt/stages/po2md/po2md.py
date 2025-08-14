@@ -2,11 +2,13 @@ import logging
 from pathlib import Path
 
 from mdpo.po2md import Po2Md
+from polib import pofile
 
 from sltt import schema
 from sltt.enums import Po2MdStageMode
 from sltt.message_manager import MessageList, message_manager
 from sltt.stages.base import BaseStage
+from sltt.stages.po2md.entries_counter import Po2MdEntriesCounter
 from sltt.stages.utils import (
     file_has_changes,
     file_should_be_updated,
@@ -59,7 +61,7 @@ class ConvertPo2MdStage(BaseStage):
             logger.debug("Single conversion finished")
             if language_dir_errors:
                 errors += [
-                    f"Errors when processing {source_dir.relative(self.source_root)}",
+                    f"Errors when processing {source_dir.relative_to(self.source_root)}",
                     language_dir_errors,
                 ]
         else:
@@ -79,7 +81,7 @@ class ConvertPo2MdStage(BaseStage):
                 if language_dir_errors:
                     errors += [
                         "Errors when processing "
-                        f"{po_language_docs_dir.relative(self.source_root)}",
+                        f"{po_language_docs_dir.relative_to(self.source_root)}",
                         language_dir_errors,
                     ]
                 total_dirs_processed += 1
@@ -121,7 +123,13 @@ class ConvertPo2MdStage(BaseStage):
                     f"No changes detected in files {po_file_path}, {md_file_path} and {base_md_file_path}, skipping conversion"
                 )
                 continue
-            md = self._generate_md_from_po(po_file_path, base_md_file_path)
+            md, counter = self._generate_md_from_po(po_file_path, base_md_file_path)
+            if counter.untranslated_entries_count > 0:
+                errors.append(
+                    f"Partial translation, {counter.translated_entries_count} / "
+                    f"{counter.total_entries_count} "
+                    f"entries are translated in {po_file_path.relative_to(self.source_root)}"
+                )
             md_file_path.write_bytes(md.encode())
             self._add_to_staging(md_file_path)
             logger.debug(f"po file {po_file_path} converted to {md_file_path}")
@@ -131,6 +139,10 @@ class ConvertPo2MdStage(BaseStage):
         )
         return errors
 
-    def _generate_md_from_po(self, po_file_path: Path, base_md_file_path: Path) -> str:
-        translator = Po2Md(str(po_file_path), wrapwidth=0)
-        return translator.translate(base_md_file_path)
+    def _generate_md_from_po(
+        self, po_file_path: Path, base_md_file_path: Path
+    ) -> tuple[str, Po2MdEntriesCounter]:
+        counter = Po2MdEntriesCounter(po_file_path)
+        translator = Po2Md(str(po_file_path), wrapwidth=0, events={"msgid": counter})
+        md_content = translator.translate(base_md_file_path)
+        return md_content, counter
