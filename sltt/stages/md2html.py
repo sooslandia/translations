@@ -28,9 +28,6 @@ class ConvertMd2HtmlStage(BaseStage):
                 [f"Source directory not found: {source.relative_to(self.source_root)}"]
             )
             return
-        if not file_has_changes(source) and not file_should_be_updated(target):
-            logger.debug("No changes detected, skipping conversion")
-            return
         target.parent.mkdir(parents=True, exist_ok=True)
         for md_file_path in source.rglob("*.md"):
             target_html_file_path = target / md_file_path.relative_to(
