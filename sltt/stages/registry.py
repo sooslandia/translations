@@ -20,7 +20,7 @@ class StageRegistry(dict):
             return result
         for k, v in self.items():
             origin = get_origin(k)
-            if origin is not None and issubclass(origin, Annotated):
+            if origin is Annotated:
                 k = k.__origin__
             if isinstance(key, k):
                 return v

@@ -1,6 +1,6 @@
-FROM python:3.12.4-slim
+FROM python:3.14-slim
 RUN apt update && \
-  apt install -y git build-essential cmake wget autoconf pkg-config
+  apt install -y build-essential cmake wget pkg-config patchelf rustc cargo
 WORKDIR /mdpo
 COPY entrypoint.sh .
 ENTRYPOINT ["./entrypoint.sh"]

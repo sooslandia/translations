@@ -36,7 +36,7 @@ runs:
   - name: Setup python
     uses: actions/setup-python@v5
     with:
-      python-version: '3.12'
+      python-version: '3.14'
   - name: Install dependencies
     shell: bash
     run: |
@@ -46,7 +46,8 @@ runs:
       tar xzf mdpo-files/wheels.tar.gz
       uv pip install wheels/*.whl
       rm -rf wheels
-      curl -Lo pandoc.deb https://github.com/jgm/pandoc/releases/download/3.2/pandoc-3.2-1-amd64.deb
+      PANDOC_VERSION=3.13
+      curl -Lo pandoc.deb https://github.com/jgm/pandoc/releases/download/$PANDOC_VERSION/pandoc-$PANDOC_VERSION-1-amd64.deb
       sudo dpkg -i pandoc.deb
   - name: run sltt
     env:
