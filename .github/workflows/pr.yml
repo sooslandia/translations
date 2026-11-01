@@ -1,27 +1,39 @@
 name: Handle pr changes
 
+# Runs untrusted PR code, so it gets a read-only token and no secrets.
+# The comment is posted by pr-comment.yml from the artifacts of this run.
 on:
-  pull_request_target:
+  pull_request:
 
 jobs:
   handle-pr_changes:
     timeout-minutes: 2
     permissions:
-      actions: read
       contents: read
-      pull-requests: write
     runs-on: ubuntu-latest
     steps:
+    - name: Save pr info
+      run: |
+        mkdir pr-info
+        echo '${{ github.event.pull_request.number }}' > pr-info/number
+    - name: Upload pr info
+      uses: actions/upload-artifact@v4
+      with:
+        name: 'pr-info'
+        path: 'pr-info'
     - name: Checkout base
       uses: actions/checkout@v4
       with:
+        ref: ${{ github.event.pull_request.base.ref }}
         fetch-depth: '100'
+        persist-credentials: false
     - name: Checkout pr
       uses: actions/checkout@v4
       with:
-        repository: ${{ github.event.pull_request.head.repository.full_name }}
+        repository: ${{ github.event.pull_request.head.repo.full_name }}
         ref: ${{ github.event.pull_request.head.sha }}
         path: './pr'
+        persist-credentials: false
     - name: Fetch base into pr
       run: |
         set -e
@@ -42,18 +54,7 @@ jobs:
       run: |
         date '+CURRENT_DATE=%Y-%m-%d-%H-%M-%S' >> $GITHUB_ENV
     - name: Upload preview
-      id: 'upload-preview'
       uses: actions/upload-artifact@v4
       with:
         name: 'preview-#${{ github.event.pull_request.number }}-${{ env.CURRENT_DATE }}'
         path: 'workspace/preview'
-    - name: 'Comment on PR'
-      if: ${{ !cancelled() }}
-      uses: actions/github-script@v7
-      env:
-        PREVIEW_URL: ${{ steps.upload-preview.outputs.artifact-url }}
-        LOG_URL: ${{ steps.sltt.outputs.sltt-log-url }}
-      with:
-        script: |
-          const script = require('./.github/workflows/comment-on-pr.js')
-          script({github, context})
